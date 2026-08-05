@@ -22,15 +22,15 @@ later — reads this first and obeys it without exception.
 
 To help ordinary people build a real business that gives them ownership of their time.
 
-A cleaning business can be more than a way to replace a paycheck. Built correctly it lets
-someone leave a job they hate, be present with their family, travel, make art, serve
-their church or community, and choose what their days are for. It creates dependable work
-and dignity for the people on the team.
+A cleaning business can be more than a way to replace a paycheck. Built correctly, it can
+let someone leave a job they hate, be present with their family, travel, make art, serve
+their church or community, and choose what their days are for. It can also create
+dependable work and dignity for the people on the team.
 
-Money matters because it creates options. **The final product isn't money — it's a person
-who no longer feels trapped.**
+Money matters because it creates options, but the final product is not money. **The final
+product is a person who no longer feels trapped.**
 
-*Full version, with the enemy and the promise, in [[Philosophy]].*
+Full version — the enemy, the promise, what we believe — in [[Philosophy]].
 
 ---
 
@@ -39,9 +39,9 @@ who no longer feels trapped.**
 Four documents hold the intellectual property. They are the constitution's body, and
 no page anywhere in the vault may contradict them.
 
-- [[Five Laws]] — the non-negotiable principles
-- [[Four Engines]] — Leads, Labor, Leadership, Logistics
-- [[Four Seasons]] — the stages a business moves through
+- [[Five Laws]] — Stop Guessing · Clarity Creates Momentum · Build In Order · The Roadmap Already Exists · One Step Wins
+- [[Four Engines]] — Leads · Labor · Logistics · Leadership
+- [[Four Seasons]] — Survival · Stability · Scale · Harvest. Each Engine has its own.
 - [[Philosophy]] — what we believe, what we reject, how we teach
 - [[Voice]] — how Alex sounds. Real samples. Imitate these.
 - [[Language]] — naming rules. "Harvest CRM" is always both words

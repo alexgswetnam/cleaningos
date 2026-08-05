@@ -96,6 +96,9 @@ for every exception. "Six figures" without saying revenue, profit, or owner inco
 Also vague coaching language used to dodge a concrete problem: "step into your power,"
 "raise your vibration," "work on your mindset."
 
-> [!question] Needs Alex's edit
-> This list was inferred, not stated. Confirm, cut, or add — it's cheap to change and
-> useful when it's specific and slightly petty.
+> [!question] The source document flags this itself
+> *"[NEEDS ALEX'S EDIT: These are inferred voice boundaries, not phrases he has
+> explicitly listed.]"*
+>
+> This is the one item in the Core IP doc marked as guessed rather than known. Confirm,
+> cut, or add — cheap to change, and more useful when it's specific and slightly petty.

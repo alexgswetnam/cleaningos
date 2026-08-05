@@ -91,6 +91,8 @@ Ask for one by name: `/draft teach youtube script for Pricing`.
 
 ### `teach` — Talk to me like I'm new
 
+> Alex's words: *"step by step talk to me like i'm an idiot version"*
+
 For someone who has never done this and will freeze if given options.
 
 - **One action per step.** Never "set up your CRM" — that's twelve steps.
@@ -101,6 +103,9 @@ For someone who has never done this and will freeze if given options.
 - Say what happens if it goes wrong, before it goes wrong.
 
 ### `walk` — Hold my place, don't drift
+
+> Alex's words: *"hold my place as we walk this through to the end without being
+> distracted"*
 
 For long multi-step work where the reader will lose the thread. **This mode's job is
 sustained orientation.**
@@ -186,7 +191,8 @@ Newest first. Each entry: what I wrote, what you changed it to, the rule.
 | Area | State |
 |---|---|
 | Written voice, formal/legal | **Strong** — one full real document |
-| `teach` and `walk` modes | **Weak** — built from Alex's description, no samples yet |
+| Beliefs, teaching model, positioning | **Strong** — the Core IP document |
+| `teach` and `walk` modes | **Weak** — Alex named them, but there are no samples yet |
 | Spoken voice | **Unknown** — no transcripts ingested |
 | Marketing and sales copy | **Unknown** — no samples |
 | Short-form social | **Unknown** — no samples |
