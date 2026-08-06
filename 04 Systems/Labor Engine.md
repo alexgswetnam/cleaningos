@@ -24,6 +24,7 @@ is an index, not a second definition.
 - [[Testing A New Cleaner]]
 - [[Backup Cleaner]]
 - [[Hiring Channels]]
+- [[Scheduling Cleans]]
 
 ## Workflows & SOPs
 

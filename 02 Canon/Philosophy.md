@@ -2,7 +2,7 @@
 type: canon
 title: Philosophy
 status: Canonical
-sources: [Core IP 2026-08-05, 1:1 Coaching Agreement 2026-08-05, Alex direct 2026-08-05, 2025-02-03 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks, leads 101 — Marketing Basics series]
+sources: [Core IP 2026-08-05, 1:1 Coaching Agreement 2026-08-05, Alex direct 2026-08-05, 2025-02-03 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks, leads 101 — Marketing Basics series, 2025-03-11 Weekly Coaching Call]
 updated: 2026-08-05
 ---
 
@@ -179,6 +179,22 @@ conversation, taking responsibility for the result.
 
 The goal is not dependence on us. **Give the answer when the lesson is procedural. Coach
 the thinking when the lesson is becoming an owner.**
+
+**Start doing before you start reading.**
+
+> "Imagine a *How to Survive an Apocalypse* book on someone's coffee table. You flip
+> through it — cool, interesting, and you won't remember anything. Now imagine you're
+> three months into an actual apocalypse and you remember that book exists. You'd do
+> anything to get it, and with five minutes of reading you'd remember everything — because
+> you're living it."
+
+You retain based on your situation, not your consumption. This is why the teaching is
+sequenced to the owner's [[Four Seasons|Season]] rather than delivered as a library, and
+why [[Five Laws|One Step Wins]] beats another course.
+
+> "Start something before you read something. That way you actually remember what you read."
+
+Alex reads two to three books a year now — too busy executing.
 
 **Failures shown as decisions, not confessions.** Not performative vulnerability. The bad
 decision, what was believed when it was made, the number or consequence that proved it

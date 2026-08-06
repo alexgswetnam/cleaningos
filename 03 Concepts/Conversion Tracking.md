@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Stability, Scale]
 laws: [Stop Guessing]
 status: Developing
-sources: [2025-02-03 Weekly Coaching Call]
+sources: [2025-02-03 Weekly Coaching Call, 2025-03-11 Weekly Coaching Call]
 updated: 2026-08-05
 ---
 
@@ -42,6 +42,11 @@ The plumbing that ties each lead back to the channel that produced it — UTM ta
 
 > "I know that this person came from our Prosper Google Business Profile. I know that this person came in from our PPC and I can track it back with the Google click ID."
 
+**When you can't attribute, you can't decide.** Rick ran PPC and LSA simultaneously with
+everything reporting through the LSA dashboard — leaving him unable to answer which one to
+cut. Without the plumbing below, the only remaining tool is the crude
+[[Channel Prioritization|pause test]].
+
 **Microsoft Clarity** records real user sessions on the site — mouse movement, scroll depth, time on page. It's how Alex knows organic visitors spend 10–30 minutes before calling. See [[Close Rate By Channel]].
 
 ## Checklist
@@ -63,6 +68,7 @@ The plumbing that ties each lead back to the channel that produced it — UTM ta
 - [[Close Rate By Channel]]
 - [[KPI Tracking Sheet]]
 - [[Channel Prioritization]]
+- [[Quality Complaints]]
 
 ## AI Prompts
 

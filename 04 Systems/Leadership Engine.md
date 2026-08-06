@@ -23,6 +23,8 @@ is an index, not a second definition.
 - [[Managing A VA]]
 - [[Reviews As Asset Not Identity]]
 - [[Business Valuation]]
+- [[When To Hire A VA]]
+- [[Quality Complaints]]
 
 ## Workflows & SOPs
 

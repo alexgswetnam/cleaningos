@@ -24,6 +24,11 @@ is an index, not a second definition.
 - [[Smart Lists]]
 - [[Airbnb Clients]]
 - [[One-Time To Recurring]]
+- [[Quality Complaints]]
+- [[The Walkthrough]]
+- [[A2P Verification]]
+- [[Scheduling Cleans]]
+- [[SOPs]]
 
 ## Workflows & SOPs
 
