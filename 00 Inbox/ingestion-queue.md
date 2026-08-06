@@ -32,26 +32,26 @@ The April 15 coaching call was ingested on 2026-08-06. See
 
 ---
 
-## Also seen in Drive, not yet queued
+## Also seen in Drive, not yet queued — checked 2026-08-06, all empty or already ingested
 
-Found while locating the five files. Not evaluated for whether they're worth ingesting.
+Re-checked live against Drive (Markdown folder, shared from `arisjohn.s.basilla@gmail.com`)
+before attempting to ingest the recommended item. None of the seven folders below
+currently have anything new to pull. **Nothing was ingested this session.**
 
-Both Drive folders are shared from `arisjohn.s.basilla@gmail.com`. **Transcripts** holds
-raw `.txt`; **Markdown** holds pre-summarised lesson `.md` organised by course.
-
-| Source | Where | Note |
+| Source | Where | Live Drive status |
 |---|---|---|
-| Objection Handling Course | Markdown → Objection Handling Course | [[Word Tracks]] cites it repeatedly but it has never been ingested. Likely high value. |
-| Logistics Fundamental Course | Markdown → Logistics Fundamental Course | |
-| Every SOP We Use | Markdown → Every SOP We Use | [[SOPs]] says the hiring SOP "lives in Notion — not yet in the vault." This may be it. |
-| leads 101 part 2 | Markdown → leads 101 part 2 | Part 1 is ingested; part 2 is not. |
-| labor 101 | Markdown → labor 101 | |
-| cleaning biz 101 (rest of course) | Markdown → cleaning biz 101 | Only *Zapier The Software Glue* has been taken from it. |
-| Weekly Group Coaching Calls (Markdown folder) | Markdown → Weekly Group Coaching Calls | Separate from the Transcripts folder — check for overlap before ingesting. |
+| Objection Handling Course | Markdown → Objection Handling Course | **Folder is empty (0 files).** [[Word Tracks]]'s citation has no source to point to yet. |
+| Logistics Fundamental Course | Markdown → Logistics Fundamental Course | **Folder is empty (0 files).** |
+| Every SOP We Use | Markdown → Every SOP We Use | **Folder is empty (0 files).** The Notion-only hiring SOP [[SOPs]] flags is not here. |
+| leads 101 part 2 | Markdown → leads 101 part 2 | **Folder is empty (0 files).** |
+| labor 101 | Markdown → labor 101 | **Folder is empty (0 files).** |
+| cleaning biz 101 (rest of course) | Markdown → cleaning biz 101 | Folder has exactly one file, *Zapier The Software Glue.md* — already ingested. No "rest of course" exists in Drive despite the earlier note. |
+| Weekly Group Coaching Calls (Markdown folder) | Markdown → Weekly Group Coaching Calls | Folder has exactly one file, *Weekly_Coaching_Calls_March_11.md* — matches `01 Sources/Coaching Calls/2025-03-11 Weekly Coaching Call.md`, already ingested. |
 
-**Recommended next:** Objection Handling Course. It's the only item another page already
-cites as a dependency, and pre-summarised lessons cost far less per concept than raw
-transcript.
+**Takeaway:** the previous note describing these as populated, unevaluated folders was
+stale — likely written when Arisjohn's shared Drive still had placeholder folders with
+no content added yet. Nothing to recommend next until new files land in one of these
+folders. Re-check periodically rather than trusting this table without a live search.
 
 ## Related Concepts
 
