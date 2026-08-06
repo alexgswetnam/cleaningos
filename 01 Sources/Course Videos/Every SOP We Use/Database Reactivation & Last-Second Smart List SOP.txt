@@ -1,0 +1,223 @@
+Skool Lesson: Database Reactivation & Last-Second Smart List SOP
+
+Core Idea:
+
+
+
+
+
+Many clients simply need a gentle reminder
+
+Your business has hidden revenue in old clients and unfilled slots.
+
+
+
+
+
+Last-minute openings can be turned into revenue with smart outreach
+
+
+
+Reactivation can stabilize slow weeks
+
+
+
+Rule: “Every unbooked slot or inactive client is an opportunity — don’t leave it on the table.”
+
+
+
+Why This Works:
+
+
+
+
+
+Prevents revenue loss during slow periods
+
+
+
+Keeps your client list active
+
+
+
+Strengthens client relationships
+
+
+
+Creates predictable cash flow
+
+
+
+Common Mistake:
+
+Waiting until it’s too late or contacting clients without rules → spammy impression or lost trust
+
+
+
+3-Step Smart Reactivation System:
+
+
+
+
+
+Segment Clients → last-minute openings, warm reactivation, full reactivation
+
+
+
+Reach Out → SMS first, call if needed, keep messages polite and helpful
+
+
+
+Automate & Track → exclude recent contacts, track responses, and schedule follow-ups
+
+
+
+
+
+
+
+Student Version: Database Reactivation & Last-Second Smart List SOP
+
+📌 OLD LEADS & LAST-MINUTE OPENINGS SOP
+
+
+
+🎯 Goal
+
+Maximize revenue from old clients and unfilled slots by creating controlled outreach campaigns.
+
+
+
+1️⃣ CREATE CLIENT SEGMENTS
+
+Segment 1 — Last-Minute Openings
+
+
+
+
+
+Clients who haven’t booked recently but are eligible for a quick fill
+
+
+
+Use when a cleaner has open slots within 72 hours
+
+Segment 2 — Warm Reactivation
+
+
+
+
+
+Clients who booked 2–6 months ago
+
+
+
+No recent outreach in last 30 days
+
+
+
+Positive client history
+
+Segment 3 — Full Reactivation
+
+
+
+
+
+Clients who booked over 6 months ago
+
+
+
+Did not opt-out
+
+
+
+Targeted quarterly
+
+
+
+2️⃣ OUTREACH MESSAGES
+
+SMS Templates
+
+Last-Minute Openings:
+
+
+
+Hi [Client Name]! We have a spot open in your area in the next couple of days. Want me to check if it works for you?
+
+Warm Reactivation:
+
+
+
+Hey [Client Name]! How’s the house looking lately? Want me to pull up available times for a touch-up cleaning this month?
+
+Full Reactivation:
+
+
+
+Hi [Client Name]! It’s been a while since your last cleaning. We’re offering seasonal refresh options this week — want details?
+
+
+
+Call Script (Optional)
+
+
+
+Hi [Client Name], this is [Your Company Name]. We had a last-minute opening and wanted to see if you’d like to grab a spot. It’s first-come, first-served — want me to check available times?
+
+
+
+3️⃣ AUTOMATION & RULES
+
+
+
+
+
+Exclude clients who recently received outreach
+
+
+
+Skip clients marked as “do not contact”
+
+
+
+Track responses to avoid duplicates
+
+
+
+Schedule follow-ups for unresponsive clients
+
+
+
+🧠 Key Rules
+
+
+
+
+
+Always personalize messages
+
+
+
+Keep tone polite & helpful
+
+
+
+Follow rules for exclusions — don’t spam
+
+
+
+Log all responses and schedule follow-ups consistently
+
+
+
+🔁 Quick Flow
+
+Segment Clients → Send SMS → Call if Needed → Track Responses → Schedule Follow-Up → Update Client Status
+
+
+
+
+
+This system ensures old leads and last-minute openings are always opportunities, never wasted.

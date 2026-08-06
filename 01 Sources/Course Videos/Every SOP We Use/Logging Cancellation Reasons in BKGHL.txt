@@ -1,0 +1,607 @@
+Skool Lesson: Logging Cancellation Reasons in BK/GHL
+
+Objective:
+
+Learn how to properly track and record all booking cancellations so your business stays organized and client follow-ups are smooth.
+
+
+
+🔹 1. When a Client Cancels
+
+Who does this: Admin / Scheduler / Account Manager
+
+Steps:
+
+
+
+
+
+When a client cancels, politely ask for the reason.
+
+Example:
+
+
+
+“Thanks for letting us know! May I ask what’s the reason for the cancellation? Your feedback really helps us improve.”
+
+
+
+Always stay professional, understanding, and friendly—your tone matters.
+
+
+
+🔹 2. Record the Reason in Your Booking System
+
+Goal: Keep internal records accurate.
+
+Steps:
+
+
+
+
+
+Open the client’s booking in your system.
+
+
+
+Find the Cancellation Reason or Notes section.
+
+
+
+Write the reason clearly and briefly.
+
+Examples:
+
+
+
+
+
+“Client rescheduled due to travel.”
+
+
+
+“Client canceled – found another service.”
+
+
+
+Save the update.
+
+
+
+🔹 3. Add Notes in Your CRM (e.g., GoHighLevel)
+
+Goal: Keep all client information consistent.
+
+Steps:
+
+
+
+
+
+Open the client’s profile in your CRM.
+
+
+
+Go to Notes.
+
+
+
+Add a note that includes:
+
+
+
+
+
+Date of cancellation
+
+
+
+Reason for cancellation
+
+
+
+Your name
+
+Example:
+
+
+
+Cancelled on Oct 23, 2025 – Client out of town for 3 weeks. Noted by [Your Name].
+
+
+
+Save the note.
+
+
+
+🔹 4. Optional Follow-Up
+
+
+
+
+
+If the reason is temporary (travel, renovation, moving), create a follow-up task in your CRM to reach out after the client’s return.
+
+
+
+🔹 5. Quality Check
+
+
+
+
+
+Supervisors or team leads should review cancellations weekly to ensure:
+
+
+
+
+
+Every cancellation has a reason recorded.
+
+
+
+Notes exist in both systems.
+
+
+
+✅ Summary Checklist
+
+
+
+
+
+Always get the cancellation reason.
+
+
+
+Log it in all systems (Booking + CRM).
+
+
+
+Include your name and date for accountability.
+
+
+
+Set reminders for possible follow-ups.
+
+
+
+💡 FAQ for Students
+
+Q: What if the client complains about fees?
+
+A: Handle politely. If it’s a serious hardship, consider waiving the fee once. Otherwise, explain the cancellation policy and escalate to the owner if needed.
+
+Q: What if the client pays with cash or check?
+
+A: Ask for payment through a preferred method. If they refuse, add the fee to their next service or consider removing them from the schedule if necessary.
+
+Q: What if the client wants to reschedule instead?
+
+A: Always clarify if they want to reschedule or cancel completely, including any future cleanings.
+
+Q: Do cleaners always get notified of cancellations?
+
+A: Notify cleaners only if the job is less than 7 days away. For cancellations beyond 7 days, no need to notify them.
+
+
+
+
+
+
+
+Student Version: Logging Cancellation Reasons in BK/GHL
+
+Purpose:
+
+To ensure every booking cancellation is properly tracked, the reason is recorded, and any necessary follow-up is set up for potential future business. This SOP helps maintain consistent client communication, accountability, and system accuracy.
+
+Responsible Roles:
+
+
+
+
+
+Admin
+
+
+
+Scheduler
+
+
+
+Account Manager
+
+
+
+1️⃣ Receiving the Cancellation
+
+Objective: Capture the cancellation professionally and respectfully.
+
+Steps:
+
+
+
+
+
+When a client calls, emails, or messages to cancel:
+
+
+
+
+
+Respond promptly.
+
+
+
+Thank them for notifying you.
+
+
+
+Ask politely for the reason for cancellation.
+
+Example script:
+
+
+
+“Thank you for letting us know! Could you please share the reason for canceling? Your feedback helps us improve our service.”
+
+
+
+Listen carefully and note down the client’s exact reason.
+
+
+
+Maintain a friendly, professional tone. Avoid debating or arguing with the client.
+
+Tips for students:
+
+
+
+
+
+Be empathetic if the client has a genuine issue (e.g., illness, travel).
+
+
+
+Be firm but polite if cancellation policies or fees need to be explained.
+
+
+
+2️⃣ Recording the Reason in the Booking System
+
+Objective: Keep internal booking records accurate for reporting and follow-ups.
+
+Steps:
+
+
+
+
+
+Log in to your booking system.
+
+
+
+Locate the client’s booking.
+
+
+
+Find the “Cancellation Reason” or Notes field.
+
+
+
+Enter the reason clearly and concisely.
+
+Examples:
+
+
+
+
+
+“Client rescheduled due to work travel.”
+
+
+
+“Client canceled – hired another cleaning service.”
+
+
+
+“Client postponed due to home renovation.”
+
+
+
+Save the record.
+
+
+
+If applicable, update the booking status to Cancelled.
+
+Tips for students:
+
+
+
+
+
+Avoid vague notes like “Canceled” – always specify the reason.
+
+
+
+Use consistent wording for easy reporting later.
+
+
+
+3️⃣ Adding Notes in the CRM (e.g., GoHighLevel)
+
+Objective: Maintain consistent records across all systems for follow-up and accountability.
+
+Steps:
+
+
+
+
+
+Open the client’s profile in your CRM.
+
+
+
+Navigate to Notes.
+
+
+
+Record the following details:
+
+
+
+
+
+Date of cancellation
+
+
+
+Reason for cancellation
+
+
+
+Your name (who recorded the note)
+
+Example:
+
+
+
+Cancelled on March 26, 2026 – Client out of town for 2 weeks. Noted by [Your Name].
+
+
+
+Save the note.
+
+
+
+If the reason is temporary (travel, renovation, moving), create a follow-up task in the CRM to reach out later.
+
+Tips for students:
+
+
+
+
+
+Notes in CRM serve as the official record if a client disputes anything.
+
+
+
+Always include your name and the date for accountability.
+
+
+
+4️⃣ Handling Fees and Policies
+
+Objective: Ensure cancellations are handled according to company policy.
+
+Steps:
+
+
+
+
+
+If a cancellation fee applies:
+
+
+
+
+
+Politely inform the client of the fee.
+
+
+
+If it’s a first-time hardship case, the fee may be waived (check with supervisor/owner).
+
+
+
+If the client refuses to pay:
+
+
+
+
+
+Add the fee to their next service invoice.
+
+
+
+If they continue refusing, the client may need to be removed from future scheduling.
+
+Tips for students:
+
+
+
+
+
+Always maintain a professional tone.
+
+
+
+Document any exceptions to policy in the CRM.
+
+
+
+5️⃣ Handling Reschedules vs. Cancellations
+
+Objective: Clarify client intent to ensure correct scheduling.
+
+Steps:
+
+
+
+
+
+Ask the client if they want to reschedule this cleaning or cancel completely.
+
+
+
+If rescheduling:
+
+
+
+
+
+Update the booking system with the new date.
+
+
+
+Confirm with the client.
+
+
+
+If canceling completely:
+
+
+
+
+
+Confirm whether future bookings should also be canceled or kept.
+
+
+
+Update all systems accordingly.
+
+Tips for students:
+
+
+
+
+
+Always repeat back what the client requested to avoid misunderstandings.
+
+
+
+Make clear notes in both the booking system and CRM.
+
+
+
+6️⃣ Notifying Cleaners
+
+Objective: Ensure team members are informed only when necessary.
+
+Steps:
+
+
+
+
+
+Notify cleaners only if the job is less than 7 days away.
+
+
+
+For cancellations more than 7 days in advance, no notification is needed.
+
+Tips for students:
+
+
+
+
+
+Always double-check the date before notifying the cleaner.
+
+
+
+Include the client’s reason for cancellation in the notification if relevant.
+
+
+
+7️⃣ Weekly Quality Check
+
+Objective: Ensure all cancellations are recorded correctly and consistently.
+
+Steps:
+
+
+
+
+
+Supervisors or team leads should review cancellations weekly.
+
+
+
+Verify each cancellation has:
+
+
+
+
+
+A recorded reason in the booking system
+
+
+
+A note in the CRM with date and name
+
+
+
+Follow-up task if applicable
+
+
+
+Provide feedback to team members if records are missing or incomplete.
+
+Tips for students:
+
+
+
+
+
+This step ensures accountability and helps improve client retention.
+
+
+
+Regular review identifies patterns in cancellations for better business strategy.
+
+
+
+✅ Summary Checklist
+
+
+
+
+
+[ ] Ask for cancellation reason.
+
+
+
+[ ] Record reason in booking system.
+
+
+
+[ ] Add detailed note in CRM (date, reason, name).
+
+
+
+[ ] Set follow-up task if temporary reason.
+
+
+
+[ ] Notify cleaners if job <7 days away.
+
+
+
+[ ] Apply and document any fees.
+
+
+
+[ ] Weekly review by supervisor.

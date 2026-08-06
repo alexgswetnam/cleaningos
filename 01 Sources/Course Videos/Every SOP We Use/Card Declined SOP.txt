@@ -1,0 +1,375 @@
+Skool Lesson: Card Declined SOP
+
+🎯 Lesson Objective
+
+By the end of this lesson, you’ll have a system that prevents last-minute cancellations, protects your cleaners, and ensures you only send teams to paid/verified jobs.
+
+
+
+🧠 Why This System Is Critical
+
+Most cleaning businesses lose money because:
+
+
+
+
+
+Clients cancel last minute due to failed cards
+
+
+
+Cleaners show up and don’t get paid
+
+
+
+Schedules become chaotic
+
+👉 This SOP fixes that by verifying payment 48 hours in advance.
+
+
+
+⚙️ The Core Concept (Simple Version)
+
+You will:
+
+
+
+
+
+Check payment 48 hours before the job
+
+
+
+Give client 24 hours to fix issues
+
+
+
+Cancel if not resolved
+
+That’s it. Simple, strict, and effective.
+
+
+
+🔁 The 48-Hour Payment Rule
+
+⏰ 48 Hours Before Appointment
+
+
+
+
+
+Attempt a payment authorization hold
+
+
+
+If it fails → trigger notification + client outreach
+
+
+
+📲 If Payment Fails
+
+Send this message:
+
+Message
+
+Hi [Client Name], we attempted to verify your payment method for your upcoming cleaning, but the card on file was declined.
+
+Please update your payment method within 24 hours to keep your booking active. Thank you!
+
+👉 If no response:
+
+
+
+
+
+After 30 minutes → follow up
+
+
+
+After 2 hours → call client
+
+
+
+⏰ 24 Hours Before Appointment
+
+✅ If Payment Is Fixed:
+
+Send confirmation:
+
+Message
+
+Thank you, [Client Name]! Your payment method has been updated and your cleaning is confirmed. We look forward to serving you!
+
+
+
+❌ If Payment Is NOT Fixed:
+
+You cancel the job.
+
+Send:
+
+Message
+
+Hi [Client Name], we were unable to verify your payment method for your upcoming cleaning, so the appointment has been canceled.
+
+You’re welcome to reschedule anytime once your payment method is updated.
+
+
+
+💵 Cleaner Protection Rule
+
+To build a reliable team, you must protect their time.
+
+Cleaners get paid $25 if:
+
+
+
+
+
+They already started traveling, OR
+
+
+
+They arrived at the job
+
+👉 This builds trust and keeps good cleaners long-term.
+
+
+
+🚨 Non-Negotiable Rules
+
+
+
+
+
+NEVER send cleaners without verified payment
+
+
+
+ALWAYS enforce the 24-hour deadline
+
+
+
+DO NOT “make exceptions” (this is where businesses break)
+
+
+
+🧩 Implementation Homework
+
+
+
+
+
+Set up:
+
+
+
+
+
+Payment hold system (via your booking software)
+
+
+
+Automated message OR manual reminder system
+
+
+
+Create:
+
+
+
+
+
+A tracking sheet for failed payments
+
+
+
+A tag for “high-risk clients”
+
+
+
+Train:
+
+
+
+
+
+Your VA or admin on this SOP
+
+
+
+
+
+
+
+
+
+Student Version: Card Declined SOP
+
+📌 SOP: 48-Hour Payment Verification
+
+1. Purpose
+
+To ensure all bookings have a verified payment method before dispatching cleaners.
+
+
+
+2. Timeline
+
+
+
+
+
+Begin process 48 hours before appointment
+
+
+
+3. Process
+
+A. 48 Hours Before Appointment
+
+
+
+
+
+Attempt payment authorization hold
+
+If successful:
+
+
+
+
+
+No action needed
+
+If failed:
+
+
+
+
+
+Notify client
+
+
+
+Log issue in tracking sheet
+
+
+
+B. Client Notification
+
+Send message:
+
+Message
+
+Hi [Client Name], your payment method could not be verified for your upcoming cleaning.
+
+Please update it within 24 hours to keep your booking active.
+
+Follow-ups:
+
+
+
+
+
+30 minutes → send reminder
+
+
+
+2 hours → call client
+
+
+
+C. 24-Hour Check
+
+If updated:
+
+
+
+
+
+Retry authorization
+
+
+
+Confirm booking
+
+If NOT updated:
+
+
+
+
+
+Proceed to cancellation
+
+
+
+D. Cancellation Process
+
+
+
+
+
+Cancel booking
+
+
+
+Notify client
+
+
+
+Notify cleaners
+
+
+
+Update tracking sheet
+
+
+
+4. Cleaner Compensation
+
+Pay $25 if:
+
+
+
+
+
+Cleaner is en route OR
+
+
+
+Cleaner has arrived
+
+Log as:
+
+“Cancellation Fee – Payment Failure”
+
+
+
+5. Special Cases
+
+
+
+
+
+First-time clients (optional):
+
+
+
+
+
+Require deposit (e.g., 25%)
+
+
+
+Repeat failed payments:
+
+
+
+
+
+Tag as “High Risk”
+
+
+
+Require prepayment

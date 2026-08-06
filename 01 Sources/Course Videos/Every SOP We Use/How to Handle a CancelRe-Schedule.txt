@@ -1,0 +1,533 @@
+Skool Lesson: How to Handle a Cancel/Re-Schedule
+
+🧠 The Goal
+
+When a client cancels, your team should:
+
+
+
+
+
+Try to save the booking
+
+
+
+Apply your policy consistently
+
+
+
+Keep the client relationship intact
+
+
+
+Protect your revenue + schedule stability
+
+If you don’t have a system for this, you’ll get:
+
+
+
+
+
+Last-minute gaps in your schedule
+
+
+
+Lost revenue
+
+
+
+Frustrated cleaners
+
+
+
+Inconsistent client experience
+
+
+
+⚙️ The Core Principle
+
+
+
+Every cancellation is either saved, rescheduled, or monetized.
+
+No gray area. No “we’ll deal with it later.”
+
+
+
+🔁 The 3-Step Cancellation System
+
+1. Identify Timing (This Determines Everything)
+
+
+
+
+
+More than 72 hours notice → No fee
+
+
+
+Less than 72 hours notice → Cancellation fee applies
+
+
+
+2. Attempt to Save the Booking (Always Do This First)
+
+Before canceling:
+
+
+
+
+
+Ask why (politely, not pushy)
+
+
+
+Look for a solution:
+
+
+
+
+
+Reschedule
+
+
+
+Adjust scope
+
+
+
+Address quality concerns
+
+
+
+Offer a targeted incentive (only if it makes sense)
+
+👉 Important:
+
+Do NOT overuse discounts. You are running a business, not negotiating every job.
+
+
+
+3. Apply Policy + Confirm Next Steps
+
+If More Than 72 Hours Notice:
+
+
+
+
+
+Cancel with no fee
+
+
+
+Ask:
+
+
+
+
+
+“Would you like to reschedule?”
+
+
+
+“Do you want to keep future cleanings?”
+
+
+
+If Less Than 72 Hours Notice:
+
+
+
+
+
+Apply cancellation fee (example: 25%, capped)
+
+Exceptions:
+
+
+
+
+
+Emergencies (illness, death, etc.)
+
+
+
+
+
+You may waive the fee once as goodwill
+
+If client resists fee:
+
+
+
+
+
+Politely reinforce policy
+
+
+
+Offer solutions:
+
+
+
+
+
+Pay now
+
+
+
+Add to next cleaning
+
+
+
+If repeated refusal:
+
+
+
+
+
+Escalate and consider discontinuing service
+
+
+
+🧾 Logging & Tracking (MOST PEOPLE SKIP THIS)
+
+Every cancellation must be logged:
+
+
+
+
+
+Booking system
+
+
+
+CRM/client notes
+
+Track:
+
+
+
+
+
+Reason
+
+
+
+Date
+
+
+
+Who handled it
+
+👉 If you don’t track cancellations, you can’t fix churn.
+
+
+
+🔥 Pro Tip
+
+The best companies don’t avoid cancellations…
+
+They control how cancellations affect revenue.
+
+
+
+
+
+
+
+
+
+Student Version: How to Handle a Cancel/Re-Schedule
+
+🧾 CANCELLATION HANDLING SOP
+
+
+
+Step 1: Determine Timing
+
+Check how far in advance the client is canceling:
+
+
+
+
+
+72+ hours before appointment → No fee
+
+
+
+Less than 72 hours → Cancellation fee applies
+
+
+
+Step 2: Attempt Retention (REQUIRED)
+
+Before processing cancellation:
+
+Ask for reason (politely):
+
+
+
+
+
+“Thanks for letting us know — do you mind sharing what’s causing the cancellation?”
+
+Based on response:
+
+
+
+
+
+Offer to reschedule
+
+
+
+Address concerns (price, quality, timing)
+
+
+
+Offer incentive ONLY if appropriate and profitable
+
+
+
+Step 3: Apply Cancellation Policy
+
+✅ 72+ Hours Notice
+
+
+
+
+
+Cancel booking with no fee
+
+
+
+Ask:
+
+
+
+
+
+“Would you like to reschedule?”
+
+
+
+“Should we keep your future appointments active?”
+
+
+
+⚠️ Less Than 72 Hours Notice
+
+
+
+
+
+Apply cancellation fee:
+
+
+
+
+
+Example: 25% of booking (with max cap)
+
+
+
+Step 4: Handle Exceptions
+
+If client has a serious emergency:
+
+
+
+
+
+You may waive the fee once
+
+
+
+Document reason clearly
+
+
+
+Step 5: Handle Payment for Cancellation Fee
+
+Follow company-approved payment methods.
+
+If client does not pay:
+
+
+
+
+
+Offer to add fee to next booking
+
+
+
+If refusal continues:
+
+
+
+
+
+Escalate to manager
+
+
+
+Consider discontinuing service
+
+
+
+Step 6: Update Systems
+
+Update in your booking system:
+
+
+
+
+
+Cancel appointment
+
+
+
+Apply or waive fee correctly
+
+
+
+Select cancellation reason
+
+Update in CRM:
+
+
+
+
+
+Add note including:
+
+
+
+
+
+Date
+
+
+
+Reason
+
+
+
+Action taken
+
+
+
+Your name
+
+
+
+Step 7: Notify Cleaner (If Needed)
+
+
+
+
+
+If appointment is within 7 days → notify cleaner
+
+
+
+If more than 7 days away → no notification needed
+
+
+
+Step 8: Optional Follow-Up
+
+If cancellation is temporary (travel, schedule conflict, etc.):
+
+
+
+
+
+Set reminder to follow up later
+
+
+
+🚨 Rules
+
+
+
+
+
+Always attempt to save the booking first
+
+
+
+Do not skip cancellation fees unless justified
+
+
+
+Do not overuse discounts
+
+
+
+Always log every cancellation
+
+
+
+Escalate unclear or difficult situations
+
+
+
+✅ Completion Checklist
+
+Before closing:
+
+
+
+
+
+[ ] Timing confirmed (72+ hrs vs <72 hrs)
+
+
+
+[ ] Retention attempt made
+
+
+
+[ ] Fee applied or waived correctly
+
+
+
+[ ] Payment handled or documented
+
+
+
+[ ] Booking system updated
+
+
+
+[ ] CRM notes added
+
+
+
+[ ] Cleaner notified (if needed)
+
+
+
+🧠 Why This Works
+
+This system:
+
+
+
+
+
+Protects your revenue
+
+
+
+Keeps your schedule full
+
+
+
+Maintains professionalism
+
+
+
+Builds long-term client relationships

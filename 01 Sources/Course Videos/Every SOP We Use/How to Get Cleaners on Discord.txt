@@ -1,0 +1,327 @@
+Skool Lesson: How to Get Cleaners on Discord
+
+🧠 The Goal
+
+Every cleaning business needs clear, consistent communication so nothing slips through the cracks.
+
+With the right system, your team will:
+
+
+
+
+
+Know exactly where to find updates
+
+
+
+Respond quickly to client changes
+
+
+
+Stay organized without endless texts or missed calls
+
+
+
+⚙️ Key Principle
+
+
+
+Use a text-based platform for day-to-day communication (job updates, announcements, scheduling) and a call app for urgent voice communication.
+
+
+
+🔁 Step-by-Step Communication System
+
+1. Choose Your Platforms
+
+
+
+
+
+Primary: Team messaging platform (Discord, Slack, Microsoft Teams, etc.)
+
+
+
+Secondary: Call app for urgent voice communication (Google Voice, phone system, etc.)
+
+Tip: Keep both apps installed on all team devices.
+
+
+
+2. Set Up Your Messaging Platform
+
+
+
+
+
+Install the app on your phone and computer
+
+
+
+Create an account using a business email
+
+
+
+Join your team server or workspace
+
+
+
+Organize channels for:
+
+
+
+
+
+#announcements – important updates
+
+
+
+#daily-jobs – cleaning schedule updates
+
+
+
+#questions – quick team support
+
+
+
+Optional: #supplies, #feedback, etc.
+
+
+
+3. Enable Notifications
+
+
+
+
+
+Turn on notifications for all messages in critical channels
+
+
+
+Check your phone’s system notifications to make sure alerts are allowed
+
+
+
+4. Team Best Practices
+
+
+
+
+
+Check messages daily – before and after jobs
+
+
+
+Use mentions (@Name) when you need someone’s attention
+
+
+
+Send photos or videos when reporting issues or completed work
+
+
+
+Reply to threads to keep conversations organized
+
+
+
+5. When to Use the Call App
+
+
+
+
+
+For urgent questions during jobs (e.g., access issues, keys, lockboxes)
+
+
+
+Keep it installed and ready to use, but text-based updates remain your primary communication
+
+
+
+6. Training & Onboarding
+
+
+
+
+
+New team members should:
+
+
+
+
+
+Install both apps
+
+
+
+Join your workspace
+
+
+
+Learn how to send messages, tag, and upload photos
+
+
+
+Provide a short tutorial or checklist for first-week setup
+
+
+
+
+
+
+
+Student Version: How to Get Cleaners on Discord
+
+Team Communication SOP
+
+Purpose:
+
+Ensure all team members are connected, informed, and responsive using a messaging platform for updates and a call app for urgent communication.
+
+
+
+Step 1: Platforms
+
+
+
+
+
+Messaging: [Discord / Slack / Teams / Other]
+
+
+
+Voice calls: [Google Voice / Phone / Other]
+
+
+
+Step 2: Setup
+
+
+
+
+
+Install apps on phone and computer
+
+
+
+Create account using business email
+
+
+
+Join team workspace or server
+
+
+
+Create channels for:
+
+
+
+
+
+#announcements
+
+
+
+#daily-jobs
+
+
+
+#questions
+
+
+
+Optional channels (supplies, feedback, etc.)
+
+
+
+Step 3: Notifications
+
+
+
+
+
+Enable all notifications for critical channels
+
+
+
+Check phone/computer notification settings
+
+
+
+Step 4: Daily Practices
+
+
+
+
+
+Check messages before and after each job
+
+
+
+Use @mentions to alert specific team members
+
+
+
+Send photos/videos for job updates or issues
+
+
+
+Reply in threads to maintain organization
+
+
+
+Step 5: Calls
+
+
+
+
+
+Use the call app for urgent situations
+
+
+
+Examples: access issues, missing keys, immediate schedule changes
+
+
+
+Step 6: Onboarding New Team Members
+
+
+
+
+
+Provide login info and workspace invite
+
+
+
+Walk them through channels, notifications, and message etiquette
+
+
+
+Confirm they can send messages, tag, and upload media
+
+
+
+✅ Completion Checklist
+
+
+
+
+
+[ ] All team members have messaging platform installed
+
+
+
+[ ] Notifications enabled
+
+
+
+[ ] Call app installed
+
+
+
+[ ] Channels organized and labeled
+
+
+
+[ ] New team members onboarded

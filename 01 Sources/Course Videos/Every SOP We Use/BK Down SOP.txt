@@ -1,0 +1,243 @@
+Skool Lesson: BK Down SOP
+
+Core Idea:
+
+Your business shouldn’t stop when your software fails.
+
+Even if your scheduling system goes offline:
+
+
+
+
+
+Cleaners know exactly what to do
+
+
+
+Clients stay informed and confident
+
+
+
+No jobs are missed, no revenue is lost
+
+
+
+Rule: “Your software supports your business — it doesn’t run it.”
+
+
+
+Why This Works:
+
+
+
+
+
+Keeps operations running smoothly
+
+
+
+Maintains client confidence
+
+
+
+Shows your team strong leadership
+
+
+
+Prevents last-minute confusion and mistakes
+
+
+
+Common Mistake:
+
+Freezing when systems fail.
+
+Solution: Switch immediately to a manual backup process.
+
+
+
+The 3-Step Emergency System:
+
+
+
+
+
+ADMIN – Gather all bookings from email and update team
+
+
+
+CLEANERS – Follow the email schedule and report issues
+
+
+
+RESTORE – When the system is back online, log everything and confirm accuracy
+
+
+
+
+
+
+
+Student Version: BK Down SOP
+
+
+
+🎯 Goal
+
+Keep operations running smoothly and ensure all scheduled cleanings happen without disruption if your booking system goes offline.
+
+
+
+1️⃣ ADMIN ACTIONS – IMMEDIATE
+
+Step 1: Gather All Booking Info
+
+
+
+
+
+Check your email inbox for:
+
+
+
+
+
+“Cleaning Scheduled”
+
+
+
+“New Booking”
+
+
+
+“Cleaning Assigned”
+
+
+
+Pull:
+
+
+
+
+
+Date & time
+
+
+
+Client name & contact
+
+
+
+Address & access instructions
+
+
+
+Add-ons
+
+
+
+Notes
+
+
+
+Assigned cleaner
+
+Step 2: Create Temporary Schedule
+
+
+
+
+
+Use a spreadsheet or your team communication channel
+
+
+
+Include:
+
+
+
+
+
+Cleaner • Client • Time • Address • Notes
+
+Step 3: Notify Cleaners
+
+Message Template:
+
+
+
+Booking system is down. Please check your email for full booking details.
+
+Step 4: Respond to Client Inquiries
+
+Message Template:
+
+
+
+Your booking is confirmed. Our system is temporarily down, but your cleaning is still on schedule.
+
+
+
+2️⃣ CLEANER ACTIONS
+
+
+
+
+
+Check email for assignments
+
+
+
+Follow email details for Date/Time, Address, Instructions, Add-ons, Notes
+
+
+
+Report missing or unclear bookings to admin immediately
+
+
+
+3️⃣ RESTORE SYSTEM
+
+
+
+
+
+Once the booking software is back online:
+
+
+
+
+
+Add any manual notes into the system
+
+
+
+Confirm schedule accuracy
+
+
+
+Notify the team that normal operations are resumed
+
+
+
+🧠 Key Rules
+
+
+
+
+
+Act immediately — downtime is temporary, but client trust isn’t
+
+
+
+Document everything — this prevents mistakes when restoring the system
+
+
+
+Communicate clearly — both team and clients need reassurance
+
+
+
+🔁 Quick Flow
+
+System Down → Admin Pulls Bookings → Temporary Schedule → Notify Cleaners → Cleaners Execute → System Restored → Confirm & Log
