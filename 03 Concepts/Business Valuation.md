@@ -4,8 +4,8 @@ engine: [Leadership]
 season: [Harvest]
 laws: [Stop Guessing, Build In Order]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call]
-updated: 2026-08-05
+sources: [2025-03-25 Weekly Coaching Call, Another convo w the broker]
+updated: 2026-08-06
 ---
 
 # Business Valuation
@@ -61,6 +61,32 @@ Alex's reasoning:
 The decisive point is that holding costs nothing: *"me holding on, it looks like me going,
 okay, no, we're not going to do anything and just continue to pay payroll on at the VA and
 run it."* The infrastructure runs without him. Waiting is free.
+
+## The Formula Assumes The Profit Is Real
+
+The arithmetic above takes profit as an input. A buyer won't.
+
+Every number in this formula is downstream of whether the owner pays himself for the work he
+does. If he doesn't, the "annual profit" line is overstated by the cost of replacing that
+labor, and so is the sale price — multiplied by two. See [[Owner-Dependent Revenue]] and
+[[Add-Backs And SDE]].
+
+**So the formula is what you use on your own business, honestly kept. The buy-side version
+is [[Buying A Cleaning Business]]**, and it exists because sellers run this formula on
+numbers that flatter them, usually without meaning to.
+
+## The Sell Side Of Everything On The Buy Side
+
+Each buy-side concern is a lever a seller can pull years earlier:
+
+| A buyer will discount for | So before you sell |
+|---|---|
+| [[Owner-Dependent Revenue]] | Pay yourself properly, and hand off what only you can do — [[SOPs]] |
+| [[Uncontracted Recurring Revenue]] | Paper the long-standing recurring clients |
+| [[Client Concentration]] | Broaden the base before the top line matters |
+| Messy books — [[Add-Backs And SDE]] | Keep clean records and stop running personal expenses through |
+
+None of that is expensive. All of it is multiplied by 2–2.2x.
 
 ## Symptoms
 
@@ -121,3 +147,7 @@ actually want to get out of it."*
 - [[Leadership Engine]]
 - [[The Faithful Cleaners]]
 - [[Five Laws|Build In Order]]
+- [[Owner-Dependent Revenue]]
+- [[Add-Backs And SDE]]
+- [[Buying A Cleaning Business]]
+- [[Due Diligence]]

@@ -123,3 +123,4 @@ a VA. Logistics was her secondary constraint.
 - [[Hiring Channels]]
 - [[Zapier]]
 - [[BookingKoala]]
+- [[Owner-Dependent Revenue]]
