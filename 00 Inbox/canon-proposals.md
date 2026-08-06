@@ -37,6 +37,16 @@ Format:
 | **Zap** | One automation rule: when this happens in tool A, do that in tool B. [[Zapier]] | Lesson |
 | **[[BookingKoala]]** | Booking and provider-management software used alongside [[Harvest CRM]]. Cleaners get a provider account in it at onboarding. | Lesson |
 
+And to `## Terms From Coaching Calls`:
+
+| Term | Definition | Source |
+|---|---|---|
+| **Micro-Commitment** | One small yes collected before the price — day, time, gate code. [[Micro-Commitments]] | Call |
+| **Downward Inflection** | Voice drops at the end of the price, making it a statement. [[Price Delivery]] | Call |
+| **Late Night DJ Voice** | Chris Voss tonality — slow, steady, deep. Used for non-negotiables. [[Price Delivery]] | Call |
+| **Mirroring** | Matching a prospect's tone, pace, and professionalism. [[Mirroring]] | Call |
+| **Reciprocity** | Framing a price reduction as a personal favour so it earns something back. [[Reciprocity]] | Call |
+
 **Why:** Ingested from `01 Sources/Course Videos/Get Phone Number + A2P Approval.md` and
 `Zapier The Software Glue.md` (2026-08-06). All six terms appear on the concept pages
 written from them. A student or

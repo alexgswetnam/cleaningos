@@ -5,7 +5,7 @@ season: [Survival, Stability]
 laws: [Stop Guessing, Clarity Creates Momentum]
 status: Canonical
 sources: [2025-03-25 Weekly Coaching Call]
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 # Word Tracks
@@ -48,7 +48,7 @@ you already know.
 
 ## Models
 
-Same words, adjusted delivery, per personality:
+Same words, adjusted delivery, per personality — the delivery half is [[Mirroring]]:
 
 | Person | Delivery |
 |---|---|
@@ -103,3 +103,5 @@ listening. The line is what buys you the attention to be present.
 - [[The Soft Close]]
 - [[Leads Engine]]
 - [[Five Laws]]
+- [[Mirroring]]
+- [[Price Delivery]]

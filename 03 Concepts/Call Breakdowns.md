@@ -3,9 +3,9 @@ type: concept
 engine: [Leads, Leadership]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing, One Step Wins]
-status: Stub
-sources: [2025-03-11 Weekly Coaching Call]
-updated: 2026-08-05
+status: Developing
+sources: [2025-03-11 Weekly Coaching Call, Weekly Sales Training Call — March 26 P1]
+updated: 2026-08-06
 ---
 
 # Call Breakdowns
@@ -42,12 +42,36 @@ teaches less.
 - Not recording calls at all
 - Taking the feedback as a verdict rather than a rep
 
+## Models
+
+**What a full breakdown looks like.** The March 26 session is the worked example: Alex plays
+Jack's call with Marcella and pauses repeatedly to teach in real time. One lost call produced
+seven distinct lessons —
+
+[[Mirroring]] · [[Diagnose Don't Take Orders]] · [[Micro-Commitments]] ·
+[[Price Delivery]] · [[Reciprocity]] · [[Price Objection]] · [[Sales Happen On The Phone]]
+
+That yield is the argument for the mechanism. No amount of studying good calls produces
+seven specific corrections.
+
+**Then go back to your wins.** The breakdown of the loss tells you what to stop; the wins
+tell you what to repeat, and students rarely look:
+
+> "Listen to your seven-out-of-eight streak. What did you do? Do that more."
+
+Both halves. The lost call is where the lesson is; the won calls are where the *method*
+already is.
+
 ## Student Examples
 
 **Rick and Melissa** — had a call broken down previously. Melissa was *"stoked"* about the
 feedback.
 
-**Jack** — posted a call covering the shopping-around objection.
+**Jack** — posted a call covering the shopping-around objection. Later, the Marcella call:
+Type A prospect in Toronto, wanted weekly recurring, gave buying signals throughout, and was
+lost at the price. Jack's own diagnosis of an earlier call — *"I forgot to go into why she's
+looking to switch"* — turned out to be the same failure again. That repetition is only
+visible because both calls were broken down.
 
 ## Checklist
 
@@ -55,10 +79,6 @@ feedback.
 - [ ] Pick one you lost
 - [ ] Post it
 - [ ] Apply one change on the next call, not five
-
-## Models
-
-*None yet.*
 
 ## Symptoms
 
@@ -71,6 +91,8 @@ feedback.
 ## Videos
 
 [[2025-03-11 Weekly Coaching Call]]
+
+[[Weekly Sales Training Call — March 26 P1]] — a full breakdown, start to finish.
 
 ## AI Prompts
 
@@ -95,3 +117,6 @@ feedback.
 - [[Leads Problem Or Sales Problem]]
 - [[Handling I'm Shopping Around]]
 - [[Group Coaching]]
+- [[Mirroring]]
+- [[Price Delivery]]
+- [[Micro-Commitments]]

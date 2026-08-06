@@ -4,7 +4,7 @@ engine: [Leads]
 season: []
 laws: []
 status: Developing
-sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call, leads 101 — Marketing Basics series, Premium Workshop — 4 Seasons, 4 Bottlenecks]
+sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call, leads 101 — Marketing Basics series, Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1]
 updated: 2026-08-06
 ---
 
@@ -47,6 +47,13 @@ is an index, not a second definition.
 - [[Drop Scope Not Price]]
 - [[Price Objection]]
 - [[SMS Opt-In Consent]]
+- [[Mirroring]]
+- [[Diagnose Don't Take Orders]]
+- [[Micro-Commitments]]
+- [[Price Delivery]]
+- [[Reciprocity]]
+- [[Leads Don't Disappear]]
+- [[Speed To Lead]]
 
 ## Workflows & SOPs
 

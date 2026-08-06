@@ -4,8 +4,8 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [2025-03-11 Weekly Coaching Call]
-updated: 2026-08-05
+sources: [2025-03-11 Weekly Coaching Call, Weekly Sales Training Call — March 26 P1]
+updated: 2026-08-06
 ---
 
 # Sales Happen On The Phone
@@ -49,17 +49,48 @@ precisely so you can stay conversational instead of scrambling.
 > A word track exists so you can keep listening. It's not the opposite of a conversation —
 > it's what protects one.
 
+## Never Be The One To End The Call
+
+The corollary, and the more expensive half.
+
+Getting them on the phone is worth nothing if you hand them an exit. *"I'll send you a text
+with the info"* is an exit. So is calling back later with a better number instead of solving
+it while you have them.
+
+> Jack called Marcella back with $162. She said *"I'll call you if we move forward."*
+
+He had already won the hard part — she was negotiating scope, which means she wanted to buy.
+The reduction was correct. Delivering it on a second call, with no framing, was not. The
+move was to stay on the line:
+
+> "Can you hold on a second? I'm going to push this up the chain."
+>
+> *(pause)*
+>
+> "Great news — I got it approved at $162."
+
+Same number, same call, and now it's a favour rather than a revised quote. See
+[[Reciprocity]].
+
+**When someone is two questions from booking, the only wrong move is ending the
+conversation.** What happens after they hang up is covered by [[Leads Don't Disappear]], and
+it is not good.
+
 ## Symptoms
 
 - Quoting by text or form instead of getting them on the phone
 - Calls that feel like an interrogation of requirements
 - High lead volume, low close rate — see [[Leads Problem Or Sales Problem]]
+- You end calls with "I'll send you the details"
+- You call people back with revised prices
 
 ## Common Mistakes
 
 - Instant-quoting instead of calling
 - Running a rigid script end to end
 - Talking more than they do
+- **Offering a text as a way out of a conversation that was going well**
+- Going away to reduce a price and coming back later, instead of doing it live
 
 ## Checklist
 
@@ -67,8 +98,10 @@ precisely so you can stay conversational instead of scrambling.
 - [ ] Rapport before requirements
 - [ ] Ask why they're looking — see [[Price Objection]]
 - [ ] Listen for the real need
+- [ ] Build [[Micro-Commitments]] before the number
 - [ ] Reach for a [[Word Tracks|word track]] only when an objection lands
 - [ ] Close with [[The Soft Close]]
+- [ ] Do not end the call — hold, solve, come back
 
 ## Templates
 
@@ -81,7 +114,9 @@ precisely so you can stay conversational instead of scrambling.
 
 ## Student Examples
 
-**Jack** — 7 for 8.
+**Jack** — 7 for 8. And, on the Marcella call, the counter-example: a prospect who was
+negotiating scope, lost by ending the conversation. Both are his. The instruction he was
+given was *"listen to your seven-out-of-eight streak. What did you do? Do that more."*
 
 **Melissa** — took over sales calls from Rick, improving per call. That handoff is an
 owner-independence milestone: see [[Four Roles]].
@@ -110,3 +145,7 @@ owner-independence milestone: see [[Four Roles]].
 - [[Price Objection]]
 - [[Call Breakdowns]]
 - [[Leads Problem Or Sales Problem]]
+- [[Micro-Commitments]]
+- [[Mirroring]]
+- [[Leads Don't Disappear]]
+- [[Diagnose Don't Take Orders]]
