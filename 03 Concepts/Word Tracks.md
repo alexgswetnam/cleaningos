@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing, Clarity Creates Momentum]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call]
+sources: [2025-03-25 Weekly Coaching Call, Objection Handling Course]
 updated: 2026-08-06
 ---
 
@@ -63,12 +63,17 @@ Same words, adjusted delivery, per personality — the delivery half is [[Mirror
 
 ## Templates
 
-See [[Handling Let Me Think About It]], [[Handling I'm Shopping Around]], [[The Soft Close]].
+See [[Handling Let Me Think About It]], [[Handling I'm Shopping Around]], [[The Soft Close]],
+[[Handling Let Me Talk To My Spouse]], [[Price Objection]].
 
 ## Videos
 
-Objection handling course — *"when someone says it's too expensive, we have four
-different responses."* Also a six-minute video on *"let me talk to my spouse."*
+[[Objection Handling Course]] — six lessons, one word track each: *I'm getting quotes from
+other companies first*, *it's too expensive*, *let me talk to my spouse*, *let me think
+about it*, *my old cleaner charged less*, *securing recurring cleanings*. Ingested
+2026-08-06 — this closes the gap this page had been citing since 2025-03-25. Every lesson
+opens the same way this page teaches: validate first, then a single fixed question, never
+an improvised one. See each linked concept for the specific line.
 
 ## Student Examples
 
@@ -100,6 +105,8 @@ listening. The line is what buys you the attention to be present.
 
 - [[Handling Let Me Think About It]]
 - [[Handling I'm Shopping Around]]
+- [[Handling Let Me Talk To My Spouse]]
+- [[Price Objection]]
 - [[The Soft Close]]
 - [[Leads Engine]]
 - [[Five Laws]]

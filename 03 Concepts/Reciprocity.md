@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Weekly Sales Training Call — March 26 P1]
+sources: [Weekly Sales Training Call — March 26 P1, Objection Handling Course]
 updated: 2026-08-06
 contested: true
 ---
@@ -161,6 +161,15 @@ either way.
 >
 > **Meanwhile:** do not teach either as settled, and do not write customer-facing copy that
 > states a discount policy. CONSTITUTION §X.
+
+> [!warning] New constraint, not yet reconciled — 2026-08-06
+> [[Objection Handling Course]] independently uses a "$10 off for a couple Google reviews"
+> example twice — landing close to Claim A's $10–15 figure — but both times immediately
+> notes that offering a discount **for a Google review is technically not allowed**, and
+> risks the review being removed or the Business Profile being flagged. This doesn't
+> settle Claim A vs. Claim B. It does mean that if Alex rules in favor of Claim A's
+> review-for-discount mechanism specifically, that ruling needs to account for this
+> compliance risk — full detail on [[Drop Scope Not Price]] → Conflict History.
 
 ## Presented In
 

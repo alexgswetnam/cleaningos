@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1]
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1, Objection Handling Course]
 updated: 2026-08-06
 contested: true
 ---
@@ -47,6 +47,16 @@ are doing less work.
 > That brings it to a price that works for you."
 
 Cut the rooms nobody uses. Keep the rooms that make the house feel clean.
+
+**The [[Objection Handling Course]] version of the same opening question** — a second,
+independent source for this exact technique:
+
+> "Are there any rooms in the home, any areas in the home that are unused or that we don't
+> really need to clean because they're just not that active?"
+
+Course's example: a 3,000 sqft home with two empty nesters who only actively use the
+bedroom, living room, kitchen, and one bathroom. Ask before you assume — let the reduction
+follow from their answer, not from a guess at what they don't use.
 
 **The only discount that exists:** $10–15 off the first clean in exchange for a review.
 Small, rare, and used at the finish line — when someone is about to cross and wants to
@@ -138,6 +148,16 @@ the work was overpriced; reduced scope says less work costs less.
 > **[[Reciprocity]] → Conflict History.**
 >
 > While contested, do not state a discount policy in customer-facing copy.
+
+> [!warning] New constraint, not yet reconciled with either claim — 2026-08-06
+> [[Objection Handling Course]] independently uses "$10 off if you leave us a couple
+> Google reviews" as a live example (twice, in the *quotes-from-other-companies* and
+> *it's-too-expensive* lessons) — a third source landing close to Claim A's $10–15 figure.
+> But both lessons immediately add: *"technically you are not allowed to offer discounts
+> for Google reviews,"* and that Google can remove the reviews or flag the Business
+> Profile for it. This doesn't pick a winner between Claim A and Claim B — it's a
+> compliance constraint that applies to *either* claim if reviews are the trigger. Whatever
+> Alex rules on the amount, the review-for-discount mechanism itself needs a policy call.
 
 ## Presented In
 

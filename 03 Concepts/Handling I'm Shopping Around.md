@@ -4,8 +4,8 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call]
-updated: 2026-08-05
+sources: [2025-03-25 Weekly Coaching Call, Objection Handling Course]
+updated: 2026-08-06
 ---
 
 # Handling I'm Shopping Around
@@ -59,24 +59,56 @@ Other mistakes:
 
 Then go straight to [[The Soft Close]].
 
+**The Objection Handling Course version of the same move** — affirm, then ask what they're
+actually looking for, before you close:
+
+> "That's awesome. I'm really glad to hear that you're doing your research. And actually,
+> those are our favorite clients, the ones who really care about getting their home
+> cleaned and doing everything right. So what is the main thing you guys were looking for
+> from a cleaning company?"
+
+Same reframe as above — "our best/favorite clients" — from a second, independent source.
+The addition is the follow-up question: once they answer what they're looking for, connect
+your service to that specific need before moving to the close, rather than closing
+immediately off the affirmation alone.
+
+**If they still won't book on the call, the sale becomes a follow-up game — not a loss.**
+You will not book 100% of people on the phone.
+
+- Message them later that night — ask how the search went
+- Message them again the next day
+- Call them
+- Stay on top of the lead. Do not wait passively for them to come back.
+
+This is the piece [[Word Tracks]] flags as missing when a deal dies at this objection: not
+a better line, but *no plan* for the prospect who genuinely does still need to shop.
+
 ## Checklist
 
 - [ ] They say they're shopping around
-- [ ] Affirm: "I'm just like you, I call five people"
+- [ ] Affirm: "I'm just like you, I call five people" (or: "I'm glad you're doing your research")
 - [ ] Reframe: "that tells me you really care about your home"
-- [ ] Social proof: "our best clients are the ones who talked to five people and came back"
+- [ ] Ask what they're mainly looking for in a cleaning company
+- [ ] Connect your service to that specific answer
 - [ ] Soft close: hold the spot
 - [ ] Do **not** give tips on what to look for elsewhere
+- [ ] If they still won't book: message that night, message the next day, call — do not
+      go quiet on the lead
 
 ## Templates
 
 - "Honestly, I'm just like you. I call five people before I decide who I'm going to go with."
 - "That just tells me you really care about your home."
 - "Our best clients are the ones that talked to five different people and then ended up calling us back."
+- "That's awesome. I'm really glad to hear that you're doing your research."
+- "So what is the main thing you guys were looking for from a cleaning company?"
+- "Hey, how'd your search go?" — the next-day follow-up
 
 ## Videos
 
-*None yet — Jack posted a call recording in Skool covering this objection.*
+[[Objection Handling Course]] — *I'm Getting Quotes From Other Companies First.* Fills the
+gap this page had been open since 2025-03-25 (Jack's Skool recording was never located/
+ingested).
 
 ## Student Examples
 

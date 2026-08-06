@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing]
 status: Canonical
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1]
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1, Objection Handling Course]
 updated: 2026-08-06
 contested: true
 ---
@@ -85,6 +85,62 @@ Only after that yes do you build the solution — see [[Drop Scope Not Price]].
 She doesn't use her own name on sales calls. The price is genuinely not hers to move, so
 clients stop negotiating and often book out of sympathy.
 
+**The Objection Handling Course's four responses to "it's too expensive"** — the video
+this page had been citing since before it was ingested:
+
+**1. Find out if they're even in the ballpark, before anything else:**
+
+> "I see, thanks for being honest with me. What price were you ideally looking to pay
+> here?"
+
+If you quoted $350 and they wanted $75, stop — that's [[Not Every Client Is Your Client]],
+not a technique problem. Most people won't just give a number; they'll explain *why* they
+expected it (their old cleaner's rate, another quote) — see the old-cleaner script below,
+that explanation is the actual opening.
+
+**2. The price is the price — don't make it feel negotiable.** The course's anchor: buying
+AirPods at Walmart, you don't negotiate with the cashier. *"The price is the price because
+it is a legitimate business selling legitimate products."* Same posture as the receptionist
+technique above, without needing a second identity to carry it.
+
+**3. If you do reduce, reduce scope, never the rate** — see [[Drop Scope Not Price]] for
+the full technique. The course's version of the opening question:
+
+> "Are there any rooms in the home, any areas in the home that are unused or that we don't
+> really need to clean because they're just not that active?"
+
+**4. Re-anchor on quality, then ask the qualifying question directly:**
+
+> "You may be able to get cheaper prices elsewhere, to be honest with you, but at the end
+> of the day, we prioritize quality with all of our cleanings... Were you just looking for
+> the cheapest price or is there something I'm missing here?"
+
+Most people say no — that's the opening to ask what they actually want (less stress, peace
+of mind, a home that's handled) and connect the price to that instead of to line items.
+
+> [!warning] Compliance note from this source
+> Both the quotes-comparison and price lessons offer a small discount "if you leave us a
+> couple Google reviews" — then flag in the same breath that **you are technically not
+> allowed to offer discounts for Google reviews**, and that Google can remove reviews or
+> flag a Business Profile for it. This doesn't resolve the discount dispute below — see
+> [[Reciprocity]] → Conflict History — but it's a new compliance constraint on *any*
+> resolution of it, and belongs in whatever policy Alex eventually states.
+
+**The old-cleaner variant, in full** — when the price comparison is specifically "my old
+cleaner charged less":
+
+> "Got it, okay, what made you guys stop using your old cleaners?"
+
+"What," not "why" — "why did you stop using them?" reads as accusatory. Their answer is
+almost always the actual opening: late, no-shows, missed spots, bad communication. Connect
+your service directly to *that* complaint, not to price:
+
+> "That's why we offer a 100% satisfaction guarantee with all of our cleanings."
+
+State the point once, then stop talking — *"just say your thing, and then sit in
+silence."* Rambling after the point undoes it. If they're still stuck on price, fall
+through to response 4 above.
+
 ## Checklist
 
 - [ ] They hesitate — ask *"is it just a price thing?"* before assuming it is
@@ -94,24 +150,35 @@ clients stop negotiating and often book out of sympathy.
 - [ ] League gap? Let them go
 - [ ] Real budget? Get buy-in first: *"if I find a fair price, would you book right now?"*
 - [ ] Then [[Drop Scope Not Price]]
-- [ ] Finish line and they want a win? $10–15 off first clean for a review — **but see the contested note below**
+- [ ] Finish line and they want a win? $10–15 off first clean for a review — **but see the contested note below, and the Google compliance warning**
 - [ ] Otherwise: the price is the price
+- [ ] Old-cleaner comparison specifically? Ask "what made you stop using them," not "why" —
+      connect their answer to the satisfaction guarantee, then stop talking
 
 ## Templates
 
 - "Is it just a price thing?"
 - "If I can find a fair price for you, would you be able to book right now?"
-- "What happened to your old cleaner?"
+- "What happened to your old cleaner?" / "What made you guys stop using your old cleaners?"
 - "That's a great price. Why are you even looking around?"
 - "I'm Laura, the receptionist. That's the company's price, it's out of my hands."
+- "What price were you ideally looking to pay here?"
+- "Are there any rooms in the home that are unused or that we don't really need to clean?"
+- "You may be able to get cheaper prices elsewhere, to be honest with you, but at the end
+  of the day, we prioritize quality with all of our cleanings... were you just looking for
+  the cheapest price or is there something I'm missing here?"
+- "That's why we offer a 100% satisfaction guarantee with all of our cleanings."
 
 ## Videos
 
-[[Premium Workshop — 4 Seasons, 4 Bottlenecks]]. Objection handling course has four
-separate responses to "it's too expensive."
+[[Premium Workshop — 4 Seasons, 4 Bottlenecks]].
 
 [[Weekly Sales Training Call — March 26 P1]] — the "is it just a price thing?" sequence,
 worked live.
+
+[[Objection Handling Course]] — *It's Too Expensive* and *My Old Cleaner Charged Less*.
+Ingested 2026-08-06 — this is the "four separate responses" this page had been citing
+since before the course was pulled from Drive.
 
 ## Student Examples
 
