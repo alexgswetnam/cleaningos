@@ -4,7 +4,7 @@ engine: [Logistics]
 season: [Stability, Scale]
 laws: [Build In Order, One Step Wins]
 status: Developing
-sources: [Zapier The Software Glue]
+sources: [Zapier The Software Glue, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call]
 updated: 2026-08-06
 ---
 
@@ -84,6 +84,22 @@ The third is the odd one out and worth noticing: it isn't connecting two tools a
 a scheduled action replacing a thing the owner kept forgetting. That's the "often forget"
 test doing its job.
 
+**The lead-capture zap, in the mechanism actually running (2026-03-18 call).** Website
+form submission → email → Zapier scans for that email every two minutes → a JavaScript
+step parses the email body → creates the contact in [[Harvest CRM]] + fires a Discord
+notification. It's an email-parsing workaround, not a native form integration — the
+simpler alternative (embed a Harvest CRM form directly on the site and skip the email
+step) is known but not yet adopted. See [[Conversion Tracking]] for how UTM data rides
+along through the same pipeline.
+
+**A tag-triggered webhook beats a broad automation (2026-04-01 call).** Rick automated his
+lead sheet updates — reflecting status changes like new lead, quote sent, booked, no
+booking, canceled — with a webhook that only fires on an "update contact" tag, rather than
+a broader automation reacting to every field change. That single change cut his monthly
+zap volume from roughly 1,500 to 200, and cost with it. The lesson generalizes: a
+narrowly-scoped trigger is worth checking for before assuming a workflow needs the volume
+of zaps it's currently running.
+
 ## Checklist
 
 - [ ] List the manual handoffs you actually perform each week
@@ -92,6 +108,8 @@ test doing its job.
 - [ ] Build zaps only for what got marked
 - [ ] Confirm each zap fired correctly for a full week before building the next
 - [ ] Write down what breaks if the zap fails silently
+- [ ] If a zap's volume looks high, check whether a narrower trigger (e.g. a specific tag)
+      would fire it less often for the same result
 
 ## Templates
 
@@ -101,8 +119,13 @@ or trigger configuration in the source.
 ## Videos
 
 - [[Zapier The Software Glue]]
+- [[2026-03-18 Weekly Coaching Call]] — the live lead-capture email-parsing mechanism.
+- [[2026-04-01 Weekly Coaching Call]] — Rick's tag-triggered webhook optimization.
 
 ## Student Examples
+
+**Rick, 2026-04-01** — narrowed a lead-sheet automation to an "update contact" tag
+trigger, cutting monthly zap volume from ~1,500 to ~200.
 
 *None yet.*
 

@@ -4,8 +4,8 @@ engine: [Labor]
 season: []
 laws: []
 status: Developing
-sources: [2025-03-25 Weekly Coaching Call]
-updated: 2026-08-05
+sources: [2025-03-25 Weekly Coaching Call, 2026-02-20 Weekly Coaching Call, 2026-02-24 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call]
+updated: 2026-08-06
 ---
 
 # Labor Engine
@@ -24,7 +24,15 @@ is an index, not a second definition.
 - [[Testing A New Cleaner]]
 - [[Backup Cleaner]]
 - [[Hiring Channels]]
+- [[Automated Hiring Pipeline]]
+- [[Cleaner Handbook]]
+- [[Cleaner Availability System]]
+- [[Transitioning Clients To New Cleaners]]
 - [[Scheduling Cleans]]
+- [[Harvest CRM]]
+- [[Handling Upset Clients]]
+- [[Spanish-Speaking Labor]]
+- [[Subcontractor Vs W-2]]
 
 ## Workflows & SOPs
 

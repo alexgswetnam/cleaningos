@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing, Build In Order]
 status: Canonical
-sources: [Alex direct 2026-08-05, leads 101 — Marketing Basics series]
+sources: [Alex direct 2026-08-05, leads 101 — Marketing Basics series, Cleaning Biz 101 — Acquire]
 updated: 2026-08-05
 ---
 
@@ -24,6 +24,10 @@ There's no universal number.
 
 > "I can't give you an exact number. What I have seen across the industry as a recommended
 > amount is about 10% of your revenue."
+
+`Cleaning Biz 101 — Acquire` independently states the same figure as a rule of thumb: "a
+healthy cleaning business usually needs to spend at least 10% of gross revenue on
+marketing if you want consistent growth" — corroborating, not new.
 
 Below a certain size that percentage is meaningless, because 10% of very little is
 nothing. **When you're small, marketing is an investment rather than a percentage.**

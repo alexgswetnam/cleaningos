@@ -4,7 +4,7 @@ engine: [Leadership]
 season: [Harvest]
 laws: [Stop Guessing, Build In Order]
 status: Developing
-sources: [Another convo w the broker]
+sources: [Another convo w the broker, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call]
 updated: 2026-08-06
 ---
 
@@ -99,6 +99,30 @@ The buyers' conclusion held two things at once, which is the right outcome of a 
 
 > On the surface it's a fair deal, and now the price makes sense — but the books aren't a
 > clean source of truth. The owner is "missing some pretty big stuff."
+
+## Sourcing — an anecdote, not yet a method
+
+> [!info] Still explicitly out of scope
+> The page-level warning above stands: this workflow doesn't cover sourcing deals. What
+> follows is one in-progress anecdote (2026-04-20), recorded because it names a real
+> negotiating stance, not because it's a repeatable sourcing process yet.
+
+Alex and Elijah are separately pursuing a carpet cleaning business acquisition, sourced
+through an unplanned personal connection (met the new owner of a carpet cleaning business
+on the street; that owner connected him to the previous owner for a coffee meeting).
+[[Deal Structure|Seller financing]] is the preferred structure once terms are discussed.
+
+The stated negotiating posture: don't get attached to any single target.
+
+> "Don't be too hungry... if this doesn't work out, it doesn't work out."
+
+They're committed to buying *a* business in this category, not necessarily *this* one —
+which is presented as the source of their negotiating leverage, not a throwaway line.
+
+**Update, 2026-04-27.** The asking price ($200K) was judged too high — Courtney's read
+was to offer roughly half. Still in the "don't be too hungry" posture from the prior call:
+willing to walk, and still committed to buying a business in this category regardless of
+whether this specific one closes.
 
 ## Health Check
 

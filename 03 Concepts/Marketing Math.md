@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing, Clarity Creates Momentum]
 status: Canonical
-sources: [2025-02-03 Weekly Coaching Call]
+sources: [2025-02-03 Weekly Coaching Call, Cleaning Biz 101 — Acquire, Cleaning Biz 101 — Convert]
 updated: 2026-08-05
 ---
 
@@ -67,6 +67,20 @@ $105. Losing money per client. Diagnosis: it's not the channel — $40 is fine. 
 close rate to 50% and CPA drops to $80, which is breakeven on clean one, and then
 [[Client Lifetime Value|recurring]] makes it profitable.
 
+**Close rate alone can swing cost-per-booking dramatically at a fixed lead cost.**
+`Cleaning Biz 101 — Convert` makes this vivid with one lead cost held constant at $40:
+
+| Close rate | Cost per booking |
+|---|---|
+| 10% | $400 |
+| 30% | $133 |
+| 60% | $66 |
+
+Nothing about the marketing changed between these rows — only the close rate. This is the
+same [[Leads Problem Or Sales Problem]] diagnostic already on this page, restated as a
+single clean table: when CPA looks bad, check close rate before touching spend. The
+source's own VA hit a 60% close rate in December, which is the top row realized.
+
 **Why cleaning is harder than high-ticket.** Roofing: $20K ticket, $100 cost per lead, 5%
 close = $2,000 CPA, ~$8K net per client. You can be bad at marketing and still win. In
 cleaning the ticket is $200–$400, so margins are thin and the marketing has to be tight.
@@ -114,7 +128,18 @@ There was no way to diagnose him.
 
 ## Conflict History
 
-*None.*
+> [!warning] Type 2 — same metric, different value, same quarter
+> `Cleaning Biz 101 — Acquire` (course lesson "The Best Paid Marketing Methods") states
+> PPC's **2025 Q4** close rate as **41%** ($43 CPL → ~$104 CPA). The worked example above,
+> from the 2025-02-03 coaching call, states Q4 PPC as **26% close** ($43 CPL → $100 CPA).
+> The cost-per-lead figures agree almost exactly ($43 both) and the CPA figures are close
+> ($100 vs $104), but the close-rate figures don't (26% vs 41%) — and a close-rate
+> difference of that size at the same CPL should move CPA much further apart than it
+> actually did, which is itself odd. Both sources now agree the quarter is **2025 Q4**
+> (the course lesson is explicit about it; the coaching call previously wasn't dated to a
+> specific year). Not resolved — could be a typo in either source, a mid-quarter change,
+> or two different measurement windows within the same quarter. Flagged per the
+> Contradiction Protocol rather than silently picking one number.
 
 ## Presented In
 

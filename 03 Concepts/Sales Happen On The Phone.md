@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [2025-03-11 Weekly Coaching Call, Weekly Sales Training Call — March 26 P1]
+sources: [2025-03-11 Weekly Coaching Call, Weekly Sales Training Call — March 26 P1, Cleaning Biz 101 — Convert]
 updated: 2026-08-06
 ---
 
@@ -32,6 +32,13 @@ The elements:
 - **Be genuinely enthusiastic about helping**
 
 > He's not "selling." He's having a conversation where booking is the natural outcome.
+
+`Cleaning Biz 101 — Convert` states the same principle independently, with the same
+underlying reason: *"When the first thing someone gets is a price, they compare you like
+a commodity. When the first thing they get is clarity + confidence + professionalism,
+they compare you like a premium service."* And on intent: *"The goal of the phone call
+isn't to 'pressure' anyone. It's to lead the conversation so booking is the natural
+outcome."* Corroborates this page rather than adding a new mechanism.
 
 ## How This Fits With Word Tracks
 

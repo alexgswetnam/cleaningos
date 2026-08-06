@@ -1,0 +1,467 @@
+Okay, let me put it on the touch screen. Okay, all right, so here I've got an extension, it's called Detailed SEO Extension. I can see a lot of things here on the technical SEO side.
+
+One thing I can see off here is that you have, like, I'm just gonna kind of rip through, it's recorded, you'll get the recording after. Okay, I was gonna say, yeah, can I, I was gonna say I'll pop in on my computer at the same time, but yeah, if it's recorded, do your thing. Yeah, I just wanna rip through before people jump in, so I'm sure you're gonna jump in.
+
+H1, so you should only have one H1. Right now you have four, I can see what they are, and they're kind of down below. This is meant to be kind of like a dropdown, so it's like one H1, a bunch of H2s, if you need to expand on H2, then it drops into a further H3.
+
+The H1 is basically saying this is the biggest heading, and this is the most important thing, Google, that you need to know about this website. So right now, that's not clear. H2s are kind of secondary, and it goes down, so if I pulled up my business as an example, which is usually what I tell people to do, there's like two other videos like this where I evaluate people's businesses on this side, but top-rated house cleaning service in Collin County, right, so you kind of want the same thing of top-rated service in X area as the H1, but I think that's on that side.
+
+On the other side, we've got the schema, which is almost more important. You do have a local business schema, that's huge. Most people do not have that, but it does not have the Google business profile and a lot of those things connected and hours, so it'd be important to, and you don't have your, okay, do you have your Google business profile here? If this is actually your, I don't know that this is actually your thing.
+
+No, I don't think so. So what you wanna do is you wanna go to Purple Duck. Get that linked up.
+
+Yeah, and you go to Purple Duck here, and then you grab here, and you go to share, embed a map, copy this HTML, and then put it in the site, because that's actually what's going to connect your website to your profile. Got it, got it. And that's gonna make you rank higher in the map pack.
+
+Well, I guess someone else joined in here. Courtney jumping in. Okay, so that would be super key.
+
+What's up, Courtney? I'm going through this real quick with William. Give me one sec. The other thing here would be, okay, so schema, so this needs improvement.
+
+Once again, you can just copy, kind of asterisk, copy our site, and copy the schema. If I go to Presidential Services, we're looking at, once again, there's no area here, and you have multiple H1s. You really just need one main one.
+
+Sorry, I just probably stopped screen sharing. Kind of does that. So fixing that, the other thing I would put here is the areas, the service areas, locations.
+
+Right, yeah, definitely. That's a big deal. So the website looks wise, looks absolutely phenomenal, but we need the technical SEO side to do well.
+
+For converting, I tell people, don't do this, and the reason I don't is because if you go here and go, someone's in the car. I need a cleaning service. I just need to get someone fast.
+
+They go here, and they go get a quote, and it's like, oh, and they can't call because they've got kids in the car, whatever. Ours is, you can call, but then get a free estimate, is just name, phone, message, and we get back within seconds of them reaching, like literally seconds of them reaching out to get a call from RVA. So that's huge.
+
+That's absolutely huge. The more fields you have here, the less people are going to fill things out. That's just a general, that's not general.
+
+That's a law of forms for filling out. So sales happen on the phone, and I know someone that does all text sales. It's Jock, actually, in the booking call group, and his conversion rate is like 10 to 15% because they do not do phone calls.
+
+So it's really bad, whereas ours is like a 50%. He optimizes his business in a different way. He has multiple businesses, so he only wants texts, but we have a completely different- I can't figure out how to get texts to work yet.
+
+My whole funnel is to get them on the phone with me. As soon as they're on the phone with me, then I can connect, and I can do a lot better closing the sale. When they fill out that quote form, I'm not sending them a quote.
+
+I send them a message to ask a lot more questions about the condition or get them on the phone. I give them an option. Do you want text, or do you want a call? I tell them text is going to be slower and less accurate, and call is going to be faster and more accurate.
+
+So to try to push them towards getting me on a call because I haven't mastered the text portion like when I'm hitting them up and saying, hey, thanks for submitting your request for a quote. This is so-and-so, blah, blah. I lose so many in that process to try to get them onto the phone.
+
+I have not figured out how to escalate that perfectly to where sometimes it's money, sometimes it's not, and I can't figure out exactly what I did wrong because I started out now with a probing question that it just allows me to get proof of life. So I'll say, hey, it looks like you're looking for a quote on your three-bedroom, two-bath in Lexington. Is that correct? Then they say yes, and then I start, then I try to get them on the phone by, I just haven't figured out the right escalation yet.
+
+I know I haven't mastered it, so that's why. Yeah, nevermind, go ahead. No, you're good.
+
+This is the text that Rick and Melissa use right here. Okay, I just put that in the chat. They get great responses from that message, so we send a different one.
+
+Honestly, I never, like my VAs are instructed to hammer their phone and get them on the phone. If they say they wanna text it out, push back, push back, push back. If they will seriously only do it over text, I mean, so many people fall through.
+
+There's no time urgency, there's no, it's like if you're forced to, but I expect basically for no sales to happen through text because it's just, it's super difficult. It's not really on a sales skill, it's just, it is what it is, so we just force them to get on the phone. Yep, yep, those are the big things that I would do.
+
+Okay, Courtney, what is up? Hey, so it's not my fault I'm driving, but I'm almost there. No worries, Ash just messaged me. Did he get you set up on the email sending from Harvest? No, he's trying though.
+
+I couldn't connect with him today, so I'm gonna speak with him tomorrow. Okay. He's very nice, by the way.
+
+Yeah, he's a very kind person. Not that you care for that aspect, but he's nice. You're like, did you get a ton? I'm just like, you're nice.
+
+Yeah, what are the results here, Ash? I knew it. Well, he's trying, yeah. Wix is just being a pain in the butt, so like I said, I think I'm just gonna go to Cloudflare and call it a day for the DNS stuff.
+
+Yeah, it'll work out. Okay, well, I kinda don't wanna show the AI stuff until you're at a computer, so you can actually look at it versus crashing and just dying, and then I have to feel bad about that. At least you know, and I wouldn't make you feel bad about that.
+
+Yeah, yeah, you'd haunt me, wouldn't you? Of course, my job, you're welcome. All right, how were the interviews from last week? How's that going? I hired someone, hold on. We should be happy about that.
+
+No way, look at you. And it was an absolute crap show. So we did a move in, move out on Friday, and whatever could go wrong did go wrong.
+
+And she had a great attitude through the whole process the girls told me. And I was like, okay, I called her. I was like, so you wanna work with us? You're hired.
+
+That's awesome. And yeah, she started right away. She's starting tomorrow.
+
+And I already gave her a full schedule this week. So she was like, I'm gonna love it here. I was like, yeah, you will.
+
+Your paychecks gonna look really nice your first week. And that's really good, I love that. Yeah, and then I'm doing another interview on Wednesday and we'll see how that goes.
+
+Well done, let's go. Good to hear. I know you've been really wanting to hold on to the quality and I'm glad you found someone that's a good fit.
+
+Quality and a good, yeah, she's funny too. I was like, you have personality. This is gonna be great for our clients.
+
+So yeah, it worked out really well. And she knows how to clean. So it was 10 out of 10, it got lucky.
+
+That's perfect. Well, good, good, good, good. Where, okay, so you've solved the labor issue.
+
+Labor bottlenecks gone. Next issue. It's not done.
+
+Okay, not done. Why is it not done? No, I need to hire at least two more people for me to feel comfortable. Okay, yes, continue hiring.
+
+But can we switch leads on while you're, and fill up her schedule while you're still looking for your backup bench? Is it bad to say that I'm nervous about that if I turn on leads? Like we're still getting leads without me turning it on. So I feel like if we turn it on, because that's just the season. We're already in our season of where you make a crap ton of money.
+
+Yeah, that's true. Are you in the leads? Okay, so you're not spending money on leads. Everything's coming from the Google business profile changes? Yes, everything's coming from, yeah, we've been getting more calls from it from since I made the changes.
+
+Okay, how's the, I guess once you're at the house, we can actually like look at the impact. I know it like forexed, but I wanna see how it continues to improve and trend higher. Yeah, and remember, I have the Booking Koala online form.
+
+So I don't even have to talk to people. People have been booking themselves and it's mainly for move in, move out. That's good, but you're still getting calls, right? You're not just having people do the form? Oh, no, it's a 50-50 right now, I'd like to say.
+
+Okay, yeah. I wonder, and I'd like to run this test at some point, if you took off the form from the site and just said, hey, message me with name, phone, and messages, and just do over a week test and see if more people reach out, because I would bet you there's a good, did you put Clarity on your website? I did not, not yet. Okay, let's get Clarity on your website because Clarity will show you the recordings of people.
+
+I would bet you, and I just talked to William about this, I would bet you that there's people who see that form and then they go, and then they click off, right? And if you just had a, hey, what's your number, what's your name, optional message, you'd have a lot more people fill out the form. That's from every test I've run, but I just wanna double-check and make sure you're not a unicorn and we don't mess something up for you that is already working. You're saying you can see, it records you where you can see where they bounce on the website? Yeah, let me pull it up real quick so you can actually see what that looks like.
+
+It's pretty insane. That's cool. Like freaking spyware, dude.
+
+No, it's creepy, say the truth. It is creepy. What, are you like seeing their mouths move and stuff, or what? Yeah, yeah.
+
+You're like, oh, wow, wow, that's cool. See, creepy. Yeah, for sure.
+
+It's a different way to say it, yeah. Okay, so like right here, there's heatmaps, but heatmaps aren't really what I'm interested in. I'm interested in the recording, so if I actually, this person here, they came from RGVP, this person's from Bangladesh, so we're actually not in Watson.
+
+All right, this person. They arrived from Google to the McKinney Christian Maid service and housecleaning page. They quickly explored service options, clicked on housecleaning, and then interacted with Get In Touch, and then they clicked on, so I'm literally watching their exact, what they did, like right now.
+
+Wow, that's dope. You can kind of see, like, and I'll bet you if people, you know, looked at the page. So she pressed the checklist, and she looked at the checklist, like on her phone real quick, and then she clicked back to the page and said, okay, cool.
+
+Okay, let me look at this checklist. Great. I guess we linked to this page.
+
+We used to have a downloadable checklist. Now we just give this. So this person really cares about, like, what's going on in the home.
+
+Like, she's actually scrolling and checking and reading and reading and reading, reads the reviews, reads stuff, taps this to see what the difference is. It's not showing that it opened, but it opened. And then she eventually hit the, let's see, the, did she refresh? What did she do here? Did you have more fields on your form previous to using this tool? Is this what made you slim down your tool? Honestly? I mean, your lead capture form, is this what made you made it just bare bones? I just know the numbers.
+
+Like, if I share, I can just show you the, I can just ask her, it'll be easier. Increased loan fields equal decreased number of form submissions. Find studies that show this.
+
+So this is just, like, sales. I just do, like, marketing and sales, like, consulting stuff. So I've always cut the fluff.
+
+And the thing is, with a deeper form, with a more, like, detailed form, you're gonna have more qualified lead to someone who's more interested. But the thing is that you are, because there's more friction, right? But the thing is, someone who really wants it is gonna go through that. But the thing is, you're missing the people that would have been a client, but aren't a client, because a quick, you know, dopamine hit, brain friction thing caused them to stop.
+
+So, I mean, all these studies show it. And it's like, yeah, fewer forms usually result, fewer forms result in higher conversion rates. All these studies that were done on it.
+
+Right. Yeah, it's a pretty big jump. So I think, like I said, you'll still have people book, you'll still have people do it, but you'll be missing a good amount of people that would have done it if you didn't make it so difficult.
+
+But, yeah. Yep, and then I know people that are, like, that actually have done it in the cleaning business, where, like, they had a form, and then they stopped using a super long form, and they were like, oh, more people, you know, but we didn't make that mistake, because I just knew the numbers for other stuff. Yeah, just like, because some of these people don't even end up responding, you know, every now and then.
+
+Once they fill out the form, usually maybe a little more, a little higher, but yard signs, lower response, but the form. Yeah, I'm just wondering, like, that little bit of preliminary data, like at least what zip code is coming from, this and that, like, it's probably not worth losing a clean over, you know. Exactly, yeah, because you're with that information on the phone, and, like, that's part of the thing.
+
+Also, too, you push away price shoppers that are just gonna put their information in, try to get a quote, and then go, okay, let me get this other place, let me get this other place, and then if you do close them, I mean, you might be closing them for the wrong reason, and they end up being a bad client. It's better to have no client than to have a bad client, so. Yeah, yeah.
+
+That is the other part of that. I was really hoping Rick was, let me call Rick real quick, because Rick's gonna love this. Oh, no, Rick's in Florida.
+
+I'm not gonna bother this dude. Rick's in Florida. I was gonna tell you.
+
+And then I think Jack is still in Europe or somewhere for his, he went, I think he was gonna go get married, yeah, so I don't know if he's in Europe or where he is, but he's definitely living it up, so I'm not even gonna bother him either. He did message me yesterday, though, so good for him, good for him. How far are you from home, Courtney? I just pulled in, so you can start setting it up.
+
+Okay, sound bueno. Okay, let me, I've got 50,000 tabs open, so we're gonna cut that down to just like 100. Okay, cool, yeah.
+
+William, let me show you this real quick. This would be the most helpful area for you to classroom. This is the GBP stuff, so I wanna see your results real quick, Courtney, but the stuff in here is the exact crash course.
+
+People watch it three or four times and pick through it to understand it, but then actually apply it. Picking a spot to get a virtual office, those kind of things, how to do all of this is basically in here. This is kind of what I just did with you.
+
+I go a bit more in depth with other people, especially in the crash course. So usually people on the first 30-minute consultation, they're like, what should I do? And I'm like, do this, and I kind of apply it, a little bit like how I started to do with you, but yeah, go make those changes, those edits, and then we can go over things, but this area would be super key for you. And then, Courtney, we need to freaking get Dylan on a call so we can, did you call him? He didn't answer me.
+
+This freaking guy. I want his, I want that, I want that. Yeah.
+
+Now you want it? Yeah, I want it. I just want it at a half price. I think he's asking too much.
+
+He shouldn't be asking 200K, so that's his fault. We would've just bought it sooner. Okay, I can show you what the heck's going on with Claude because it's freaking crazy.
+
+All right, we're gonna. I'm joining now. All right, holy crap, that sound just blew my eardrums.
+
+Why was that so loud? I'm turning that down. That should not have been that loud. Okay, all righty.
+
+All right, Courtney, you're good to go. You can see, this is freaking insane. Are you ready? What leads are untouched in my marketing pipeline that should have either a task assigned to it or a note on the status of it? Focus on leads that have not had the, holy crap, it just happened again.
+
+Who's trying to join now? That's me on my computer, bro. Okay, you're good. Dude, it just blows my eardrums for some reason today.
+
+Sorry, man. No, you're good. I'm just like, it's shocking.
+
+Okay, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry. Focus on leads that have not had the booked tag added and are not in the long-term follow-up sequence. Cool, so we're just gonna see every single lead that isn't in the follow-up sequence long-term and that has not been booked.
+
+So it's connected to, I connected it to our GoHigh level for Harvest CRM and let's see how she does. I'm on the free plan, so it's so freaking cool. So this allows me to, I can set this up to give a daily report to my manager, VA, and have her double-check that all these leads are properly being followed up with or if they slip through.
+
+Setting this up for another business, we're pretty meticulous. Our systems run really, really well. A lot of people will find issues or places that they, oops, forgot.
+
+But with other businesses, they will, like when I saw today, I had six texts that they've missed and the average investment with them is like 200K. And so it's like they're missing literally millions of dollars because they don't have a system. Now in the house cleaning industry, it's like the margins aren't as crazy.
+
+To us, we might be missing a couple thousand. But this thing is freaking sick. So it's just connected to Harvest, literally looking at everything.
+
+And then I can have it go, hey, write me a better email sequence or what text gets the most replies and where should we, how should we change our texts? Now what I'm really interested in here is when it starts going, hey, you used all the things on the free plan. You need to get the paid plan, which with one paid plan, that's like $20. You can do another, that's like a hundred.
+
+Dude, it burns through so fast these days, it's crazy. Yeah. When I first started messing with it, it lasts a long time, not anymore.
+
+Yeah, they started charging. This is beautiful. So it's like, hey, all the leads in a new lead are good.
+
+Follow-up leads are good. They have a task. And then.
+
+So what did you connect this to? So this is Claude. No, it's Harvest CRM. Oh, okay.
+
+So it's going through the pipeline and every single lead in the system. I did this with the other business and it pulled like 10 people that were like, overdue, alert, like, fix, oh, shoot, I just. I don't know, that's just, hates me.
+
+All right, so let's look at it. Here we go. So we've got this guy, Steve Chisolm.
+
+There's a follow-up task that they put, but they have not done that task yet, and that was due yesterday. Then we have quoted, we have automatic notes rather than human notes. This is most urgent.
+
+From the calls. Yeah. Or when booking Koala, it's connected to the CRM, so it'll put notes in there.
+
+Quoted stage, all with multiple, complete calls with zero written status, lead has been in the pipeline since April four. Okay, so that's another thing. Who's been in the pipeline for, what's holding them back? Okay, so who has been more than two weeks and in these pipeline stages, more than two weeks.
+
+Is there a task assigned that has a future or date? So yeah, it says like, hey, these have a good paper trail, like there's notes on when to call them, why to call them. Okay, so the flagged leads, they have future call tasks. So hey, like I'm thinking about moving at this time, that time.
+
+Just wanna make sure everyone has a task, right, is a big thing we operate our system. Follow-up, quoted, future tasks, they all have a future task, cool. It tells me teams on top of it, we're not missing anyone except this guy.
+
+So if I look at this guy actually in the system, let's see if we really are, you know, if they should have hit him up. Let me share this screen. So his name is Steve, Steve Chisholm, Steve Chisholm.
+
+Okay, all right, just got your house cleaning inquiry. This came in April 25th. We called on April 25th, we have not touched him since then.
+
+So this is one that should have been hit yesterday and definitely should have been hit today. So this is a great example of, let's see if, okay, they had a conversation. See what the outcome was.
+
+Just listen to it real quick. Okay, so we sent an email and then he said he's talking to his wife. So that note is not in here.
+
+It is only, and it came from our Google business profile. And I see it in the quote, like, and this means that this came from BookingQual, so he's in the BookingQual system as quoted, but he doesn't have, does he have, he does have a task assigned to call today, but nobody hit that task. So what I'm going to do, I'm not gonna do it right now, but the goal here is that this system checks every single day, the, like, CLAWD checks every day and sends a report to my main VA and goes, hey, if we have not hit these people, we need to hit these people, or just have, I can, we can just see, I'm kind of curious of if I just asked CLAWD, hey, what could we be doing better based on everything you're saying? So let's just ask based on.
+
+And this is just a CLAWD out of the box. This isn't CLAWD with any additional context that you've given it necessarily, or is it working off of some of your previous stuff? No, I just got it. I use ChatsVT, so this is like a fresh, I literally just downloaded it.
+
+I just changed the config, and the config is like a five-minute change of like, hey, connect to my CRM. Our web forms phone calls, interesting. We have, which is good, but industry shares a response within five minutes of a forward submission.
+
+Okay, so I could ask it. Okay, like there's a note-taking discipline here that's being missed, right? Something we're exploring too is having it transcribe every call so then it can do better. There's a system that we can buy to do it.
+
+It's like $300 to add on top of it. We're like, oh, we're not gonna do it right now. We'll probably do it in the future.
+
+It's really high value. There's a like an add-on or like a system we can like buy for $300 that takes every call, transcribes the call, then grades each lead based on what the quality of the lead is. Like this guy was a good quality lead.
+
+He's ready to, he's like, I just need to talk to my wife, but like we need to do this because we're moving out. So like he'd be a great, like Price didn't scare him, so he'd be a great like quality of lead and the system would show that and then it would also give feedback to the VA to say, hey, this is where you could have done better or when he said this, you could have said this instead of that and then increase close rates. So it gives them feedback.
+
+So that's a whole system. We use it in another business, but to set it up in this one, it costs some money and we're like, we should probably do it. Kind of a hassle to get it set up initially, but yeah, so like here we're going to look at like speed to lead.
+
+So we can just ask, what's our speed to lead? Well, calling on average in the past two weeks gives me a breakdown based on Monday to Friday, nine to five versus weekend and actually weekend. Yes, Monday, Friday, nine to five, that's fine. Oh, we do weekend, we pay them to do weekend.
+
+So weekend, nine to five, don't include people that came in after or before hours. Hours, don't base speed to lead on a text, base it on the outgoing call. Cool, so I just like prompt it, prompt it and then have it pull together a report and go, this is the areas we need to improve and yeah, do the daily report.
+
+So this is super sick. I'm really stoked because this like, hey, like write me an email sequence or send it, I can have it send a text, say send a text to everyone that honestly, I could literally do it. Like here, so I sent a text to my VA earlier and said, send a spring like cleaning, like promotion.
+
+I could put the spring cleaning promotion thing in here and say, hey, send a text to all people that have not booked with us and are in the long-term follow-up sequence or they're just cold or they canceled a while back. Send every single one of those this text and it would just do that. And it would tell them like, obviously improve this text based on industry standards for good sales.
+
+So yeah, it's super sick. Like it's like a, yeah, it's definitely like every, I think everyone will be using it in like a year but most people are not aware, familiar that it's possible. Yeah, I mean, you can't hardly keep up when you're paying attention to it every single day.
+
+I mean, you can't keep up, it's nuts. Oh, I like when it build a visual because the visuals are kind of cool. Okay, all right, and heavily skewed by Monday morning pile up.
+
+Okay, there's one extra week for the pump is entirely structural. Okay, okay, okay. How many leads came in last two weeks, Monday through Friday? Okay, oh, I think it's probably only checking people in the current and those beginning stages.
+
+Let's say it's all in all stages of Friday nine to five. The part of it's just kind of wiggling it a little bit to give something I'm really looking for because it's, you know, it needs to be prompted well. How many leads came in last two weeks, Monday through Friday nine to five and all stages of the pipeline? And how fast did we give them a call one day in and through? Yeah, how fast did we give them a call? Give me the number for every single lead.
+
+Okay, yeah, so it was going against the just the beginning stages. I was like, we did not have six leads Monday through Friday. So great response time on weekends for a lot of these 22 minutes.
+
+And then it's kind of like the Monday morning is kind of like, all right, that makes sense. Like, it just kind of piles up. But like, what happened here? Like, why does this person take three days to respond to? That shouldn't have happened.
+
+Okay, because there was two contacts created for her. One had the email and then one had, I see. Okay, I was just looking to see which you guys can see.
+
+All right, let's see here. Put it together. No, that's really cool.
+
+Just want to remove the people that called us first because that's not the like speed to lead. So like 20% of my day is just me playing with chat GBT trying to fix things all the time. It's fun.
+
+Well, qualifying leads. I'm not convinced. Oh, I guess because there's a lot of people that called in first.
+
+So call task one. I think it's based on a call task rather than the actual action of calling. So that needs to, called 90% of session limit, okay.
+
+Looking to see the actual outgoing call. As that happened, we'd not be called to task. So just confirm that.
+
+But, okay, yeah, that's cause it was pulling it wrong. Type call, boom. Now we're going to see, cool.
+
+No. There it is. I'm telling you bro, it's crazy.
+
+The cloud runs out so fast. Yeah. It does.
+
+I have to save it for like really specialized, like UI stuff. I can't. I'm trying to have to use codex everything else.
+
+I feel you. Yeah, so that's the beauty of this, right? It's like, let me put a report together daily that I can use for myself. For us, we're hands off.
+
+We have multiple businesses. So I need something that my VA is seeing every day. So yeah, definitely worth, like we're gonna upgrade and get the company card upgrade.
+
+But like it's 100% worth it because if even one person over the course of 12 months books, our numbers show that that makes sense money wise cause we know the LTV. So yeah, that's super, super sick. Courtney, could you pull up your GBP? That's really about all I got for AI right now.
+
+It's super sick, but I'm kind of, thanks for letting me geek out. If you pull up your GBP, I kind of want to look how that's doing in the past week. Yeah.
+
+Also, I got a Mont Blanc. You got a what? A Mont Blanc pen. I found it at an estate sale.
+
+It was like this. We like going like treasure hunting on Saturday morning. So I found a Mont Blanc.
+
+And it's like, this is a $600 pen at a lawyer's estate sale that I got for 80 bucks. So I was like, oh dude, sick. You paid 80 bucks for a pen? For a pen, yes.
+
+It's a Mont Blanc. Okay. It was a good deal on a pen.
+
+Is it right for you? I'm sorry. Is it made of panda? Here, look at this. Mont Blanc.
+
+This is going to blow your mind. Mont Blanc. Ready? Luxury pens.
+
+I'm going to sort by price high to low. Ready? This is going to hurt your soul. $223,000.
+
+For a pen? For a pen, yeah. Yeah. That's what I'm saying.
+
+Like, this is, you can bully me, but I will accept the bullying because Mont Blancs are sick. But yeah, those are like those super luxury. Whereas like the typical, you know, higher end would be like 10K to 12K.
+
+And then they're, they're all out. Like you can't like buy them all the time. So you have to find them at a boutique and, but a typical pen like runs like a good, like two to 5K.
+
+And I got like a lower, like a cheaper one that's like runs about 600 to 80 bucks. So like, I'm going to go to like an investor. Hey, you're going to be proud of me.
+
+I'm going to an investor conference tomorrow. It's like a Christian investor thing with, or two days from now. That's exciting.
+
+Yeah. I think I need to move the meeting actually on Wednesday or have Elijah take it. Cause I don't know if he's going to go, but yeah, the oil and gas guys, I got them to go to it.
+
+It's all like millionaire, billionaire. It's like the big conference, like Christian investor people. So they like do a bunch of pitches and yes, I'm literally, that's what I'm saying.
+
+I'm literally going to, it's going to be right here and people are going to go, oh, that's a Mont Blanc. They're going to think you're super fancy. Now I just need to go get a fake Rolex.
+
+That's what it's all. That's all it's left. Fake Rolex.
+
+A Rolex makes sense. At least it tells time. A pen, it's not even a transformer.
+
+Okay. I'm done. Like, look, how, how am I going to make notes here? I need to see, need a pen.
+
+But imagine I like was like, you know, writing with, I don't have a crap pen around. So you see everything else is a crap pen now. This is a real pen.
+
+You know what? No, this is not a book. This is a writing instrument. This is a writing instrument, Courtney, not a pen.
+
+This is a writing instrument. It's perfectly balanced the exact way that I need it to be. And it has a little.
+
+Oh, wait, what's that? Oh, me a pen? Yeah, that's you right now. It has a little like case. I'm going to get like a holder for it, but yeah.
+
+You can bully me. I'll accept it. I think at this point you have to, because it's okay.
+
+It's good. Oh, can you put the, in the chat, what Melissa and Rick used for their message? Cause it erased off my phone. Yeah.
+
+And I want to see what they do. Okay, I just sent it again. Thank you.
+
+Okay, pull up your GBP real quick. I'm going to run to the bathroom super fast. Hi William.
+
+How long have you been in business for? What's up? A little over two years. Nice. Yeah.
+
+Yeah. I've just lost some pretty key cleaners. I took some clients with them.
+
+It's been pretty devastating. I got to kind of rebuild that whole thing. I got a little too comfortable and you got some uphill battles.
+
+It happens. Yeah. How about you? Five years.
+
+And we finally just got unstuck as soon as Alex's school. Nice. Somebody who actually got me out of being stuck and comfortable, like you said, my thing was hiring.
+
+Yeah. But we've retained the girls really well. That's cool.
+
+You said the girl you were just talking about at the beginning? Oh no, no, no, no. The girl you were talking about at the beginning was someone I just hired this Friday. Oh, okay.
+
+Nice. Well, congratulations. That's always exciting.
+
+Whenever you get somebody who's a gem, gold. Yes, that's why I'm really slow with hiring. It's been painful.
+
+Absolutely. I'm glad it's not just me. Oh, it's not.
+
+Hands down. This seems like this industry is pretty rough like that. Okay, quick note here, William, before Courtney's was just made to work and now it's made to work house cleaning service and then the city name that she's targeting.
+
+And then she's got things, well, she got Google business profile posts and those kinds of things. Courtney, what's the, if you hit the customer interactions, see how that's doing. 4.9, not five stars.
+
+I guess we're better than you. First off, if you read my bad review, it's actually a good review. They came out and said they don't have enough staff to facilitate us.
+
+No, we don't. She was just angry because we couldn't put her in. What? What am I supposed to do? Oh, there you go.
+
+Yeah, that one, I remember it was a huge jump. I just want to see how much in the past. Okay, hit just April.
+
+William, that jump is from her making the Google business profile changes. That's from getting more like a physical location and then some of the other tweaks. Yeah, just the things in that school module.
+
+Okay, hit calls, Courtney. And okay, hit website clicks. Okay, and then hit last month instead of April.
+
+This is also about a week behind too. Okay, so we had 11. And the month before, the month's not over.
+
+Okay, calls. I think we had eight calls in April. That's a huge jump.
+
+I turned everything off. Yeah, you had a huge jump in calls, Kate. Do February.
+
+Oh, yeah. Okay, we had zero calls, website clicks. Okay, 15.
+
+I wonder honestly how much of that though is like me going to your website because I know we did a lot of that in February. All right, January. Gosh, it's such a huge difference.
+
+Every single time I see the results, I will die on this hill, I kid you not. Calls, awesome. Okay, so you like 5X, probably will 6X the calls that you're getting.
+
+And then it's gonna continue to grow as you just pick up more. I'm looking at another strategy to increase the traction to the site. I'm testing on us first.
+
+Everything I know about everything says that it's gonna do amazing, but I wanna just test it with us before we do it with others. Well, I guess I don't, that's not true. I know it's gonna work.
+
+It's just I have to create a case study that's gonna prove that it's worth paying like $40 a month for. Basically what it does is it creates your business listings across like 80 different sites, which makes Google think of you as more reliable and trustworthy and promotes you higher because there's more references to your business and your page. But to convince someone it's worth paying another 40, 50, or however much it is, is like I need to show a case study is how I feel at least.
+
+I mean, if you just took my word for it, then do it. And if there's one sale over the next four months, it's worth it. And you're talking about all the different indexing in like Yelp and Spark or like white pages and all this stuff.
+
+Yeah, it's doing like the, what's the name of, BrightSpark, WhiteSpark or BrightSpark. Yeah, that's one of them. Another one is Yext that does that.
+
+But yeah, the service is like built into the CRM, but you have to pay an extra like 40 to 50 bucks or something to do it. So that's why I'm like, literally for like court issues, I have to press a button and go, yes, I want to do this. And then it'll do that.
+
+But I just want to prove that it's actually worth it instead of just another blow charge. To put it on a SEO, it's kind of hard to, you know. Yeah, and I wonder if an agent could sign you up into all of those within a round of doing stuff if you even need to pay for that stuff anymore.
+
+Yeah. Automate that. Yeah, and then you have the one-off instead of the ongoing.
+
+But then the problem is like we've changed address or we've changed things before. And if you do the one-off rather than a management service, then you have to go delete every single one of those. You have to log in to every single one because you got to create like a login for every site.
+
+So that's also why it's valuable to have the manual service. So, but yeah, I'm going to explore that because that is also a big, I'm not exploring. I'm going to buy it for us, do it for us, and then track results.
+
+That way you guys can take advantage of that. But yeah, super dope. What'd you say? I said, you know, I'm going to do it.
+
+I know you will. That's the, I don't know. I feel like that's the joy in getting to do business with other people is it's like, oh, it worked.
+
+All right, we're all doing it now. You know, it's like, this is it. All right, we're all doing it.
+
+It's fun. And I get to use like cross-business stuff. So like the stuff would be in a marketing agency, then we connect it to here, then we use it for the SaaS, then we use it for a client consulting for.
+
+So I love it. It's fun. I feel like everything gets the level up.
+
+It's just like a game. It is a game. I think business is a game.
+
+Yeah. I love it. You can't eat it yet, but.
+
+Five minutes before I got to jump on a call at five. I know today is kind of the anomaly of just kind of jumping around and looking at stuff, but what would be super valuable? Courtney first, then William, if you got anything. Super valuable.
+
+I can't think of anything right now, honestly. I'm trying to get through this week day by day. Yeah, let's do, let's talk about a VA next week to do the part-time stuff that you don't want to do, that you don't like to do, that'll drive revenue for you.
+
+We'll figure out what areas, like there's gaps that you could make more money by paying someone else to do it. Yeah. That I actually.
+
+Are you? Go ahead, sir. I'm good. I was just going to say, are you doing your VAs out of LATAM or Asia, or have you tried both? Yeah, just doing Philippines for the most part.
+
+We've played around with different ones. Like I had one from Bangladesh, and he was good, honestly. His English was better than I expected.
+
+The problem was, dude didn't have an attitude. He was also cheaper. He was like two or $3 an hour.
+
+But he had a bit of an attitude on the phone, and like someone hung up on him, and he texted them from our number and said, you didn't have to hang up on me. You could have just told me you weren't interested. And I was like, you're gone immediately.
+
+I don't know what you were doing. Yeah. So that was a goofy one.
+
+But yeah, what we do, we do like the, for people that are in the school, and they're like, hey, I want, people are like, hey, I want a VA. What do I do? And then we have two VAs on our team that are super killer. And we have a third, like support across.
+
+We have a lot of VAs. And so it's like, hey, our VA can train, our VA can train someone up based on our systems. And if they, most people in school, like they use our CRM, they like our processes.
+
+They just want it to go the same way, build the business like we built ours. So we train up a VA and then place them. And it's like, it's your VA.
+
+And then the catch is you got to stay in the school for 12 months. And it's like at a discounted rate. And if the VA doesn't work out, no obligation.
+
+But it's like, I don't want to charge $100,000 for a VA or manage a VA. I just want to train them up. And enable someone to have one for themselves.
+
+But that's how we do that. So Rick's happy with his at the moment. Jack is like, I don't know, maybe I need you to train up a different one instead to replace it.
+
+So I don't make like a big claim. But then we also give all our SOPs with the VA. So that's also an advantage to that.
+
+So we have like 40 SOPs on how we run the business. But William, what's like a big question? What's something that would be really helpful for you to like knock out or get an answer on? I mean, I just need to be, I need to be attracting talent, quality talent. And I need to be able to preserve that talent, right? So that's a major bottleneck.
+
+And then obviously the SEO, the SEO I've done literally zero on my organic stuff, right? So I'm relying on LSA and yard signs. Fortunately, LSA is not super expensive where we are and I can close pretty well. So that's really it.
+
+But yeah, so I'm just having a major talent problem. But like I said, I think at each part of its volume, some of it is demographics. I think that's, I'm really in a bad area for it.
+
+So I've got to be even better with my systems. So that's just kind of where I'm at. Gotcha.
+
+Okay, how can I solve something for you? I don't know, do I try to be at 50% of my labor? I'm willing to go up to give them up to 60 ish, depending on the job and what the scenario is, various factors. I try to make it to where in the beginning, I'm kind of pricing them, giving them jobs around, basing it around like the production rate and then making 27.50 an hour. It's a flat rate, but that I'm basing it off of kind of that labor rate.
+
+But I like them to be between, I'd like them to be making 30 on smaller cleans. They make even more, maybe around 35 or something. But I'm just having trouble attracting talented people that are down to work.
+
+There's a lot of people who are there. A lot of these people do, they're entitled and they think that they need to be earning a lot more and they're not even very experienced and they're not good. And so I've just been kind of up against that.
+
+I don't know if my qualifying stuff is not as good if I'm missing something in the interview process where I'm letting some shitty people slip through the cracks. I just realized I have no terms of service with my clients and I just had some cleaners walk away with a bunch of clients, which was shitty. So I'm rebuilding there.
+
+I obviously have the non-competing stuff with the cleaners and all that, but am I really gonna go to court for it and all this kind of stuff? Probably not. So I just gotta fix something else in the system. Yeah, we've got some contracts and things.
+
+I'm pretty sure that are in the school for that side, but on the, how many interviews have you had in the past two weeks? 10. Okay, so just like three X that and then you're good. I mean, if you wanna be like certain, then just like 10 X that.
+
+Yeah, yeah. I would start out, I'm doing everything off Indeed and then I'm forcing them to go fill out the web application as like an initial filter. But now I'm finding that maybe I've been doing that wrong and maybe I should just only be reaching out in Indeed and gauging it from there and then trying to get them to go to the form.
+
+I don't know. But I know some- You're in mission critical right now. Like you're in like, I need this right now.
+
+So everyone that would jump on the phone with you, just jump on the phone with them. Because if they're not a fit, they might know someone who's a fit. So go through, I gotta jump off here in like 60 seconds, but go through here.
+
+The labor fundamentals, this, how to find good cleaners, that stuff's gonna be important here. There's other stuff in there. And then the, can I do this something else here? Label, I think it's just gonna be labor fundamentals.
+
+I think I just like hit it on the head with how to find good cleaners. But I mean, Facebook posts, there's like a copy and paste here of exactly what we do for that. Calling people on Google Maps, like I'd be right there.
+
+And then Indeed posts. And then literally, like if you didn't jump on 30 interviews by the end of this week, like then it's not that big of a deal to you, right? Like you really, I would just jump on as many interviews as you can, because right now you're having to clean and you can't operate a business doing like, you need to treat. Yeah.
+
+So, okay, cool. Yeah, that's your big solution. But how to do that is in the labor stuff.
+
+But I'm gonna jump off. All right. Wednesday.
+
+Nice to meet you, Courtney. Yep. Good to meet you, Alex.
+
+Take care. Peace. Bye.

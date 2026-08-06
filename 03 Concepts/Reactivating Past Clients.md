@@ -3,58 +3,121 @@ type: concept
 engine: [Leads]
 season: [Stability, Scale]
 laws: [One Step Wins]
-status: Stub
-sources: [2025-03-25 Weekly Coaching Call]
-updated: 2026-08-05
+status: Developing
+sources: [2025-03-25 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Cleaning Biz 101 — Acquire, Cleaning Biz 101 — Convert]
+updated: 2026-08-06
 ---
 
 # Reactivating Past Clients
 
 > [!abstract] In one line
-> Twenty messages to old clients produced two bookings and two inquiries, from one button.
+> Twenty messages to old clients produced two bookings and two inquiries, from one button — and recurring clients need their own version.
 
 ## Definition
 
-The one-time follow-up sequence in Harvest CRM, sent to clients who have gone quiet.
+Three complementary ways to win back a quiet database: the default one-time win-back CRM
+sequence, a VIP workflow for lapsed *recurring* clients, and manually calling old leads and
+one-time clients as a free, human-scale organic channel — distinct from the automated
+sequences because it's a real conversation, not a message.
+
+`Cleaning Biz 101 — Acquire` frames this same idea as "the hidden lead engine most people
+ignore," with the same warning: *"Most cleaning businesses burn money chasing new leads
+while they let warm leads die in their database!!!"* Corroborates the pattern rather than
+adding a new mechanism.
 
 ## Why It Matters
 
-It is the cheapest lead source available and it uses people who already trust you. Old leads are not dead leads.
+It is the cheapest lead source available and it uses people who already trust you. Old
+leads are not dead leads. The default sequence only catches one-time clients, though — a
+recurring client who quietly stops booking can fall through unnoticed unless the CRM is
+specifically watching for it, which is what Rick's customization solves.
 
 ## Symptoms
 
-*None yet.*
+- Old one-time leads never followed up with
+- A recurring client's booking cadence quietly stops and nobody notices for months
 
 ## Common Mistakes
 
-- Not running it because you do not trust the CRM yet
+- Not running the one-time sequence because you don't trust the CRM yet
 - Worrying about opt-outs the system already handles
+- Assuming the default win-back sequence covers recurring clients — it only triggers for
+  one-time cleans
 
 ## Models
 
-*None yet.*
+**The default one-time sequence.** One button, sent to a batch of past clients who've gone
+quiet. Handles opt-outs automatically.
+
+**Rick's VIP follow-up for lapsed recurring clients.** The default 60-day win-back email
+only fires for one-time cleans, not recurring clients who stopped booking. Rick built a
+separate workflow that tracks each recurring client's last booking date, updated
+automatically via a Zapier webhook whenever a booking charge happens. If a recurring
+client hasn't booked in 60 days, they get a distinct win-back email — separate from the
+one-time sequence, tuned for a client who already had a standing relationship rather than
+a cold one-time lead.
+
+**Calling your database, before turning ads back on.** Old one-time cleans that never
+rebooked, leads who never booked, people who've gone quiet — call them, but not like a
+cold sales pitch. Check up on them like a human, reference something personal if you can,
+let the conversation happen, then naturally mention availability or a current promotion:
+
+> "Hey Lindsay, I remember you had [something about their home]. How's it going? We
+> actually have a clean promotion right now..."
+
+It's a numbers game — call enough people and some book. A VA can be assigned this during
+slow seasons or around holidays. For most owners this list is "untapped": a free source
+sitting unused ahead of any ad spend.
 
 ## Checklist
 
-*None yet.*
+- [ ] Run the default one-time win-back sequence on past clients who've gone quiet
+- [ ] Confirm recurring clients are covered separately — the default sequence won't catch
+      them
+- [ ] If not, build a lapsed-recurring workflow keyed on last booking date (via a Zapier
+      webhook on booking charge), triggering at 60 days of inactivity
+- [ ] Before restarting paid ads, call the database directly — old one-time clients,
+      never-booked leads, people who went quiet
+- [ ] Call like a human check-in, not a cold pitch — let a promotion come up naturally
 
 ## Templates
 
-*None yet.*
+*None yet — Rick's exact webhook/workflow configuration isn't documented.*
 
 ## Videos
 
-*None yet.*
+[[2026-03-04 Weekly Coaching Call]] — Rick's VIP lapsed-recurring workflow.
+[[2026-04-01 Weekly Coaching Call]] — calling the database as a free organic channel.
 
 ## Student Examples
 
 **Courtney** — first time running it, on past clients going back to opening. Sent 20 messages. Two bookings plus two inquiries for late April. *"Honestly, I didn't have to do anything. All I did was hit okay."* Her verdict: **"that thing paid for itself."**
+
+`Cleaning Biz 101 — Convert` states the underlying principle almost word-for-word as its
+own lesson title: *"Old Leads Are Not Dead Leads."* Some of its easiest bookings come
+from leads that didn't book two months ago, old one-time clients who rebook later, and
+leads that go quiet and respond months later. Its framing: *"Your database is an asset.
+Most cleaning businesses treat it like trash."* See [[Sales Pipeline Stages]]'s Long Term
+Follow Up stage for the staged cadence (30/60–90/180/365 days) this principle runs on.
 
 A few do-not-disturb opt-outs came back and the system stopped them automatically — one person had moved. She hadn't known it did that.
 
 She ran it because **Jack** posted his result in the community first: *"if he did it, I'm going to do it."*
 
 Her framing on adopting anything new: *"with something new, it's terrifying. So just do it terrified."*
+
+**Rick** — identified that lapsed recurring clients weren't being caught by the default
+sequence and built a dedicated VIP workflow for them, keyed on last booking date via a
+Zapier webhook.
+
+**Courtney, 2026-04-01** — described as having an "untapped" database of old leads and
+one-time clients, just beginning to work through it by calling.
+
+**Courtney, 2026-04-08 — the follow-through.** Worked through four to five pages of old
+contacts in Harvest CRM. Result: five bookings, plus a cleaner database — contacts who'd
+moved or weren't interested got removed rather than left cluttering future outreach. About
+50 contacts remained to work through. Confirms the "old leads are not dead leads"
+principle isn't just theory: a real, if modest, revenue source ahead of any ad spend.
 
 ## AI Prompts
 

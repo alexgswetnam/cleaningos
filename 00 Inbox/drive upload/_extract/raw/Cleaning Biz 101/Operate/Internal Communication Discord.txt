@@ -1,0 +1,47 @@
+We use Discord for internal communication + daily monitoring.
+
+
+
+The goal is simple:
+
+
+
+
+
+one place for cleaner communication
+
+
+
+one place for daily reporting
+
+
+
+one place for issues and escalations
+
+
+
+When communication is scattered between texts, calls, and random DMs, you lose:
+
+
+
+
+
+visibility
+
+
+
+accountability
+
+
+
+consistency
+
+Discord gives you a single “ops room” where everyone knows where to go.
+
+
+
+Here is the SOP we made for our cleaners when we decided to move everyone to Discord! Now, new cleaners are also given this.
+
+
+
+We also use Zapier to connect things from BookingKoala and HarvestCRM so we can quickly see how many leads came in today, how the cleans went, and how many new bookings we got!

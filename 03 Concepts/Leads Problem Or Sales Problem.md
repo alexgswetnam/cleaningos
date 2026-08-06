@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing, Build In Order]
 status: Canonical
-sources: [2025-02-03 Weekly Coaching Call]
+sources: [2025-02-03 Weekly Coaching Call, Cleaning Biz 101 — Convert]
 updated: 2026-08-05
 ---
 
@@ -33,6 +33,12 @@ when they simply aren't getting enough calls.
 
 A lead problem can be copied — Alex can take a working PPC account structure and hand it
 over. A sales problem is a skill, and skill has to be built.
+
+`Cleaning Biz 101 — Convert` corroborates the sales-side diagnosis independently, from
+running weekly sales-call breakdowns across many owners: *"most cleaning biz owners
+aren't good at sales."* If objection handling, "it's too pricey," or "I'm just looking
+around" consistently derail calls, that's the sales-problem signal from this table, not a
+lead-volume issue — see [[Word Tracks]] and [[Price Objection]].
 
 ## Symptoms
 

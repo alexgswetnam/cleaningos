@@ -1,0 +1,113 @@
+Once someone books, your business should run almost automatically.
+
+
+
+Here’s the fulfillment timeline we use:
+
+
+
+
+
+Booked → Confirmation
+
+
+
+
+
+Date/time window
+
+
+
+Service type
+
+
+
+Address
+
+
+
+What to expect (Harvest CRM sends this email automatically)
+
+
+
+
+
+
+
+5 Days Out Reminder
+
+
+
+
+
+Confirms they still need it
+
+
+
+Gives them time to update entry instructions
+
+
+
+Reduces last-minute cancellations
+
+
+
+
+
+
+
+24 Hours Out Reminder
+
+
+
+
+
+Locks it in
+
+
+
+Reduces no-shows
+
+
+
+Catches issues before the day-of
+
+
+
+
+
+
+
+On-the-Way Text
+
+
+
+
+
+Increased professionalism
+
+
+
+Reduces “where are you?” messages
+
+
+
+
+
+
+
+Payment Charged Confirmation
+
+
+
+
+
+Clean communication
+
+
+
+Reduces awkwardness
+
+
+
+Side note: you should only be booking times that your cleaners have marked as available - that way you aren't going back and forth with cleaners and clients trying to confirm that you actually can clean their home when you promised you would.

@@ -2,11 +2,27 @@
 type: source
 title: 2025-03-25 Weekly Coaching Call
 source_type: coaching call
-date: 2025-03-25
+date: 2026-03-25
 retrieved: 2026-08-05
 attendees: [Alex, Jack, Courtney, Rick, Melissa]
 note: IMMUTABLE. Index page for this call. Do not edit the artifacts below.
 ---
+
+> [!failure]- Date corrected — 2026-08-06
+> Originally logged as **2025-03-25** — an unconfirmed guess; no date evidence exists in
+> the raw transcript. Alex confirmed 2026-08-06 that the whole Feb–April weekly-call
+> series is **2026**. `date:` corrected to **2026-03-25**. Filename and artifact
+> filenames (`2025-03-25-weekly-coaching-call-*`) left as-is to avoid breaking existing
+> wikilinks — treat the frontmatter `date:` as authoritative over the `2025-` filename
+> prefix.
+>
+> **This also bears on [[Reciprocity]] → Conflict History and [[Drop Scope Not Price]] →
+> Conflict History.** [[Weekly Sales Training Call — March 26 P1]] — the other side of
+> that contested discount claim — has no confirmed date either, but "March 26" sitting one
+> day after this now-confirmed 2026-03-25 call is a strong (not yet confirmed) signal it's
+> **2026-03-26**, which would make it *later* than [[Premium Workshop — 4 Seasons, 4
+> Bottlenecks]] if that source's date can also be established. Not enough to supersede on
+> — Premium Workshop remains undated — but worth Alex confirming directly.
 
 # 2025-03-25 Weekly Coaching Call
 

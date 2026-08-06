@@ -1,0 +1,64 @@
+Most scheduling chaos starts with pricing chaos.
+
+
+
+Your team should not be guessing with prices - creating a quote should be systemized.
+
+
+
+The goal with pricing isn’t perfection.
+The goal is consistency.
+
+
+
+At a high level, you want:
+
+
+
+
+
+a base price model
+
+
+
+add-ons
+
+
+
+a recurring discount structure (if you do it)
+
+
+
+minimums (so small jobs don’t drain you)
+
+
+
+Pricing systems protect your profit and your sanity.
+
+
+
+It is IMPOSSIBLE for me to tell you what YOUR pricing should be - but here's how we do it:
+
+
+
+We charge a flat rate. To get that flat rate, we reverse engineer our hourly rate. We want to charge $60/hr per cleaner.
+
+
+
+So if I know a 3/2 1800 sqft monthly clean with a couple and one kid takes 3 hours on average, we will charge $179 + tax.
+
+
+
+If a 3000 sqft deep clean takes you 10 hours on average and you want to charge $55/hr, then that would be a $550 clean. Some will take longer, some will take shorter. The result for the client is the same - they are satisfied with a clean home.
+
+
+
+Pretty simple when you break things down this way. Every cleaner will clean at a different pace. To determine how long each of our cleaners take, we keep a spreadsheet and figure out their sqft/hr! Do this for a month and you'll figure out your average.
+
+
+
+Eventually, we added a "condition of the home" pricing parameter. If someone's home is a dirtiness level of 2, it takes way less time than if it was a dirtiness level of 7.
+
+
+
+Everyone prices differently. Keep in eye out for our Pricing 101 course module soon!

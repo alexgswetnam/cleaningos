@@ -1,0 +1,71 @@
+How to Get Cleaners on Discord
+Completed
+Created by
+Department
+Last Updated
+Status
+A Alex S
+Operations
+January 13, 2026
+Actively Using
+Discord SOP
+🧹 Team Communication Update: Switching to Discord
+📣 Why Weʼre Making the Switch
+Weʼre moving our main communication platform from Google Voice to Discord.
+Hereʼs why:
+Google Voice doesnʼt send message notifications reliably — we often miss
+important messages.
+Discord notifies instantly on all devices (phone, tablet, or computer).
+Discord also lets us organize conversations better — we can have channels for
+different topics (like job updates, supplies, scheduling, etc.).
+We will still use Google Voice for phone calls, since itʼs faster and more
+convenient for calling but you can also call us to our Discord accounts.
+🪜 Step-by-Step: Setting Up Discord
+1
+How to Get Cleaners on Discord
+Step 1: Install Discord
+On your phone:
+Go to the App Store (iPhone) or Google Play Store Android).
+Search for “Discord”.
+Tap Install or Get.
+Step 2: Create or Log Into Your Account
+Open the app.
+Tap “Register” if you donʼt have an account, or “Log In” if you already do.
+Use your work email or phone number to register.
+Choose a username that clearly identifies you (e.g., Maria C. – Cleaner).
+Step 3: Join Our Team Server
+Once youʼre logged in, look for the “+” icon on the left side of the screen (to
+add a server).
+Tap “Join a Server”.
+Enter the invite link weʼll provide (ask your supervisor if you donʼt have it yet).
+Youʼll now see our team server appear in your sidebar.
+Step 4: Turn On Notifications
+To make sure you never miss messages again:
+Tap the server name at the top.
+Select Notifications 
+→
+ choose All Messages.
+Do this for any important channels (like “Announcements” or “Daily Jobs”).
+On your phone, also check your phoneʼs Settings 
+→
+ Notifications 
+→
+ Discord →
+ Allow Notifications.
+Step 5: Learn the Basics
+Hereʼs how to do the essentials:
+How to Get Cleaners on Discord 2
+ 
+  Send a message: Tap on a channel (like #hannah) and type your message.
+📎 Send photos/videos: Tap the “+” button next to the text box.
+🔔 Tag someone: Type Name to get their attention.
+📲 Reply to a message: Hold down a message and choose Reply.
+Step 6: When to Use Google Voice
+If you need to call someone quickly, still use Google Voice.
+Example: “Iʼm at the location and need to confirm the key code.”
+Keep the app installed and signed in — weʼll still use it for voice calls only.
+🧭 Tips
+Keep both apps installed on your phone.
+Check Discord daily — especially before and after jobs.
+If you miss a message, scroll up in the chat channels — all updates stay there.
+Ask if you need help setting up — weʼll walk you through it

@@ -4,7 +4,7 @@ engine: [Leadership]
 season: []
 laws: []
 status: Developing
-sources: [2025-03-25 Weekly Coaching Call, Another convo w the broker, 2026-04-15 Weekly Coaching Call]
+sources: [2025-03-25 Weekly Coaching Call, Another convo w the broker, 2026-04-15 Weekly Coaching Call, 2026-02-24 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call]
 updated: 2026-08-06
 ---
 
@@ -35,6 +35,9 @@ is an index, not a second definition.
 - [[Due Diligence]]
 - [[What The Money Makes Possible]]
 - [[Cleaning Is Holy Work]]
+- [[There Is No Behind]]
+- [[Handling Upset Clients]]
+- [[Owner Isolation And Community]]
 
 ## Workflows & SOPs
 

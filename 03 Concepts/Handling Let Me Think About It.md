@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call, Objection Handling Course]
+sources: [2025-03-25 Weekly Coaching Call, Objection Handling Course, Cleaning Biz 101 — Convert]
 updated: 2026-08-06
 ---
 
@@ -72,6 +72,17 @@ book?*), one that built real conversation earlier (how they're doing, what they 
 work, their area, getting them to laugh). The same question lands worse from the first
 call and much better from the second. If a deal keeps dying at this exact moment, check
 whether the problem is the line or everything before it.
+
+**If the line doesn't close it live, the follow-up cadence is what saves the deal —
+not another ninja sales attempt.** `Cleaning Biz 101 — Convert` reframes "I'll get back to
+you" / "we're still deciding" / "maybe next week" as exactly the same objection this page
+handles, but makes the point that most bookings don't happen on the first message at all.
+A real Convert system needs a defined cadence (day 0, day 1, day 3, day 7…), a way to
+split hot from cold leads, and automation so it runs even when nobody's watching. Its
+diagnosis of why marketing gets blamed here: *"Marketing works. You just didn't follow
+up, or don't have sales training."* See [[Sales Pipeline Stages]] for the staged cadence
+this maps onto, and [[Reactivating Past Clients]] for the same idea applied to leads that
+went fully quiet rather than just delayed.
 
 ## Checklist
 

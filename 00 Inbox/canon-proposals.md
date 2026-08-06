@@ -21,6 +21,30 @@ Format:
 
 ---
 
+## 2026-08-06 — [[Four Engines]] — proposed by Claude
+
+**Current:** No mention of the "Acquire, Convert, Fulfill, Finances, Operate" framework
+Alex uses with brand-new owners.
+
+**Proposed:** Add `[[Five Business Pillars]]` to the Related Concepts list, and optionally
+a one-line note under "Still Needed": *"How the beginner's Five Pillars framework
+(Acquire/Convert/Fulfill/Finances/Operate) relates to this model — currently taught to
+different audiences with no documented mapping."*
+
+**Why:** [[2026-04-20 Weekly Coaching Call]] shows Alex onboarding a brand-new,
+overwhelmed owner (Keeley) with a five-part generic-business framework instead of the
+Four Engines diagnostic used with established members. It's plausibly a deliberate
+simplification for beginners, not a competing model — but nothing in any ingested source
+says so explicitly, and Finances gets its own pillar there while this page states finance
+is *"not a separate production Engine."* Filed as a proposal rather than resolved
+silently, per the Contradiction Protocol; the new page [[Five Business Pillars]] carries
+the full writeup and an unresolved-relationship callout.
+
+**Blocking:** No. Both frameworks stand independently; nothing downstream depends on the
+mapping being resolved.
+
+---
+
 ## 2026-08-06 — [[Glossary]] — proposed by Claude
 
 **Current:** No section for terms introduced by course lessons. Four terms now used on

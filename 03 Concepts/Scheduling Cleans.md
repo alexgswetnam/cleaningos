@@ -4,8 +4,8 @@ engine: [Logistics, Labor]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Stub
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks]
-updated: 2026-08-05
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-02-24 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call]
+updated: 2026-08-06
 ---
 
 # Scheduling Cleans
@@ -34,6 +34,13 @@ follow.
 
 **Reference point:** a lead cleaner clocked 22 hours in a week and earned $950.
 
+**Commercial jobs run on a different shape (2026-04-20 call).** One cleaner per job, capped
+around three hours to three hours fifteen minutes — past that, margin erodes. A consistent
+weekly schedule for the same cleaner works better than rotating assignments: reliable
+income for the cleaner without burning them out on a single long shift. Worked examples:
+one commercial client at $375/week for 1.5–2 hours, another at $265/week for 3 hours plus
+a separate 30-minute Friday trash run.
+
 Arrival windows rather than fixed times absorb the variance in how long a clean actually
 takes, which is what stops one overrun cascading through the day.
 
@@ -47,6 +54,14 @@ takes, which is what stops one overrun cascading through the day.
 
 - Packing four cleans into a day to maximise utilisation
 - Promising exact arrival times
+- **Automating around an unreliable cleaner instead of replacing them.** Jack asked about
+  building a Zapier automation that texts cleaners their job details every morning and
+  requires a confirmed-by-8-AM response. Alex's answer, 2026-02-24: *"You're building a
+  system for a bad-cleaner problem, not for scale. A good cleaner knows their schedule,
+  checks the app, and shows up."* If reliability is the actual issue, the fix is a better
+  cleaner, not more automation layered on top of a bad one. See [[Cleaner Availability
+  System]] for the automation that *is* worth building — a weekly availability check —
+  which solves a different problem (liquidity, not reliability).
 
 ## Checklist
 

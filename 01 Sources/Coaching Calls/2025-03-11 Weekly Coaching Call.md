@@ -2,12 +2,31 @@
 type: source
 title: 2025-03-11 Weekly Coaching Call
 source_type: coaching call
-date: 2025-03-11
+date: 2026-03-11
 retrieved: 2026-08-05
 origin: Google Drive — Weekly Group Coaching Calls
 attendees: [Alex, Rick, Melissa, Jack, Louis]
-note: IMMUTABLE. AI lesson summary from Drive. Raw transcript not yet copied.
+note: IMMUTABLE. AI lesson summary from Drive, plus raw transcript added 2026-08-06.
 ---
+
+> [!failure]- Date corrected — 2026-08-06
+> Originally logged as **2025-03-11** — an unconfirmed guess. Alex confirmed 2026-08-06
+> that the whole Feb–April weekly-call series is **2026**. `date:` corrected to
+> **2026-03-11**. Filename left as-is to avoid breaking existing wikilinks.
+>
+> **Separately:** the raw transcript for this call was uploaded, mistakenly deleted (see
+> git-adjacent session note — matching date was wrongly taken to mean the whole call was
+> already archived, when only the AI summary was), then re-uploaded by Alex and archived
+> as `2026-03-11-weekly-coaching-call-RAW.txt`. No speaker labels, no timestamps — same
+> shape as the other raw transcripts in this folder. Not yet cross-checked against the
+> concept pages built from the summary; treat existing attributions as summary-derived
+> until spot-checked.
+
+## Artifacts
+
+| File | What it is |
+|---|---|
+| `2026-03-11-weekly-coaching-call-RAW.txt` | Full transcript, ~11,600 words. No speaker labels, no timestamps. Added 2026-08-06. |
 
 # 2025-03-11 Weekly Coaching Call
 

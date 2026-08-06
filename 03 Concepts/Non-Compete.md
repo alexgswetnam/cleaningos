@@ -4,7 +4,7 @@ engine: [Leadership]
 season: [Harvest]
 laws: [Stop Guessing]
 status: Canonical
-sources: [Another convo w the broker]
+sources: [Another convo w the broker, 2026-04-27 Weekly Coaching Call]
 updated: 2026-08-06
 ---
 
@@ -91,6 +91,15 @@ resists either is telling you something worth more than the answer.
 
 **Alex's parents** — bought a business, seller started a competitor and took the clients and
 employees, lost in arbitration, paid the fees. The reason this is non-negotiable for Alex.
+
+**William, 2026-04-27 — the other direction: cleaners, not sellers.** A different but
+related scenario — cleaners (not a business seller) leaving and taking clients with them.
+William had non-compete agreements in place but judged enforcement impractical for
+himself: *"am I really going to go to court?"* This is the employee/subcontractor version
+of the same enforceability gap, not the buyer/seller scenario the rest of this page
+covers — recorded here because the underlying doubt (having an agreement on paper doesn't
+guarantee it's worth enforcing) is the same lesson in a different relationship. See
+[[Hiring Channels]] and [[Managing A VA]] for the labor-side response to losing cleaners.
 
 ## AI Prompts
 

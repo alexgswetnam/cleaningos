@@ -2,16 +2,33 @@
 type: source
 title: 2025-02-03 Weekly Coaching Call
 source_type: coaching call
-date: 2025-02-03
+date: 2026-02-03
 retrieved: 2026-08-05
 attendees: [Alex, Courtney, Eddie, Rick, Jack]
 note: IMMUTABLE. Index page. Do not edit the artifacts below.
 ---
 
+> [!failure]- Date corrected — 2026-08-06
+> This call was originally logged as **2025-02-03**. No date evidence exists inside the
+> raw transcript or the AI summary — the year was an unconfirmed guess by the agent that
+> first ingested it. Alex confirmed directly on 2026-08-06 that the entire Feb–April
+> weekly-call series (Feb 3 through at least Apr 27) is **2026**, deduced from the
+> consecutive weekly cadence once the surrounding calls (Feb 20, Feb 24, Mar 4, Mar 18,
+> Apr 1, Apr 8, Apr 20, Apr 27) were uploaded and a 2025→2026 gap around Mar 25 → Apr 15
+> made no sense for a weekly series.
+>
+> `date:` above is corrected to **2026-02-03**. Filename, artifact filenames
+> (`2025-02-03-weekly-coaching-call-*`), and all existing wikilinks to
+> `[[2025-02-03 Weekly Coaching Call]]` are left as-is — renaming would break links across
+> the vault for no benefit. Treat `2026-02-03` in this frontmatter as the correct date;
+> the `2025-` prefix surviving in the filename and in other pages' prose is a known
+> label/reality mismatch, not a second claim.
+
 # 2025-02-03 Weekly Coaching Call
 
 Marketing-numbers deep dive with live tracking-sheet walkthroughs. Chronologically the
-**earlier** of the two calls ingested so far.
+**earlier** of the two calls ingested so far (as of the original ingestion — nine more
+calls from this series were added 2026-08-06).
 
 ## Artifacts
 

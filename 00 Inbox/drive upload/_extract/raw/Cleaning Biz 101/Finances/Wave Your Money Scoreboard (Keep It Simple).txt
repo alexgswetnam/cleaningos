@@ -1,0 +1,49 @@
+We use Wave as our finance tracking tool.
+
+
+
+You don't need fancy reports.
+
+Wave’s job is to make sure every transaction ends up in a category so you can see:
+
+
+
+
+
+How much came in
+
+
+
+Where it went
+
+
+
+What you actually kept
+
+
+
+At a high level, you want categories that answer:
+
+
+
+
+
+What did we spend on labor?
+
+
+
+What did we spend on marketing?
+
+
+
+What did we spend on software?
+
+
+
+What’s left?
+
+
+
+This has been super easy for us to use and I recommend it to everyone.
+
+waveapps.com

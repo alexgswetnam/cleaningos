@@ -4,8 +4,8 @@ engine: [Labor, Leads]
 season: [Survival, Stability]
 laws: [Build In Order, Stop Guessing, One Step Wins]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call]
-updated: 2026-08-05
+sources: [2025-03-25 Weekly Coaching Call, 2026-02-20 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call]
+updated: 2026-08-06
 ---
 
 # Labor Before Leads
@@ -66,6 +66,23 @@ one, because I can just show you exactly what we did and you can copy it. Labor'
 you just got to call, you got to interview, you got to test. That's all inside your own
 business."*
 
+**The same logic applies mid-flight, not just at the start.** If you're already running
+both engines and hit a labor bottleneck — fully booked, turning clients away — pause or
+reduce marketing spend until it's solved, rather than continuing to pay for leads you
+can't fulfill. Use the pause productively: VA setup, SOPs, systems, testing new cleaners.
+Once new hires are proven, ramp marketing back up. Alex's own experience of skipping this
+step: waking at 6:30 AM, working from bed answering messages and fixing problems until
+9 AM, unable to actually leave for the day until the fires were out. *"We cannot grow like
+this."*
+
+**One cleaner's revenue ceiling, as a planning number.** Two cleans per day (a standard
+morning/afternoon split) at a $244 average ticket is $488/day; at 20 working days a month
+that's roughly $9,760/month per cleaner. A $20K/month business is reachable with two
+full-time cleaners plus one of them picking up two weekend days a month — provided backup
+coverage exists so a single cleaner's absence doesn't stall the whole calendar. Use this as
+a rough forecasting tool when deciding how many hires "enough labor" actually requires,
+not just whether to hire at all.
+
 ## Checklist
 
 - [ ] Count your genuinely open slots for next month
@@ -76,6 +93,8 @@ business."*
 - [ ] Two or three test cleans
 - [ ] Get your best cleaners' opinion
 - [ ] Only then turn on leads
+- [ ] If already booked solid and turning clients away, pause marketing until labor catches up
+- [ ] Use ~$9,760/month per cleaner (2 cleans/day, $244 ticket, 20 days) as a rough capacity planning number
 
 ## Templates
 
@@ -102,6 +121,35 @@ Yeah, I need to hire anyway."*
 
 His method: tell them up front it's a slow start. *"You have to earn our trust before we
 really give you a lot of work. And so they understand that going in."*
+
+**Courtney, 2026-02-20** — a second, later example of the same avoidance pattern. Four
+solid cleaners, hired one at Christmas, at capacity with a new account starting in March.
+Named it herself: *"I'm avoiding you like the plague."* Alex reframed it rather than
+pushing: *"Yes, that's a win"* — being at capacity and needing to hire is the right
+problem to have, not a sign something's wrong. What made it easier for her to actually
+face it was Rashawn's [[Automated Hiring Pipeline]], shown the same call — automating the
+mechanical parts of hiring lowers the activation energy for owners who are avoiding it out
+of dread rather than uncertainty about the process.
+
+**Alex, 2026-04-08** — described running the business pre-VA as unsustainable: 6:30 AM
+starts answering messages from bed, on the phone fixing problems until well into the
+morning. The fix wasn't more hustle, it was pausing growth-side spend and building out
+Labor/Logistics systems until they could absorb more volume.
+
+**Courtney, 2026-04-08** — $17.2K/month on three and a half cleaners (one part-time),
+noted on the call as unusually efficient capacity utilization relative to headcount.
+
+**Rick and Melissa, 2026-04-08** — ten available cleaners, but most work only two to
+three days a week, so real capacity per cleaner runs lower than the $9,760/month
+reference figure — a reminder that the number is a ceiling assuming full-time
+availability, not an average across any roster.
+
+**Courtney, 2026-04-20** — the clearest case of the constraint flipping. $18.5K on April
+20th with 10 days left in the month, records breaking every month, sales still arriving
+organically — and she had to push a client's booking into May because no cleaner was
+available on their preferred day. The constraint had fully moved from Leads to Labor: she
+was running four to five interviews a day trying to catch up. See [[Hiring Channels]] for
+how she widened the pipeline.
 
 ## AI Prompts
 

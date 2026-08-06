@@ -32,26 +32,34 @@ The April 15 coaching call was ingested on 2026-08-06. See
 
 ---
 
-## Also seen in Drive, not yet queued — checked 2026-08-06, all empty or already ingested
+## Superseded note, 2026-08-06 — the table below was wrong
 
-Re-checked live against Drive (Markdown folder, shared from `arisjohn.s.basilla@gmail.com`)
-before attempting to ingest the recommended item. None of the seven folders below
-currently have anything new to pull. **Nothing was ingested this session.**
+> [!failure]- The "folder is empty" row for Objection Handling Course was a false negative
+> Caused by a Google Drive search-tool indexing gap (only previously-viewed files
+> surfaced in `search_files`/`parentId` queries), not an actually empty folder. Caught
+> when Alex pushed back ("how are the folders empty? look at all these"). Browsed the
+> folder directly via Claude-in-Chrome instead of the search tool, found all six lessons,
+> and ingested them the same session — see `01 Sources/Course Videos/Objection Handling
+> Course.md`. **Lesson for future agents: if a Drive folder search comes back empty for a
+> course a member has clearly taken, verify by browsing the folder directly before
+> reporting it as empty.**
 
-| Source | Where | Live Drive status |
-|---|---|---|
-| Objection Handling Course | Markdown → Objection Handling Course | **Folder is empty (0 files).** [[Word Tracks]]'s citation has no source to point to yet. |
-| Logistics Fundamental Course | Markdown → Logistics Fundamental Course | **Folder is empty (0 files).** |
-| Every SOP We Use | Markdown → Every SOP We Use | **Folder is empty (0 files).** The Notion-only hiring SOP [[SOPs]] flags is not here. |
-| leads 101 part 2 | Markdown → leads 101 part 2 | **Folder is empty (0 files).** |
-| labor 101 | Markdown → labor 101 | **Folder is empty (0 files).** |
-| cleaning biz 101 (rest of course) | Markdown → cleaning biz 101 | Folder has exactly one file, *Zapier The Software Glue.md* — already ingested. No "rest of course" exists in Drive despite the earlier note. |
-| Weekly Group Coaching Calls (Markdown folder) | Markdown → Weekly Group Coaching Calls | Folder has exactly one file, *Weekly_Coaching_Calls_March_11.md* — matches `01 Sources/Coaching Calls/2025-03-11 Weekly Coaching Call.md`, already ingested. |
+The stale table has been removed. Since it was written, the following also happened in
+the same 2026-08-06 session:
 
-**Takeaway:** the previous note describing these as populated, unevaluated folders was
-stale — likely written when Arisjohn's shared Drive still had placeholder folders with
-no content added yet. Nothing to recommend next until new files land in one of these
-folders. Re-check periodically rather than trusting this table without a live search.
+- All 6 Objection Handling Course lessons ingested.
+- All 9 coaching calls Alex uploaded directly to `00 Inbox/coaching calls upload/`
+  ingested: Feb 20, Feb 24, Mar 4, Mar 18, Apr 1, Apr 8, Apr 20, Apr 27, and the
+  standalone "Free Thumbtack Leads + GBP Optimization" module. See each date's page under
+  `01 Sources/Coaching Calls/` and `01 Sources/Course Videos/Free Thumbtack Leads + GBP
+  Optimization.md`.
+- The upload folder is now empty.
+
+**Still genuinely unconfirmed** (not re-checked this pass — re-verify by browsing Drive
+directly, not by trusting a folder search): Logistics Fundamental Course, Every SOP We
+Use, leads 101 part 2, labor 101, and whatever remains of cleaning biz 101. Given the
+Objection Handling Course false-negative, treat any future "folder is empty" result from
+the search tool as unverified until confirmed by direct browsing.
 
 ## Related Concepts
 
@@ -61,3 +69,4 @@ folders. Re-check periodically rather than trusting this table without a live se
 - [[Drop Scope Not Price]]
 - [[Word Tracks]]
 - [[SOPs]]
+- [[Objection Handling Course]]

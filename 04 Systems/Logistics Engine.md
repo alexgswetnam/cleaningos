@@ -4,7 +4,7 @@ engine: [Logistics]
 season: []
 laws: []
 status: Developing
-sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call, Get Phone Number + A2P Approval, Zapier The Software Glue]
+sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call, Get Phone Number + A2P Approval, Zapier The Software Glue, 2026-03-04 Weekly Coaching Call, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call]
 updated: 2026-08-06
 ---
 
