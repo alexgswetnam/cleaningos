@@ -4,9 +4,9 @@ engine: [Leads]
 season: [Survival]
 laws: [Build In Order, Clarity Creates Momentum]
 status: Canonical
-sources: [2025-02-03 Weekly Coaching Call, leads 101 — Marketing Basics series]
+sources: [Alex direct 2026-08-05, 2025-02-03 Weekly Coaching Call, leads 101 — Marketing Basics series]
 updated: 2026-08-05
-contested: true
+superseded: 2026-08-05
 ---
 
 # Month One Loses Money
@@ -26,23 +26,26 @@ P&L, they panic and turn it off — right before the recurring revenue arrives.
 
 ## Models
 
-**Alex's own first four months, verbatim:**
+**Alex's own numbers — confirmed directly, 2026-08-05:**
 
-> "Our first month we spent $4,000 in marketing and we brought in like eight grand in
-> business. And just like you said, we lost money because we had to pay cleaners."
-
-> "But then month three, we spent no dollars on marketing and we had like $4,000 in
-> bookings. Then the next month we broke even for the business and we were profitable."
-
-| Month | Marketing | Result |
+| Month | Ad spend | Revenue |
 |---|---|---|
-| 1 | $4,000 | ~$6–8K revenue *(contested, see below)*, lost money after cleaners |
-| 2 | $3,000 | still lost money |
-| 3 | $0 | ~$4,000 in bookings, all recurring |
-| 4 | — | breakeven, then profitable |
+| 1 | $3,000 | $8,000 |
+| 2 | $3,000 | $8,000 |
+| 3–6 | **$500/month** | — |
 
-**Month three is the point.** Zero marketing, four thousand dollars in bookings. That money
-was bought in months one and two.
+**Two months of full spend, then a hard pullback to $500.** Not because the marketing
+stopped working — for three reasons, in his words:
+
+1. **"We needed to recoup our money because we were spending on a credit card while
+   literally still in personal debt."**
+2. **"We were really messing up on the cleaning knowledge side, so we weren't making back
+   the money we were spending like we should have."**
+3. **"We didn't build in order, so we had to fix systems and process — honestly, build
+   them up from scratch."**
+
+Read reason 3 carefully. That's [[Five Laws|Build In Order]] — Alex's own Law — being
+violated by Alex, and the pullback is what it cost.
 
 ## Symptoms
 
@@ -92,17 +95,17 @@ CPA is absurd or nobody recurs, it's the channel.
 
 ## Conflict History
 
-> [!warning] Contested — first-month revenue
-> **Claim A:** ~$8,000. *"Our first month we spent $4,000 in marketing and we brought in
-> like eight grand in business."* — [[2025-02-03 Weekly Coaching Call]]
-> **Claim B:** ~$6,000. *"In our first month, we did about $6,000 in cleans."* —
-> [[leads 101 — Marketing Basics series]]
-> **Unresolved since:** 2026-08-05
-> **What would settle it:** Alex's actual books for month one (February 2025).
+> [!failure]- Superseded — the early numbers were wrong in both transcripts
+> Previously: month 1 revenue given as **~$8,000** ([[2025-02-03 Weekly Coaching Call]])
+> and **~$6,000** ([[leads 101 — Marketing Basics series]]); ad spend given as **$4,000**
+> in both; month 3 given as **$0** and later "under $1,000."
+> Replaced by: **Alex direct, 2026-08-05.** $8K revenue and $3K spend in *both* months 1
+> and 2, then $500/month for months 3–6.
+> Reason: recalled figures on live calls, corrected from the actual numbers. **Alex direct
+> outranks transcript recall.**
 >
-> Both are Alex, recalling the same month. Most likely imprecise recall rather than a real
-> change. **Don't put either figure in marketing until it's checked.** The ad spend
-> ($4,000) and the shape of the pattern are consistent across both.
+> The contested first-month revenue is resolved. Month 2 revenue ($8K) was not in any
+> transcript.
 
 ## Presented In
 

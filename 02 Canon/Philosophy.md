@@ -2,7 +2,7 @@
 type: canon
 title: Philosophy
 status: Canonical
-sources: [Core IP 2026-08-05, 1:1 Coaching Agreement 2026-08-05, Alex direct 2026-08-05, 2025-02-03 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks, leads 101 — Marketing Basics series, 2025-03-11 Weekly Coaching Call]
+sources: [Alex direct 2026-08-05, Core IP 2026-08-05, 1:1 Coaching Agreement 2026-08-05, Alex direct 2026-08-05, 2025-02-03 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks, leads 101 — Marketing Basics series, 2025-03-11 Weekly Coaching Call]
 updated: 2026-08-05
 ---
 
@@ -217,23 +217,25 @@ wrong, and the rule used now.
 of the belief that *you don't need to be a cleaner* — you don't, but you do need to
 understand what the job takes. Source: [[2025-02-03 Weekly Coaching Call]].
 
-**2. Losing money for three months and nearly not understanding why.**
+**2. Spending on a credit card while still in personal debt.**
 
-*What he believed:* that marketing should pay for itself in the month you spend it.
+*What he believed:* that his marketing and sales background made the spend safe.
 
-*The numbers:*
+*The numbers, confirmed:*
 
-| Month | Marketing | Result |
+| Month | Ad spend | Revenue |
 |---|---|---|
-| 1 | $4,000 | ~$8K revenue, lost ~$1,500 after cleaners |
-| 2 | $3,000 | still losing |
-| 3 | $0 | ~$4,000 in bookings, all recurring |
-| 4 | — | breakeven, then profitable |
+| 1 | $3,000 | $8,000 |
+| 2 | $3,000 | $8,000 |
+| 3–6 | $500/month | — |
 
-*The rule now:* month one loses money and that's the pattern, not the problem — see
-[[Month One Loses Money]]. And during the growth phase you reinvest rather than pocket:
-*"I'm not looking to pocket $400 a month and go, look at my profit. I want to put that
-right back into marketing."*
+*What actually happened:* the pullback to $500 wasn't strategy. It was forced —
+
+> "We needed to recoup our money because we were spending on a credit card while
+> **literally still in personal debt.**"
+
+*The rule now:* the two gates in [[Marketing Budget]]. Can you convert, and can your team
+deliver and retain. He could do the first. He could not yet do the second.
 
 **3. Damaging early client relationships by not knowing the operational side.**
 
@@ -253,8 +255,31 @@ Note this is the same root cause as failure #1, showing up as a pattern rather t
 incident: strong at demand, weak at fulfilment, and the gap showed up in the client
 experience.
 
+**4. He didn't build in order — and he wrote the Law.**
+
+*What he believed:* that demand was the thing to get right first, and the rest would
+follow.
+
+*What actually happened:*
+
+> "We didn't build in order, so we had to fix systems and process — honestly, **build them
+> up from scratch.**"
+
+Systems and process got built mid-flight, under pressure, while money was going out and a
+credit card was accruing. It's exactly the sequencing failure he now diagnoses in other
+owners — see [[Five Laws|Build In Order]] and [[Labor Before Leads]].
+
+*The rule now:* it's the Law. Solve the constraint in front of you before building for a
+future version of the company.
+
+> [!abstract] Worth saying out loud when this gets taught
+> The founder of the method violated his own Law, and it cost him four months of
+> throttled marketing and a rebuild from scratch. That's a stronger argument for Build In
+> Order than any student example.
+
 > [!question] Still needed — one or two more
-> Three real stories are now on the page, all from Alex's own sources. The structure wants
+> Four real stories are now on the page, all from Alex's own sources or from him
+> directly. The structure wants
 > three to five. The gap is narrowing on its own as calls get ingested — which is the
 > system working.
 

@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing, Build In Order]
 status: Canonical
-sources: [leads 101 — Marketing Basics series]
+sources: [Alex direct 2026-08-05, leads 101 — Marketing Basics series]
 updated: 2026-08-05
 ---
 
@@ -106,10 +106,11 @@ clients paid the cards down. See [[Month One Loses Money]].
 ## FAQ
 
 **Q:** Is putting ad spend on a credit card safe advice?
-**A:** It's what Alex did, and he's specific about the conditions: 0% APR, a proven sales
-process, and profitable marketing. Outside those conditions it's borrowing to fund losses.
-This is a real financial risk and the page states it as his practice, not a recommendation
-for every situation.
+**A:** It's what Alex did — **while in personal debt** — and he's specific about the
+conditions: 0% APR, a proven sales process, and profitable marketing. Outside those
+conditions it's borrowing to fund losses. Even inside them, his own spend didn't convert
+as expected because the fulfilment side wasn't ready. This page states it as his practice,
+not a recommendation for every situation, and the risk belongs in any retelling.
 
 ## Conflict History
 

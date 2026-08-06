@@ -4,7 +4,7 @@ engine: []
 season: [Harvest]
 laws: []
 status: Draft — Unverified
-sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call]
+sources: [Alex direct 2026-08-05, 2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call]
 updated: 2026-08-05
 ---
 
@@ -46,11 +46,18 @@ About half of all leads were free. See [[Marketing Math]].
 
 **PPC:** $18 cost per click, 42% conversion rate.
 
-## The First Four Months
+## The First Six Months — confirmed by Alex 2026-08-05
 
-Month 1: ~$4,000 marketing (on a credit card), $6–8K revenue *(contested)*, lost money. Month 2: $3,000, still losing.
-Month 3: $0 spend, ~$4,000 in recurring bookings. Month 4: breakeven, then profitable.
-See [[Month One Loses Money]].
+| Month | Ad spend | Revenue |
+|---|---|---|
+| 1 | $3,000 | $8,000 |
+| 2 | $3,000 | $8,000 |
+| 3–6 | $500/month | — |
+
+Ad spend went on a credit card **while both founders were still in personal debt.** The
+pullback to $500 was forced by three things: recouping the card, a cleaning-knowledge gap
+that stopped the spend converting, and having to build systems and process from scratch
+because they hadn't built in order. See [[Month One Loses Money]].
 
 ## Why It Matters
 
