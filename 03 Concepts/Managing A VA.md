@@ -4,8 +4,8 @@ engine: [Leadership]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks]
-updated: 2026-08-05
+sources: [2025-03-25 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-04-15 Weekly Coaching Call]
+updated: 2026-08-06
 ---
 
 # Managing A VA
@@ -44,6 +44,10 @@ damages trust and measures the wrong thing.
   > colors on the website to look different. It's just stupid."
 - **Monitoring without saying why.** If the real goal is availability, say so — and then
   solve for availability instead.
+- **Under-scoping the role.** The opposite failure to busy work, and easier to miss because
+  it looks like restraint. The VA is handed one narrow task in one area when they could
+  carry a function. Nothing looks wrong — the work gets done — and the capacity you paid
+  for never arrives. Ask what they could own, not what you can safely hand over.
 
 ## Models
 
@@ -96,6 +100,21 @@ share is actually for. If it's availability, use Discord instead.
 The difference in output was visible and informative. It was still frustrating for Elle.
 He no longer uses it.
 
+**Alex, 2026-04-15** — catches himself under-scoping a VA hired that same day.
+
+> [!quote] Alex, [[2026-04-15 Weekly Coaching Call]]
+> "We just hired another virtual assistant today, so it's like, okay, like, that one, I'm
+> like, just do this one thing in this area. But I'm like, no, like, he could be, like, an
+> assistant. Like, he could do more."
+
+> [!quote] Alex, [[2026-04-15 Weekly Coaching Call]]
+> "I'm looking at the thing I wrote down, which is every leader underestimates their team's
+> potential. And I'm like, yeah, I think I'm underestimating my team's potential."
+
+He names trust as the constraint rather than the VA's capability — he had avoided handing
+over video editing because *"they're going to do it wrong… they're not going to do how I
+like it."* The fix he lands on is not a better VA. It's giving the existing one more.
+
 ## AI Prompts
 
 *None yet.*
@@ -123,3 +142,4 @@ signal is the pattern, not any single instance.
 - [[Four Engines]]
 - [[When To Hire A VA]]
 - [[SOPs]]
+- [[What The Money Makes Possible]]

@@ -53,7 +53,7 @@ nowhere.
 
 ## Step 4 — Log it
 
-Prepend to the Voice Log in `02 Canon/Voice.md`:
+Prepend to the Voice Log in `Voice/Alex Voice.md`:
 
 ```markdown
 ### YYYY-MM-DD — <what I was writing>
@@ -71,7 +71,7 @@ exact wording.
 **Scan the log before writing the new entry.** If this rule (or a near-twin) already
 appears twice, it's now a pattern:
 
-1. Write it into the relevant Modes section of `Voice.md` as a standing rule
+1. Write it into the relevant Modes section of `Voice/Alex Voice.md` as a standing rule
 2. Mark the log entries `→ promoted`
 3. Tell Alex what got promoted
 
@@ -80,7 +80,7 @@ rules.** The log is raw material; the rules are the product.
 
 ## Step 6 — Check for conflict
 
-Does this rule contradict something already in `Voice.md`?
+Does this rule contradict something already in `Voice/Alex Voice.md`?
 
 If so, **don't silently overwrite.** Alex's taste may have moved, or the two rules may
 apply to different modes. Show both and ask. Same principle as the §X contradiction

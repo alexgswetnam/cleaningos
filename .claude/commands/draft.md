@@ -19,7 +19,7 @@ a topic.
 Read, in this order, before writing a word:
 
 1. `02 Canon/Philosophy.md` — what we believe, how we teach
-2. `02 Canon/Voice.md` — **the anchors are the target.** Read the verbatim Alex samples
+2. `Voice/Alex Voice.md` — **the anchors are the target.** Read the verbatim Alex samples
    before writing a word, and check the Voice Log for rules from past corrections.
 3. `02 Canon/Language.md` — naming rules. "Harvest CRM" never shortens.
 3. `02 Canon/Five Laws.md` and `Four Seasons.md` — the frames

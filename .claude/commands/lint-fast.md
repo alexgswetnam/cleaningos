@@ -39,7 +39,7 @@ All in **one message**. Each gets exactly one dimension:
 > Pages contradicting `02 Canon/`. Every bare "Harvest" that means the product instead of
 > the Season — must read "Harvest CRM". Owner/Client/Cleaner used incorrectly. Any
 > guarantee or revenue number stated without naming its product. Drafts violating a rule
-> in the Voice Log. Read `Language.md` and `Voice.md` first.
+> in the Voice Log. Read `02 Canon/Language.md` and `Voice/Alex Voice.md` first.
 
 **Auditor 5 — Conflict state**
 > Contested claims older than 60 days, oldest first. Contested callouts missing "what

@@ -4,8 +4,8 @@ engine: [Leadership]
 season: []
 laws: []
 status: Developing
-sources: [2025-03-25 Weekly Coaching Call]
-updated: 2026-08-05
+sources: [2025-03-25 Weekly Coaching Call, Another convo w the broker, 2026-04-15 Weekly Coaching Call]
+updated: 2026-08-06
 ---
 
 # Leadership Engine
@@ -25,12 +25,22 @@ is an index, not a second definition.
 - [[Business Valuation]]
 - [[When To Hire A VA]]
 - [[Quality Complaints]]
+- [[Call Breakdowns]]
+- [[Owner-Dependent Revenue]]
+- [[Add-Backs And SDE]]
+- [[Client Concentration]]
+- [[Uncontracted Recurring Revenue]]
+- [[Non-Compete]]
+- [[Deal Structure]]
+- [[Due Diligence]]
+- [[What The Money Makes Possible]]
+- [[Cleaning Is Holy Work]]
 
 ## Workflows & SOPs
 
 Sequences of concepts. These live here, not in Concepts.
 
-*None yet.*
+- [[Buying A Cleaning Business]] — NDA → evaluation → LOI → due diligence → close or walk
 
 ## By Season
 

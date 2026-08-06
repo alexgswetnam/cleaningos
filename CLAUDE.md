@@ -7,7 +7,8 @@ file only tells you where to start.
 
 1. `CONSTITUTION.md` — rules, structure, how to think and update
 2. `02 Canon/Philosophy.md` — what we believe
-3. `02 Canon/Voice.md` — how Alex sounds. Imitate the anchors, not the adjectives.
+3. `Voice/Alex Voice.md` — how Alex sounds. Imitate the anchors, not the adjectives.
+   Outside Canon on purpose, and agents may write to it. Policy is at the top of the file.
 4. `02 Canon/Language.md` — naming rules. Harvest CRM is always both words.
 
 ## The four rules, compressed

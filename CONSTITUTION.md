@@ -43,14 +43,27 @@ no page anywhere in the vault may contradict them.
 - [[Four Engines]] — Leads · Labor · Logistics · Leadership
 - [[Four Seasons]] — Survival · Stability · Scale · Harvest. Each Engine has its own.
 - [[Philosophy]] — what we believe, what we reject, how we teach
-- [[Voice]] — how Alex sounds. Real samples. Imitate these.
 - [[Language]] — naming rules. "Harvest CRM" is always both words
 - [[Glossary]] — every defined term
 
 **Canon is edited by Alex only.** Agents may propose changes to Canon in
 `00 Inbox/canon-proposals.md`, but must never edit `02 Canon/` directly. Everything
 else in the vault flows downhill from these files; changing them silently changes
-everything.
+everything. **There are no exceptions to this rule** — see the note below on why
+[[Alex Voice]] was moved out rather than exempted.
+
+> [!info] Voice used to live here — amended 2026-08-06 by Alex
+> [[Alex Voice]] now lives in `Voice/`, outside the numbered folders, and agents may write
+> to it under the policy stated at the top of that page.
+>
+> Two reasons. It is **descriptive, not governing** — it records how Alex already sounds,
+> so appending to it cannot change what the vault teaches. And it is **portable**: voice
+> belongs to the person, not the business, so it should survive into any other vault Alex
+> builds, which a file governed by this constitution cannot.
+>
+> The alternative was a carve-out keeping Voice in Canon with write access. Rejected:
+> an exception inside the lock teaches every future agent that the lock is negotiable,
+> which is the exact silent erosion this section exists to prevent.
 
 ---
 
@@ -403,8 +416,13 @@ the business rather than helping it.
 Write like Alex talks. Short sentences. Concrete over abstract. Second person when
 teaching. No corporate register, no hedging, no throat-clearing.
 
-[[Voice]] holds the anchors — real Alex sentences. **Imitate those, not a description of
-them.** Check the Voice Log there for rules extracted from past corrections.
+[[Alex Voice]] — in `Voice/`, **not** in `02 Canon/` — holds the anchors: real Alex
+sentences. **Imitate those, not a description of them.** Check the Voice Log there for
+rules extracted from past corrections.
+
+The anchors are **spoken** samples. The 1:1 Coaching Agreement was retired as a voice
+source on 2026-08-06: it is a legal contract, and drafting from it produces something far
+more composed than Alex sounds. It remains a valid source for what it *says*.
 
 [[Language]] holds naming rules. There is no forbidden-word list; Alex removed it. The
 one hard rule: **"Harvest CRM" is always both words** — bare *Harvest* means the Season.
