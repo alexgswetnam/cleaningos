@@ -45,8 +45,21 @@ index, not a second home for definitions.
 | **Discord** | Where 1:1 students message Alex directly. 24 business hours, Mon–Fri. | Contract |
 | **VA Bootcamp** | 8-week training program for a student's VA. Included in 1:1 at no extra cost. | Contract |
 
+## Terms From Coaching Calls
+
+| Term | Definition | Source |
+|---|---|---|
+| **Word Track** | The exact sentence you say to a specific objection. [[Word Tracks]] | Call |
+| **Soft Close** | Holding a spot without charging, to create commitment. [[The Soft Close]] | Call |
+| **IVR** | Interactive Voice Response — the phone menu. [[IVR Setup]] | Call |
+| **CDN** | Content Display Network. Google's banner network. **Not for cleaning PPC.** [[PPC Search Not Display]] | Call |
+| **LSA** | Google Local Services Ads. Distinct from PPC; both can run at once. | Call |
+| **GBP** | Google Business Profile. [[Google Business Profile Naming]] | Call |
+| **Smart List** | A self-updating filtered contact list in Harvest CRM. [[Smart Lists]] | Call |
+| **Skool** | The community platform. House Cleaning Skool. | Contract |
+| **Headwinds / Highlights** | The weekly coaching call format — hard things first, then wins. | Call |
+
 ## Still Needed
 
-- **LSA** — Google Local Services Ads. Confirm the definition you teach.
 - **Build** — a verb, an early-Season activity, or both?
 - Any acronym or coined term used on calls that a new agent wouldn't know.

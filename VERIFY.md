@@ -83,9 +83,19 @@ The $25k promise is confirmed. Everything else about the product isn't.
 
 ---
 
+## Open — from the first ingest (2026-08-05)
+
+- [ ] **Hiring Channels** — what did the sponsored Indeed post actually cost? Alex didn't
+      know on the call. The Facebook group post copy was shared in Skool but isn't in the vault.
+- [ ] **Smart Lists** — students asked for a technical class on Harvest CRM. Worth recording.
+- [ ] **Student permissions** — Rick, Courtney, Jack and Melissa's results are now in
+      concept pages. Confirm you have permission to use names publicly, or we anonymize.
+
 ## Open — small
 
 - [ ] **LSA** — confirm the definition you teach
-- [ ] **Business GPS** — product, concept, or the whole diagnostic method?
+- [ ] **Business GPS** — product, concept, or the whole diagnostic method? Called
+      **"the quiz"** on the 2025-03-25 call. Is the quiz a separate lead magnet, or is it
+      the Business GPS itself? See [[Business GPS]].
 - [ ] **Roadmap** — the Seasons sequence, or something separate?
 - [ ] **Build** — a verb, an early-Season activity, or both?

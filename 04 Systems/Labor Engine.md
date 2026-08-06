@@ -3,8 +3,8 @@ type: system
 engine: [Labor]
 season: []
 laws: []
-status: Stub
-sources: []
+status: Developing
+sources: [2025-03-25 Weekly Coaching Call]
 updated: 2026-08-05
 ---
 
@@ -20,7 +20,10 @@ Hub page. What this engine is → [[Four Engines]]. What lives here is how it **
 Every concept tagged `engine: [Labor]`. Each is defined once in `03 Concepts/` — this
 is an index, not a second definition.
 
-*None yet.*
+- [[Labor Before Leads]]
+- [[Testing A New Cleaner]]
+- [[Backup Cleaner]]
+- [[Hiring Channels]]
 
 ## Workflows & SOPs
 

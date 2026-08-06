@@ -2,13 +2,25 @@
 type: canon
 title: Four Seasons
 status: Canonical
-sources: [Core IP 2026-08-05, Alex direct 2026-08-05]
+sources: [Core IP 2026-08-05, Alex direct 2026-08-05, 2025-03-25 Weekly Coaching Call]
 updated: 2026-08-05
+superseded: 2026-08-05
 ---
 
 # The Four Seasons
 
 **Survival → Stability → Scale → Harvest**
+
+> [!failure]- Superseded — the fourth Season was renamed
+> Previously: **"Sustain and Sell."**
+> Source: [[2025-03-25 Weekly Coaching Call]] — *"you've got survival and then you've
+> got stability and then you've got scale, but then you have like just sustain and sell."*
+> Replaced by: **Harvest**. Confirmed by Alex 2026-08-05.
+> Reason: renamed. The substance is unchanged — the business sustains itself, keeps
+> growing without the owner as fuel, and can be sold when the numbers justify it.
+>
+> **Agents: never teach "Sustain and Sell."** It is retired. Older recordings and
+> transcripts still use it; that is expected and is not a contradiction to re-flag.
 
 The stage an Engine is in. Determines what an owner should work on right now, and it's
 the core of the [[Business GPS]] diagnostic.
@@ -79,6 +91,10 @@ can fund the owner's life, other investments, a new market, or an eventual sale.
 
 **They've reached Harvest when the company can continue operating and improving without
 needing their attention as its primary fuel.**
+
+Harvest is not a stopping point. As Alex put it on the 2025-03-25 call: *"sustain is going
+to actually continue to grow. It's not going to stop growing."* You can keep it or sell
+it — see [[Business Valuation]].
 
 ---
 
