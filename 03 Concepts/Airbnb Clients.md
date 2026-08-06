@@ -4,7 +4,7 @@ engine: [Logistics, Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call]
+sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call]
 updated: 2026-08-05
 ---
 
@@ -26,6 +26,9 @@ The frequency is the bait. The economics and the risk are the problem.
 *"if you own an Airbnb, you're trying to spend as little on expenses as you can. You're
 going to hire and find a single mom on Facebook marketplace, and hopefully she does a good
 enough job, but she's desperate enough for work."*
+
+**The turnaround is unpredictable, not just tight.** From the 2025-02-03 call — they can
+message you *the day before.* You cannot staff against that.
 
 **The window.** Checkout 11, next guest 3. Three laundry cycles inside four hours. *"There's
 no real room for error."*
@@ -102,6 +105,11 @@ expensive backup, not the cheap regular.
 *None yet.*
 
 ## FAQ
+
+**Q:** Has this position ever changed?
+**A:** No. Alex stated it independently on 2025-02-03 and again on 2025-03-25, seven weeks
+apart, with the same reasoning both times: *"we've never had an Airbnb owner where we're
+able to charge what we need to charge for us to be profitable."* Consistent, not superseded.
 
 **Q:** What about a big event driving demand?
 **A:** Demand spikes don't change the margin or the turnaround window. Charge full price.

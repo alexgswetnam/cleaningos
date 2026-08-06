@@ -4,7 +4,7 @@ engine: [Leads]
 season: []
 laws: []
 status: Developing
-sources: [2025-03-25 Weekly Coaching Call]
+sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call]
 updated: 2026-08-05
 ---
 
@@ -29,6 +29,16 @@ is an index, not a second definition.
 - [[Reactivating Past Clients]]
 - [[Labor Before Leads]]
 - [[Airbnb Clients]]
+- [[Marketing Math]]
+- [[Leads Problem Or Sales Problem]]
+- [[Month One Loses Money]]
+- [[Client Lifetime Value]]
+- [[Channel Prioritization]]
+- [[Thumbtack]]
+- [[Close Rate By Channel]]
+- [[Conversion Tracking]]
+- [[PPC Landing Page Strategy]]
+- [[KPI Tracking Sheet]]
 
 ## Workflows & SOPs
 

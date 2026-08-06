@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Stability, Scale]
 laws: [Stop Guessing]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call]
+sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call]
 updated: 2026-08-05
 ---
 
@@ -74,9 +74,17 @@ Alex: *"She blew up your account, too."* — *"Yes. Yes, she did."*
 it fail in a different market. Jack pays a different provider, has a completely different
 structure, and gets ~$53 CAD per lead. *"If one way doesn't work, try another way."*
 
+**A second setting that does the same damage: search network partners.**
+
+From the 2025-02-03 call — Alex traced a high no-contact rate back to Google Ads' *search
+network partners* option, which was generating unqualified leads that never answered the
+phone. He turned it off. Track no-contact rate per channel and it shows up. See
+[[Thumbtack]] for the metric.
+
 ## Checklist
 
 - [ ] Confirm campaign type is **Search**, not Display / Performance Max
+- [ ] Turn **off** search network partners
 - [ ] If it asked for videos or images, rebuild it
 - [ ] Never accept ad-account recommendations from a Google rep
 - [ ] Track spend → leads → bookings so you can attribute
@@ -129,3 +137,5 @@ take exactly what's working for us, put it into your account, and watch it just 
 - [[Google Business Profile Naming]]
 - [[Word Tracks]]
 - [[Labor Before Leads]]
+- [[PPC Landing Page Strategy]]
+- [[Channel Prioritization]]

@@ -4,7 +4,7 @@ engine: []
 season: [Harvest]
 laws: []
 status: Draft — Unverified
-sources: [2025-03-25 Weekly Coaching Call]
+sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call]
 updated: 2026-08-05
 ---
 
@@ -29,6 +29,27 @@ This is the proof behind CleaningOS — every claim in the Canon was tested here
   Facebook group post
 - **VAs:** at least one named Elle. Managed per [[Managing A VA]].
 - **Tooling:** [[Harvest CRM]], including an IVR built with an 11 Labs voice
+
+## Marketing Numbers — Q4 2024
+
+| | |
+|---|---|
+| Total spend | $3,000 |
+| Total leads | 245 |
+| Cost per lead, all sources | **~$12** |
+| Thumbtack | 90 leads (51 free), $15.64 CPL, 26% close, $58 CPA |
+| PPC | $1,500 spend, $43 CPL, 26% close, $100 CPA |
+| Organic | 119 leads, 70 bookings, $0 |
+
+About half of all leads were free. See [[Marketing Math]].
+
+**PPC:** $18 cost per click, 42% conversion rate.
+
+## The First Four Months
+
+Month 1: $4,000 marketing, ~$8K revenue, lost ~$1,500. Month 2: $3,000, still losing.
+Month 3: $0 spend, ~$4,000 in recurring bookings. Month 4: breakeven, then profitable.
+See [[Month One Loses Money]].
 
 ## Why It Matters
 
@@ -55,3 +76,5 @@ as current.
 - [[Harvest CRM]]
 - [[Google Business Profile Naming]]
 - [[Philosophy]]
+- [[Marketing Math]]
+- [[Month One Loses Money]]

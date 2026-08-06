@@ -2,7 +2,7 @@
 type: canon
 title: Philosophy
 status: Canonical
-sources: [Core IP 2026-08-05, 1:1 Coaching Agreement 2026-08-05, Alex direct 2026-08-05]
+sources: [Core IP 2026-08-05, 1:1 Coaching Agreement 2026-08-05, Alex direct 2026-08-05, 2025-02-03 Weekly Coaching Call]
 updated: 2026-08-05
 ---
 
@@ -172,13 +172,45 @@ the thinking when the lesson is becoming an owner.**
 decision, what was believed when it was made, the number or consequence that proved it
 wrong, and the rule used now.
 
-> [!danger] Missing — Alex's real failure stories
-> The source document flags this itself: *"[NEEDS ALEX'S REAL STORIES: Replace the
-> examples above with specific incidents, numbers, people, and consequences.]"*
->
-> The four-part structure above is confirmed. The incidents that fill it are not written
-> anywhere yet, and nobody else can write them. **Three to five real ones closes the
-> single biggest gap in the Canon.**
+### Alex's Failures — the real ones
+
+**1. Underpricing because he didn't know the work.**
+
+*What he believed:* that his marketing and sales background was enough to run the business.
+
+*The decision:*
+
+> "That was easy because of the background I have in marketing and sales. The part that
+> was hard for me was **I would send someone to a 4,000 square foot deep clean for three
+> hours and charge 200 bucks because I didn't know what I was doing.** And that's
+> obviously a recipe for disaster."
+
+*The rule now:* know the operational reality before you price it. This is the mirror image
+of the belief that *you don't need to be a cleaner* — you don't, but you do need to
+understand what the job takes. Source: [[2025-02-03 Weekly Coaching Call]].
+
+**2. Losing money for three months and nearly not understanding why.**
+
+*What he believed:* that marketing should pay for itself in the month you spend it.
+
+*The numbers:*
+
+| Month | Marketing | Result |
+|---|---|---|
+| 1 | $4,000 | ~$8K revenue, lost ~$1,500 after cleaners |
+| 2 | $3,000 | still losing |
+| 3 | $0 | ~$4,000 in bookings, all recurring |
+| 4 | — | breakeven, then profitable |
+
+*The rule now:* month one loses money and that's the pattern, not the problem — see
+[[Month One Loses Money]]. And during the growth phase you reinvest rather than pocket:
+*"I'm not looking to pocket $400 a month and go, look at my profit. I want to put that
+right back into marketing."*
+
+> [!question] Still needed — one or two more
+> Two real stories are now on the page, both from Alex's own sources. The structure wants
+> three to five. The gap is narrowing on its own as calls get ingested — which is the
+> system working.
 
 ## Who Alex Is To Students
 

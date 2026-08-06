@@ -3,8 +3,8 @@ type: concept
 engine: []
 season: []
 laws: [Stop Guessing, Clarity Creates Momentum]
-status: Stub
-sources: [2025-03-25 Weekly Coaching Call]
+status: Developing
+sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call]
 updated: 2026-08-05
 ---
 
@@ -39,6 +39,10 @@ picks whatever is loudest. With one, they get a location and a single next actio
 *None yet.*
 
 ## Models
+
+Before the Engine × Season grid, there's a coarser fork that catches most owners:
+**[[Leads Problem Or Sales Problem]]** — 95% of owners stuck under $20K/month are stuck on
+one of those two. That's the first cut.
 
 The diagnostic axis is Engine × Season: each Engine has its own Season, and the
 constraining one determines the work. See [[Four Seasons]].
@@ -83,3 +87,5 @@ delivered on the call: Labor is the constraint, hire first. See [[Labor Before L
 - [[Five Laws]]
 - [[Labor Before Leads]]
 - [[Philosophy]]
+- [[Leads Problem Or Sales Problem]]
+- [[Marketing Math]]

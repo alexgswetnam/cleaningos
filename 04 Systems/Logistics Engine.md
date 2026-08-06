@@ -4,7 +4,7 @@ engine: [Logistics]
 season: []
 laws: []
 status: Developing
-sources: [2025-03-25 Weekly Coaching Call]
+sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call]
 updated: 2026-08-05
 ---
 
@@ -23,6 +23,7 @@ is an index, not a second definition.
 - [[IVR Setup]]
 - [[Smart Lists]]
 - [[Airbnb Clients]]
+- [[One-Time To Recurring]]
 
 ## Workflows & SOPs
 
