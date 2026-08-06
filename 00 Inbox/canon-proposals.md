@@ -40,6 +40,15 @@ is *"not a separate production Engine."* Filed as a proposal rather than resolve
 silently, per the Contradiction Protocol; the new page [[Five Business Pillars]] carries
 the full writeup and an unresolved-relationship callout.
 
+**Update 2026-08-06:** This is not just something said once on a beginner call — it's the
+spine of an entire separate course, **Cleaning Biz 101** (27 lessons, uploaded and
+ingested the same day, organized in five folders literally named Acquire/Convert/Fulfill/
+Finances/Operate). The course's own opening lesson for each pillar defines it in terms
+that map loosely onto [[Four Engines]] but aren't identical, same as before. This raises
+rather than lowers the stakes of reconciling the two — a whole course is teaching a
+five-part model alongside a Canon page teaching a four-part one, and no source says which
+is meant to be primary or how a student should reconcile being taught both.
+
 **Blocking:** No. Both frameworks stand independently; nothing downstream depends on the
 mapping being resolved.
 

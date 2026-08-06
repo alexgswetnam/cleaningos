@@ -4,7 +4,7 @@ engine: [Logistics]
 season: [Stability, Scale]
 laws: [Build In Order, One Step Wins]
 status: Developing
-sources: [Zapier The Software Glue, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call]
+sources: [Zapier The Software Glue, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, Cleaning Biz 101 — Operate]
 updated: 2026-08-06
 ---
 
@@ -79,6 +79,7 @@ gap *between* tools, and each one covers a step a human would otherwise have to 
 | New lead form submitted | Create lead in [[Harvest CRM]] | Lead capture → CRM |
 | New booking in BookingKoala | Update [[Harvest CRM]] pipeline + send Discord notification | Booking → pipeline, and → team awareness |
 | Every Friday | Text cleaners to update next week's schedule | Recurring task → memory |
+| Daily | Pull BookingKoala + [[Harvest CRM]] numbers into [[Internal Communication Via Discord|the team's Discord]] | Owner/VA having to manually check two tools to see today's leads, cleans, and bookings |
 
 The third is the odd one out and worth noticing: it isn't connecting two tools at all. It's
 a scheduled action replacing a thing the owner kept forgetting. That's the "often forget"

@@ -4,7 +4,7 @@ engine: [Logistics]
 season: [Scale, Harvest]
 laws: [Build In Order, One Step Wins]
 status: Canonical
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call]
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Cleaning Biz 101 — Operate]
 updated: 2026-08-06
 ---
 
@@ -25,6 +25,14 @@ Checklist, step-by-step, or video.
 
 They're what makes [[Four Roles|Owner]] possible, and they're what a buyer is actually
 purchasing. See [[Business Valuation]].
+
+**A concrete test of whether Operate is actually working:** the host had nose surgery in
+mid-December and didn't look at the cleaning business for almost three weeks —
+confident the VA and cleaners would follow the systems already in place, and would ask if
+they genuinely needed help. That's the practical definition of Operate done right: *"the
+business runs the same way every time... even when you're not paying attention."* Without
+it, everything depends on the owner, cleaners need hand-holding for every question,
+mistakes repeat, quality is inconsistent, and the owner is always putting out fires.
 
 ## The Timing Rule
 
@@ -79,6 +87,26 @@ scales — the same situation that felt like a one-off at $15K/month happens thr
 times more often at $50K/month, and the owner's gut instinct doesn't transfer to a VA. See
 [[Handling Upset Clients]] for the specific difficult-client case this pattern came from.
 
+**The minimum viable SOP library.** Most owners avoid SOPs because they picture writing a
+novel — a real library is just the handful of documents that prevent 80% of problems.
+`Cleaning Biz 101 — Operate` names eight, if only a few could be kept: new client intake
+and expectations, cleaner hiring, before/after photos and QA, what's included vs. not
+(scope), reschedule/cancellation policy, complaint/redo/refund process, payment failure
+process, and access issues (lockbox, pets, alarms). Their function, stated plainly:
+*"They're how you stop solving the same problem 50 times & easily scale without the
+stress."*
+
+**Systems replace motivation and memory, not add bureaucracy.** The failure mode without
+systems: *"I hope cleaners remember," "I hope the VA knows," "I hope they do it right."*
+Systems exist to remove that hoping — documented standards, clear communication channels,
+a repeatable workflow for problems, checklists with verifiable completion proof. The goal
+isn't more tools; it's eliminating unnecessary fluff so the work is as simple as possible.
+The test for what to systemize: *"If you are doing something over and over, find ways to
+templatize or systemize it."* One small worked example: a repeated question about what's
+included in a standard vs. deep clean became a saved template in [[Harvest CRM]] instead
+of being retyped every time — a small fix that compounds once a business is handling ten
+bookings in a day.
+
 **The hiring SOP** — the worked example, kept in Notion:
 
 Indeed post → screen applicants (video of what to look for, plus accept/message/reject
@@ -103,6 +131,9 @@ months in Skool).
 - [ ] Log situations as they happen; document after the third occurrence
 - [ ] Prefer checklists to prose
 - [ ] Test it by handing it to someone else
+- [ ] Cover at minimum: intake/expectations, hiring, QA/photos, scope, cancellation
+      policy, complaint/redo/refund, payment failure, access issues
+- [ ] When the same question or message repeats, templatize it rather than retyping it
 - [ ] Confirm the Leads Engine can actually feed a VA work before onboarding one — see
       [[When To Hire A VA]]'s Rashawn example
 - [ ] Once several SOPs exist, tie them together in a top-level master operations manual

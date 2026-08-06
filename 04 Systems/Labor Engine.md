@@ -4,7 +4,7 @@ engine: [Labor]
 season: []
 laws: []
 status: Developing
-sources: [2025-03-25 Weekly Coaching Call, 2026-02-20 Weekly Coaching Call, 2026-02-24 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call]
+sources: [2025-03-25 Weekly Coaching Call, 2026-02-20 Weekly Coaching Call, 2026-02-24 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call, Cleaning Biz 101 — Operate]
 updated: 2026-08-06
 ---
 
@@ -33,6 +33,7 @@ is an index, not a second definition.
 - [[Handling Upset Clients]]
 - [[Spanish-Speaking Labor]]
 - [[Subcontractor Vs W-2]]
+- [[Internal Communication Via Discord]]
 
 ## Workflows & SOPs
 

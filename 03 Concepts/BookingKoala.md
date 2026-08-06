@@ -4,7 +4,7 @@ engine: [Logistics]
 season: []
 laws: []
 status: Developing
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Zapier The Software Glue, 2026-02-24 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call]
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Zapier The Software Glue, 2026-02-24 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, Cleaning Biz 101 — Fulfill]
 updated: 2026-08-06
 ---
 
@@ -110,7 +110,25 @@ monthly and it doesn't need to be manually recreated each time.
 
 **Automated reminders replace manual texting.** Set to fire 25 hours before, and again at
 24/48 hours before. This is what eliminates the nightly manual-text routine several
-members were still doing by hand.
+members were still doing by hand. `Cleaning Biz 101 — Fulfill` names a slightly different
+cadence for the same purpose — confirmation on booking, a 5-days-out reminder, a
+24-hours-out reminder, and an on-the-way text — plus a payment-charged confirmation as a
+distinct final touch. Treat both as the same underlying pattern (confirm → remind twice →
+arrival notice) with member-specific timing rather than a contradiction; no source states
+one cadence is superior to the other.
+
+**BookingKoala as the fulfillment "source of truth."** If a job is quoted or booked,
+BookingKoala is where scheduling and pricing details are trusted to live — not a head, a
+text thread, or a personal calendar. Its job, stated as a checklist: pricing and package
+consistency, calendar availability and scheduling rules, booking confirmations, reminder
+texts/emails, payment-charged notifications, recurring scheduling structure, and cleaners
+knowing their pay and schedule through the app. The single-sentence case for all of it:
+*"it prevents your business from being run by memory."*
+
+**Only book what a cleaner has actually marked available.** Booking against unconfirmed
+availability creates exactly the back-and-forth (with both the cleaner and the client)
+that a scheduling system exists to eliminate — treat marked availability as the hard
+constraint on what gets booked, not a soft preference.
 
 ## Checklist
 

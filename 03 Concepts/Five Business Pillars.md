@@ -3,8 +3,8 @@ type: concept
 engine: []
 season: [Survival]
 laws: [Build In Order]
-status: Developing
-sources: [2026-04-20 Weekly Coaching Call]
+status: Canonical
+sources: [2026-04-20 Weekly Coaching Call, Cleaning Biz 101 — Acquire, Cleaning Biz 101 — Convert, Cleaning Biz 101 — Fulfill, Cleaning Biz 101 — Finances]
 updated: 2026-08-06
 ---
 
@@ -15,23 +15,35 @@ updated: 2026-08-06
 
 ## Definition
 
-A generic five-part framework (Alex attributes the style to Hormozi's beginner content)
-used to orient a brand-new owner who is overwhelmed by the whole business at once:
-**Acquire** (get leads), **Convert** (turn leads into bookings), **Fulfill** (deliver the
-service), **Finances** (know the money), **Operate** (the systems and people that make
-everything run smoothly).
+A full five-part course framework — **Cleaning Biz 101**, not just an ad-hoc beginner
+simplification — structured as **Acquire** (get leads), **Convert** (turn leads into
+bookings), **Fulfill** (deliver the service), **Finances** (know the money), **Operate**
+(the systems and people that make everything run smoothly). Confirmed by the course's own
+per-pillar opening lessons: Acquire is defined as *"your lead engine — the stuff that
+makes strangers become interested enough to raise their hand."* Convert: *"Acquire gets
+people to raise their hand. Convert is what makes sure those raised hands actually turn
+into booked jobs."* Fulfill: *"Acquire gets leads. Convert gets bookings. Fulfill is what
+turns bookings into a smooth experience, happy clients, and clean operations."*
 
-> [!question] Relationship to [[Four Engines]] — not yet reconciled
-> This is a different model from the vault's Canon diagnostic ([[Four Engines]]: Leads,
-> Labor, Logistics, Leadership), taught to a different audience at a different moment. The
-> mapping is *approximate*, not identical: Acquire+Convert ≈ Leads, Fulfill ≈ Labor +
-> Logistics, Operate ≈ Logistics + Leadership, and Finances doesn't map to an Engine at
-> all — [[Four Engines]] treats finance as *"the health of all four, not a separate
-> production Engine,"* while this framework gives Finances its own pillar. No source
-> reconciles the two frameworks or explains why a beginner gets five pillars while an
-> established member gets four Engines. Recorded here per the Contradiction Protocol
-> rather than silently merged — do not teach these as the same model, and do not resolve
-> the "why five vs. four" question without a source that actually addresses it.
+> [!question] Relationship to [[Four Engines]] — still not reconciled, now better evidenced
+> Originally flagged from a single coaching call where Alex used this framework with a
+> brand-new owner; it turns out to be the spine of an entire separate course, which
+> strengthens rather than resolves the question. The mapping is still *approximate*, not
+> identical: Acquire+Convert ≈ Leads, Fulfill ≈ Labor + Logistics, Operate ≈ Logistics +
+> Leadership, and Finances doesn't map to an Engine at all — [[Four Engines]] treats
+> finance as *"the health of all four, not a separate production Engine,"* while this
+> framework gives Finances its own pillar. No source reconciles the two frameworks or
+> explains which one is meant to be primary, or why a foundational course teaches five
+> pillars while the diagnostic Canon page teaches four Engines. See the open Canon
+> proposal on this. Recorded here per the Contradiction Protocol — do not teach these as
+> the same model.
+>
+> One point of genuine convergence: the course's own Finances lesson describes money as
+> *"the scoreboard for the whole system"* that *"connects to everything"* — not a
+> separate, independent activity — which lines up closely with [[Four Engines]]'s
+> statement that finance is *"the health of all four, not a separate production
+> Engine."* Even inside this five-pillar course, Finances is taught with language that
+> undercuts treating it as a peer to the other four pillars. See [[Business Finances]].
 
 ## Why It Matters
 
@@ -90,6 +102,7 @@ paced — not "read everything this week."
 ## Videos
 
 [[2026-04-20 Weekly Coaching Call]]
+[[Cleaning Biz 101 — Acquire]] · [[Cleaning Biz 101 — Convert]] · [[Cleaning Biz 101 — Fulfill]] — the full course this framework is built from.
 
 ## Student Examples
 

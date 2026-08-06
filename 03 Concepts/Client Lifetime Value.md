@@ -4,7 +4,7 @@ engine: [Leads, Logistics]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing]
 status: Canonical
-sources: [2025-02-03 Weekly Coaching Call]
+sources: [2025-02-03 Weekly Coaching Call, Cleaning Biz 101 — Fulfill]
 updated: 2026-08-05
 ---
 
@@ -23,6 +23,15 @@ that justifies acquisition cost.
 Judge acquisition against one clean and almost no paid channel survives. Judge it against
 twelve months and the arithmetic changes completely.
 
+**Retention — the thing that makes lifetime value real — starts before the first
+clean, not after it.** `Cleaning Biz 101 — Fulfill` makes this point directly: clear
+confirmations, consistent reminders, professional arrival, and set expectations
+automatically increase repeat bookings, reviews, and referrals. Its framing: *"Fulfill is
+one of the biggest 'silent' drivers or killers of retention."* This is the operational
+half of the LTV math above — the number only gets realized if the delivery experience
+earns the next booking. See [[Sales Pipeline Stages]]'s Booked stages for the specific
+confirmation/reminder sequence this runs on.
+
 ## Models
 
 ```
@@ -40,6 +49,10 @@ profit each.
 
 Worth $200. Worth $300. The acquisition cost stops being scary once you know the number
 on the other side.
+
+`Cleaning Biz 101 — Fulfill` shows where the $179 itself comes from: it's a reverse-
+engineered flat rate ($60/hour target × ~3 measured hours for this job profile), not a
+round number picked at random. See [[Pricing Methodology]] for the full method.
 
 **A member's LSA math:** $560 spend → 31 leads → 22% close → 7 bookings → 3 recurring →
 **$3,500 in recurring revenue over the following four months.** $560 bought $3,500.
