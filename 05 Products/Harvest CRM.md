@@ -4,9 +4,9 @@ engine: [Logistics]
 season: []
 laws: []
 status: Draft — Unverified
-sources: [2026-08-05 1:1 Coaching Agreement]
-renders: []
-updated: 2026-08-05
+sources: [2026-08-05 1:1 Coaching Agreement, Get Phone Number + A2P Approval]
+renders: [A2P Verification, SMS Opt-In Consent]
+updated: 2026-08-06
 ---
 
 # Harvest CRM
@@ -34,17 +34,42 @@ Cancellable any time. From the 1:1 agreement:
 Canceling may limit our ability to support, track, optimize, or fulfill parts of a
 program, and may affect guarantee eligibility where the CRM is materially needed.
 
+## Setup
+
+Two paths, and which one a student is on changes what they have to do:
+
+| | DIY | DFY |
+|---|---|---|
+| Phone number | Student buys it: **Settings → Phone System** → local number | Handled on the first onboarding call |
+| A2P campaign | Student submits it — see [[A2P Verification]] | Handled on the first onboarding call |
+
+The lead form consent checkbox is the student's job either way, because it lives in their
+Facebook account and gets built before the CRM work starts. See [[SMS Opt-In Consent]].
+
+## Known Features
+
+Documented so far, from ingested sources. Far from complete.
+
+- **Phone System** — buy and manage a local number; A2P campaign submission
+- **Smart Lists** — self-updating filtered contact lists → [[Smart Lists]]
+- **SMS** — booking confirmations, on-the-way notices, reminders, promotions (gated on A2P)
+- **Pipeline** — updated from BookingKoala via [[Zapier]]; the CRM is not the booking tool
+
 ## Still Needed
 
 - Standard (non-student) pricing
-- What it actually does — features, workflows, automations
+- The rest of what it does — workflows, automations, pipelines, calendars
 - How it maps to the four Engines
-- Setup process and time to value
-- Whether it's built on a platform or proprietary
+- Time to value from signup
+- Whether it's built on a platform or proprietary — the A2P flow and "Low Volume Mixed"
+  campaign types point at a Twilio-backed white-label, but no source says so
 
 ## Related Concepts
 
 - [[Logistics Engine]]
+- [[A2P Verification]]
+- [[SMS Opt-In Consent]]
+- [[Smart Lists]]
 - [[1-1 Coaching]]
 - [[Four Seasons]]
 - [[Language]]

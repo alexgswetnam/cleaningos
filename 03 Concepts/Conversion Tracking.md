@@ -5,7 +5,7 @@ season: [Stability, Scale]
 laws: [Stop Guessing]
 status: Developing
 sources: [2025-02-03 Weekly Coaching Call, 2025-03-11 Weekly Coaching Call]
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 # Conversion Tracking
@@ -63,12 +63,9 @@ cut. Without the plumbing below, the only remaining tool is the crude
 
 ## Student Examples
 
-- [[Marketing Math]]
-- [[PPC Landing Page Strategy]]
-- [[Close Rate By Channel]]
-- [[KPI Tracking Sheet]]
-- [[Channel Prioritization]]
-- [[Quality Complaints]]
+**Rick** — ran PPC and LSA at the same time with everything reporting through the LSA
+dashboard, and so could not tell which channel to cut. The attribution gap, not the
+spend, was the problem.
 
 ## AI Prompts
 
@@ -88,4 +85,10 @@ cut. Without the plumbing below, the only remaining tool is the crude
 
 ## Related Concepts
 
-
+- [[Marketing Math]]
+- [[PPC Landing Page Strategy]]
+- [[Close Rate By Channel]]
+- [[KPI Tracking Sheet]]
+- [[Channel Prioritization]]
+- [[Quality Complaints]]
+- [[SMS Opt-In Consent]]

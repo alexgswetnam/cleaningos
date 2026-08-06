@@ -5,7 +5,7 @@ season: [Scale, Harvest]
 laws: [Build In Order, One Step Wins]
 status: Canonical
 sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks]
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 # SOPs
@@ -121,3 +121,5 @@ a VA. Logistics was her secondary constraint.
 - [[Business Valuation]]
 - [[When To Hire A VA]]
 - [[Hiring Channels]]
+- [[Zapier]]
+- [[BookingKoala]]

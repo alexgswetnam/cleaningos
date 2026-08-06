@@ -5,7 +5,7 @@ season: []
 laws: []
 status: Developing
 sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call, leads 101 — Marketing Basics series, Premium Workshop — 4 Seasons, 4 Bottlenecks]
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 # Leads Engine
@@ -41,6 +41,12 @@ is an index, not a second definition.
 - [[KPI Tracking Sheet]]
 - [[Sales Happen On The Phone]]
 - [[Call Breakdowns]]
+- [[Marketing Budget]]
+- [[Marketing Seasonality]]
+- [[Not Every Client Is Your Client]]
+- [[Drop Scope Not Price]]
+- [[Price Objection]]
+- [[SMS Opt-In Consent]]
 
 ## Workflows & SOPs
 
@@ -62,11 +68,6 @@ What matters in this engine at each stage. Populated once [[Four Seasons]] is na
 > The course is structured as **Engine × Season** — there's a *"Marketing Basics [Season]
 > Coaching"* lesson for each. Survival and Stability rows are inferred from adjacent
 > material; those two lessons are not yet translated.
-- [[Marketing Budget]]
-- [[Marketing Seasonality]]
-- [[Not Every Client Is Your Client]]
-- [[Drop Scope Not Price]]
-- [[Price Objection]]
 
 ## Health Check
 

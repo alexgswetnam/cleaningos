@@ -4,8 +4,8 @@ engine: [Logistics]
 season: []
 laws: []
 status: Developing
-sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call]
-updated: 2026-08-05
+sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call, Get Phone Number + A2P Approval, Zapier The Software Glue]
+updated: 2026-08-06
 ---
 
 # Logistics Engine
@@ -27,8 +27,11 @@ is an index, not a second definition.
 - [[Quality Complaints]]
 - [[The Walkthrough]]
 - [[A2P Verification]]
+- [[SMS Opt-In Consent]]
 - [[Scheduling Cleans]]
 - [[SOPs]]
+- [[Zapier]]
+- [[BookingKoala]]
 
 ## Workflows & SOPs
 
