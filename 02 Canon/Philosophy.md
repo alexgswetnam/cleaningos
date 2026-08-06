@@ -2,7 +2,7 @@
 type: canon
 title: Philosophy
 status: Canonical
-sources: [Core IP 2026-08-05, 1:1 Coaching Agreement 2026-08-05, Alex direct 2026-08-05, 2025-02-03 Weekly Coaching Call]
+sources: [Core IP 2026-08-05, 1:1 Coaching Agreement 2026-08-05, Alex direct 2026-08-05, 2025-02-03 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks, leads 101 — Marketing Basics series]
 updated: 2026-08-05
 ---
 
@@ -100,6 +100,18 @@ poured into weak sales, unavailable labor, or broken fulfillment don't create gr
 **4. A small cleaning company should use systems, VAs, automation, and AI earlier than
 traditional operators think** — but only after the owner understands the work being
 delegated. **Delegating confusion simply spreads confusion.**
+
+**5. Your business is limited to who you are.**
+
+> "Your business is limited to who you are as a person — your beliefs and your skillset."
+
+Bad at marketing and the business has bad marketing. Can't sell and the business can't
+sell. In a large company specialists cover each area; as a small owner you're the jack of
+all trades. There are only two ways through: **improve the skill, or hire someone who has
+it.**
+
+This is why personal development and business development aren't separable here — and why
+the [[Four Roles]] matter as much as the Engines.
 
 ## What We Reject
 
@@ -207,8 +219,26 @@ understand what the job takes. Source: [[2025-02-03 Weekly Coaching Call]].
 *"I'm not looking to pocket $400 a month and go, look at my profit. I want to put that
 right back into marketing."*
 
+**3. Damaging early client relationships by not knowing the operational side.**
+
+*What he believed:* that being good at getting clients was the hard part.
+
+*What actually happened:*
+
+> "We also messed up some relationships early because we did not know what we were doing
+> on the cleaning side. **We sent bad cleaners, priced incorrectly, quoted incorrectly,
+> promised things, and underdelivered.**"
+
+*The rule now:* the two gates before spending on marketing — can you convert, and **can
+your team deliver and retain?** Buying leads you'll disappoint costs twice. See
+[[Marketing Budget]].
+
+Note this is the same root cause as failure #1, showing up as a pattern rather than an
+incident: strong at demand, weak at fulfilment, and the gap showed up in the client
+experience.
+
 > [!question] Still needed — one or two more
-> Two real stories are now on the page, both from Alex's own sources. The structure wants
+> Three real stories are now on the page, all from Alex's own sources. The structure wants
 > three to five. The gap is narrowing on its own as calls get ingested — which is the
 > system working.
 

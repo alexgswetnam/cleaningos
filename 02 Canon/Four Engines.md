@@ -2,13 +2,26 @@
 type: canon
 title: Four Engines
 status: Canonical
-sources: [Core IP 2026-08-05]
+sources: [Core IP 2026-08-05, Premium Workshop — 4 Seasons, 4 Bottlenecks]
 updated: 2026-08-05
+superseded: 2026-08-05
 ---
 
 # The Four Engines
 
 **Leads · Labor · Logistics · Leadership**
+
+> [!failure]- Superseded — they used to be called Bottlenecks
+> Previously: **"The 4 Bottlenecks."**
+> Source: [[Premium Workshop — 4 Seasons, 4 Bottlenecks]] — the workshop title itself.
+> Replaced by: **Engines.** Alex's reasoning, from the Core IP doc: *"They are also
+> bottlenecks, but 'Engine' emphasizes that each one must produce something for the
+> business to move."*
+> Reason: renamed. Same four areas, same diagnostic. **Bottleneck now describes the
+> failure state of an Engine, not the Engine itself.**
+>
+> Agents: never teach "the 4 Bottlenecks." Older course material still uses it; that is
+> expected and is not a contradiction to re-flag.
 
 Every concept belongs to at least one Engine, declared in frontmatter. Each Engine has a
 hub page in `04 Systems/` holding its workflows and SOPs — this page defines what each
@@ -58,6 +71,17 @@ Three categories would combine problems that require different solutions. Five w
 usually split one of these jobs into a subcategory and make the diagnostic less useful.
 
 ---
+
+## Each Engine Splits In Two
+
+From the workshop — useful when diagnosing, because the two halves fail differently:
+
+| Engine | Splits into |
+|---|---|
+| **Leads** | Marketing (getting them) + Sales (closing them) — see [[Leads Problem Or Sales Problem]] |
+| **Labor** | Finding · hiring · retaining · **backup** |
+| **Logistics** | Systems · SOPs · CRM · scheduling · communication |
+| **Leadership** | Delegation · ownership culture · accountability · someone else can step in |
 
 ## Which Breaks First
 

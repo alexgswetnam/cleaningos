@@ -2,7 +2,7 @@
 type: canon
 title: Four Seasons
 status: Canonical
-sources: [Core IP 2026-08-05, Alex direct 2026-08-05, 2025-03-25 Weekly Coaching Call]
+sources: [Core IP 2026-08-05, Alex direct 2026-08-05, 2025-03-25 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks]
 updated: 2026-08-05
 superseded: 2026-08-05
 ---

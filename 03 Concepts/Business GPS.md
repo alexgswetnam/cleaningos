@@ -3,8 +3,8 @@ type: concept
 engine: []
 season: []
 laws: [Stop Guessing, Clarity Creates Momentum]
-status: Developing
-sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call]
+status: Canonical
+sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks]
 updated: 2026-08-05
 ---
 
@@ -18,12 +18,18 @@ updated: 2026-08-05
 The diagnostic instrument of CleaningOS. It locates an owner across the [[Four Engines]]
 and [[Four Seasons]], identifies the constraining Engine, and names the next action.
 
-> [!question] Needs Alex
-> Referenced on the 2025-03-25 call as **"the quiz"** — *"in the quiz, it talks about
-> this... there's leads, labor, logistics, and leadership."*
->
-> Unresolved: is Business GPS the quiz, a product, or the whole diagnostic method? Is
-> "the quiz" a separate lead magnet? See `VERIFY.md`.
+**The method, from the Premium Workshop:**
+
+1. Rate your business across all four [[Four Engines|Engines]]
+2. For each, assign a [[Four Seasons|Season]] — Survival, Stability, Scale, or Harvest
+3. **The one lagging behind the others is your constraint**
+4. Fix that before working on anything else
+5. Re-evaluate — the next constraint will emerge
+6. Repeat
+
+> [!question] Still unresolved
+> Is **Business GPS** the name of this diagnostic, of "the quiz" referenced on calls, or
+> of a separate product? The method is now documented; the naming isn't.
 
 ## Why It Matters
 
@@ -61,6 +67,17 @@ constraining one determines the work. See [[Four Seasons]].
 
 ## Student Examples
 
+**Three worked evaluations from the workshop:**
+
+| | Leads | Labor | Logistics | Leadership | Constraint |
+|---|---|---|---|---|---|
+| **Rick** | Stability | Stability/Scale | Stability/Scale | Stability/Scale | **Leads — sales side.** Channels exist, objection handling weak, 20–25% close |
+| **Courtney** | Survival/Stability | Stability | Stability | Stability | **Leads primary** (no paid channel she controls), **Logistics secondary** (no SOPs, can't delegate) |
+| **Alex** | Scale | **Scale — constrained** | Harvest | Harvest | **Labor only.** Can't spend more on marketing without more cleaners. Owners work ~1 hr/week. |
+
+Note Courtney's Labor reading: solid team, but losing two cleaners would be a crisis. No
+backup coverage. See [[Backup Cleaner]].
+
 **Courtney** — a live worked example. Two constraints (leads and labor), diagnosis
 delivered on the call: Labor is the constraint, hire first. See [[Labor Before Leads]].
 
@@ -87,5 +104,6 @@ delivered on the call: Labor is the constraint, hire first. See [[Labor Before L
 - [[Five Laws]]
 - [[Labor Before Leads]]
 - [[Philosophy]]
+- [[Four Roles]]
 - [[Leads Problem Or Sales Problem]]
 - [[Marketing Math]]

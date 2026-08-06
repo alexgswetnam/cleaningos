@@ -16,6 +16,7 @@ This is the proof behind CleaningOS — every claim in the Canon was tested here
 
 ## What's Confirmed
 
+- **Founded:** February 2025 — first clients from that cohort were still recurring a year later
 - **Name:** The Faithful Cleaners
 - **Location:** Prosper, TX (Dallas area)
 - **GBP name format:** *"The Faithful Cleaners House Cleaning Service Prosper"* — the
@@ -47,7 +48,7 @@ About half of all leads were free. See [[Marketing Math]].
 
 ## The First Four Months
 
-Month 1: $4,000 marketing, ~$8K revenue, lost ~$1,500. Month 2: $3,000, still losing.
+Month 1: ~$4,000 marketing (on a credit card), $6–8K revenue *(contested)*, lost money. Month 2: $3,000, still losing.
 Month 3: $0 spend, ~$4,000 in recurring bookings. Month 4: breakeven, then profitable.
 See [[Month One Loses Money]].
 

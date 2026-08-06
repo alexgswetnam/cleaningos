@@ -4,7 +4,7 @@ engine: [Leadership]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call]
+sources: [2025-03-25 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks]
 updated: 2026-08-05
 ---
 
@@ -121,3 +121,5 @@ signal is the pattern, not any single instance.
 - [[Hiring Channels]]
 - [[Reviews As Asset Not Identity]]
 - [[Four Engines]]
+- [[When To Hire A VA]]
+- [[SOPs]]

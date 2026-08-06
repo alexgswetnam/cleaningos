@@ -4,7 +4,7 @@ engine: [Leads]
 season: []
 laws: []
 status: Developing
-sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call]
+sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call, leads 101 — Marketing Basics series, Premium Workshop — 4 Seasons, 4 Bottlenecks]
 updated: 2026-08-05
 ---
 
@@ -52,7 +52,19 @@ What matters in this engine at each stage. Populated once [[Four Seasons]] is na
 
 | Season | Focus | Ignore |
 |---|---|---|
-| Survival | | |
+| **Survival** | Prove you can create demand and convert it. See [[Marketing Budget]] — the two gates. | Channel optimisation. Scale tactics. |
+| **Stability** | Start tracking. [[KPI Tracking Sheet]], [[Marketing Math]]. Find whether it's [[Leads Problem Or Sales Problem]]. | Adding channels. |
+| **Scale** | *"Marketing is an equation."* Optimise cost per lead, best practices per channel. Then increase spend. Confirm sales and systems can absorb 3–5 more leads a day **before** you do. | Forcing a weak channel — *"squeezing LSA when you should be doing PPC."* |
+| **Harvest** | Zoom out to yearly trends. [[Marketing Seasonality]]. Referral programs, email follow-up. Always be testing creative, copy, landing pages. | Judging any single month in isolation. |
+
+> The course is structured as **Engine × Season** — there's a *"Marketing Basics [Season]
+> Coaching"* lesson for each. Survival and Stability rows are inferred from adjacent
+> material; those two lessons are not yet translated.
+- [[Marketing Budget]]
+- [[Marketing Seasonality]]
+- [[Not Every Client Is Your Client]]
+- [[Drop Scope Not Price]]
+- [[Price Objection]]
 
 ## Health Check
 

@@ -4,8 +4,9 @@ engine: [Leads]
 season: [Survival]
 laws: [Build In Order, Clarity Creates Momentum]
 status: Canonical
-sources: [2025-02-03 Weekly Coaching Call]
+sources: [2025-02-03 Weekly Coaching Call, leads 101 — Marketing Basics series]
 updated: 2026-08-05
+contested: true
 ---
 
 # Month One Loses Money
@@ -35,7 +36,7 @@ P&L, they panic and turn it off — right before the recurring revenue arrives.
 
 | Month | Marketing | Result |
 |---|---|---|
-| 1 | $4,000 | ~$8K revenue, lost ~$1,500 after cleaners and overhead |
+| 1 | $4,000 | ~$6–8K revenue *(contested, see below)*, lost money after cleaners |
 | 2 | $3,000 | still lost money |
 | 3 | $0 | ~$4,000 in bookings, all recurring |
 | 4 | — | breakeven, then profitable |
@@ -91,7 +92,17 @@ CPA is absurd or nobody recurs, it's the channel.
 
 ## Conflict History
 
-*None.*
+> [!warning] Contested — first-month revenue
+> **Claim A:** ~$8,000. *"Our first month we spent $4,000 in marketing and we brought in
+> like eight grand in business."* — [[2025-02-03 Weekly Coaching Call]]
+> **Claim B:** ~$6,000. *"In our first month, we did about $6,000 in cleans."* —
+> [[leads 101 — Marketing Basics series]]
+> **Unresolved since:** 2026-08-05
+> **What would settle it:** Alex's actual books for month one (February 2025).
+>
+> Both are Alex, recalling the same month. Most likely imprecise recall rather than a real
+> change. **Don't put either figure in marketing until it's checked.** The ad spend
+> ($4,000) and the shape of the pattern are consistent across both.
 
 ## Presented In
 
@@ -104,3 +115,5 @@ CPA is absurd or nobody recurs, it's the channel.
 - [[One-Time To Recurring]]
 - [[Channel Prioritization]]
 - [[Five Laws|Build In Order]]
+- [[Marketing Budget]]
+- [[Marketing Seasonality]]
