@@ -3,8 +3,8 @@ type: concept
 engine: [Logistics, Labor]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum]
-status: Stub
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-02-24 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call]
+status: Developing
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-02-24 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, Every SOP We Use]
 updated: 2026-08-06
 ---
 

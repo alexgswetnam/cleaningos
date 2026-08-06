@@ -4,7 +4,7 @@ engine: [Logistics]
 season: []
 laws: []
 status: Developing
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Zapier The Software Glue, 2026-02-24 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, Cleaning Biz 101 — Fulfill]
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Zapier The Software Glue, 2026-02-24 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, Cleaning Biz 101 — Fulfill, Every SOP We Use]
 updated: 2026-08-06
 ---
 
@@ -130,6 +130,20 @@ availability creates exactly the back-and-forth (with both the cleaner and the c
 that a scheduling system exists to eliminate — treat marked availability as the hard
 constraint on what gets booked, not a soft preference.
 
+**When BookingKoala itself goes down: a manual backup, not a freeze.** The rule stated
+plainly: *"Your software supports your business — it doesn't run it."* If the system
+goes offline, the business shouldn't stop. A 3-step emergency process: (1) **Admin** —
+pull every booking from email confirmations ("Cleaning Scheduled" / "New Booking" /
+"Cleaning Assigned"), rebuild a temporary schedule in a spreadsheet or the team
+communication channel (cleaner, client, time, address, notes — see
+[[Internal Communication Via Discord]]), and notify cleaners and clients that the system
+is temporarily down but their cleaning is still on. (2) **Cleaners** — work off the
+emailed details directly, and report anything missing or unclear to admin immediately
+rather than guessing. (3) **Restore** — once BookingKoala is back, enter every manual
+note, confirm schedule accuracy, and tell the team normal operations have resumed. The
+common failure mode this prevents: freezing when the system fails instead of switching
+to the manual process immediately.
+
 ## Checklist
 
 - [ ] Check the cleaner's week view before offering times to a client
@@ -144,6 +158,10 @@ constraint on what gets booked, not a soft preference.
 - [ ] Review the full calendar for double bookings at the start of every month
 - [ ] Look at least two weeks ahead for holidays and preemptively move affected cleans
 - [ ] Watch for recurring clients silently disappearing after ~1 year — known bug, no fix
+- [ ] If BookingKoala goes down: admin pulls bookings from email, builds a temporary
+      schedule, notifies cleaners and clients — don't freeze
+- [ ] On restore: log all manual notes back into the system and confirm accuracy before
+      declaring normal operations resumed
 
 ## Templates
 
@@ -157,6 +175,7 @@ constraint on what gets booked, not a soft preference.
 - [[2026-02-24 Weekly Coaching Call]] — live scheduling walkthrough
 - [[2026-03-04 Weekly Coaching Call]] — double-booking fix, provider colors, split-screen
 - [[2026-04-01 Weekly Coaching Call]] — monthly + daily double-booking checks, holiday quirk, disappearing-client bug
+- [[Every SOP We Use]] — "BK Down SOP" lesson
 
 ## Student Examples
 

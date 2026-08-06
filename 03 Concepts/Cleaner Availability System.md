@@ -4,7 +4,7 @@ engine: [Labor, Logistics]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing]
 status: Canonical
-sources: [2026-02-24 Weekly Coaching Call]
+sources: [2026-02-24 Weekly Coaching Call, Every SOP We Use]
 updated: 2026-08-06
 ---
 
@@ -61,6 +61,22 @@ rather than you manually assigning each job.
 **If someone is still unreliable despite this,** that's not an availability-system
 problem — see [[Scheduling Cleans]] → Common Mistakes.
 
+**The cleaner-side mechanics, in BookingKoala.** Two layers: a **default availability**
+(baseline days/times, set once via Manage Availability → Change Availability → Default
+Availability) and a **weekly update** for that specific upcoming week (Manage
+Availability → Change Availability → Specific Date), where a cleaner adds extra open days
+or marks days they can't work. Best practice is to update by Friday for the coming week,
+at least a week out where possible — and **don't change availability within 72 hours of a
+scheduled cleaning** except for a genuine emergency, in which case notify the team
+immediately.
+
+**The admin-side half of the same Friday routine.** [[SOPs]]'s weekly close-out process
+runs this from the other direction: confirm every cleaner's availability for next week
+(manually or via an automated reminder) and update the payment tracking sheet with
+completed jobs, durations, and any adjustments — see [[Business Finances]] for the pay
+side. The point of running both halves the same day: no surprises going into the next
+week, on either the schedule or the payroll.
+
 ## Checklist
 
 - [ ] Send the Friday availability text to every cleaner
@@ -69,6 +85,12 @@ problem — see [[Scheduling Cleans]] → Common Mistakes.
 - [ ] At scale, offer open slots to all available cleaners — first response wins
 - [ ] If unreliability persists despite this system, replace the cleaner rather than
       building more automation
+- [ ] Cleaners set a default (baseline) availability once, and update it for the specific
+      upcoming week by Friday
+- [ ] No availability changes within 72 hours of a scheduled clean except genuine
+      emergencies, reported immediately
+- [ ] Admin side: same Friday, confirm every cleaner's availability and update the
+      payment tracking sheet together
 
 ## Templates
 
@@ -79,6 +101,7 @@ problem — see [[Scheduling Cleans]] → Common Mistakes.
 ## Videos
 
 [[2026-02-24 Weekly Coaching Call]]
+[[Every SOP We Use]] — "FOR CLEANERS: Cleaner Schedule SOP" and "EOW/Friday SOP" lessons.
 
 ## Student Examples
 

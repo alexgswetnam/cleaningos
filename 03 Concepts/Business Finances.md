@@ -4,7 +4,7 @@ engine: []
 season: [Stability, Scale]
 laws: [Stop Guessing]
 status: Canonical
-sources: [Cleaning Biz 101 — Finances]
+sources: [Cleaning Biz 101 — Finances, Every SOP We Use]
 updated: 2026-08-06
 ---
 
@@ -69,7 +69,19 @@ weekly nightmare until it was simplified around a bank that supports fast Zelle
 transfers (PNC Bank, whose Zelle limit was raised after a month of use). The goals: pay
 accurately, pay on time, keep it easy to track, and reduce back-and-forth. A tracking
 sheet that logs hours worked doubles as a pay stub generator, showing exactly how many
-hours each cleaner worked and what they're owed each week.
+hours each cleaner worked and what they're owed each week. This hours-worked tracking is
+a reference/verification layer, not the pay formula itself — actual pay is a percentage
+of job revenue, not hourly; see [[Cleaner Pay Structure]].
+
+**The weekly cleaner-pay SOP, step by step.** Log every clean immediately after
+completion (cleaner, date, service type, and any notes for re-cleans, reschedules, or
+cancellations). At the end of the week, review the full log and adjust for re-cleans,
+cancellations, and reschedules — see [[Quality Complaints]] for how a re-clean cost gets
+allocated between the business and the cleaner. Verify every entry before issuing pay,
+confirming tips are accounted for separately (paid straight through to the cleaner, not
+folded into base pay). Issue payment weekly on a consistent method, and document it in
+the tracking system. A simple "reviewed by" field on the weekly sheet adds
+accountability.
 
 ## Checklist
 
@@ -78,6 +90,11 @@ hours each cleaner worked and what they're owed each week.
 - [ ] Use a bank/payment method that supports fast transfers (e.g. Zelle) for cleaner pay
 - [ ] Generate a weekly pay stub directly from hours-worked tracking, not a separate calculation
 - [ ] When any Engine's numbers look off, check whether it's actually a finance-tracking gap
+- [ ] Every clean logged immediately after completion, not batched at week's end
+- [ ] Weekly review adjusts for re-cleans, cancellations, and reschedules before pay is
+      issued
+- [ ] Tips accounted for separately from base pay
+- [ ] Weekly payment issued on a consistent method and documented
 
 ## Templates
 
@@ -86,6 +103,7 @@ hours each cleaner worked and what they're owed each week.
 ## Videos
 
 [[Cleaning Biz 101 — Finances]]
+[[Every SOP We Use]] — "Paying Cleaners SOP" lesson.
 
 ## Student Examples
 
@@ -115,3 +133,5 @@ limits; uses Wave for categorized bookkeeping; recommends the Profit First book 
 - [[KPI Tracking Sheet]]
 - [[Marketing Math]]
 - [[Client Lifetime Value]]
+- [[Cleaner Pay Structure]]
+- [[Cleaner Availability System]]

@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Stability, Scale]
 laws: []
 status: Canonical
-sources: [Free Thumbtack Leads + GBP Optimization]
+sources: [Free Thumbtack Leads + GBP Optimization, Every SOP We Use]
 updated: 2026-08-06
 ---
 
@@ -62,6 +62,15 @@ either step. A client who's agreed and is holding the phone has no excuse not to
 through in the next thirty seconds; a client who hangs up with a vague promise usually
 just forgets.
 
+**The broader version of the same call also confirms recurring and payment.** A second
+source describes the same check-in call folding in two more objectives before the review
+ask, in this order: confirm the next recurring clean is still scheduled (or offer to set
+one up if there isn't one), then handle payment if it hasn't been collected yet — see
+[[Payment Verification & Collection]] — and only then move to the review ask. If the
+feedback wasn't positive, the call branches to a fix-it plan instead of the review ask:
+*"Thanks for letting me know—that's exactly what I want to hear so we can fix it. Can you
+tell me a little more about what was missed?"*
+
 ## Checklist
 
 - [ ] Call every first-time client after their clean, not just problem cases
@@ -70,6 +79,8 @@ just forgets.
 - [ ] Send the review link live, on the same call, the moment they say yes
 - [ ] Confirm receipt before ending the call
 - [ ] Never say "I'll send it after we hang up"
+- [ ] If run as the fuller check-in call: confirm the next recurring date, then handle
+      any outstanding payment, before the review ask
 
 ## Templates
 
@@ -77,10 +88,15 @@ just forgets.
 - "I love to hear that. I'll make sure [cleaner name] knows. She gets a bonus for great reviews, so it means a lot."
 - "Would you mind leaving us a five-star review? It takes 30 seconds."
 - "Did you get it? ... Thank you for doing it. It really helps us."
+- "I've got your next clean set for [Date], does that still work for you?" (recurring
+  confirmation)
+- "I noticed we don't have a payment on file. How would you like to take care of today's
+  clean?" (payment, if needed)
 
 ## Videos
 
 [[Free Thumbtack Leads + GBP Optimization]]
+[[Every SOP We Use]] — "Customer Post-Clean Script" and "How to Get Reviews" lessons.
 
 ## Student Examples
 
@@ -111,3 +127,5 @@ gap for the client to forget or deprioritize it.
 - [[Channel Prioritization]]
 - [[Google Business Profile Naming]]
 - [[Leads Engine]]
+- [[Payment Verification & Collection]]
+- [[Review Response Scripts]]

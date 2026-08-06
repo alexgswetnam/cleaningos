@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum, Stop Guessing]
 status: Canonical
-sources: [Cleaning Biz 101 — Convert]
+sources: [Cleaning Biz 101 — Convert, Every SOP We Use]
 updated: 2026-08-06
 ---
 
@@ -98,6 +98,27 @@ independently-built VIP workflow, which used a single 60-day trigger for lapsed 
 clients — this pipeline's 30/60–90/180/365-day cadence is a more granular version of the
 same idea, staged rather than single-trigger.
 
+**A simplified teaching version of the same pipeline, and two statuses worth naming
+explicitly.** A second source teaches the same pipeline as five active stages (New Lead,
+Follow-Up, Quoted, Booked, Long Term Follow-Up) plus two closed-out statuses:
+**Cancelled/Declined** (the lead was worked but didn't convert) and **Do Not Contact**
+(the lead explicitly asked to stop being contacted). Do Not Contact isn't new — it's
+already this page's exit criteria for a "bad fit" out of Quoted — but this source elevates
+it to an explicit, always-visible status rather than an implicit exit path, and adds
+Cancelled/Declined as a similar closed status for tracking why leads didn't convert. Its
+follow-up cadence is coarser than the 30/60–90/180/365 schedule above (initial contact →
+4–6 hours → 24–48 hours → 30–90 days for long-term), which reads as a simplified version
+of the same structure rather than a genuine conflict.
+
+**The daily operating habit that keeps the pipeline from silently rotting.** Check the
+dashboard daily; clear every due/overdue task, and either assign the next task or move the
+lead's stage when a task completes. Leads in Follow-Up/Quoted with many touches and no
+response move to Long Term Follow Up; leads with fewer touches get the current task
+completed and a new one assigned two days out. New "hot" leads get called once daily
+(texting is automated). Before ending the check, confirm every lead sitting in
+Follow-Up/Quoted actually has a task assigned — an untasked lead in an active stage is
+how leads get silently lost.
+
 ## Checklist
 
 - [ ] Every lead tagged with source at the moment it enters the pipeline
@@ -108,6 +129,10 @@ same idea, staged rather than single-trigger.
 - [ ] One-time bookings enrolled in a 2–3 month store-credit follow-up sequence
 - [ ] Long Term Follow Up cadence live: 30 / 60–90 / 180 / 365 days
 - [ ] Bottlenecks reviewed by stage (e.g. many Quoted, few Booked = follow-up problem)
+- [ ] Dashboard checked daily; every due/overdue task cleared same day
+- [ ] Every lead in Follow-Up/Quoted has an assigned task — none left untasked
+- [ ] Cancelled/Declined and Do Not Contact tracked as explicit statuses, not silent
+      drop-offs
 
 ## Templates
 
@@ -120,6 +145,8 @@ same idea, staged rather than single-trigger.
 ## Videos
 
 [[Cleaning Biz 101 — Convert]]
+[[Every SOP We Use]] — "How to Manage GHL Sales Pipeline" and "In-Depth Breakdown of GHL
+Stages/Responsibilities" lessons.
 
 ## Student Examples
 
@@ -152,3 +179,4 @@ structure for a business already past the earliest stage, not a minimum viable s
 - [[Reactivating Past Clients]]
 - [[Conversion Tracking]]
 - [[Leads Engine]]
+- [[Weekend Operations]]

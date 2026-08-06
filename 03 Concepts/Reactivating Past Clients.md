@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Stability, Scale]
 laws: [One Step Wins]
 status: Developing
-sources: [2025-03-25 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Cleaning Biz 101 — Acquire, Cleaning Biz 101 — Convert]
+sources: [2025-03-25 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Cleaning Biz 101 — Acquire, Cleaning Biz 101 — Convert, Every SOP We Use]
 updated: 2026-08-06
 ---
 
@@ -69,6 +69,20 @@ It's a numbers game — call enough people and some book. A VA can be assigned t
 slow seasons or around holidays. For most owners this list is "untapped": a free source
 sitting unused ahead of any ad spend.
 
+**A three-segment SMS system, for a lighter-touch version of the same idea.** Rather than
+one blanket win-back blast, split the database into three [[Smart Lists|smart-list]]-style
+segments and text each differently:
+
+1. **Last-minute openings** — clients who haven't booked recently, eligible for a quick
+   fill when a cleaner has an open slot within 72 hours.
+2. **Warm reactivation** — booked 2–6 months ago, no outreach in the last 30 days,
+   positive history.
+3. **Full reactivation** — booked 6+ months ago, hasn't opted out, targeted quarterly.
+
+Automation rules that keep this from feeling spammy: exclude anyone who's had recent
+outreach, skip anyone marked do-not-contact, track responses to avoid duplicate touches,
+and schedule a follow-up for non-responders rather than a one-shot blast.
+
 ## Checklist
 
 - [ ] Run the default one-time win-back sequence on past clients who've gone quiet
@@ -79,15 +93,32 @@ sitting unused ahead of any ad spend.
 - [ ] Before restarting paid ads, call the database directly — old one-time clients,
       never-booked leads, people who went quiet
 - [ ] Call like a human check-in, not a cold pitch — let a promotion come up naturally
+- [ ] For SMS outreach: segment into last-minute openings / warm (2–6mo) / full (6mo+)
+      rather than one blanket blast
+- [ ] Exclude recent-outreach and do-not-contact contacts automatically; log responses
+      and schedule follow-ups for non-responders
 
 ## Templates
 
-*None yet — Rick's exact webhook/workflow configuration isn't documented.*
+*Rick's exact webhook/workflow configuration isn't documented.*
+
+**Last-minute openings (SMS):**
+> "Hi [Client Name]! We have a spot open in your area in the next couple of days. Want
+> me to check if it works for you?"
+
+**Warm reactivation (SMS):**
+> "Hey [Client Name]! How's the house looking lately? Want me to pull up available times
+> for a touch-up cleaning this month?"
+
+**Full reactivation (SMS):**
+> "Hi [Client Name]! It's been a while since your last cleaning. We're offering seasonal
+> refresh options this week — want details?"
 
 ## Videos
 
 [[2026-03-04 Weekly Coaching Call]] — Rick's VIP lapsed-recurring workflow.
 [[2026-04-01 Weekly Coaching Call]] — calling the database as a free organic channel.
+[[Every SOP We Use]] — "Database Reactivation & Last-Second Smart List SOP" lesson.
 
 ## Student Examples
 

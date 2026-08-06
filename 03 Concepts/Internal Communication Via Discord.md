@@ -4,7 +4,7 @@ engine: [Logistics, Labor]
 season: [Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Cleaning Biz 101 — Operate]
+sources: [Cleaning Biz 101 — Operate, Every SOP We Use]
 updated: 2026-08-06
 ---
 
@@ -65,6 +65,14 @@ thread can bury something.
 [[Harvest CRM]] data into the ops room so daily numbers — leads today, how cleans went,
 new bookings — are visible without manually checking multiple tools.
 
+**A second source corroborates the two-app split independently** ("text-based platform
+for day-to-day, call app for urgent voice") and adds a concrete channel structure:
+`#announcements` for important updates, `#daily-jobs` for schedule updates, `#questions`
+for quick team support, with optional channels like `#supplies` or `#feedback` as
+needed. Etiquette additions: use @mentions when you specifically need someone's
+attention, send photos/videos to document issues or completed work, and reply in
+threads to keep parallel conversations from tangling together.
+
 ## Checklist
 
 - [ ] Move all cleaner communication to one platform with reliable notifications
@@ -72,6 +80,8 @@ new bookings — are visible without manually checking multiple tools.
 - [ ] Set notifications to "All Messages" for at least Announcements and Daily Jobs
 - [ ] Organize channels by topic rather than one undifferentiated feed
 - [ ] Pipe key daily numbers (leads, cleans, bookings) into the same space via automation
+- [ ] Channels split by purpose at minimum: announcements, daily jobs, questions
+- [ ] Use @mentions for anything needing a specific person's attention; reply in threads
 
 ## Templates
 
@@ -82,6 +92,7 @@ new bookings — are visible without manually checking multiple tools.
 ## Videos
 
 [[Cleaning Biz 101 — Operate]]
+[[Every SOP We Use]] — "How to Get Cleaners on Discord" lesson.
 
 ## Student Examples
 
