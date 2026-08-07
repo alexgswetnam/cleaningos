@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call, Objection Handling Course]
+sources: [2025-03-25 Weekly Coaching Call, Objection Handling Course, Weekly Sales Training Call — April 2, Weekly Sales Training Call — Harvest CRM, BookingKoala & Zapier Integration]
 updated: 2026-08-06
 ---
 
@@ -83,6 +83,37 @@ You will not book 100% of people on the phone.
 This is the piece [[Word Tracks]] flags as missing when a deal dies at this objection: not
 a better line, but *no plan* for the prospect who genuinely does still need to shop.
 
+**A third, independent source gives the same affirm-then-ask move a specific follow-up
+question for "I'm comparing quotes,"** with a branch depending on the answer:
+
+> "Absolutely. When you're comparing, what specifically are you looking for — best price,
+> best quality, or both?"
+
+If they say price: *"You don't want to go with the cheapest and then have to clean up
+after them, right? We're a bit more expensive, but we have a satisfaction guarantee. And
+we can actually create a custom plan that's more affordable while still getting the job
+done."* — the segue into [[Drop Scope Not Price]] rather than a straight discount. If they
+say quality: *"That's actually why most of our best customers call around — they check
+others and end up coming back to us because of [X]."* — the same "our best clients shop"
+reframe already on this page, now attached to the specific lever their answer names.
+
+**"Just send me the quote" is the same objection with a different exit, and it has its
+own recovery move: get the email, then keep selling through it.** A fourth source, a
+live technical-setup call, frames the tactic from the CRM side: when a lead says *"just
+send me the quote"* or *"I'm going to shop around,"* that's the opening to capture their
+email —
+
+> "Great, I'd love to send you an email with everything. What's your email?"
+
+— then re-enter the sale by asking what they actually want in that email: *"What
+information are you looking for? What's important to you when choosing a cleaning
+company — reliability? Consistency?"* You're selling through the act of customizing the
+quote, not surrendering to the exit. Even without a close on the call, the email becomes
+a second channel for the same soft-close follow-up described below — and if it's sent as
+a BookingKoala quote rather than just an email, the contact also moves into the CRM's
+"quoted" pipeline stage automatically, which flags it for the higher-priority follow-up
+cadence. See [[Sales Pipeline Stages]] and [[Zapier]] for the mechanics.
+
 ## Checklist
 
 - [ ] They say they're shopping around
@@ -94,6 +125,10 @@ a better line, but *no plan* for the prospect who genuinely does still need to s
 - [ ] Do **not** give tips on what to look for elsewhere
 - [ ] If they still won't book: message that night, message the next day, call — do not
       go quiet on the lead
+- [ ] If they ask for the quote by text/email: get their email, ask what they want in it,
+      keep selling through the customization
+- [ ] Consider sending it as a BookingKoala quote rather than a plain text/email — it
+      auto-moves the contact to the CRM's higher-priority "Quoted" stage
 
 ## Templates
 
@@ -109,6 +144,10 @@ a better line, but *no plan* for the prospect who genuinely does still need to s
 [[Objection Handling Course]] — *I'm Getting Quotes From Other Companies First.* Fills the
 gap this page had been open since 2025-03-25 (Jack's Skool recording was never located/
 ingested).
+[[Weekly Sales Training Call — April 2]] — the price/quality branch question for "I'm
+comparing quotes."
+[[Weekly Sales Training Call — Harvest CRM, BookingKoala & Zapier Integration]] — getting
+the email and re-entering the sale via a BookingKoala quote.
 
 ## Student Examples
 
@@ -144,3 +183,5 @@ they're shopping around, but they also want to book."*
 - [[The Soft Close]]
 - [[Leads Engine]]
 - [[Five Laws|Stop Guessing]]
+- [[Drop Scope Not Price]]
+- [[Sales Pipeline Stages]]

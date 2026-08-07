@@ -1,0 +1,130 @@
+# What If a Cleaner Breaks Something? (handling damage, responsibility, insurance, client communication, and contractor agreements when something breaks during a clean)
+## Module
+What if a Cleaner Breaks Something_
+## Course
+Labor 101
+## Skool URL
+Not provided.
+## Best For
+Cleaning business owners who want to know how to respond when a cleaner damages something in a client’s home.
+## Problems This Solves
+- Not knowing what to say when a client reports damage.
+- Taking blame too quickly before understanding the facts.
+- Not having cleaner insurance or contractor agreements on file.
+- Failing to make the client whole when something really did happen.
+- Not knowing whether to pay out of pocket, use insurance, or hold the subcontractor responsible.
+## Quick Summary
+This lesson walks through real examples of things breaking during cleans, including bleach damaging fixtures, a vase falling, a curtain rod issue, and scratched shower glass from pumice stone bits. The speaker explains that damage is rare but real, and the business needs to handle it professionally. The first step is to listen, gather information, and avoid immediately admitting fault before understanding what happened. The business should frame the conversation around making sure the client is satisfied and working through the situation properly. Strong subcontractor agreements, proof of insurance, and clear liability terms matter because the cleaner or subcontractor business should be responsible for damage they caused. At the same time, the speaker emphasizes doing what is right for the client, even when it costs money, because that is part of being a professional company.
+## Core Teaching
+The main teaching is that when something breaks, the business needs both professionalism and protection. Professionalism means taking the client seriously, listening, investigating, and working toward a fair solution. Protection means having the right subcontractor agreements, proof of insurance, and documentation so the business is not left exposed.
+
+The lesson warns against immediately saying “we messed up” or “that was our fault” before the facts are clear. Instead, the owner should acknowledge the client’s perspective, gather information, and say that they want to understand what happened and work through next steps.
+
+Several examples are used. In one case, bleach dripped onto fixtures and discolored them, and because the business was newer and did not have the cleaner’s insurance on file, the business paid the client directly. In another case, a vase broke and the client was very understanding. In another, a curtain rod came loose and the subcontractor handled the fix. In the shower glass case, the cleaner appeared to have lied, a specialist was brought in, quotes were gathered, and the subcontractor agreement made the responsible party clear.
+
+The lesson’s bigger point is that the client should not be left holding the problem when the business or cleaner caused it. But the owner should set up the business so that contracts, insurance, and cleaner responsibility are already clear before anything breaks.
+## Key Principles
+- Damage is rare, but it happens.
+- Do not take blame before understanding the facts.
+- Acknowledge the client and gather information calmly.
+- Good subcontractor agreements matter before something goes wrong.
+- Proof of insurance should be on file before cleaners work.
+- The responsible contractor should handle damage they caused.
+- The business should still care about making the client whole.
+- Rainy day funds help when something unexpected happens.
+## Step-by-Step Process
+1. Listen to the client and get the full story.
+2. Avoid admitting fault before investigating.
+3. Ask for photos, details, and the cleaner’s explanation.
+4. Review the subcontractor agreement and insurance information.
+5. If needed, inspect the damage or bring in a specialist.
+6. Get quotes for the repair when appropriate.
+7. Decide whether the cleaner, subcontractor, insurance, or business will cover the cost.
+8. Communicate clearly with the client and work toward making the situation right.
+9. Update documents and processes so the same mistake is less likely again.
+## Scripts, Examples, or Phrases to Keep
+- “My one job is to make sure that you’re satisfied and work through this properly with you.”
+- “Our satisfaction guarantee isn’t just some words that we’re just throwing out there. We really mean that.”
+- “I can see how that was possible.”
+- “I understand your perspective.”
+- “I can’t promise anything right now at this moment. I just need to work through the situation together.”
+- “We want to do the right thing.”
+## Common Mistakes / Warnings
+- Not collecting cleaner insurance before assigning jobs.
+- Taking blame immediately without investigating.
+- Ignoring the client or becoming defensive.
+- Not having a subcontractor agreement that covers liability.
+- Letting a cleaner who lies or causes repeated issues continue working.
+- Failing to set aside reserves for unexpected problems.
+## When the Bot Should Recommend This
+Recommend this lesson when a student asks what to do after damage, how to talk to a client about broken items, what insurance or contracts are for, or how to handle cleaner responsibility.
+## Related Tags
+cleaner broke something, damage claim, client complaint, subcontractor agreement, cleaner insurance, proof of insurance, liability, satisfaction guarantee, bleach damage, scratched glass, client communication, rainy day fund, cleaning business risk
+## Resource Recommendation Description
+This lesson gives a real-world way to handle damage without panicking or taking blame too quickly. It also shows why contracts, insurance, and professional client communication matter before anything breaks.
+## Cleaned Lesson Notes
+Okay, so what do you do if a cleaner breaks something, right? This is nightmare scenario, it sucks, but the reality is it happens, okay? And all of our year of doing this and six figures of revenue, we have only had things break, I wanna say like four times. So we had like a vase fall over, we had something else that broke like a handle, like a, not handle, a curtain rod, and then we had a faucet that had bleach left on it and we also had from a bad cleaner that we stopped using. And then we had a big mistake, which was that a cleaner accidentally scratched the window glass because there was pumice stone bits on her microfiber cloth and it was very clearly that she had done that.
+
+So I'm gonna walk through kind of each of the situations and what went down. So our first one was we were about three months into the business and a cleaner used a bleach, a product with bleach for the shower, which I'm not opposed to, but she didn't catch all the like sprayed and you know how it drips down the wall, she didn't catch all of it, so some of it dripped onto sink faucet in the bathtub, like faucet and like on the handles and that bleach removed the, like it was discolored. And so the client called and that cleaner, we actually, you know, we're new, so we didn't have that cleaner's insurance on file and she was already basically her third strike.
+
+And so, you know, we ended up just having to eat that. So we were like, do we use our insurance or do we use, you know, ideally use, you got to evaluate what makes sense, right? So it was a $500 fix. We paid the client $250 one month and then paid 250 the next month or like two weeks later or something like that.
+
+It's only a $500 fix. It was, we had their contractor go out and we asked that another contractor would also give a quote and the client handled all that, we just paid the client. So the client was super chill, wasn't upset, they're just like, hey, we need to get this fixed.
+
+Ideally we would have used the cleaner's insurance because our agreement with the cleaners is that, you know, our subcontractor agreement is that, you know, they're liable because it's their business. It's just our business is hiring your business to go and do this cleaning. And so your business, you know, messed that up.
+
+So it's having a good subcontractor agreement and having, you know, precedence set with your cleaner. So yeah, we just ate it and we're like, all right, it's just cost of doing business, you know. Another time we had a vase knockover, cleaner was just walking around and broke a vase.
+
+I had a really good relationship with that client. We actually went to that client's home. I cleaned it the first time, it was early on in the business and built a relationship, got to talking to them and actually did a praying for them, their family and everything.
+
+And so when that happened, it was just a like, hey, you know, mistakes happen, no biggie. We don't mind, it's okay. And so that was that and we just apologized and we thanked them.
+
+And I think we discounted the cost of the clean a bit, but that was it. With the next one, we had a curtain rod come out. Basically, you know, client, it was already like leaning, they didn't, our cleaner went and cleaned the windows, moved the blinds and then the blind curtain rod ended up like being hanging off the wall.
+
+Like one side was, it was like this and then one side was like this. So the rod was like, you know, it was bad. So the cleaner didn't say anything, which, you know, it was pretty high up curtain rod, so maybe she didn't notice.
+
+But the client called and was like, hey, like you guys messed this up. Like, why didn't no one tell me, yada, yada. We sent a, our, that situation, we had a subcontractor and we pay him and he has his own team of cleaners.
+
+So we told him like, hey, your cleaner did this. So like he needed to go, you know, sort it out. And he went and, you know, just fixed it, just put the curtain rod back into the drywall, used the ladder or whatever.
+
+And basically said, I mean, this thing was in drywall, like it was a very heavy curtain. Basically it was kind of the client's fault and he kind of told him that, but we were like, hey, we fixed it, no harm, no foul, you know, whatever. The last one, this happened actually last week.
+
+And I may end up actually sharing the recording here of the call that Elijah had. Because same guy actually where we pay him and he has his, you know, cleaners that he sends out and manages multiple teams. They were cleaning and this is the pumice stone one where like there was bits of pumice stone.
+
+She actually picked it up in the shower on her rag and then started to clean and realized, oh my goodness, I'm scratching it. And then she told the client, oh, this, the scratches were already there before I did anything, lied, you know, to the client and then lied to us. And the client was not upset, very reasonable, was just like, hey, like, I understand, you know, it's a mistake, it happens, but we need to get this fixed.
+
+And the cleaner was like, no, I didn't do it, I didn't do it. So, you know, we got on a phone call, I could share that phone call. Very importantly, we didn't take blame or take responsibility.
+
+We said, I can see how that was possible. Like, if you don't want to listen to the call, here's how it went. Yeah, like this, she's explained, this is how I think it went, this is what happened.
+
+I'm going, this is, you know, from what our cleaner is telling us. And, you know, we kind of framed that call, getting on a call, going, hey, I'm the owner, my one job is to make sure that you're satisfied and work through this properly with you and do what we need to do. You know, because our satisfaction guarantee isn't just some words that we're just throwing out there.
+
+Like, we really mean that. And so, you know, what happened and just kind of getting the information and she's going like, she has a very convincing case and it sounds like she's right, but there's bad actors out there. And so you just want to make sure you're going, okay, like, I understand your perspective.
+
+You never want to go like, wow, yeah, sounds like we messed up, you know, or we did that or that was our fault. It's very like, okay, I understand the situation. I'd like to take a look for myself to understand, you know, what happened.
+
+So we can get, you know, just next steps from here. But I see why it sounds like that. You know, I can't promise anything right now at this moment.
+
+I just need to work through the situation together sort of thing. So then we went out there, like we scheduled a window guy to go out there and looked at it in person. Elijah went in person as well as the guy who is cleaner was there.
+
+And the glass specialist is there, the client's there, and we're looking at it and it looks exactly like the client described and the cleaner definitely lied. So that was the situation and we went, okay, like we need to work through like, what does it cost? So like, let's get a contract quote, let's get a contract quote here, contract quote here. And do we want to take this out of pocket or do we want to pay with insurance? Now, we do something smart in our business is we put aside profits and have a reserve of, you know, rainy day funds in case something like this happens.
+
+But here's the situation here. The subcontractor agreement that we have with that guy, it very clearly labels out what happens in this sort of situation, which is it's his cleaner, it's his business, he's liable. So we're not liable in any way to have to pay for that or deal with it.
+
+We also weren't liable for any of the other situations based on our contractor agreement with the cleaners. But we of course still want to make sure there's a happy client. And the first situation where we had to pay money out of pocket, we messed up by not having the cleaner's insurance on file and be able to file through insurance and be able to recoup things that way because she just kind of ghosted us, and which we should have solved earlier on, but we're new in the business, you know, you learn things as you go.
+
+So in the end, we just want to do the right thing, which is to make sure that that client has his shower faucet and those things solved, and he's not having to deal with our mistake. This is just part of being a professional company and doing things right, like God's way, I'd say. So that's the situation.
+
+So if a cleaner breaks something, obviously your goal is to do what's right, and sometimes what's right sucks, but you want to have contracts and agreements in place with cleaners, so that way you're not liable because really they should be the one fixing something that they broke. But in a sucky situation like that first one where you just had to pay $500, in the end, the decision that we're gonna make as business owners that are putting God first, I'm gonna do that. I'm gonna make sure that the problem is fixed.
+
+Anyways, the shower glass fix ended up being, we thought it might be $3,000 to $5,000, and look, we're not responsible for that. That's the subcontractor, and he's got a business, and it's just something that he's gonna have to deal with, whether he goes through his cleaner's insurance or whatever he's gonna do there, but it ended up only being $1,100 for one quote, and then another one, it's actually probably gonna be cheaper. So he's gonna take care of that.
+
+Could we help with that? Could we take care of that? We could, we're thinking about it, but this is not a 50-50 deal. We're not responsible for this. This falls on him as a subcontractor doing things wrong as his negligence.
+
+So anyways, make sure you have a good agreement. Make sure that you get a head under your shoulders and understand that there are risks with anything that you do in life, and this is one of the risks, so hence you should have insurance. Your cleaner should have insurance because like I said, there's bad actors, and you don't wanna be held responsible for something that isn't your responsibility.
+
+So that's how that goes. Pray that nothing happens to you guys, but kind of expect something to happen. It's just part of the game.
+
+Just make sure you're properly protected, and if something big happens, you are not liable for that because if you are liable for it, and you've got insurance, your cleaner's got insurance, right? So that's how that goes. That's also why I love 1099. It's because that responsibility falls on you differently if you got W-2.
+
+1099, it's a different game, all right? So that's what to do if a cleaner breaks something, God forbid.

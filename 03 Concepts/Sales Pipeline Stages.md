@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum, Stop Guessing]
 status: Canonical
-sources: [Cleaning Biz 101 — Convert, Every SOP We Use]
+sources: [Cleaning Biz 101 — Convert, Every SOP We Use, Weekly Sales Training Call — Harvest CRM, BookingKoala & Zapier Integration, Leads 101 Part 2]
 updated: 2026-08-06
 ---
 
@@ -72,6 +72,17 @@ trust, decision maker); offer the simplest next step (*"I can get you booked in 
 minutes"*); follow up every 1–2 days — this is not bothering them, it's getting a yes or
 no. Exit criteria: books once → Booked (One Time); starts recurring → Booked (Recurring);
 "not now" → Long Term Follow Up; bad fit → Do Not Contact.
+
+**How a lead actually lands in Quoted, mechanically, via [[BookingKoala]].** On a call
+where the prospect doesn't book, enter their info in BookingKoala as if creating a
+booking, then save it as a **draft** (no email on file) or a **quote** (email on file)
+instead of a booking. Saving as a quote prompts BookingKoala to offer emailing it to the
+client — say yes, and a [[Zapier]] zap moves the contact to Quoted in Harvest CRM
+automatically. The client can then open the email and enter card info to self-checkout
+whenever they're ready, with no second call required. This is the concrete mechanism
+behind "sent a booking link with a price attached" above, not a separate stage — and it's
+the reason Quoted is treated as higher-priority than New Lead or Follow-Up: the client has
+already been given a specific number and a way to accept it without you.
 
 **4. Booked (One Time).** Goal: a perfect first experience, with an eye toward converting
 to recurring later. Automatic: confirmation email/text with expectations and policy
@@ -147,6 +158,12 @@ how leads get silently lost.
 [[Cleaning Biz 101 — Convert]]
 [[Every SOP We Use]] — "How to Manage GHL Sales Pipeline" and "In-Depth Breakdown of GHL
 Stages/Responsibilities" lessons.
+[[Weekly Sales Training Call — Harvest CRM, BookingKoala & Zapier Integration]] — the
+BookingKoala draft/quote mechanic that actually moves a contact into Quoted.
+[[Leads 101 Part 2]] — "Sales Pipeline Breakdown," "You NEED a Sales Pipeline!," and
+"How To: Increase Response Rate" lessons. All three restate the six-stage structure and
+the double-dial/1–2-day cadence already documented above — corroboration, not a new
+stage or rule.
 
 ## Student Examples
 

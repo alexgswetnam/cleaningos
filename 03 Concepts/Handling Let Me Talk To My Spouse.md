@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing]
 status: Canonical
-sources: [Objection Handling Course]
+sources: [Objection Handling Course, Leads 101 Part 2]
 updated: 2026-08-06
 ---
 
@@ -114,6 +114,11 @@ rather than a dead end.
 [[Objection Handling Course]] — *Let Me Talk To My Spouse.* The six-minute lesson
 [[Word Tracks]] and [[Handling Let Me Think About It]] had both been citing as
 not-yet-ingested since 2026-08-05. Ingested 2026-08-06.
+[[Leads 101 Part 2]] — "When to keep pushing for a sale..." lesson. Corroborates the
+husband-concern question near-verbatim (*"What do you need to talk to your husband
+about?"*), inside a broader lesson on staying in the conversation as long as there are no
+red flags — the general persistence principle this page's own "assume the close, don't
+leave with no commitment" guidance already teaches.
 
 ## Student Examples
 

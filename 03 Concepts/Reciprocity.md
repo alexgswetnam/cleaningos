@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Weekly Sales Training Call — March 26 P1, Objection Handling Course]
+sources: [Weekly Sales Training Call — March 26 P1, Objection Handling Course, Weekly Sales Training Call — April 2, Weekly Sales Training Call — April 6]
 updated: 2026-08-06
 contested: true
 ---
@@ -161,6 +161,14 @@ either way.
 >
 > **Meanwhile:** do not teach either as settled, and do not write customer-facing copy that
 > states a discount policy. CONSTITUTION §X.
+
+> [!info] Checked against the 2026-04-02 and 2026-04-06 sales training calls — not resolved
+> Both are reliably dated. Neither mentions reciprocity, a personal-favor framing, or the
+> $10–15/review figure. April 2 gives two more examples of *scope* restructuring (see
+> [[Drop Scope Not Price]]), which is a different lever from the price-reduction framing
+> this page is about. April 6 covers lifetime value and marketing math, not price
+> reduction at all. This ingestion pass does not settle the contest either way — still
+> needs Alex, or a reliably-dated source that actually addresses price reduction framing.
 
 > [!warning] New constraint, not yet reconciled — 2026-08-06
 > [[Objection Handling Course]] independently uses a "$10 off for a couple Google reviews"

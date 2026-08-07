@@ -4,7 +4,7 @@ engine: [Logistics]
 season: []
 laws: []
 status: Developing
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Zapier The Software Glue, 2026-02-24 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, Cleaning Biz 101 — Fulfill, Every SOP We Use]
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Zapier The Software Glue, 2026-02-24 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, Cleaning Biz 101 — Fulfill, Every SOP We Use, Logistics Fundamental Course]
 updated: 2026-08-06
 ---
 
@@ -63,6 +63,16 @@ Options → "How do you manage colors in your admin booking calendar?" → set t
 based." Each cleaner becomes a distinct color; overlapping colors on the calendar mean
 someone's double-booked. Checking this week and next week for overlaps should be part of
 the VA's daily SOP.
+
+**The teams-vs-individuals fix, independently corroborated.** A second source confirms
+the same root cause and fix from a different angle: someone using "teams" was having
+scheduling messed up by it; switching to individual providers, paired as needed, and
+checking availability by pressing into each provider directly, resolved it. The same
+source adds a smaller, easily-missed lever: **which calendar view you're in.** Week view
+and timeline view are named as the easiest to work from; one owner used a harder view for
+four months before switching, making scheduling feel more difficult than the software
+actually was. If BookingKoala feels hard to use, check the view before assuming the
+software itself is the problem.
 
 **Split-screen scheduling workflow.** Use the week view with sidebar layout. Keep two
 BookingKoala tabs open — one showing the calendar/availability, one for making the
@@ -152,6 +162,8 @@ to the manual process immediately.
 - [ ] Set automated reminders (25 hr and 24/48 hr) instead of manually texting
 - [ ] Use individual providers with pairing — delete teams
 - [ ] Set calendar colors to "Provider based" (Settings → General → Store Options)
+- [ ] If scheduling feels harder than it should, try week view or timeline view before
+      assuming it's a software problem
 - [ ] VA checks this week and next week daily for overlapping colors
 - [ ] Run booking/scheduling from a laptop with a split-screen two-tab setup
 - [ ] Standardize recurring intervals to two or four weeks, never three
@@ -180,6 +192,9 @@ to the manual process immediately.
 ## Student Examples
 
 **Rick** — split-screen two-tab workflow to avoid double-booking.
+
+**Rick and Melissa** — struggled specifically with teams vs. individual providers; moving
+to individuals was, in Alex's words, "a big change for them."
 
 **Nicole** — discovered three-week clean intervals were the source of her scheduling
 chaos; moved most clients to two- or four-week intervals.

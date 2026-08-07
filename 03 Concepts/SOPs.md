@@ -4,7 +4,7 @@ engine: [Logistics]
 season: [Scale, Harvest]
 laws: [Build In Order, One Step Wins]
 status: Canonical
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Cleaning Biz 101 — Operate, Every SOP We Use, Free Resources and Mini Courses]
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Cleaning Biz 101 — Operate, Every SOP We Use, Free Resources and Mini Courses, Premium Resources, Logistics Fundamental Course]
 updated: 2026-08-06
 ---
 
@@ -23,7 +23,7 @@ Checklist, step-by-step, or video.
 > "SOPs = replacing yourself. Every SOP you create is a piece of yourself that someone
 > else can now do."
 
-They're what makes [[Four Roles|Owner]] possible, and they're what a buyer is actually
+They're what makes [[Owner Role Evolution|Owner]] possible, and they're what a buyer is actually
 purchasing. See [[Business Valuation]].
 
 **A concrete test of whether Operate is actually working:** the host had nose surgery in
@@ -64,8 +64,7 @@ mistake — see [[Business GPS]].
 
 - [ ] Cleans are assigned
 - [ ] First-time cleans from that day are called on a post-clean script — check
-      satisfaction, ask for a review, try to convert to recurring. See [[Post-Clean
-      Review Script]] for the full call.
+      satisfaction, ask for a review, try to convert to recurring. See [[Post-Clean Review Script]] for the full call.
 - [ ] Leads have been called and texted twice
 - [ ] Reviews checked
 - [ ] Tracking sheet updated — see [[KPI Tracking Sheet]]
@@ -135,7 +134,7 @@ included in a standard vs. deep clean became a saved template in [[Harvest CRM]]
 of being retyped every time — a small fix that compounds once a business is handling ten
 bookings in a day.
 
-**The hiring SOP** — originally kept in Notion, now in the vault at [[Hiring SOP]]:
+**The hiring SOP** — originally kept in Notion, now in the vault at [[Hiring a Cleaner SOP]]:
 
 Indeed post → screen applicants (video of what to look for, plus accept/message/reject
 criteria) → schedule interview (three time slots, 24–72 hours out) → interview guide
@@ -151,6 +150,20 @@ payment failure process → [[Payment Verification & Collection]]; reschedule/ca
 policy → [[Reschedule Not Cancel]]; access issues → [[Handling A Lockout]] covers one
 specific case (a locked-out cleaner), though not the full range (pets, alarms) the
 original list named.
+
+**A worked example of "attach the SOP to the real moment" — the sales call screen setup.**
+Before answering a lead call, the rep or VA should have four windows open: the
+BookingKoala booking form, the BookingKoala calendar (to check real availability before
+quoting), a Notion window with the Sales Call Outline and Pricing Guide, and the lead
+source window (GHL or Thumbtack) showing the caller's existing info. This is small, but
+it's the difference between a call that references real numbers as they come up and one
+that stalls while the rep hunts for a tab.
+
+**A worked example of a structured note format, not a paragraph.** Booking notes go under
+Special Notes/Instructions in BookingKoala in a fixed four-line format so cleaners
+reading them get the same information every time: *Preferred Cleaner* (name or "Any"),
+*Clean Exclusions* (rooms/items not to touch), *Est. Total Hours*, *Unique Notes*
+(allergies, pets, codes, parking, gate, special surfaces). See [[Diagnose Don't Take Orders]] and [[Sales Pipeline Stages]] for what happens upstream of this note.
 
 **The master operations manual sits above the individual SOPs.** It's the top-level
 document describing how the whole business runs, referencing each SOP rather than
@@ -183,7 +196,7 @@ months in Skool).
 The full text of every template below lives on its own concept page, per this vault's
 one-page-per-idea rule — this page indexes them rather than duplicating them:
 
-- [[Hiring SOP]] — interview rubric, decision, paperwork, onboarding
+- [[Hiring a Cleaner SOP]] — interview rubric, decision, paperwork, onboarding
 - [[Client Expectation Setting]] — pre-appointment expectation email
 - [[Cleaner Handbook]] — on-site client experience, photos, supplies
 - [[Reschedule Not Cancel]] — cancellation-save call, fee policy, logging
@@ -201,6 +214,7 @@ one-page-per-idea rule — this page indexes them rather than duplicating them:
 [[Every SOP We Use]] — "Hiring SOP," "Daily Checklist," and "Client Expectation Email"
 lessons directly; the wider course supplied nearly every template linked above.
 [[Free Resources and Mini Courses]] — "What is an SOP How do I use them" lesson.
+[[Premium Resources]] — Sales Call Outline (screen setup, BookingKoala note format).
 
 ## Student Examples
 
@@ -230,14 +244,14 @@ a VA. Logistics was her secondary constraint.
 
 - [[Logistics Engine]]
 - [[Business GPS]]
-- [[Four Roles]]
+- [[Owner Role Evolution]]
 - [[Business Valuation]]
 - [[When To Hire A VA]]
 - [[Hiring Channels]]
 - [[Zapier]]
 - [[BookingKoala]]
 - [[Owner-Dependent Revenue]]
-- [[Hiring SOP]]
+- [[Hiring a Cleaner SOP]]
 - [[Cleaner Handbook]]
 - [[Client Expectation Setting]]
 - [[Handling A Lockout]]

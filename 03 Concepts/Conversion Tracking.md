@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Stability, Scale]
 laws: [Stop Guessing]
 status: Developing
-sources: [2025-02-03 Weekly Coaching Call, 2025-03-11 Weekly Coaching Call, 2026-03-18 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call, Cleaning Biz 101 — Acquire]
+sources: [2025-02-03 Weekly Coaching Call, 2025-03-11 Weekly Coaching Call, 2026-03-18 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call, Cleaning Biz 101 — Acquire, Leads 101 part 1]
 updated: 2026-08-06
 ---
 
@@ -78,12 +78,23 @@ paths gets it into [[Harvest CRM]]:
 2. **Direct-embed path (simpler, not yet adopted):** embed a Harvest CRM form directly on
    the website, skipping the email-parsing step and sending leads straight into the CRM.
 
+**[[Leads 101 part 1]] corroborates the same discipline from two angles.** "Tracking and
+Attribution Is Key" restates the same core claim as this page — every lead engine should
+be measured by cost per lead, close rate, and cost per booking; every lead needs a source
+tag; and delayed conversions (same-day, two weeks, six months later) have to be tracked in
+the CRM or a working channel gets shut off too early. Its own line for the "guessing"
+failure mode: *"when leads come in, your brain will lie to you"* — recency bias substitutes
+for the real numbers. "The Common Mistakes of Marketing" adds one distinct diagnostic not
+yet on this page: **don't conclude a platform doesn't work from one failed attempt** — it's
+usually the setup or execution, not the platform itself ("it's not that Google Ads doesn't
+work, it's that your way of doing it was wrong and didn't work"). Diagnose the setup before
+abandoning a channel that looked unprofitable.
+
 **A pop-up form can quietly corrupt attribution.** Jack's site pop-up generated 33 form
 submissions in the rest of the month vs. 2 from the original PPC-only form — a real
 increase, but it raised the question of whether those submissions were actually coming
 from PPC visitors or organic ones, since the pop-up could fire on either. Fix: make sure
-lead-capture pop-ups do **not** appear on the [[PPC Landing Page Strategy|PPC squeeze
-page]], so PPC leads and organic leads stay cleanly separable.
+lead-capture pop-ups do **not** appear on the [[PPC Landing Page Strategy|PPC squeeze page]], so PPC leads and organic leads stay cleanly separable.
 
 ## Checklist
 

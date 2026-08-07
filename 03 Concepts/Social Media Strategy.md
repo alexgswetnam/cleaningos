@@ -24,8 +24,7 @@ in its own right. The framing follows Alex Hormozi's approach.
 Owners either over-invest in social media hoping it generates leads directly, or ignore it
 entirely and lose a free conversion boost. Neither read is accurate — the actual function
 is narrower and cheaper to satisfy than either extreme assumes, which matters because
-attention spent here is attention not spent on [[Channel Prioritization|higher-leverage
-channels]].
+attention spent here is attention not spent on [[Channel Prioritization|higher-leverage channels]].
 
 ## Symptoms
 
@@ -36,8 +35,7 @@ channels]].
 ## Common Mistakes
 
 - Treating social media as a lead source and measuring it that way
-- Investing significant time here at the expense of [[Channel Prioritization|paid
-  marketing or GBP optimization]]
+- Investing significant time here at the expense of [[Channel Prioritization|paid marketing or GBP optimization]]
 - Expecting a small following (e.g. 22 followers) to surface posts organically — it won't
 - Posting nothing at all and losing the credibility check entirely
 

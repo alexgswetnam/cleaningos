@@ -59,8 +59,7 @@ takes, which is what stops one overrun cascading through the day.
   requires a confirmed-by-8-AM response. Alex's answer, 2026-02-24: *"You're building a
   system for a bad-cleaner problem, not for scale. A good cleaner knows their schedule,
   checks the app, and shows up."* If reliability is the actual issue, the fix is a better
-  cleaner, not more automation layered on top of a bad one. See [[Cleaner Availability
-  System]] for the automation that *is* worth building — a weekly availability check —
+  cleaner, not more automation layered on top of a bad one. See [[Cleaner Availability System]] for the automation that *is* worth building — a weekly availability check —
   which solves a different problem (liquidity, not reliability).
 
 ## The Weekly Schedule Audit

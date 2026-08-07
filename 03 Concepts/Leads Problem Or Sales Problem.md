@@ -4,8 +4,8 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing, Build In Order]
 status: Canonical
-sources: [2025-02-03 Weekly Coaching Call, Cleaning Biz 101 — Convert]
-updated: 2026-08-05
+sources: [2025-02-03 Weekly Coaching Call, Cleaning Biz 101 — Convert, Leads 101 part 1]
+updated: 2026-08-06
 ---
 
 # Leads Problem Or Sales Problem
@@ -94,6 +94,16 @@ every call herself — at that point a VA or team member needs the script she ne
 > **labor**, and the answer became [[Labor Before Leads]]. The constraint moves. Re-diagnose.
 
 **Jack** — $40 cost per lead, 20% close rate. Concluded marketing was broken. It was sales.
+The same Jack example (same numbers) reappears in [[Leads 101 part 1]]'s "Acquire vs.
+Convert: Which One Is Broken?" lesson — same underlying case, not a second student.
+
+[[Leads 101 part 1]] corroborates this diagnostic four separate times: "Acquire vs.
+Convert" (the Jack case above), "What Is a Leads Bottleneck" (restates the fork using the
+pre-rename "acquiring leads / converting leads" language — see [[Four Engines]]'s
+Bottleneck→Engine supersession note), "Why Most Cleaning Businesses Are Stuck" (states the
+same 95%-of-the-time claim as a pattern across many owner conversations), and "How do I
+know if marketing is working" (defines "working" as profitable and routes a non-profitable
+channel through the same Acquire-or-Convert fork).
 
 ## AI Prompts
 

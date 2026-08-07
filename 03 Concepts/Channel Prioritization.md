@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Stability, Scale]
 laws: [Build In Order, One Step Wins]
 status: Canonical
-sources: [2025-02-03 Weekly Coaching Call, 2025-03-11 Weekly Coaching Call, 2026-02-20 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call, Free Thumbtack Leads + GBP Optimization, Cleaning Biz 101 — Acquire]
+sources: [2025-02-03 Weekly Coaching Call, 2025-03-11 Weekly Coaching Call, 2026-02-20 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call, Free Thumbtack Leads + GBP Optimization, Cleaning Biz 101 — Acquire, Weekly Sales Training Call — April 6, Leads 101 part 1]
 updated: 2026-08-06
 ---
 
@@ -64,6 +64,15 @@ until higher-ROI channels are maxed out.
 
 **Channels have ceilings.** Jock in Florida hits a wall around $150/day on PPC — past that,
 cost per lead climbs. When a channel maxes out, that's the signal to open the next one.
+
+**Ranking by CPA alone can pick the wrong channel — rank by lifetime value instead.**
+Rick's data: Thumbtack at $145 CAC vs. LSA at $100 CAC. By raw CPA, LSA is the better
+channel. But the Thumbtack lead converted to a recurring client worth $4,800 in lifetime
+revenue ([[Client Lifetime Value]]); the LSA lead was a one-time client worth $199.
+Judged against what each channel actually produced, Thumbtack was the better spend
+despite the higher CAC. See [[Marketing Math]] for the full profit-per-customer math this
+runs on. The practical instruction: before ranking a channel down for looking expensive,
+check what its leads convert *into*, not just what they cost to get.
 
 ## The Attribution Pause Test
 
@@ -180,6 +189,41 @@ far worse than phone leads on LSA: *"people that text aren't as serious."* Alex'
 recommendation once you have a VA: turn off text on LSA entirely, phone only. See
 [[When To Hire A VA]] — a VA who can answer the phone is sometimes the actual unlock for
 a channel that already looks unprofitable.
+
+**Alex's own channel-testing chronology, in order.** [[Leads 101 part 1]] narrates the
+actual sequence, which corroborates and dates the ranking above rather than adding a new
+channel: **Thumbtack first** (~$4,000 spend month one, ~$2,000–3,000 month two, continued
+roughly six months, total spend "well over $10,000 and probably closer to $20,000" —
+spent heavily early because there was no established close yet and labor was also still
+being worked out) → **Google Business Profile next** (~2 months of heavy research and
+setup, "great results," recommended as something every member can do themselves) →
+**Facebook Ads tested and dropped** (a bust for this business specifically — spent
+"a bunch of money," only 2 bookings) → **Google Ads, which worked well.** LSA was skipped
+entirely because calls ran $70–90 in the area. The lesson's own closing point matches this
+page's philosophy directly: *"Thumbtack might not work in your area... it depends on your
+business and your area. That is why you need to test everything and see what works best
+for you."*
+
+**The same source restates the ranking logic with a concrete channel table.** "What Way
+Should I Get Leads First" (also [[Leads 101 part 1]]) gives the same order as a direct
+answer to "where do I start": free sources first (GBP foremost, plus referrals and calling
+the existing database), then paid, with Google Ads as the standout example ($43 CPL, 41%
+close, ~$104 CPA — the same figures already on [[Marketing Math]]'s Conflict History) and
+Meta explicitly *not* recommended as a first paid channel based on this business's own
+result (over $1,000 spent for 2 bookings). One of those 2 Meta bookings only closed because
+of long-tail CRM follow-up — a lead sat for **seven months** before an automated Harvest
+CRM text got a reply and a booking. See [[Reactivating Past Clients]] for the general
+mechanism this is a specific example of.
+
+**A near-identical Q4 data set appears again, restated.** "Paid Marketing Methods
+Breakdown" ([[Leads 101 part 1]]) gives PPC at $43 CPL/41% close/~$104 CPA, Thumbtack at
+~$15 CPL/26% close/~$58 CPA, and GBP at 115 Q4 leads / 67 booked — all numbers that already
+appear on this page, [[Marketing Math]], and [[Thumbtack]] from other sources. Read as the
+same underlying Q4 dataset repackaged into a different course bundle (the same pattern
+[[Leads 101 Part 2]] found with `Cleaning Biz 101 — Convert`), not new evidence. It also
+independently confirms **Yelp as a channel to avoid** ("sneaky fees," no positive report
+from any owner) and states the same 10%-of-revenue marketing-spend rule of thumb as
+[[Marketing Budget]].
 
 ## AI Prompts
 

@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Build In Order, Clarity Creates Momentum]
 status: Canonical
-sources: [Weekly Sales Training Call — March 26 P1]
+sources: [Weekly Sales Training Call — March 26 P1, Leads 101 Part 2]
 updated: 2026-08-06
 ---
 
@@ -109,6 +109,9 @@ as the number.
 ## Videos
 
 - [[Weekly Sales Training Call — March 26 P1]]
+- [[Leads 101 Part 2]] — "Should I use a script?" lesson. Corroborates the
+  availability-before-price sequencing: ask for day and time before naming a price so the
+  prospect is "90% of the way there" before the final commitment.
 
 ## Student Examples
 

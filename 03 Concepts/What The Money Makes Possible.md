@@ -70,7 +70,7 @@ directing it:
 > able to offload that, delegate that to someone, and then go and focus on driving the most
 > important thing, which is getting the top line to where it needs to be."
 
-That is the [[Four Roles]] mechanism stated from the inside: the hire is what lets him act
+That is the [[Owner Role Evolution]] mechanism stated from the inside: the hire is what lets him act
 as the next role up.
 
 ## Models
@@ -133,6 +133,6 @@ harder to quietly drop than a goal without one.
 - [[Cleaning Is Holy Work]]
 - [[When To Hire A VA]]
 - [[Managing A VA]]
-- [[Four Roles]]
+- [[Owner Role Evolution]]
 - [[KPI Tracking Sheet]]
 - [[Owner-Dependent Revenue]]

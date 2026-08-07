@@ -61,8 +61,7 @@ daily summary report for the VA — flagged leads, overdue tasks, notes-missing 
 **Cost is real but the payoff bar is low.** The free plan burns through quickly on a task
 like this. The justification for upgrading: if even one additional booking results over
 12 months, the lifetime value of that client covers the subscription many times over — the
-same threshold logic used elsewhere for marginal tooling spend (see [[Website Technical
-SEO Basics]]'s business listing syndication).
+same threshold logic used elsewhere for marginal tooling spend (see [[Website Technical SEO Basics]]'s business listing syndication).
 
 **A paid extension exists but isn't yet adopted.** A $300 add-on, seen working in another
 business, transcribes every sales call, grades lead quality, and gives the VA specific

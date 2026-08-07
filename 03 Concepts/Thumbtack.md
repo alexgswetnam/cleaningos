@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing]
 status: Canonical
-sources: [2025-02-03 Weekly Coaching Call, Free Thumbtack Leads + GBP Optimization, Free Resources and Mini Courses]
+sources: [2025-02-03 Weekly Coaching Call, Free Thumbtack Leads + GBP Optimization, Free Resources and Mini Courses, Leads 101 part 1]
 updated: 2026-08-06
 ---
 
@@ -122,6 +122,12 @@ Thumbtack" lesson.
 **The host** — $6K spent over two months early on, ~$4K of it wasted on unprofitable
 one-time cleans, before the job-type/frequency filters and free-lead cycling turned
 Thumbtack into a genuinely strong channel.
+
+**[[Leads 101 part 1]]'s "Paid Marketing Methods Breakdown" restates the identical Q4
+figures** (90 leads, ~$15.64 CPL, 26% close, ~$58 CPA) already recorded above — same
+underlying dataset in a different course wrapper, not new data. It also independently
+recommends targeting Thumbtack toward recurring-service intent rather than one-time deep
+cleans, consistent with the filtering advice already on this page.
 
 **A second, independent live demo confirms the exact same card-cycling method** — set
 Thumbtack's budget to "unlimited," fund an actual spend cap with a prepaid/gift card

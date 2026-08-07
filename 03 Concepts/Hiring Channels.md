@@ -4,7 +4,7 @@ engine: [Labor]
 season: [Survival, Stability, Scale]
 laws: [One Step Wins]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-02-20 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call]
+sources: [2025-03-25 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-02-20 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call, Premium Resources, Labor 101]
 updated: 2026-08-06
 ---
 
@@ -90,8 +90,50 @@ conversation with a non-fit candidate as a referral opportunity, not a wasted ca
 
 **Indeed, boosted.** A plain post gets little traction; boosting it with roughly $100 does.
 Posted and boosted, ~80 applicants arrived within two days, with several qualified
-candidates — two were hired from that single batch. The exact post copy is in the Labor
-Fundamentals module.
+candidates — two were hired from that single batch. The exact post copy, previously
+flagged as "in the Labor Fundamentals module" but not yet in the vault, is now archived —
+see Templates below.
+
+**The Faithful Cleaners' actual Indeed post, in full** (McKinney/Prosper/Frisco area):
+looks for a "meticulous and experienced Cleaning Technician," names the core duties
+(sanitizing, disinfecting, dusting, sweeping, vacuuming, mopping, reviewing and completing
+checklists), and states hard requirements plainly — 2+ years professional residential
+cleaning experience specifically (explicitly not janitorial, office, or "I clean my own
+house" experience — see the red-flags framing on [[Hiring a Cleaner SOP]]), English, a driver's
+license, ability to pass a background check and drug test, willingness to get insurance
+("it takes 5 minutes through Thimble"), and physical requirements (lift 20 lbs, stand/bend
+for extended periods). Job type is listed as **"Full-time, Part-time, Contract"** and the
+posted **pay range is $20.00–$40.00/hour**, with 20–40 expected hours/week, bonus
+opportunities, and tips called out separately. **Worth flagging alongside
+[[Subcontractor Vs W-2]]:** listing an hourly pay range for a role also labeled
+"Contract" is the same category of public-facing language risk already noted there for
+"full-time employee" wording — a state workforce commission or the IRS could read a
+publicly posted hourly range as evidence of hourly-employee treatment, independent of
+what the signed agreement says.
+
+**The Facebook group post, in full** — the copy referenced above as "shared in Skool but
+not in the vault" is now archived. The Faithful Cleaners' actual copy-paste post,
+targeted at a local area (McKinney/Frisco/Prosper/Allen):
+
+> "We're growing at The Faithful Cleaners and looking for experienced, reliable cleaners
+> to join our team. This is a 1099 independent contractor role (not hourly employment).
+> You are paid per job, not by the hour."
+
+It states real, specific earnings rather than a vague range: *"Jobs are priced so most
+cleaners effectively earn ~$25–$45+/hr depending on speed & quality. Our top cleaner
+averaged $44/hr (not including tips) over the last 2 months. Our lowest performer
+averaged $28/hr (not including tips) over the last 2 months"* — then explicitly
+re-anchors that these are effective-hourly averages of per-job pay, not an hourly
+guarantee, immediately after stating them. It lists requirements plainly (2+ years
+experience, reliable transportation, works independently, basic English, willing to
+carry basic insurance under $30/mo) and pitches schedule flexibility — "some cleaners do
+3-4 jobs a week, some do 2 a day" — before naming company culture: *"a solid Christian
+company."*
+
+Note the $28/hr low-performer figure here **matches** the $28/hr MEA floor figure in
+[[Cleaner Pay Structure]]'s cleaner-facing handbook — independent corroboration that
+$28/hr is a real, meaningful number at this company, whichever of the two pay documents
+(MEA vs. DPS) turns out to be the operative one.
 
 ## Checklist
 
@@ -121,12 +163,20 @@ Fundamentals module.
   slammed. We just really need help." (Nextdoor)
 - "Have you given up on this?" (non-responder follow-up, nothing else)
 
+**Indeed job post copy (full text), The Faithful Cleaners:**
+> "We're looking for a meticulous and experienced Cleaning Technician to join our team...
+> Must have at least 2 years of professional cleaning experience. Must speak English.
+> Must have or be willing to get insurance (it takes 5 minutes through Thimble — if you
+> don't already have it that's okay)... Job Types: Full-time, Part-time, Contract. Pay:
+> $20.00 - $40.00 per hour. Expected hours: 20-40 per week."
+
 ## Videos
 
 [[2026-02-20 Weekly Coaching Call]] — live cold-call demo, Google Maps recruiting.
 [[2026-03-04 Weekly Coaching Call]] — Indeed boosted-post economics, second Google Maps confirmation.
 [[2026-04-20 Weekly Coaching Call]] — Facebook/Nextdoor expansion, non-responder follow-up, pairing weaker hires.
 [[2026-04-27 Weekly Coaching Call]] — the 3–10x volume prescription for a labor crisis.
+[[Premium Resources]] — FB Group Post for Hiring (CopyPaste).
 
 ## Student Examples
 
@@ -168,7 +218,9 @@ ramps. Rick frames it the same way — *"it's a slow start, you have to earn our
 team gets a say in who joins. See [[Testing A New Cleaner]].
 
 > [!question] Missing
-> Alex did not know the sponsor spend off the top of his head. The Facebook group post copy was shared in Skool but is not in the vault.
+> Alex did not know the sponsor spend off the top of his head for the Indeed boost.
+> ~~The Facebook group post copy was shared in Skool but is not in the vault.~~ Resolved
+> 2026-08-06 — full copy now in Models above, from [[Premium Resources]].
 
 ## AI Prompts
 

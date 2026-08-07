@@ -2,63 +2,104 @@
 type: concept
 engine: []
 season: []
-laws: [Stop Guessing, Clarity Creates Momentum]
+laws: [Stop Guessing, Clarity Creates Momentum, Build In Order, One Step Wins]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks, Free Resources and Mini Courses]
-updated: 2026-08-06
+sources: [Alex direct 2026-08-07, 2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks, Free Resources and Mini Courses]
+updated: 2026-08-07
+superseded: 2026-08-07
 ---
 
 # Business GPS
 
 > [!abstract] In one line
-> The diagnostic that tells an owner where they are and what their one step is.
+> The diagnostic that tells an owner where they are and what their one step is — anchored to the goal they're actually trying to hit, not to whichever Engine scores lowest.
 
 ## Definition
 
 The diagnostic instrument of CleaningOS. It locates an owner across the [[Four Engines]]
-and [[Four Seasons]], identifies the constraining Engine, and names the next action.
+and [[Four Seasons]], identifies the Engine standing between them and their next goal,
+names the specific constraint inside it, and produces one action.
 
-**The method, from the Premium Workshop:**
+A GPS needs two inputs, not one. Where you are, and where you're going. An Engine
+assessment on its own is only the first of those.
 
-1. Rate your business across all four [[Four Engines|Engines]]
-2. For each, assign a [[Four Seasons|Season]] — Survival, Stability, Scale, or Harvest
-3. **The one lagging behind the others is your constraint**
-4. Fix that before working on anything else
-5. Re-evaluate — the next constraint will emerge
-6. Repeat
+## The Diagnostic Sequence
+
+1. **Define the owner's next measurable business goal.** Not "grow." A number, or a
+   condition you could verify.
+2. **Assess the current Season of all four Engines.** Leads, Labor, Logistics,
+   Leadership — each one separately. See [[Four Seasons]].
+3. **Determine which Engine most directly prevents that specific goal.**
+4. **Identify the specific constraint inside that Engine.** Not "Labor is weak." The
+   thing that is actually stopping it.
+5. **Choose one next action to relieve that constraint.** One. See
+   [[Five Laws|One Step Wins]].
+6. **Execute it.**
+7. **Measure the result.**
+8. **Reassess the four Engines — the constraint may have moved.**
+
+> [!important] The core rule
+> **The lowest-Season Engine is not automatically the current bottleneck.**
+>
+> A lower-maturity Engine may be irrelevant to the owner's immediate measurable goal. An
+> owner can have Leadership sitting in Survival and it will not stop them from booking
+> the next twenty clients. Maturity and relevance are two different readings, and only
+> one of them tells you what to do on Monday.
+
+Step 1 is the step owners skip, and skipping it is what turns the diagnostic back into
+guessing. Without a goal, "which Engine is weakest" is the only question left — and that
+question has a tidy answer that is frequently the wrong one.
+
+> [!failure]- Superseded — 2026-08-07
+> **Previously:** the method ran six steps, and step 3 read:
+> *"1. Rate your business across all four Engines · 2. For each, assign a Season —
+> Survival, Stability, Scale, or Harvest · 3. **The one lagging behind the others is your
+> constraint** · 4. Fix that before working on anything else · 5. Re-evaluate — the next
+> constraint will emerge · 6. Repeat."*
+> **Source:** [[Premium Workshop — 4 Seasons, 4 Bottlenecks]]
+> **Replaced by:** the eight-step goal-anchored sequence above. Alex direct, 2026-08-07.
+> **Reason:** it confused *maturity* with *relevance*. The lowest-Season Engine is the
+> least developed one, which is not the same as the one blocking the next goal. The old
+> rule sends an owner to fix Leadership while the thing actually stopping them is that
+> nobody is answering the phone. The four-Engine assessment survives intact — what
+> changed is that the goal, not the ranking, now selects the constraint.
+
+## When This Matters
+
+It is the mechanism behind [[Five Laws|Stop Guessing]]. Without a diagnostic, an owner
+works on whatever is loudest — the most recent complaint, the newest tactic, the part of
+the business they enjoy. With one, they get a location, a target, and a single next
+action.
+
+It also matters because the wrong diagnostic is worse than none. An owner who follows a
+confident, incorrect instruction spends a month on the wrong Engine and concludes the
+system doesn't work.
 
 > [!question] Still unresolved
 > Is **Business GPS** the name of this diagnostic, of "the quiz" referenced on calls, or
-> of a separate product? The method is now documented; the naming isn't.
+> of a separate product? The method is documented; the naming isn't.
 
-## Why It Matters
+## Key Ideas
 
-It is the mechanism behind [[Five Laws|Stop Guessing]]. Without a diagnostic, an owner
-picks whatever is loudest. With one, they get a location and a single next action.
+**The first cut is coarser than the grid.** Before Engine × Season, there's a fork that
+catches most owners: **[[Leads Problem Or Sales Problem]]** — 95% of owners stuck under
+$20K/month are stuck on one of those two.
 
-## Symptoms
+**Each Engine carries its own Season.** There is no single company-wide Season. Leads can
+be in Scale while Labor is in Survival. See [[Four Seasons]].
 
-*None yet.*
+**The constraint moves.** Relieving one constraint usually promotes another. That's step
+8, and it's why this is a loop rather than a plan.
 
-## Common Mistakes
+**Same Engine, different Season, different fix.** A Labor constraint in Survival and a
+Labor constraint in Scale are not the same problem and do not get the same action. The
+grid below is what keeps that from collapsing into generic advice.
 
-*None yet.*
+## What To Do Once You've Located It
 
-## Models
-
-Before the Engine × Season grid, there's a coarser fork that catches most owners:
-**[[Leads Problem Or Sales Problem]]** — 95% of owners stuck under $20K/month are stuck on
-one of those two. That's the first cut.
-
-The diagnostic axis is Engine × Season: each Engine has its own Season, and the
-constraining one determines the work. See [[Four Seasons]].
-
-**What to actually do once you've located the constraint — one action per Engine, per
-Season.** A separate resource gives a concrete "how to solve it" for each of the 16
-Engine × Season cells, closing the gap the diagnostic table above leaves open (it says
-*which* Engine and Season, not what to do about it). Source uses the Season's retired
-name ("Sustain/Sell"); translated to **Harvest** here per [[Four Seasons]]'s standing
-note.
+One action per Engine, per Season — the "how to solve it" the diagnostic itself doesn't
+give you. Source uses the Season's retired name ("Sustain/Sell"); translated to
+**Harvest** here per [[Four Seasons]]'s standing note.
 
 | Engine | Survival | Stability | Scale | Harvest |
 |---|---|---|---|---|
@@ -67,24 +108,10 @@ note.
 | **Logistics** | 1–2 essential checklists + scheduling rules to stop bleeding time/money | CRM + auto-SMS follow-ups + a single source of truth for jobs and notes | Internal operating processes + a weekly ops cadence so it runs without the owner | Formalize into a master operating manual and full [[SOPs]] library — asset-ready |
 | **Leadership** | Set non-negotiable standards; enforce boundaries, stop taking bad jobs | Hold the team accountable with simple scorecards + consistent coaching | Appoint team leads; build a weekly meeting cadence (wins/issues/commitments) | Install leaders (ops, training, sales/admin) + audit the machine |
 
-The framing for why this matters at all: most cleaning businesses don't have *one*
-bottleneck — they have several, and which one looks biggest shifts week to week. The
-Season-by-Engine grid is what keeps that from feeling unclear: the same bottleneck (say,
-Labor) gets solved completely differently depending on the Season it's actually in.
+This grid answers step 5. It does not answer step 3 — it tells you what to do in a cell,
+never which cell you're in.
 
-## Checklist
-
-*None yet.*
-
-## Templates
-
-*None yet.*
-
-## Videos
-
-[[Free Resources and Mini Courses]] — "Why Your Cleaning Business Is Stuck" lesson.
-
-## Student Examples
+## Examples
 
 **Three worked evaluations from the workshop:**
 
@@ -94,37 +121,36 @@ Labor) gets solved completely differently depending on the Season it's actually 
 | **Courtney** | Survival/Stability | Stability | Stability | Stability | **Leads primary** (no paid channel she controls), **Logistics secondary** (no SOPs, can't delegate) |
 | **Alex** | Scale | **Scale — constrained** | Harvest | Harvest | **Labor only.** Can't spend more on marketing without more cleaners. Owners work ~1 hr/week. |
 
+**Alex's own reading is the clearest case for the corrected rule.** Every Engine reads
+Scale or Harvest. Labor is not the least mature — Leads sits at the same Season. Labor is
+the constraint because the goal is more marketing spend, and more spend is worthless
+without cleaners to absorb it. **The goal picked the Engine. The ranking couldn't have.**
+
+**Courtney** — a live worked example with two weak Engines. The diagnosis on the call was
+Labor: hire first. Both Leads and Labor needed work, and the tiebreak was which one had
+to move before the other could pay off. See [[Labor Before Leads]].
+
 Note Courtney's Labor reading: solid team, but losing two cleaners would be a crisis. No
 backup coverage. See [[Backup Cleaner]].
 
-**Courtney** — a live worked example. Two constraints (leads and labor), diagnosis
-delivered on the call: Labor is the constraint, hire first. See [[Labor Before Leads]].
+## Sources
 
-## AI Prompts
-
-*None yet.*
-
-## FAQ
-
-*None yet.*
+- **The corrected diagnostic sequence** — Alex direct, 2026-08-07
+- **The four-Engine assessment and the retired ranking rule** — [[Premium Workshop — 4 Seasons, 4 Bottlenecks]]
+- **The Engine × Season action grid** — [[Free Resources and Mini Courses]], "Why Your Cleaning Business Is Stuck"
+- **The quiz / naming question** — [[2025-03-25 Weekly Coaching Call]]
+- **Worked student evaluations** — [[Premium Workshop — 4 Seasons, 4 Bottlenecks]]
 
 ## Conflict History
 
-*None.*
-
-## Presented In
-
-*None yet.*
+The ranking rule was superseded on 2026-08-07. See the collapsed block under
+**The Diagnostic Sequence**.
 
 ## Related Concepts
 
 - [[Four Engines]]
 - [[Four Seasons]]
 - [[Five Laws]]
-- [[Labor Before Leads]]
-- [[Philosophy]]
-- [[Four Roles]]
 - [[Leads Problem Or Sales Problem]]
-- [[Marketing Math]]
-- [[SOPs]]
-- [[Cleaner Handbook]]
+- [[Labor Before Leads]]
+- [[Owner Role Evolution]]

@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing]
 status: Canonical
-sources: [Weekly Sales Training Call — March 26 P1, Every SOP We Use]
+sources: [Weekly Sales Training Call — March 26 P1, Every SOP We Use, Weekly Sales Training Call — April 2, Premium Resources]
 updated: 2026-08-06
 ---
 
@@ -78,6 +78,55 @@ prospect describes the condition as 5+ out of 10, then standard going forward. H
 stated rule, rather than a gut call each time, is what makes "I'd recommend X" sound
 confident instead of improvised.
 
+## Move-In vs. Post-Construction — One Prescription That Needs A Sub-Diagnosis
+
+"Move-in clean" isn't always the right prescription just because the client asks for it
+by that name. A fourth source adds a specific branch: when a client requests a move-in
+clean, ask four follow-up questions before confirming the type —
+
+1. Is anyone actively working in the home (contractors, painters)?
+2. Are there new or recently installed surfaces (floors, cabinets, tile, paint) still
+   curing or dusty?
+3. Is the home completely empty of furniture and personal items?
+4. Is debris removal needed (adhesive, plastic wrap, protective film, caulk)?
+
+A "yes" to #1, #2, or #4 — or any debris removal — means it's actually a **Post-
+Construction clean**, not a Move-In, and needs a manager to quote it: different tools,
+different PPE, different price. The distinction: Move-In is sanitization/detailing of a
+home that's already "broom-clean." Post-Construction is removal of fine dust, film, and
+residue. Quoting one as the other under-scopes the job and under-prices it.
+
+**The recovery script if the type turns out to be wrong on arrival** — the same source
+gives the fix when a cleaner shows up and the condition doesn't match what was booked
+(e.g. booked as Move-In, actually Post-Construction): the cleaner stands by, the office
+calls the client to explain the real type required and re-quotes before continuing; if
+the client doesn't answer, the cleaner begins if possible and the office follows up, with
+a manager involved if needed. The type gets corrected in BookingKoala once resolved. This
+is the operational fallback for when the diagnosis on the phone was wrong — not a reason
+to skip diagnosing up front.
+
+## The Doctor Analogy, Carried To The Price Itself
+
+The doctor metaphor above is about the opening question. A second source extends the same
+metaphor one step further, to the moment right before the price:
+
+> "If you tell a doctor your back hurts and they immediately say '$300 for Vicodin, want
+> it?' — that feels transactional. Instead, a good doctor mirrors your symptoms back,
+> describes the solution and why it works, and *then* gives the price."
+
+The diagnosis isn't finished when you've asked the open question and heard the answer —
+it's finished when you've handed the prescription back to them in their own words, plus
+what makes your version of it work. On a cleaning call, that's three beats before the
+number: recap what they need (*"so it's a 4-bed, 2.5-bath move-out, 1800 sqft"*), name
+what makes you different (*"100% satisfaction guarantee, five stars, background-checked
+cleaners"*), then frame the solution as built for them specifically. Only then does the
+price land — inside a context of value instead of arriving cold. This is the same
+"diagnose before you prescribe" discipline this page already teaches, extended past the
+opening question into the run-up to [[Price Delivery|the price itself]], and it overlaps
+with — but isn't identical to — [[Micro-Commitments]], which builds *agreement* (day,
+time, logistics) rather than *context* (why this price, for this problem) before the
+number.
+
 ## Checklist
 
 - [ ] First question is open-ended
@@ -110,6 +159,10 @@ confident instead of improvised.
 
 - [[Weekly Sales Training Call — March 26 P1]]
 - [[Every SOP We Use]] — "Sales Call Outline" lesson.
+- [[Weekly Sales Training Call — April 2]] — the doctor analogy extended to context
+  before the price.
+- [[Premium Resources]] — Sales Call Outline, Move-In vs. Post-Construction questions and
+  the wrong-type-on-arrival recovery script.
 
 ## Student Examples
 
@@ -156,3 +209,5 @@ and you move on. See [[Mirroring]].
 - [[Sales Happen On The Phone]]
 - [[Managing A VA]]
 - [[Word Tracks]]
+- [[Price Delivery]]
+- [[Building Connection]]

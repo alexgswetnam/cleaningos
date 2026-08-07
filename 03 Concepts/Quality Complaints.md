@@ -79,8 +79,7 @@ job) goes to the full re-clean process below.
 **Default to fixing the work, not refunding the money.** Offer 2–3 time windows within
 the guarantee period, confirm access/pets/special instructions, and decide who returns:
 the original cleaner (with a clear list of what to correct) or a replacement (compensated
-fairly for a job that's now smaller in scope, following the [[Quality Complaints|fault
-matrix]] above for whether that pay comes out of the original cleaner's pay).
+fairly for a job that's now smaller in scope, following the [[Quality Complaints|fault matrix]] above for whether that pay comes out of the original cleaner's pay).
 
 **Refunds are the fallback, not the first move.** Small refunds within a defined team
 limit can be approved on the spot; anything larger escalates to a manager. If a client

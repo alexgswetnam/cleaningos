@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing, Clarity Creates Momentum]
 status: Canonical
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Every SOP We Use]
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Every SOP We Use, Premium Resources, Leads 101 Part 2]
 updated: 2026-08-06
 ---
 
@@ -65,6 +65,32 @@ moment: proceed with a lead who communicates clearly, is respectful, and is flex
 scheduling/scope; be cautious with one who's fixated only on price or carrying unrealistic
 expectations. The goal isn't closing every lead — it's closing the right ones.
 
+**A concrete, named red-flags list** — a third source gives the same judgment as four
+specific, checkable signals rather than a general "fixated on price" description:
+
+- Complains about pricing repeatedly (nickel-and-diming)
+- Wants to strip too many rooms from the job (e.g. a 5-bedroom house, only 1 bedroom
+  cleaned)
+- Requests a standard clean when the condition or photos clearly demand a deep clean, or
+  the home hasn't been cleaned in over a year
+- A flat bad feeling about the client — named explicitly as a legitimate signal on its
+  own, not something to talk yourself out of
+
+Any one of these on its own isn't necessarily disqualifying — together, or combined with
+the price gap above, they're the practical version of "different league."
+
+**Reject on the front end, not after the clean is already done.** A fourth source
+corroborates the same judgment with a sharper timing point: it's better to have no client
+than a bad, upset client — and the cost of waiting to find that out is much higher after
+the work is already finished. If someone haggles hard, shows anger, or has clearly
+unreasonable expectations before booking, that's the cheapest moment to say they're not a
+fit. The alternative — clean the home, then discover they won't pay, want something fixed
+first, or are simply going to find fault no matter what — means the labor cost is already
+spent and the business is exposed with no leverage left. *"No matter how good of a job you
+do, there's going to be some problem."* Some prospects are not solvable with better
+service; they're solvable by not booking them, and letting the spot go to a client who's
+actually a fit protects the schedule for someone with better long-term value.
+
 ## Checklist
 
 - [ ] Ask what they were paying before
@@ -78,11 +104,16 @@ expectations. The goal isn't closing every lead — it's closing the right ones.
 - "That's a great price. Why are you even looking around?"
 - "There's cheaper options. But you're going to pay for a cheaper option."
 - "It's better to have no client than a very bad experience with a client."
+- "It's better to have no client than to have a bad upset client."
+- "They are not our ideal customer profile."
 
 ## Videos
 
 [[Premium Workshop — 4 Seasons, 4 Bottlenecks]]
 [[Every SOP We Use]] — "Pricing Guide" lesson.
+[[Premium Resources]] — Sales Call Outline, "What are some red flags that someone's not
+a good fit?" section.
+[[Leads 101 Part 2]] — "Why we are HAPPY to reject clients!" lesson.
 
 ## Student Examples
 
@@ -114,3 +145,4 @@ a full-price client could have used, and they're likelier to become the complain
 - [[Marketing Math]]
 - [[Airbnb Clients]]
 - [[Leads Engine]]
+- [[Ideal Customer Profile]]

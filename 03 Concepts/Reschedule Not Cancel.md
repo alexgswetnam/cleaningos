@@ -4,7 +4,7 @@ engine: [Logistics, Leads]
 season: [Stability, Scale]
 laws: [Stop Guessing]
 status: Canonical
-sources: [Objection Handling Course, Every SOP We Use]
+sources: [Objection Handling Course, Every SOP We Use, Leads 101 Part 2, Labor 101]
 updated: 2026-08-06
 ---
 
@@ -24,8 +24,7 @@ specific future date before accepting the cancellation.
 
 A recurring client who cancels because of travel, a family change, or a possible move is
 not the same event as a client who cancels because the clean was bad. Treating both the
-same way — accepting the cancellation and moving on — throws away [[Client Lifetime
-Value]] on clients who were never actually unhappy with you. The whole point of this
+same way — accepting the cancellation and moving on — throws away [[Client Lifetime Value]] on clients who were never actually unhappy with you. The whole point of this
 technique is that the client tells you which situation you're in, if you listen for it,
 before you decide how to respond.
 
@@ -90,8 +89,7 @@ based on notice given:
 - **72+ hours' notice** — cancel with no fee. Ask if they'd like to reschedule or keep
   future appointments active.
 - **Less than 72 hours' notice** — a cancellation fee applies. **25% is confirmed as
-  The Faithful Cleaners' actual, currently-used figure** (see [[Client Expectation
-  Setting]]'s real Terms of Service template), not just an illustrative example. A
+  The Faithful Cleaners' actual, currently-used figure** (see [[Client Expectation Setting]]'s real Terms of Service template), not just an illustrative example. A
   genuine emergency (illness, death) can get the fee waived once, as goodwill, with the
   reason documented. If the client resists paying, offer to add the fee to their next
   cleaning instead of forcing payment now; repeated refusal
@@ -102,6 +100,30 @@ This doesn't conflict with [[Handling Upset Clients]]'s policy note ("one free
 reschedule for recurring clients, a cancellation fee for non-recurring") — that page
 gives the recurring/non-recurring split, this page gives the specific hour threshold and
 fee size. Both apply together.
+
+**A frequency-based nuance for recurring clients, layered on top of the hour-based
+policy.** A second source describes recurring clients getting one genuinely free
+cancellation or same-day/day-before reschedule roughly once every six months — beyond
+that frequency, the standard fee policy applies even with full notice, because the
+cleaner's schedule was built around that job. This isn't a contradiction of the 72-hour/
+25% rule above; it's an added frequency cap specifically for recurring clients, layered
+on top of it (Type 2 — the two rules answer different questions: notice given vs. how
+often a client leans on the grace period). One-time clients get the stricter policy from
+the start, set clearly during the sales conversation.
+
+**If a cleaner is already traveling to or has arrived at a canceled job, pay them
+anyway** — the same $25 (or up to $50, scaled to the impact on their day) cleaner
+make-whole payment already documented on [[Payment Verification & Collection]], now
+corroborated independently by this second source as standard policy, not a one-off
+courtesy.
+
+**The payment-hold mechanism this policy depends on.** BookingKoala's payment hold
+(placed roughly 2–3 days before the appointment, moving to "payment pending") is what
+makes the fee enforceable — with a card on file, the fee can actually be charged if a
+client cancels without enough notice. Cash, Zelle, Venmo, and check leave the business
+with "no recourse" to collect a fee that was agreed to in the terms of service, which is
+part of the broader case (already on [[Payment Verification & Collection]]) for treating
+card as the default and effectively only payment method.
 
 **Log every cancellation — this is where most businesses fail.** Every cancellation,
 whether saved or not, gets logged in both the booking system (with a specific reason,
@@ -153,6 +175,10 @@ systems.
 Ingested 2026-08-06.
 [[Every SOP We Use]] — "New Cancellation SOP," "How to Handle a Cancel/Re-Schedule," and
 "Logging Cancellation Reasons in BK/GHL" lessons.
+[[Leads 101 Part 2]] — "Securing Recurring Cleanings" lesson. Same worked call, same
+June 1 reschedule, same reviewer quotes as the `Objection Handling Course` lesson already
+cited above — corroboration, not a second example.
+[[Labor 101]] — "How To Handle Cancellations" lesson.
 
 ## Student Examples
 

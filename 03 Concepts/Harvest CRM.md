@@ -4,7 +4,7 @@ engine: [Leads, Labor]
 season: [Stability, Scale]
 laws: []
 status: Developing
-sources: [2026-03-04 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, Cleaning Biz 101 — Convert]
+sources: [2026-03-04 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, Cleaning Biz 101 — Convert, Weekly Sales Training Call — April 6, Logistics Fundamental Course]
 updated: 2026-08-06
 ---
 
@@ -52,10 +52,31 @@ that's the trigger to adopt it.
 
 ## Models
 
+**Origin: built on GoHighLevel, but not the same product.** GoHighLevel is the underlying
+platform — powerful but blank, "like being handed car parts and told to build whatever
+kind of car you want." Harvest CRM is described as the cleaning-specific version of that
+same platform, pre-built for residential cleaning workflows rather than assembled from
+scratch. That's the whole difference: not more capability, less assembly.
+
+**Pricing, competitor comparison and setup paths live on [[Harvest CRM Offer]]** — they're
+commercial terms, and they change independently of how the tool works. Judge the cost with
+[[Systems Cost-Benefit Analysis]], not against a sticker price.
+
+> [!info] Two prices exist and no source reconciles them
+> $147/mo (1:1 Coaching Agreement) and $197/mo (this lesson). Recorded and flagged on
+> [[Harvest CRM Offer]]. **Neither figure goes in customer-facing copy until Alex
+> confirms which is current.**
+
 **When to get a CRM.** Not at the very beginning. The trigger is lead volume outpacing
 manual tracking: *"Once you turn on marketing and you're losing money by not properly
 following up with all these people — that's when."* Before that stage, a lighter tool
 (e.g. ZenMaid's automated reminder texts) solves the immediate pain without the cost.
+Corroborated independently: the same "not yet" case is named for a solo cleaner with a
+stable client base, no marketing, and no new leads — apply [[Systems Cost-Benefit Analysis]] rather than adopting on a fixed revenue trigger. Signals it *is* time even
+without heavy lead volume: getting ready to invest in marketing from day one, sitting on
+a backlog of old "no" leads worth re-nurturing through automated follow-up, or the
+Google-Voice-and-scattered-texts chaos of not knowing who's been quoted or needs a
+follow-up.
 
 **The hiring pipeline lives inside it.** [[Automated Hiring Pipeline]] — originally
 Rashawn's custom build — is now templatized into every member's Harvest CRM account:
@@ -73,8 +94,14 @@ Convert` names the specific list: auto-texting new leads instantly, a missed-cal
 follow-up sequences, reminders for the calls that still need a human, moving pipeline
 stages automatically when a booking happens, and tagging lead sources automatically. Its
 line on why this matters: *"If you don't have a follow-up machine, you don't really have
-a sales system!! You have a 'respond when I remember' system."* See [[Sales Pipeline
-Stages]] for the full stage-by-stage breakdown this list maps onto.
+a sales system!! You have a 'respond when I remember' system."* See [[Sales Pipeline Stages]] for the full stage-by-stage breakdown this list maps onto.
+
+**A social planner lives inside it too — Marketing → Social Planner.** Connects directly
+to a Google Business Profile: write posts (AI-assisted is fine) and schedule them out from
+inside Harvest CRM rather than GBP's own interface. The posting rules themselves aren't a
+Harvest CRM feature, they're the standing [[GBP Posting Cadence]] SOP — no phone numbers in
+post text (Google flags them), no stock images, no text baked into graphics, "Call Now"
+button instead of a number, at least three posts a week.
 
 **Desktop-first, not mobile-first.** The mobile app is for messaging and notifications
 only. Booking, scheduling, and CRM workflow management should happen on a laptop — several
@@ -100,6 +127,7 @@ tab, Notion for task boards, and Discord for cleaner communication.
 
 [[2026-03-04 Weekly Coaching Call]] — hiring pipeline templatization, Rick's VIP
 customization, when-to-get-a-CRM guidance
+[[Weekly Sales Training Call — April 6]] — the Social Planner / GBP integration
 
 ## Student Examples
 
@@ -139,3 +167,7 @@ is a downstream step of the Harvest CRM hiring pipeline, not a substitute for it
 - [[Cleaner Availability System]]
 - [[Zapier]]
 - [[Leads Engine]]
+- [[Importing Contacts Into Harvest CRM]]
+- [[A2P Verification]]
+- [[Systems Cost-Benefit Analysis]]
+- [[Harvest CRM Offer]]

@@ -32,8 +32,17 @@ valuation, exact margins, or specific ad metrics.
 
 | | |
 |---|---|
-| Program | $6,000, via Klarna over 12 months |
-| Harvest CRM | $147/month, discounted, ongoing while active |
+| Program | **$6,000** |
+| Payment | Via Klarna over 12 months, per the agreement |
+| Harvest CRM | $147/month, discounted, ongoing while active — see [[Harvest CRM Offer]] |
+
+> [!info] Checked against the agreement — 2026-08-07
+> Current business direction gives the price as **$6,000 one-time / package price.** The
+> signed agreement says *"investment is $6,000.00, paid through Klarna over 12 months."*
+>
+> **These agree.** $6,000 is the price; Klarna over 12 months is the payment mechanism, not
+> a different number. No contract wording was changed — the table now just separates price
+> from payment method so the two can't be read as conflicting figures.
 
 Klarna is a separate financing provider; the payment arrangement doesn't change program
 terms. **All payments final and non-refundable** — the remedy for dissatisfaction is the
@@ -77,7 +86,7 @@ Not meeting these may pause, extend, or void the guarantee.
 ## Related Concepts
 
 - [[Group Coaching]]
-- [[Harvest CRM]]
+- [[Harvest CRM Offer]]
 - [[Four Engines]]
 - [[Four Seasons]]
 - [[Philosophy]]

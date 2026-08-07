@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing]
 status: Canonical
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1, Objection Handling Course]
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1, Objection Handling Course, Leads 101 Part 2]
 updated: 2026-08-06
 contested: true
 ---
@@ -179,6 +179,11 @@ worked live.
 [[Objection Handling Course]] — *It's Too Expensive* and *My Old Cleaner Charged Less*.
 Ingested 2026-08-06 — this is the "four separate responses" this page had been citing
 since before the course was pulled from Drive.
+[[Leads 101 Part 2]] — "When to keep pushing for a sale..." lesson. Corroborates the
+old-cleaner question near-verbatim (*"What made you guys stop using your old
+cleaners?"*), and adds the general framing that persistence continues *"as long as
+someone will talk to you and there are no red flags"* — the same posture this page's
+"don't get on your heels" already teaches for price specifically.
 
 ## Student Examples
 

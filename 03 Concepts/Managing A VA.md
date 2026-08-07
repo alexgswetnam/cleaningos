@@ -4,7 +4,7 @@ engine: [Leadership]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-04-15 Weekly Coaching Call, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call]
+sources: [2025-03-25 Weekly Coaching Call, Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-04-15 Weekly Coaching Call, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Weekly Sales Training Call — April 2]
 updated: 2026-08-06
 ---
 
@@ -137,6 +137,19 @@ frequently exactly what a low-cost VA should own:
 A VA at roughly $5/hour can absorb tasks an owner is avoiding purely out of dislike, not
 because they require the owner specifically.
 
+**Gender shows up in close rate, for sales-VA roles specifically.** Not a hiring
+requirement, but a named, repeated pattern: Alex's main VA (female) closes at 45–55%,
+against Kyle (male, 30%). *"Women want to talk to women"* is the stated read, with male
+VAs sometimes getting *"you're not cleaning my house, are you?"* pushback on calls. Worth
+weighing when staffing a phone-sales role specifically — it doesn't apply to VA roles
+without a sales-conversation component.
+
+**The VA placement pipeline, end to end.** Train the VA first → a 30-day trial with the
+member, no charge → if it's a good fit, a 12-month commitment through the school, with
+SOPs included from day one. A lead VA (Elle, in this source) sources and vets candidates
+for other members — including, in one case, firing her own friend for not performing,
+named as evidence of how seriously the vetting is taken.
+
 **Discord as the office.** The VA sits in a voice channel during work hours. You drop in
 whenever. That's presence without surveillance.
 
@@ -191,6 +204,7 @@ the only excuse for ever not picking up."*
 [[2026-03-18 Weekly Coaching Call]] — pay structure, equity-partner leadership, cleaner
 transition, first-week mentorship structure.
 [[2026-04-08 Weekly Coaching Call]] — the $50 rule, weekly review cadence, daily debriefs.
+[[Weekly Sales Training Call — April 2]] — VA close rate by gender, the placement pipeline.
 
 ## Student Examples
 

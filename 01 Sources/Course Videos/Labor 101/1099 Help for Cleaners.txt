@@ -1,0 +1,85 @@
+We send this to cleaners who don't know what 1099 means. Your best cleaners will know what a 1099 is because they do it for themselves or have worked with others on 1099.
+
+Big picture
+
+
+
+
+
+W-2 employee: Your employer withholds income tax and FICA (Social Security & Medicare) from each paycheck.
+
+
+
+1099 independent contractor: No one withholds for you. You’re responsible for paying your own income tax and self-employment tax during the year (usually quarterly). It’s usually easiest/simplest to use an app like Keeper or Bonsai Tax IRS+1
+
+What you’ll file & receive (1099)
+
+
+
+
+
+You give the company a Form W-9 so they have your correct name/SSN or EIN. (We will send you the form to fill out)
+
+
+
+We will issue Form 1099-NEC to you by Jan 31 for your records and to the IRS. IRS
+
+Paying taxes as a 1099 contractor
+
+
+
+
+
+Quarterly estimated taxes. Because no tax is withheld from your checks, you generally make estimated payments each quarter (April 15, June 15, Sept 15, Jan 15). These cover both income tax and self-employment (SE) tax. IRS+1
+
+
+
+Self-employment tax = 15.3% on your net earnings (12.4% Social Security up to the annual wage base, + 2.9% Medicare; an extra 0.9% Medicare may apply at higher incomes). You calculate this on Schedule SE. IRS
+
+
+
+You also file Schedule C to report your business income and deductible expenses. If your net self-employment earnings are $400 or more, you must file Schedule SE. IRS
+
+
+
+Safe harbor: The IRS explains penalties can apply if you don’t pay enough during the year; Publication 505 covers how to avoid that with adequate withholding/estimated tax. IRS
+
+What “net earnings” means (good news: expenses reduce tax)
+
+
+
+
+
+You’re taxed on profit, not gross. Ordinary and necessary business costs (supplies, mileage, equipment, phone used for work, etc.) reduce your Schedule C net income, which also reduces SE tax. See the IRS small-business guide for what’s typical. IRS
+
+Employee vs contractor status (how the IRS looks at it)
+
+
+
+
+
+The IRS focuses on the degree of control and other factors—no single factor decides it. If there’s uncertainty, the IRS has guidance and even a determination form (SS-8). IRS+1
+
+Simple year-round checklist for a 1099 subcontractor
+
+
+
+
+
+Collect & track income and receipts for expenses (a simple spreadsheet or bookkeeping app works). IRS
+
+
+
+Set aside money from each payment for taxes (many contractors park ~25% to cover federal income + SE tax; exact rate varies). See IRS estimated tax guidance. IRS
+
+
+
+Make quarterly payments (IRS Direct Pay/EFTPS) using Form 1040-ES vouchers or online. Usually the simplest way to do this is go through an app or software that does it all for you- like Keeper or Bonsai Tax IRS
+
+
+
+In January: collect your 1099-NEC from The Faithful Cleaners. IRS
+
+
+
+At tax time: file Form 1040 with Schedule C (business profit/loss) and Schedule SE (self-employment tax). Again, the easiest way to do this is to have an app or software that guides you through it or does it fore you, like the ones mentioned above. IRS

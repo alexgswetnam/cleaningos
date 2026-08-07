@@ -4,7 +4,7 @@ engine: [Leads, Leadership]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing, One Step Wins]
 status: Developing
-sources: [2025-03-11 Weekly Coaching Call, Weekly Sales Training Call — March 26 P1, Free Resources and Mini Courses]
+sources: [2025-03-11 Weekly Coaching Call, Weekly Sales Training Call — March 26 P1, Free Resources and Mini Courses, Leads 101 Part 2]
 updated: 2026-08-06
 ---
 
@@ -77,6 +77,33 @@ day) before asking a single diagnostic question. Also flagged: questions can lan
 accusatory by accident — *"is there a reason you stopped using them?"* put the prospect on
 the defensive where a softer, curiosity-framed version wouldn't have.
 
+**MAFHAF corroborated directly, with the "same side" price framing added.** A third
+source teaches MAFHAF as its own standalone lesson rather than a piece of call feedback,
+confirming it's a named framework rather than a one-off phrase: connect like a human
+first — ask about the area, kids, normal life — before offering the cleaning service as
+the "help" half. Its addition to what's already on this page: when price comes up, stay
+explicitly on the prospect's side rather than defending the number — *"We're on the same
+side here"* — and look for a workable option together (an unused room to drop from scope,
+a guarantee to point to) rather than treating the objection as opposition. The framing
+overlaps with [[Diagnose Don't Take Orders]] and [[Price Objection]] without replacing
+either.
+
+**"Game footage" as the name for this mechanism, and the golf analogy for why practice has
+to target the right fundamentals first.** A second source corroborates the recorded-call
+review mechanism under an athlete framing: *"Just like any good athlete, you are going to
+be reviewing your game footage."* Roleplay and live-call review are framed as
+complementary, not competing — roleplay builds the reps, live calls show what actually
+happens under real pressure. The same source's companion lesson adds the reason bad
+practice doesn't help: *"Practicing a bad swing more is just going to further ingrain a
+bad swing."* Get the fundamentals right first — the beginning of the call, presenting the
+offer, pricing, objection handling, asking for the sale, scheduling — then repeat them.
+Roleplay is named explicitly as the sales version of that repetition, and the instruction
+is not to abandon a word track after one attempt that didn't land; it may need more reps,
+not a different line. Neither source adds a new coaching mechanic beyond what this page
+already documents — both corroborate the same practice: record, review (self and
+outside feedback), and go to someone better than you, the way a bad golfer goes to a golf
+coach rather than trying to self-correct.
+
 ## Student Examples
 
 **Rick and Melissa** — had a call broken down previously. Melissa was *"stoked"* about the
@@ -119,6 +146,9 @@ partner as a teaching example, not attributed to a named vault member.
 [[Weekly Sales Training Call — March 26 P1]] — a full breakdown, start to finish.
 
 [[Free Resources and Mini Courses]] — "Sales Call Breakdown Why They Didn't Book" lesson.
+
+[[Leads 101 Part 2]] — "Watching your game footage...," "How To: Increase Close Rate,"
+and "Stop making sales awkward!" lessons.
 
 ## AI Prompts
 

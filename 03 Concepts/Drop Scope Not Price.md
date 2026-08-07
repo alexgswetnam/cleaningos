@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1, Objection Handling Course]
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1, Objection Handling Course, Weekly Sales Training Call — April 2]
 updated: 2026-08-06
 contested: true
 ---
@@ -87,6 +87,26 @@ ownership of, and it stops being a discount at all.
 decided they want the service. See [[Sales Happen On The Phone]] — that's the moment not to
 end the call.
 
+**A second call gives the same "handle the heavy stuff, they take the easier parts" shape,
+independently, as the default answer to a budget objection** — worth noting because it
+matches Claim B's style (a discretionary, in-the-moment restructuring) more than Claim A's
+"$10–15 off for a review" ceiling:
+
+> "Something we do for people is we handle the heavy lifting — bathrooms, appliances, the
+> harder stuff. And if you want to take care of the vacuuming and the easier parts, we have
+> a more affordable option."
+
+This turns a $0 option (the prospect cleans it themselves) into a $150–$200 booking — not
+a discount on the full price, a smaller job at the full rate.
+
+**Rick's live win, same call, is the rotate-the-rooms move worked in real time.** A
+bi-weekly prospect's price "seemed high." Rick asked whether she needed every room every
+time; she didn't. He built: deep clean first, then alternate — main floor only one week,
+whole house the next. Her response: *"This is exactly what I was looking for."* Booked on
+the first call. Same mechanism as the "rotate the rooms" shape already on this page, now
+with a second worked example and no reciprocity language attached — the rate held, the
+scope changed, nothing was framed as a favor.
+
 ## Checklist
 
 - [ ] Confirm it's a real budget constraint, not a league gap — *"is it just a price thing?"*
@@ -108,12 +128,20 @@ end the call.
 
 [[Weekly Sales Training Call — March 26 P1]] — cap-the-time and rotating-rooms, worked live.
 
+[[Weekly Sales Training Call — April 2]] — the "heavy stuff vs. easier parts" split, and
+Rick's live alternating-rooms win.
+
 ## Student Examples
 
 **Marcella** (Jack's call) — offered her own cuts unprompted: *"I don't really use my
 basement," "if we could do it every other week."* The prescribed response was to cap the time
 at three hours and focus on kitchens and bathrooms. Jack instead came back later with a
 lower flat number and lost the booking.
+
+**Rick's bi-weekly prospect, April 2** — named her own budget ceiling by tone ("price is
+going to seem high"). Asked whether she needed every room every time, got a no, built an
+alternating deep-clean/main-floor plan. Booked on the spot, no reciprocity framing, no
+discount stated anywhere in the call.
 
 ## AI Prompts
 
@@ -158,6 +186,17 @@ the work was overpriced; reduced scope says less work costs less.
 > Profile for it. This doesn't pick a winner between Claim A and Claim B — it's a
 > compliance constraint that applies to *either* claim if reviews are the trigger. Whatever
 > Alex rules on the amount, the review-for-discount mechanism itself needs a policy call.
+
+> [!info] Checked against 2026-04-02 and 2026-04-06 sales training calls — not resolved
+> [[Weekly Sales Training Call — April 2]] adds two more worked examples of the
+> "restructure the service, hold the rate" pattern (heavy-stuff-vs-easier-parts;
+> Rick's alternating-rooms win) — both reliably dated 2026-04-02. Neither example touches
+> Claim A's "$10–15 off for a review" ceiling or the reciprocity-framed personal-favor
+> style in Claim B's original examples, so this doesn't settle which claim governs
+> straight price reductions. It does further corroborate that scope restructuring itself
+> — as opposed to price reduction — is a live, repeatedly-taught technique, which was
+> never actually in dispute. [[Weekly Sales Training Call — April 6]] doesn't touch price
+> reduction or scope at all. Still contested; still needs Alex.
 
 ## Presented In
 

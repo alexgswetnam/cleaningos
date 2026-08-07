@@ -4,7 +4,7 @@ engine: [Leadership, Logistics]
 season: [Stability, Scale]
 laws: [Stop Guessing, Build In Order]
 status: Canonical
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-02-20 Weekly Coaching Call, 2026-02-24 Weekly Coaching Call, 2026-03-18 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call]
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-02-20 Weekly Coaching Call, 2026-02-24 Weekly Coaching Call, 2026-03-18 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call, Logistics Fundamental Course, Alex direct 2026-08-06]
 updated: 2026-08-06
 ---
 
@@ -31,11 +31,22 @@ One missed booking can exceed a fortnight of VA cost.
 working hours is a lead you're donating to a competitor.
 
 **2. You want the business to be an asset, not a job that owns you.** Hire early. This is
-the [[Four Roles|Supervisor → General Manager]] transition.
+the [[Owner Role Evolution|Supervisor → General Manager]] transition.
 
-**3. You want maximum control and can genuinely do it all.** You might not need one. The
-workshop cites an owner at **$45K/month with no VA** — working 12 hours a day. That's a
-real choice, with a real price.
+**3. You want maximum control and can genuinely do it all.** You might not need one. Alex
+knows an owner running **$45K/month with no VA** — working 12 hours a day, and miserable
+doing it. That's a real choice, with a real price, and the price is the point: the revenue
+proves it's *possible*, and the 12-hour days prove possible isn't the same as worth it.
+
+> [!info]- Sourcing note — 2026-08-06
+> This figure was flagged during a full-corpus audit because it appeared on the page
+> attributed to *"the workshop"* and nothing in `01 Sources/` supported it. Alex confirmed
+> it: it's a friend of his, described from personal knowledge, never a workshop claim.
+> Re-attributed to **Alex direct, 2026-08-06**.
+>
+> Kept as a note because the original error is instructive — a real fact with a fabricated
+> citation reads exactly like a fabricated fact until someone checks. The number was never
+> wrong; the sentence pointing at where it came from was.
 
 **4. You're already paying for leads you can't answer.** Rashawn (2026-02-20 call) had
 LSA running at ~$19/lead — excellent economics — but works a full-time job and can only
@@ -72,21 +83,21 @@ was considering a replacement as of the same call.
 
 **A full-time VA isn't the only entry point — a few hours a week works too.** Alex runs a
 VA on random 2–4 hour/week tasks (editing, Harvest CRM work, Skool management, texts,
-calendar, social media editing) at $6/hour. Even a business resisting the [[KPI Tracking
-Sheet|tracking sheet]] can pay $10/week for 15 minutes a day of data entry rather than
+calendar, social media editing) at $6/hour. Even a business resisting the [[KPI Tracking Sheet|tracking sheet]] can pay $10/week for 15 minutes a day of data entry rather than
 letting it not happen at all.
 
 **The delegation rule: hand over what you know but don't want to do, not what you don't
 know yet.** Don't delegate a task before you've learned it yourself — you can't evaluate
 whether it's being done right, and a VA can (knowingly or not) tell you it's fine when it
 isn't. Learn it first, then hand it off. This is also why a small-hours VA is premature
-for a genuinely brand-new owner still learning the business itself — see [[Five Business
-Pillars]] — though they can still use one for narrow, well-understood tasks like GBP
+for a genuinely brand-new owner still learning the business itself — though they can still
+use one for narrow, well-understood tasks like GBP
 posting once they know what "done well" looks like.
 
 ## Economics
 
-**$3–6/hour**, typically Philippines or Bangladesh.
+**$3–6/hour**, typically Philippines or Bangladesh. A wider named range across sources:
+**$2–10/hour**, with candidates also seen in Pakistan, Colombia, Nicaragua, and Brazil.
 
 > "Your $6/hour VA makes more than a nurse in the Philippines and almost double a doctor
 > in Bangladesh."
@@ -94,6 +105,20 @@ posting once they know what "done well" looks like.
 The workshop is direct that this is a genuine economic partnership rather than
 exploitation — VAs at this rate buy property, pay college tuition, and buy vehicles for
 family. It's life-changing money in that market.
+
+**Why the rate is low: cost of living, not skill.** Median rent in the source countries
+runs around $400/month against $1,600–$1,800 for a comparable US apartment — so a wage
+that looks small in dollars can be well above local median pay. Paying $10/hour is
+described as equivalent to paying $40–60/hour in the US. Many candidates hold a master's
+degree and years of relevant experience; **"third world country doesn't mean that their
+skills are lower value."** See [[Picking The Right VA]] for the follow-on point: a higher
+quoted rate does not reliably predict better performance, so don't use price as a proxy
+for quality in either direction.
+
+**Payment platform: Wise.** Named as the platform most VAs already use; Alipay is
+mentioned as an alternative not used in this business. Overseas VA pay is treated as a
+straightforward business expense with no 1099 involved — confirm the actual tax treatment
+with a professional rather than relying on this as tax advice.
 
 ## Scheduling
 
@@ -126,8 +151,7 @@ His read: women want to talk to women.
 - **Onboarding a VA before there's enough lead flow to keep them busy.** Rashawn's earlier
   VA didn't work out for exactly this reason: his lead flow later dried up and the VA was
   sitting idle with nothing to do. *"It's important for me to figure out my lead engine
-  first so that anyone who comes on board actually has work to do."* — fix the [[Leads
-  Engine]] constraint before the Labor hire, not after. See [[Business GPS]].
+  first so that anyone who comes on board actually has work to do."* — fix the [[Leads Engine]] constraint before the Labor hire, not after. See [[Business GPS]].
 
 ## Checklist
 
@@ -136,6 +160,10 @@ His read: women want to talk to women.
 - [ ] Decide full-time, part-time, or evenings
 - [ ] Have at least a daily checklist ready before they start
 - [ ] Onboard per [[Managing A VA]]
+- [ ] Pick the specific candidate per [[Picking The Right VA]] — a test run, not a resume
+      read
+- [ ] Know the KPI thresholds that would trigger [[When To Fire A VA]] before you need
+      them
 
 ## Templates
 
@@ -173,7 +201,10 @@ ready to hand over the work.
 ## Related Concepts
 
 - [[Managing A VA]]
+- [[Picking The Right VA]]
+- [[When To Fire A VA]]
+- [[Systems Cost-Benefit Analysis]]
 - [[SOPs]]
 - [[Leadership Engine]]
-- [[Four Roles]]
+- [[Owner Role Evolution]]
 - [[Marketing Math]]
