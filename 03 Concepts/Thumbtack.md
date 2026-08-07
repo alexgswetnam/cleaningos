@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing]
 status: Canonical
-sources: [2025-02-03 Weekly Coaching Call, Free Thumbtack Leads + GBP Optimization]
+sources: [2025-02-03 Weekly Coaching Call, Free Thumbtack Leads + GBP Optimization, Free Resources and Mini Courses]
 updated: 2026-08-06
 ---
 
@@ -111,6 +111,8 @@ found the Google Ads *search network partners* setting was generating junk. See
 ## Videos
 
 [[Free Thumbtack Leads + GBP Optimization]] — the full free-leads method walkthrough.
+[[Free Resources and Mini Courses]] — "$100 Bonus - How to Get FREE Leads from
+Thumbtack" lesson.
 
 ## Student Examples
 
@@ -120,6 +122,15 @@ found the Google Ads *search network partners* setting was generating junk. See
 **The host** — $6K spent over two months early on, ~$4K of it wasted on unprofitable
 one-time cleans, before the job-type/frequency filters and free-lead cycling turned
 Thumbtack into a genuinely strong channel.
+
+**A second, independent live demo confirms the exact same card-cycling method** — set
+Thumbtack's budget to "unlimited," fund an actual spend cap with a prepaid/gift card
+loaded only with the amount you want to spend, and keep the unlimited setting on so free
+leads keep triggering. Alex estimates having received **250–300 free leads total** this
+way, concentrated in the business's second and third months. Also reconfirms the
+service-area-expansion trick from a slightly different angle: opting into suggested
+areas to trigger a free-lead offer (the example: ~30 free leads), then removing those
+areas afterward so ongoing leads stay local.
 
 ## AI Prompts
 

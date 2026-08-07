@@ -89,10 +89,12 @@ based on notice given:
 
 - **72+ hours' notice** — cancel with no fee. Ask if they'd like to reschedule or keep
   future appointments active.
-- **Less than 72 hours' notice** — a cancellation fee applies (the source example: 25%
-  of the booking, capped). A genuine emergency (illness, death) can get the fee waived
-  once, as goodwill, with the reason documented. If the client resists paying, offer to
-  add the fee to their next cleaning instead of forcing payment now; repeated refusal
+- **Less than 72 hours' notice** — a cancellation fee applies. **25% is confirmed as
+  The Faithful Cleaners' actual, currently-used figure** (see [[Client Expectation
+  Setting]]'s real Terms of Service template), not just an illustrative example. A
+  genuine emergency (illness, death) can get the fee waived once, as goodwill, with the
+  reason documented. If the client resists paying, offer to add the fee to their next
+  cleaning instead of forcing payment now; repeated refusal
   escalates to a manager and a decision about whether to keep the client on the
   schedule at all.
 

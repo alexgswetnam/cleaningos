@@ -4,7 +4,7 @@ engine: [Labor]
 season: [Survival, Stability]
 laws: []
 status: Canonical
-sources: [2026-02-20 Weekly Coaching Call, Every SOP We Use]
+sources: [2026-02-20 Weekly Coaching Call, Every SOP We Use, Free Resources and Mini Courses]
 updated: 2026-08-06
 ---
 
@@ -64,7 +64,10 @@ represent the company correctly on day one, not just eventually.
    matching before angles as closely as possible, surfaces dry/wiped/staged. Photograph
    anything damaged or impossible to clean. Natural light, landscape, steady, camera
    stepped back to fit the room, no personal clutter in frame. Upload everything to
-   BookingKoala job media.
+   BookingKoala job media. *A separately-archived copy of this same picture-guidelines
+   document says upload to a Google Drive folder instead — likely an older version of
+   the guide predating the move to BookingKoala job media (see [[BookingKoala]]); treat
+   BookingKoala job media as current.*
 5. **During the clean** — work efficiently and quietly, no loud music or speakerphone,
    respect pets and anyone working from home, follow BookingKoala notes when unsure.
 6. **Final walkthrough & goodbye** — walk the finished areas with the client if they're
@@ -147,6 +150,8 @@ it's no problem at all!"
 [[2026-02-20 Weekly Coaching Call]] — names both handbooks, doesn't include contents.
 [[Every SOP We Use]] — "FOR CLEANERS: Cleaner Experience Guide," "FOR CLEANERS: Cleaner
 Picture Guidelines," and "FOR CLEANERS: Preferred Cleaning Supplies" lessons.
+[[Free Resources and Mini Courses]] — "Cleaner Picture Guidelines" and "Take before and
+after pics!" lessons.
 
 ## Student Examples
 

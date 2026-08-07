@@ -4,7 +4,7 @@ engine: [Leadership]
 season: [Harvest]
 laws: [Stop Guessing]
 status: Canonical
-sources: [Another convo w the broker, 2026-04-27 Weekly Coaching Call]
+sources: [Another convo w the broker, 2026-04-27 Weekly Coaching Call, Evaluating the Specifics of the Biz]
 updated: 2026-08-06
 ---
 
@@ -26,6 +26,16 @@ The whole story is in one family:
 
 > Alex's parents bought a business. The seller went off and started another business, took
 > the employees, took the clients. The parents lost in arbitration and paid the lawyer fees.
+
+> [!warning] A fuller telling changes the emphasis, not the facts
+> A later, more detailed telling of this same story (see Student Examples) reveals the
+> parents **did** have a non-compete on paper — the seller violated it and won in
+> arbitration anyway. That doesn't make the clause worthless: it changes the lesson from
+> "get a non-compete" alone to "get one, and don't assume paper protection is
+> self-enforcing" — the relationship through transition and the strength/jurisdiction of
+> the agreement matter as much as its existence. The rest of this page's guidance (raise
+> it early, pair with a transition period, confirm enforceability with a lawyer) still
+> holds; if anything, it's reinforced.
 
 They lost twice — the business they bought, and the cost of arguing about it.
 
@@ -86,11 +96,21 @@ resists either is telling you something worth more than the answer.
 ## Videos
 
 - [[Another convo w the broker]]
+- [[Evaluating the Specifics of the Biz]]
 
 ## Student Examples
 
-**Alex's parents** — bought a business, seller started a competitor and took the clients and
-employees, lost in arbitration, paid the fees. The reason this is non-negotiable for Alex.
+**Alex's parents — the full story, from a second telling.** They bought a close friend's
+jiu-jitsu gym in stages (30% → 50% → 100% ownership), grew it, and started succeeding
+where the original owner hadn't. The former owner grew resentful, opened the same
+business 10 miles away **despite the non-compete on paper**, and won in arbitration — the
+arbitrator was effectively a retired judge, and her lawyer worked on contingency. The
+parents spent roughly $300K total, had wages garnished, paid both her money and both
+sides' legal fees, lost students and instructors to the new competitor, and after nine
+years netted only about $20K. **The lesson isn't "don't get a non-compete" — they had
+one.** It's that a non-compete on paper isn't bulletproof, so the relationship with the
+seller through the transition, and the strength of the paperwork itself, both matter more
+than the existence of a clause alone.
 
 **William, 2026-04-27 — the other direction: cleaners, not sellers.** A different but
 related scenario — cleaners (not a business seller) leaving and taking clients with them.

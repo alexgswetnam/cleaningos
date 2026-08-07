@@ -4,7 +4,7 @@ engine: [Leads, Logistics]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Every SOP We Use]
+sources: [Every SOP We Use, Free Resources and Mini Courses]
 updated: 2026-08-06
 ---
 
@@ -64,6 +64,19 @@ capable of reducing issues by 70–80% on its own.
 early enough to actually change client behavior (decluttering, prepping add-ons), late
 enough to stay top of mind.
 
+**A second source supplies the actual company template**, not a `[Your Company Name]`
+placeholder — see Templates below. It confirms two figures already used as illustrative
+examples on [[Reschedule Not Cancel]] are the real policy: a **25% cancellation/
+reschedule fee for changes made within 72 hours**, and a **payment hold placed 24 hours
+before the cleaning**, with payment due immediately after. It also reframes *why* this
+works, tying it directly to expectation psychology rather than just complaint
+prevention: people get upset over an *unmet* expectation, not a bad outcome in
+isolation — a two-hour drive feels great if you expected four, and awful if you expected
+thirty minutes. Setting the expectation yourself, rather than letting the client assume
+one, is what lets you consistently exceed it. **Automate the send.** The email (and a
+companion "Welcome to Our Family" SMS) fires automatically the moment someone books,
+built as a [[Harvest CRM]] workflow rather than sent manually per booking.
+
 ## Checklist
 
 - [ ] Message sent 24–48 hours before every first-time appointment
@@ -74,6 +87,7 @@ enough to stay top of mind.
 - [ ] Cancellation policy stated with required notice
 - [ ] Walkthrough and on-the-spot re-clean guarantee mentioned
 - [ ] Template customized with company name and checklist link
+- [ ] Send automated via CRM at the moment of booking, not manually per client
 
 ## Templates
 
@@ -86,13 +100,38 @@ enough to stay top of mind.
 > questions before your appointment, feel free to reach out anytime! Best regards,
 > [Your Company Name]"
 
+**The Faithful Cleaners' actual expectation email** (real company, real policy figures —
+kept verbatim as sent, minus contact details):
+> "Hi {{contact.first_name}}! Welcome to The Faithful Cleaners family! We're excited to
+> take care of your home. To make sure you get the very best results and everyone is on
+> the same page, here are some expectations from our Terms of Service that will help
+> your cleaning go smoothly: **Before We Arrive** — please pick up clutter from the
+> floors so we can clean all surfaces thoroughly (a considerable increase in clutter may
+> mean an additional fee); our team can't safely move furniture or large/fragile items
+> for insurance reasons; if you purchased interior oven cleaning, spray the oven the day
+> before. **What's Not Included** — we handle dusting, wiping, scrubbing, vacuuming, and
+> mopping; we don't provide professional organizing, biohazard cleanup, climbing
+> ladders, or deep stain removal — we're a cleaning company, not a restoration service;
+> we don't clean garages, patios, or exteriors; we can't guarantee work in areas blocked
+> by clutter, contractors, or pets; we don't provide specialized services like deep
+> tile/grout or carpet shampooing. **Policies** — we ensure 100% satisfaction before we
+> leave; cleaners do a walkthrough with you at the end, and re-clean anything not up to
+> standard on the spot; payment is due immediately after the cleaning, with a hold
+> placed 24 hours before; expect a survey call after; cancellations/reschedules within
+> 72 hours carry a 25% fee. Thank you so much for helping us serve you better! With
+> gratitude, The Faithful Cleaners Team"
+
 ## Videos
 
 - [[Every SOP We Use]] — "Client Expectation Email" lesson.
+- [[Free Resources and Mini Courses]] — "Client Expectation Email" and "Use this for
+  FEWER Unsatisfied Clients" lessons.
 
 ## Student Examples
 
-*None yet.*
+**The Faithful Cleaners** — real, in-use expectation email and policy figures (25%
+fee within 72 hours, 24-hour payment hold), automated via Harvest CRM at the moment of
+booking alongside a companion SMS.
 
 ## AI Prompts
 
@@ -117,3 +156,4 @@ enough to stay top of mind.
 - [[The Walkthrough]]
 - [[Quality Complaints]]
 - [[Leads Engine]]
+- [[Harvest CRM]]

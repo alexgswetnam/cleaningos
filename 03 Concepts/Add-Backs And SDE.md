@@ -4,7 +4,7 @@ engine: [Leadership]
 season: [Harvest]
 laws: [Stop Guessing]
 status: Canonical
-sources: [Another convo w the broker]
+sources: [Another convo w the broker, Evaluating the Specifics of the Biz]
 updated: 2026-08-06
 ---
 
@@ -75,6 +75,19 @@ the one set of numbers prepared for an audience with no incentive to flatter.
 
 > The books "aren't a clean source of truth." The owner is "missing some pretty big stuff."
 
+**A second recorded session — almost certainly the same deal, worked through at a
+different point.** `Evaluating the Specifics of the Biz` has two buyers (not explicitly
+named as Alex and Elijah, but reviewing a strikingly similar target: a commercial
+cleaning acquisition with a personal "mountain house" run through the business as an
+add-back, and add-backs that roughly doubled in a single year to ~$63K) working the same
+CIM independently, before or after talking to the broker directly. Two additions this
+session surfaces that the broker call doesn't: a **flat-revenue, jumping-SDE anomaly** —
+2023 and 2024 revenue within a few hundred dollars of each other while SDE jumps ~$15K,
+which the buyers flag as unusual enough to demand a real revenue breakdown rather than
+just an add-back breakdown — and a specific liability-protection ask: a **tax clearance
+/ certificate of no tax due**, on top of confirming it's a no-debt sale, so the buyer
+doesn't inherit the seller's tax liabilities.
+
 **On messy bookkeeping as a buying signal.** One of the buyers noted a book listing bad
 bookkeeping as a *positive* on a good-deal checklist — the theory being you can come in and
 clean it up and unlock value. They stayed sceptical, and the scepticism is the right
@@ -90,6 +103,9 @@ to do the work.
 - [ ] Add back the *missing* item: unpaid owner labor
 - [ ] Reconcile against tax filings
 - [ ] Have a CPA review before the due diligence window closes — see [[Due Diligence]]
+- [ ] Flag flat/near-identical revenue across years paired with a jumping SDE — request a
+      real revenue breakdown
+- [ ] Request a tax clearance / certificate of no tax due, and confirm the sale is no-debt
 
 ## Templates
 
@@ -103,10 +119,11 @@ to do the work.
 ## Videos
 
 - [[Another convo w the broker]]
+- [[Evaluating the Specifics of the Biz]]
 
 ## Student Examples
 
-*None yet — Alex and [[Elijah]] are the buyers in the only source, not students.*
+*None yet — the buyers in both sources aren't identified as vault members, not students.*
 
 ## AI Prompts
 

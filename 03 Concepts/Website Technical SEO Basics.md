@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Stability, Scale]
 laws: [Stop Guessing]
 status: Developing
-sources: [2026-03-18 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call]
+sources: [2026-03-18 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call, Free Resources and Mini Courses]
 updated: 2026-08-06
 ---
 
@@ -93,6 +93,33 @@ checklist like this one, then implement it yourself or hire cheaply (Fiverr) for
 mechanical fixes like per-city page content. Don't assume a paid vendor has done the
 basics — verify with a browser extension or a manual pass.
 
+**Where the map-pack ranking actually comes from, quantified.** A live audit (using a
+WhiteSpark-style ranking-factor report) breaks map-pack ranking down as roughly **32%
+Google Business Profile signals, 19% on-page website signals, 16% review signals** —
+GBP alone is close to a third of the weight, and GBP + on-page together are nearly half.
+This is why fixing the website and the GBP together outperforms either alone.
+
+**Finding the actual keyword to optimize for, not a guess.** Use Google Ads' Keyword
+Planner ("Discover new keywords," filtered to your city) to see real local search volume
+— e.g., for a window-cleaning business in McKinney, "window cleaning near me" and
+"window washers near me" outranked the business's own assumed best keyword. Use whatever
+that top keyword is consistently: in the GBP name/category, in the website's H1 and meta
+description, and worked naturally into review responses (see [[Review Response
+Scripts]]) — Google factors keyword usage in review replies into ranking too. SEMrush and
+Ahrefs are named as alternative tools for the same lookup.
+
+**Read a ranking-scan report as binary, not gradient.** A map-pack ranking scan colors
+results on a gradient from green to red, but the only distinction that matters is
+**position 1–3 (found) vs. position 4+ (invisible)** — a rank of 4 and a rank of 25 are
+functionally the same to a searcher who never scrolls the map. Don't over-read shades of
+yellow as partial progress.
+
+**Reviews alone don't beat a missing address.** A live comparison: a competitor with far
+more reviews (385) than a newly-optimized profile still ranked 7th because they were
+running a service-area-only listing with no physical address (see [[Google Business
+Profile Naming]] for why address placement outranks review count). Address and pin
+placement can out-rank pure review volume.
+
 ## Checklist
 
 - [ ] Exactly one H1 per page; everything else H2/H3
@@ -107,6 +134,10 @@ basics — verify with a browser extension or a manual pass.
 - [ ] Embed Google Maps from the GBP listing directly on the site
 - [ ] Confirm schema is actually connected to GBP (hours, contact info), not just present
 - [ ] Run a browser SEO extension yourself rather than relying on a vendor's word
+- [ ] Run a ranking-factor report (WhiteSpark or similar) to see the GBP/on-page/review
+      signal split
+- [ ] Confirm your top keyword with Keyword Planner rather than assuming it
+- [ ] Read a rank-scan result as 1–3 (visible) vs. 4+ (invisible), not a gradient
 
 ## Templates
 
@@ -117,6 +148,7 @@ SEO team; not archived in the vault.*
 
 [[2026-03-18 Weekly Coaching Call]] — live audit of Jack's site (Take Care of Cleaners, Toronto).
 [[2026-04-27 Weekly Coaching Call]] — live audit of William's site: H1s, schema-to-GBP connection, Maps embed.
+[[Free Resources and Mini Courses]] — "How to Get FREE Leads from Google!" lesson.
 
 ## Student Examples
 
@@ -131,6 +163,15 @@ that fixing schema and headings alone would meaningfully lift rankings.
 business schema present but not connected to GBP with hours/contact info. No Google Maps
 embed on the site at all. No service-area/location pages. Each issue individually fixable
 and none requiring a developer.
+
+**Double Eagle Window Cleaning — a live audit outside the cleaning niche, same
+mechanics.** Not showing in the map pack at all when the scan was last run months prior;
+after adding an address and "window cleaning" to the GBP name, ranked in the top 3 for
+"glass cleaner near me" and "window cleaner near me" in the immediate area. GMB
+interactions climbed steadily month over month once the changes landed (June 30 → July
+36 → August 40+, accelerating into the current month). Remaining gaps identified live:
+missing local business schema, four-level heading hierarchy collapsed into H1/H4 with no
+H2/H3, no Google Maps embed, thin services/products list on the GBP.
 
 ## AI Prompts
 
@@ -155,3 +196,4 @@ and none requiring a developer.
 - [[PPC Landing Page Strategy]]
 - [[Conversion Tracking]]
 - [[Leads Engine]]
+- [[Review Response Scripts]]

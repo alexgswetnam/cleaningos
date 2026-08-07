@@ -4,7 +4,7 @@ engine: [Leadership]
 season: [Harvest]
 laws: [Stop Guessing]
 status: Canonical
-sources: [Another convo w the broker]
+sources: [Another convo w the broker, Evaluating the Specifics of the Biz]
 updated: 2026-08-06
 ---
 

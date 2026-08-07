@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, Free Thumbtack Leads + GBP Optimization]
+sources: [2025-03-25 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, Free Thumbtack Leads + GBP Optimization, Free Resources and Mini Courses]
 updated: 2026-08-06
 ---
 
@@ -82,6 +82,14 @@ new location is starting from zero reviews again. Use **Local Falcon** (or a sim
 tool) to check actual map ranking from different points around the pin, rather than
 guessing at coverage.
 
+**A live cross-industry comparison confirms address beats review count.** A window
+cleaner with 385 Google reviews still ranked 7th in the map pack because they had no
+physical address (service-area-only) — beaten by a much newer, address-verified profile
+with far fewer reviews. Reviews build trust once someone's looking at the profile; the
+address determines whether the profile shows up at all. See [[Website Technical SEO
+Basics]] for the WhiteSpark ranking-factor breakdown (GBP signals ≈ 32% of map-pack
+ranking) this example illustrates.
+
 **A verified, 4x'd profile still needs upkeep beyond the initial rename.** On a live
 walkthrough of one profile (2026-04-20), the remaining to-do list was small but real:
 post consistently — every other day at minimum, not once a month — upload the business
@@ -108,6 +116,7 @@ fixes; they were just unfinished.
 ## Videos
 
 [[Free Thumbtack Leads + GBP Optimization]] — address setup, naming, map-pack mechanics, multi-location scaling.
+[[Free Resources and Mini Courses]] — "How to Get FREE Leads from Google!" lesson.
 
 ## Student Examples
 

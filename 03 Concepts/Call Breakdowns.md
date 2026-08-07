@@ -4,7 +4,7 @@ engine: [Leads, Leadership]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing, One Step Wins]
 status: Developing
-sources: [2025-03-11 Weekly Coaching Call, Weekly Sales Training Call — March 26 P1]
+sources: [2025-03-11 Weekly Coaching Call, Weekly Sales Training Call — March 26 P1, Free Resources and Mini Courses]
 updated: 2026-08-06
 ---
 
@@ -62,6 +62,21 @@ tell you what to repeat, and students rarely look:
 Both halves. The lost call is where the lesson is; the won calls are where the *method*
 already is.
 
+**A second full breakdown surfaces the same opening-energy lesson from a new angle.**
+Alex and his business partner break down a member's submitted call (posted in the Skool
+group) and introduce a memorable framing for the very first thing that goes wrong on most
+lost calls: **energy and connection before business.** The comparison they draw — a flat
+*"Hi, it's Eddie from [Company]"* opener versus an energetic *"Hey, Colin here from
+[Company], saw you reach in!"* — is the same lesson [[Sales Happen On The Phone]] and
+[[Mirroring]] already teach, restated as a tone problem rather than a script problem: a
+smile and energy in the first line set the whole call's tone before a single question is
+asked. The acronym for this: **MAFHAF — Make A Friend, Help A Friend.** Don't pitch or
+sell until you've made a real connection first; find anything to talk about besides the
+clean itself early in the call (how long they've lived somewhere, what they're doing that
+day) before asking a single diagnostic question. Also flagged: questions can land as
+accusatory by accident — *"is there a reason you stopped using them?"* put the prospect on
+the defensive where a softer, curiosity-framed version wouldn't have.
+
 ## Student Examples
 
 **Rick and Melissa** — had a call broken down previously. Melissa was *"stoked"* about the
@@ -73,12 +88,21 @@ lost at the price. Jack's own diagnosis of an earlier call — *"I forgot to go 
 looking to switch"* — turned out to be the same failure again. That repetition is only
 visible because both calls were broken down.
 
+**Eddie (Supermates Cleaning) and Werner/Mary** — the second breakdown's source call.
+Eddie's opener lacked energy; his questions ("is there a reason you stopped using
+[cleaners]," "what's changed") landed as accusatory rather than curious, putting Mary on
+the defensive early. No clear question structure — the call felt like random questions
+rather than a confident, directed sequence. Broken down live by Alex and his business
+partner as a teaching example, not attributed to a named vault member.
+
 ## Checklist
 
 - [ ] Record calls
 - [ ] Pick one you lost
 - [ ] Post it
 - [ ] Apply one change on the next call, not five
+- [ ] Listen to your own opening line specifically — energy and connection before any
+      question
 
 ## Symptoms
 
@@ -93,6 +117,8 @@ visible because both calls were broken down.
 [[2025-03-11 Weekly Coaching Call]]
 
 [[Weekly Sales Training Call — March 26 P1]] — a full breakdown, start to finish.
+
+[[Free Resources and Mini Courses]] — "Sales Call Breakdown Why They Didn't Book" lesson.
 
 ## AI Prompts
 

@@ -4,8 +4,8 @@ engine: [Leads]
 season: [Survival]
 laws: [Build In Order, Clarity Creates Momentum]
 status: Canonical
-sources: [Alex direct 2026-08-05, 2025-02-03 Weekly Coaching Call, leads 101 — Marketing Basics series]
-updated: 2026-08-05
+sources: [Alex direct 2026-08-05, 2025-02-03 Weekly Coaching Call, leads 101 — Marketing Basics series, Free Resources and Mini Courses]
+updated: 2026-08-06
 superseded: 2026-08-05
 ---
 
@@ -106,6 +106,21 @@ CPA is absurd or nobody recurs, it's the channel.
 >
 > The contested first-month revenue is resolved. Month 2 revenue ($8K) was not in any
 > transcript.
+
+> [!warning] A fourth, differently-shaped recollection — noted, not adopted
+> A separate, undated course lesson (`Free Resources and Mini Courses`, "Marketing
+> Philosophy") tells the same origin story with different numbers again: month 1, $4,000
+> spent, ~$7,500–8,000 in bookings, net **–$1,000**; month 2, ~$3,000 more spent, total
+> loss across both months ~$2,000–2,500; month 3, near-$0 marketing spend, ~$5,000
+> revenue, roughly breakeven; month 4, profitable. This doesn't match either the
+> already-superseded transcript figures above or the **Alex direct, 2026-08-05** figures
+> that replaced them ($8K revenue and $3K spend in both months 1 and 2, then $500/month).
+> Per this page's own resolution rule — **Alex direct outranks transcript recall** — the
+> table above stays authoritative. This is recorded as further evidence that Alex's own
+> recalled month-by-month numbers vary between tellings, not as a new dispute to resolve.
+> The consistent claim across all four tellings, and the one this page actually teaches,
+> is the pattern: heavy early spend, an early loss, and profitability arriving a few
+> months in as recurring revenue builds — not the specific dollar figures.
 
 ## Presented In
 
