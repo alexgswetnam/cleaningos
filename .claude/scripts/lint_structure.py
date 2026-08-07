@@ -196,6 +196,8 @@ for p, t in sorted(pages.items()):
     if not (p.startswith("05 Products/") or p.startswith("06 Marketing/")):
         continue
     body = re.sub(r"^---.*?^---", "", t, flags=re.S | re.M)
+    # inline code spans quote source titles and file names, not claims
+    body = re.sub(r"`[^`\n]*`", " ", body)
     for amt in sorted(canon_amounts(body) - registered):
         warn("unregistered-claim",
              "%s states $%s with no matching row in the Claim Register" % (p, format(amt, ",")))
