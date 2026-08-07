@@ -1,3 +1,17 @@
+---
+type: derived-summary
+source: "[[2026-03-18 Weekly Coaching Call]]"
+raw: 2026-03-18-weekly-coaching-call-RAW.txt
+generated: 2026-03-18
+status: Derived — Not Evidence
+updated: 2026-08-07
+---
+
+> [!warning] Derived — not evidence
+> AI-generated interpretation of a source, not the source itself. Useful for finding
+> your way around the call. **Never cite this as proof.** The raw transcript is
+> `2026-03-18-weekly-coaching-call-RAW.txt` in `01 Sources/`, and that is what a factual claim gets checked against.
+
 # VA Onboarding Leadership, Revenue Tracking by Month, Lead Attribution Setup, and Live Website SEO Audit
 
 ## Module

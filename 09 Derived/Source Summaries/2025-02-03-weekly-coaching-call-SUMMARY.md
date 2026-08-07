@@ -1,3 +1,17 @@
+---
+type: derived-summary
+source: "[[2025-02-03 Weekly Coaching Call]]"
+raw: 2025-02-03-weekly-coaching-call-RAW.txt
+generated: 2025-02-03
+status: Derived — Not Evidence
+updated: 2026-08-07
+---
+
+> [!warning] Derived — not evidence
+> AI-generated interpretation of a source, not the source itself. Useful for finding
+> your way around the call. **Never cite this as proof.** The raw transcript is
+> `2025-02-03-weekly-coaching-call-RAW.txt` in `01 Sources/`, and that is what a factual claim gets checked against.
+
 # Know Your Marketing Numbers: Cost Per Lead, Close Rate, and Spending Confidently
 
 ## Module

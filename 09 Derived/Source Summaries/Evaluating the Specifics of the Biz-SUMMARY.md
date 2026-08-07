@@ -1,3 +1,17 @@
+---
+type: derived-summary
+source: "[[Evaluating the Specifics of the Biz]]"
+raw: Evaluating the Specifics of the Biz-RAW.txt
+generated: 2026-08-06
+status: Derived — Not Evidence
+updated: 2026-08-07
+---
+
+> [!warning] Derived — not evidence
+> AI-generated interpretation of a source, not the source itself. Useful for finding
+> your way around the call. **Never cite this as proof.** The raw transcript is
+> `Evaluating the Specifics of the Biz-RAW.txt` in `01 Sources/`, and that is what a factual claim gets checked against.
+
 # Evaluating the Specifics: Reading the CIM, Add-Backs, and Contract Risk on a Cleaning Biz
 
 ## Module

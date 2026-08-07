@@ -105,7 +105,16 @@ Everything in `01 Sources/` is read-only, permanently. No edits, no reformatting
 
 If a transcript is garbled or a source is wrong, note that on the concept page that cites it. The source stays as it is. It is the evidentiary record.
 
-**The only permitted write to `01 Sources/` is adding a new file.** This is enforced at the tool layer in `.claude/settings.json`, which denies `Edit` while allowing `Write`.
+**The only permitted write to `01 Sources/` is adding a new file.** `.claude/settings.json` denies `Edit` while allowing `Write` — but note that this binds Claude Code's tools inside this project, not every agent that can reach the folder. Treat the rule as the protection; the settings file is a reminder, not a wall.
+
+### Evidence vs. interpretation
+
+A file being *in* `01 Sources/` does not make it evidence. **An AI-generated summary of a transcript is interpretation, and interpretation belongs in `09 Derived/`.** Source-record wrappers — origin, date, participants, original artifacts, provenance — are not interpretation and stay.
+
+Never cite a derived summary as proof when the raw source exists. See `09 Derived/README.md`.
+
+> [!info] One authorised extraction — 2026-08-07
+> Twelve `-SUMMARY.md` files were moved out of `01 Sources/` to `09 Derived/Source Summaries/` on Alex's instruction. Content unchanged; only frontmatter marking them derived was added. A further 171 AI summaries remain inside `01 Sources/Course Videos/` and are catalogued in `09 Derived/Derived Source Manifest.md` rather than edited in place — **tagging them individually would mean 171 edits to the evidentiary record, which is a worse violation than the ambiguity it fixes.** No raw file has ever been altered.
 
 ### Rule 4 — The wiki is the product
 
@@ -149,6 +158,7 @@ The folders are a filing system, not a set of competing homes. Without a tiebrea
 |`06 Marketing/`|Assets that promote|Knowledge|
 |`07 Company/`|Internal ops, vision, meetings|Anything customer-facing|
 |`08 Logs/`|Session records written by `/save`|Knowledge. **Never linked to from a concept**|
+|`09 Derived/`|AI-generated interpretation of sources — summaries, extractions. Navigation aids|**Evidence.** Never cite one as proof when the raw source exists|
 |`99 Scratchpad/`|Junk. Never linked to|Anything you'd miss|
 
 **Unnumbered files sit outside this pipeline on purpose** — the numbers encode the CleaningOS flow and these aren't part of it:

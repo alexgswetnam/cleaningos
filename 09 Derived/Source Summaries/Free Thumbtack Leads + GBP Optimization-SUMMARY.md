@@ -1,3 +1,17 @@
+---
+type: derived-summary
+source: "[[Free Thumbtack Leads + GBP Optimization]]"
+raw: Free Thumbtack Leads + GBP Optimization-RAW.txt
+generated: 2026-08-06
+status: Derived — Not Evidence
+updated: 2026-08-07
+---
+
+> [!warning] Derived — not evidence
+> AI-generated interpretation of a source, not the source itself. Useful for finding
+> your way around the call. **Never cite this as proof.** The raw transcript is
+> `Free Thumbtack Leads + GBP Optimization-RAW.txt` in `01 Sources/`, and that is what a factual claim gets checked against.
+
 # Free Thumbtack Leads and Google Business Profile Optimization
 
 ## Module
