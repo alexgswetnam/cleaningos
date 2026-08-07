@@ -131,7 +131,7 @@ map almost one-to-one onto `04 Systems/`. It is the most directly reusable asset
 
 | Lesson | Engine | Season | Outcome taught | Disposition | Candidate location | Free/Paid |
 |---|---|---|---|---|---|---|
-| `$100 Bonus - How to Get FREE Leads from Thumbtack` | Leads | Survival | $100 Bonus - How to Get FREE Leads from Thumbtack | **Split** — redistribute by Engine | Leads × Survival | Free (implied by folder) — **confirm** |
+| `$100 Bonus - How to Get FREE Leads from Thumbtack` | Leads | Survival | `$100 Bonus` lead magnet — free Thumbtack leads | **Split** — redistribute by Engine | Leads × Survival | Free (implied by folder) — **confirm** |
 | `Are my sales suffering because I don’t have a VA` | Logistics | ? | Are my sales suffering because I don’t have a VA | **Split** — redistribute by Engine | Logistics × ? | Free (implied by folder) — **confirm** |
 | `Augusta_Rule` | Leadership | ? | Augusta Rule | **Split** — redistribute by Engine | Leadership × ? | Free (implied by folder) — **confirm** |
 | `Cleaner Picture Guidelines` | Leads | ? | Cleaner Picture Guidelines | **Split** — redistribute by Engine | Leads × ? | Free (implied by folder) — **confirm** |
