@@ -41,6 +41,7 @@ permission.
 | $147/month student rate | [[Harvest CRM Offer]] | 1:1 Coaching Agreement | **VERIFIED** as contract text | n/a | **No** | Verified as *written*, not as *current*. Conflicts with $197 |
 | $197/month standalone | [[Harvest CRM Offer]] | `Logistics Fundamental Course → What is a CRM` | NEEDS VERIFICATION | n/a | **No** | No source reconciles it with $147 |
 | Competitor CRMs at $1,000–$2,000 setup + $200–$400/mo | [[Harvest CRM Offer]] | `Logistics Fundamental Course → What is a CRM` | NEEDS VERIFICATION | n/a | **No** | Naming competitors publicly is Alex's call |
+| Bare GoHighLevel at ~$97/mo | [[Harvest CRM Offer]] | `Logistics Fundamental Course → What is a CRM` | NEEDS VERIFICATION | n/a | **No** | Third-party pricing, quoted from a lesson of unknown date. Verify current before using in a comparison |
 | 7-day free trial | Unknown tier | Historical, no source in vault | NEEDS VERIFICATION | n/a | **No** | Existed at some point. **Which tiers it applies to now is unknown.** Do not write it |
 
 ## Outcome and guarantee claims

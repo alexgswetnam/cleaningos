@@ -19,6 +19,20 @@ Delete an entry once it's resolved. Note the resolution in that session's log.
 
 ---
 
+## Conflict-state defects found by lint (2026-08-07)
+
+Three real findings from `lint_structure.py`. **Not fixed** — each needs a judgment that
+isn't mine to make. Fixing them by inventing a resolution test or a supersession reason
+would be worse than leaving them visible.
+
+| Page | Defect | What's needed |
+|---|---|---|
+| [[Price Objection]] | Contested callout with no **"what would settle it"** | A specific test. Constitution §X: a contested callout without a resolution path is an argument stored forever |
+| [[Cleaner Pay Structure]] | Superseded block with no **Reason** | Why the old claim was replaced. Six months on, a supersession without a reason is indistinguishable from a mistake |
+| [[Subcontractor Vs W-2]] | Superseded block with no **Reason** | Same |
+
+---
+
 ## Concept vs System — flagged, not moved (2026-08-07)
 
 From the v2 refactor, Commit 4. Eighteen pages moved to `04 Systems/`. These four sat close
