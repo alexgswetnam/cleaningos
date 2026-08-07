@@ -2,7 +2,7 @@
 type: index
 title: Concept Index
 status: Generated
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Concept Index
@@ -182,6 +182,6 @@ updated: 2026-08-06
 
 - [[Augusta Rule]] — Rent your own home to your own business for up to 14 days a year, at fair market rate, and that expense is deductible to the business without being taxable income to you.  (Developing)
 - [[Business Finances]] — Money is the scoreboard for the whole system — track it simply, pay yourself first, and pay cleaners fast.
-- [[Business GPS]] — The diagnostic that tells an owner where they are and what their one step is.
+- [[Business GPS]] — The diagnostic that tells an owner where they are and what their one step is — anchored to the goal they're actually trying to hit, not to whichever Engine scores lowest.  (superseded 2026-08-07)
 - [[Five Business Pillars]] — Acquire, Convert, Fulfill, Finances, Operate — the beginner's map, used before a founder is ready for the Four Engines diagnostic.
 - [[Sales Tax Compliance]] — Check your state/province's sales tax rules now — forgiveness programs exist, but only if you go find them.  (Developing)
