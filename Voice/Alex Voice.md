@@ -13,6 +13,16 @@ superseded: 2026-08-06
 
 How Alex sounds. `02 Canon/Language.md` holds naming rules; this page holds the sound.
 
+> [!abstract] Three files, three jobs
+> | File | Controls | Read it when |
+> |---|---|---|
+> | **Alex Voice** *(this page)* | The **sound** — anchors, rhythm, the four modes, the correction log | Writing anything meant to sound like Alex |
+> | [[Brand Voice]] | How **CleaningOS talks to customers** — personality, persuasion, terminology, teaching philosophy | Creating or substantially editing customer-facing content |
+> | [[AI Working Style]] | How **AI works with Alex** — direct, opinionated, stress-tests ideas | Advising, brainstorming, reviewing strategy, deciding |
+>
+> **Do not mix the private layer into customer copy.** The AI may tell Alex "this is
+> solving the wrong problem." A CleaningOS email does not talk that way.
+
 > [!info] This page is deliberately outside the Canon
 > Moved from `02 Canon/` on 2026-08-06 on Alex's instruction. Two reasons.
 >
