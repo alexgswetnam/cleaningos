@@ -4,9 +4,9 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing]
 status: Canonical
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1, Objection Handling Course, Leads 101 Part 2]
-updated: 2026-08-06
-contested: true
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1, Objection Handling Course, Leads 101 Part 2, Alex direct 2026-08-07]
+updated: 2026-08-07
+contested: false
 ---
 
 # Price Objection
@@ -150,7 +150,7 @@ through to response 4 above.
 - [ ] League gap? Let them go
 - [ ] Real budget? Get buy-in first: *"if I find a fair price, would you book right now?"*
 - [ ] Then [[Drop Scope Not Price]]
-- [ ] Finish line and they want a win? $10–15 off first clean for a review — **but see the contested note below, and the Google compliance warning**
+- [ ] Finish line and they want a win? $10–15 off first clean for a review — **confirmed as the base-rate discount, but see the Google compliance warning before using the review-exchange framing**
 - [ ] Otherwise: the price is the price
 - [ ] Old-cleaner comparison specifically? Ask "what made you stop using them," not "why" —
       connect their answer to the satisfaction guarantee, then stop talking
@@ -208,15 +208,14 @@ authority sits elsewhere. It works because the constraint is real.
 
 ## Conflict History
 
-> [!warning] Contested — the "$10–15 only" discount rule
-> The checklist line *"$10–15 off first clean for a review"* is disputed. A later source has
-> Alex coaching a $25 fee waiver and a pricing-tier rounding, neither exchanged for a review.
+> [!success] Resolved — Alex, 2026-08-07: both, different situations
+> The checklist line *"$10–15 off first clean for a review"* is confirmed current — it
+> governs the base rate specifically. The $25 fee waiver / pricing-tier rounding examples
+> are a separate tool for surcharges and tier boundaries, not a competing discount policy.
+> Full statement: **[[Reciprocity]] → Conflict History.**
 >
-> Full statement of the conflict, both claims, and what would settle it:
-> **[[Reciprocity]] → Conflict History.**
->
-> **Unresolved since:** 2026-08-06. Until Alex rules, do not state a discount policy in
-> customer-facing copy.
+> **Still open before either goes into customer-facing copy:** the review-discount mechanic
+> (Claim A) needs compliance-safe wording — see the Google review warning immediately below.
 
 ## Presented In
 

@@ -11,7 +11,9 @@ updated: 2026-08-05
 
 # 1:1 Coaching
 
-House Cleaning Skool 1:1 Coaching Package. Delivered by Alex and Elijah.
+House Cleaning Skool 1:1 Coaching Package. Delivered by Alex and Elijah. *(Contract name —
+brand is rebranding to "House Cleaning Academy" going forward, see `Glossary.md`. Keep
+"Skool" wherever this page quotes or describes the signed contract itself.)*
 
 > [!abstract] In one line
 > $6,000 over 12 months for weekly 1:1 time, a sourced and trained VA, marketing system

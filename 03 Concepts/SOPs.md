@@ -184,7 +184,7 @@ months in Skool).
       policy, complaint/redo/refund, payment failure, access issues
 - [ ] When the same question or message repeats, templatize it rather than retyping it
 - [ ] Confirm the Leads Engine can actually feed a VA work before onboarding one — see
-      [[When To Hire A VA]]'s Rashawn example
+      [[When To Hire A VA]]'s Rashaun example
 - [ ] Once several SOPs exist, tie them together in a top-level master operations manual
 - [ ] Store every SOP, template, script, and checklist in one central place
 - [ ] Attach each SOP to the real trigger moment it applies to

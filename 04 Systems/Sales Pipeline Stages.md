@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Leads]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum, Stop Guessing]
 status: Canonical
 sources: [Cleaning Biz 101 — Convert, Every SOP We Use, Weekly Sales Training Call — Harvest CRM, BookingKoala & Zapier Integration, Leads 101 Part 2]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Sales Pipeline Stages

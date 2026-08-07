@@ -1,6 +1,6 @@
 ---
 type: concept
-engine: [Leads, Logistics]
+engine: [Leads, Logistics, Leadership]
 season: [Stability, Scale]
 laws: [Stop Guessing]
 status: Canonical

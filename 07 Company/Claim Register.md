@@ -42,7 +42,7 @@ permission.
 | $197/month standalone — also applies to CleaningOS Membership and Group Coaching members | [[Harvest CRM Offer]] | `Logistics Fundamental Course → What is a CRM`; bundling ruling Alex direct 2026-08-07 | NEEDS VERIFICATION | n/a | **No** | Lesson-sourced price still not corroborated by a current sales page; the "no bundling discount" ruling is direct from Alex |
 | Competitor CRMs at $1,000–$2,000 setup + $200–$400/mo | [[Harvest CRM Offer]] | `Logistics Fundamental Course → What is a CRM` | NEEDS VERIFICATION | n/a | **No** | Naming competitors publicly is Alex's call |
 | Bare GoHighLevel at ~$97/mo | [[Harvest CRM Offer]] | `Logistics Fundamental Course → What is a CRM` | NEEDS VERIFICATION | n/a | **No** | Third-party pricing, quoted from a lesson of unknown date. Verify current before using in a comparison |
-| 7-day free trial | Free diagnostic (permanent) + $47 curriculum + [[Group Coaching]] ($297), per Alex direct 2026-08-07 | Alex direct 2026-08-07 | NEEDS VERIFICATION | n/a | **No** | Tier scope now has a working direction (not Canon) — trial reaches all the way to $297. Terms (what happens at day 8, does it default to $47 or require a choice) still undefined. Do not write it in copy until confirmed |
+| 7-day free trial | **AI stays at Free/Survival level for everyone during all 7 days**, regardless of which tier's curriculum the trial unlocks. AI upgrades only on day 8, and only to whatever tier the member actually pays for | Alex direct 2026-08-07 | NEEDS VERIFICATION | n/a | **No** | Working direction, not Canon. Rationale: AI access is one-way in practice — never grant a level you'd have to take back. Day 8: no auto-billing default, member actively chooses $47 / $297 / cancel. Do not write trial terms in copy until this is finalized |
 
 ## Outcome and guarantee claims
 
@@ -65,12 +65,12 @@ already has all seven — it is the working precedent, not a hypothetical.
 | # | Term | Status |
 |---|---|---|
 | 1 | **Exact wording of the promise** | Draft: "$25k/month within 12 months" |
-| 2 | **When the clock starts** — enrollment, first call, or first paid month | **Missing** |
-| 3 | **Requirements to Claim** — what "uses the group coaching" verifiably means: attendance, implementation, ad spend, data access, tracking | **Missing.** This is the phrase that has been doing legal work all along |
-| 4 | **The remedy** — 1:1 help, refund, or both. If both: which first, and who chooses | **Decided, Alex 2026-08-07:** pause billing (stop charging) + biweekly 1:1 help, continuing until the member hits $25k/month. Open sub-question: does this also refund months already paid, or only pause future charges? |
-| 5 | **Refund quantum** — "a huge amount" is not a term. A number or a formula | **Missing** |
-| 6 | **What voids it** — pausing, ghosting, not spending, not tracking | **Missing** |
-| 7 | **Governing law and dispute process** | 1:1 uses Texas + binding arbitration |
+| 2 | **When the clock starts** — enrollment, first call, or first paid month | **Decided, Alex 2026-08-07:** first coaching call attended, not signup date |
+| 3 | **Requirements to Claim** — what "uses the group coaching" verifiably means: attendance, implementation, ad spend, data access, tracking | **Decided, Alex 2026-08-07: attendance at calls only.** Lighter bar than the 1:1 agreement (which stacks ad spend + attendance + implementation + data access) — worth a second look given the exposure math below, since attendance-only is easier to satisfy than a multi-factor bar |
+| 4 | **The remedy** — 1:1 help, refund, or both. If both: which first, and who chooses | **Decided, Alex 2026-08-07:** pause billing (stop charging) + biweekly 1:1 help, continuing until the member hits $25k/month |
+| 5 | **Refund quantum** — "a huge amount" is not a term. A number or a formula | **Decided, Alex 2026-08-07:** N/A — the remedy pauses future charges only, it does not refund months already paid |
+| 6 | **What voids it** — pausing, ghosting, not spending, not tracking | **Decided, Alex 2026-08-07: missing calls (ghosting).** Consistent with term 3 — the same attendance bar that qualifies you for the guarantee is what voids it if you drop below it |
+| 7 | **Governing law and dispute process** | **Decided, Alex 2026-08-07:** same as 1:1 — Texas + binding arbitration |
 
 > [!danger] Exposure worth modelling before signing up to this
 > Group Coaching is **$297/month**. Twelve months is **$3,564** per member.
@@ -81,22 +81,26 @@ already has all seven — it is the working precedent, not a hypothetical.
 > Run the number at your realistic group size and claim rate before the terms are written.
 > A guarantee that is cheap at ten members can be ruinous at two hundred.
 
+> [!success] All 7 terms now have a decision, 2026-08-07
+> The guarantee is fully drafted for the first time. Status stays **DO NOT USE** until a
+> lawyer reads it — see below — but there is no longer a missing term blocking that review.
+
 **Not legal advice — I'm not a lawyer.** A guarantee is an enforceable commitment and this one
 should be read by someone qualified before it is published.
 
 ## Student results and names
 
-**Cleared by Alex direct, 2026-08-07: Rick, Courtney, Jack, Melissa, Rashaun, Nicole,
-Keeley.** Heidi remains `UNCONFIRMED` — she was not included when the rest were cleared, and
-that has not been asked as a yes/no on its own yet. Constitution §IX bars inventing a
-student result; permission is a separate gate from verification, and both are now satisfied
-for the seven cleared names.
+**Cleared by Alex direct, 2026-08-07: all eight** — Rick, Courtney, Jack, Melissa, Rashaun,
+Nicole, Heidi, Keeley. Heidi is a special case: she's not a CleaningOS student, she's the
+prospect on a Melissa sales call, used as a before/after example for two sales techniques.
+Constitution §IX bars inventing a student result; permission is a separate gate from
+verification, and both are now satisfied for all eight names.
 
-> [!warning] One outstanding mechanical fix before publishing Rashaun's results
-> All 7 pages referencing him currently spell the name **"Rashawn."** Alex corrected the
-> spelling to **"Rashaun"** on 2026-08-07. The pages have not been renamed yet — treat the
-> name as `Rashaun` going forward and flag the correction next time those pages are touched,
-> rather than publishing the misspelling.
+> [!success] Spelling fixed — 2026-08-07
+> Corrected "Rashawn" → "Rashaun" across `03 Concepts/`, `04 Systems/`, and the `09 Derived/`
+> coaching-call summaries (11 files). **Not touched:** `01 Sources/` — immutable by rule —
+> and `MIGRATION_PLAN.md` / `MIGRATION_REPORT.md`, which are historical records of past
+> vault state and correctly preserve what was true when they were written.
 
 | Person | Appears on | Result claimed | Verification | Permission | Public? |
 |---|---|---|---|---|---|
@@ -104,14 +108,10 @@ for the seven cleared names.
 | Courtney | 31 pages | Four static years, then record months; worked GPS evaluation | Traced to coaching calls | **CLEARED** — Alex direct 2026-08-07 | **Yes** |
 | Jack | 29 pages | Various | Traced to coaching calls | **CLEARED** — Alex direct 2026-08-07 | **Yes** |
 | Melissa | 9 pages | Took over sales calls, improving per call | Traced to coaching calls | **CLEARED** — Alex direct 2026-08-07 | **Yes** |
-| Rashaun *(spelling corrected from "Rashawn" — Alex, 2026-08-07)* | 7 pages | Built the hiring pipeline now templatized for everyone | Traced to coaching calls | **CLEARED** — Alex direct 2026-08-07 | **Yes** — pending spelling fix across the 7 pages that currently spell it "Rashawn" |
+| Rashaun *(spelling corrected from "Rashawn" — Alex, 2026-08-07)* | 7 pages | Built the hiring pipeline now templatized for everyone | Traced to coaching calls | **CLEARED** — Alex direct 2026-08-07 | **Yes** |
 | Nicole | 4 pages | Pre-CRM stage example | Traced to coaching calls | **CLEARED** — Alex direct 2026-08-07 | **Yes** |
-| Heidi | 2 pages | Sales call example | Traced to coaching calls | **UNCONFIRMED** — not included when the rest were cleared, 2026-08-07 | **No** |
+| Heidi | 2 pages | Thumbtack move-out lead on a Melissa sales call, used as a before/after example for two sales techniques | Traced to a coaching call | **CLEARED** — Alex direct 2026-08-07 | **Yes** |
 | Keeley | 1 page | Brand-new owner, onboarding example | Traced to a coaching call | **CLEARED** — Alex direct 2026-08-07 | **Yes** |
-
-**Heidi's result stays anonymisable-only until permission is cleared** — *"one member went
-from…"* — provided the number itself is traced to a raw source, not to an AI summary. See
-`09 Derived/README.md`.
 
 Elijah appears on 21 pages and is a team member, not a student. **Resolved, Alex direct
 2026-08-07: internal only, not customer-facing.** His name stays out of Group Coaching,
@@ -124,7 +124,7 @@ teaching, not proof — but they must never be dressed up as evidence.
 
 | Claim | Where | Notes |
 |---|---|---|
-| "95% of owners stuck under $20K/month are stuck on leads or sales" | [[Leads Problem Or Sales Problem]], [[Business GPS]] | A stated proportion with no dataset behind it. Either soften it or find the basis |
+| ~~"95% of owners stuck under $20K/month are stuck on leads or sales"~~ | [[Leads Problem Or Sales Problem]], [[Business GPS]] | **Resolved, Alex 2026-08-07: cut the percentage, teach qualitatively.** Both pages rewritten — "most owners" / "the overwhelming majority," no percentage asserted as fact. The verbatim "95%" quote is kept once, on `Leads Problem Or Sales Problem`, explicitly framed as Alex's spoken estimate ("an emphatic 'almost always,' not a tracked percentage"), not restated as fact. The synthesized "$20K/month" qualifier (not in the original quote) was also dropped from both pages |
 | Spanish-speaking cleaners cut labor from ~50% to 30–35% of revenue | [[Spanish-Speaking Labor]] | Specific range, single source |
 | Marketing budget ≈ 10% of revenue | [[Marketing Budget]] | Rule of thumb, presented as a number |
 | PPC display network costs 4–6× per lead | [[PPC Search Not Display]] | Single source, no dataset |

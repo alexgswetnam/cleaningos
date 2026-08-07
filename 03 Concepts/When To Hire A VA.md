@@ -1,6 +1,6 @@
 ---
 type: concept
-engine: [Leadership, Logistics]
+engine: [Leadership]
 season: [Stability, Scale]
 laws: [Stop Guessing, Build In Order]
 status: Canonical
@@ -48,7 +48,7 @@ proves it's *possible*, and the 12-hour days prove possible isn't the same as wo
 > citation reads exactly like a fabricated fact until someone checks. The number was never
 > wrong; the sentence pointing at where it came from was.
 
-**4. You're already paying for leads you can't answer.** Rashawn (2026-02-20 call) had
+**4. You're already paying for leads you can't answer.** Rashaun (2026-02-20 call) had
 LSA running at ~$19/lead — excellent economics — but works a full-time job and can only
 respond to texts, not calls. Text leads convert far worse than phone leads on LSA, so most
 of what he was paying for went unanswered; he booked one job out of 45 leads. The channel
@@ -148,7 +148,7 @@ His read: women want to talk to women.
 - Assuming an overseas VA can't sell — see the close rates above
 - Hiring before you can describe the work. See [[Managing A VA]] and [[SOPs]].
 - Delegating a task you haven't learned yourself yet — you can't evaluate the output
-- **Onboarding a VA before there's enough lead flow to keep them busy.** Rashawn's earlier
+- **Onboarding a VA before there's enough lead flow to keep them busy.** Rashaun's earlier
   VA didn't work out for exactly this reason: his lead flow later dried up and the VA was
   sitting idle with nothing to do. *"It's important for me to figure out my lead engine
   first so that anyone who comes on board actually has work to do."* — fix the [[Leads Engine]] constraint before the Labor hire, not after. See [[Business GPS]].

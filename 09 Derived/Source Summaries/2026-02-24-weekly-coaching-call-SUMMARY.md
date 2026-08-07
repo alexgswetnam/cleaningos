@@ -62,7 +62,7 @@ For new cleaners wanting a full schedule immediately: "I can't just give you 10 
 
 ### When to Get a VA
 There's no single right answer — it depends on your situation:
-- If you work a 9-to-5 and can't answer calls during the day, get a VA immediately (like Rashawn and Desiree did).
+- If you work a 9-to-5 and can't answer calls during the day, get a VA immediately (like Rashaun and Desiree did).
 - Alex got a VA at ~$15K/month because they knew they'd scale fast and the first VA would have kinks to work out, so they wanted to start early.
 - A guy in Canada at $100K/month has no VA because he runs everything through instant quotes on his website — totally different model.
 - Jack at ~$10K/month is feeling like it's becoming a second job with 8 hours of work daily — that's a sign.

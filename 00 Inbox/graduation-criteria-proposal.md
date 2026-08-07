@@ -1,14 +1,18 @@
 ---
 type: company
 title: Graduation Criteria — Proposal v2
-status: Proposal — Awaiting Alex
+status: Accepted — Alex, 2026-08-07
 updated: 2026-08-07
 ---
 
 # 16 Graduation Criteria — Proposal v2
 
-**Rewritten against every decision Alex made on 2026-08-07.** Still a proposal. Canon
-untouched, curriculum map untouched, no lessons or resources created.
+**Accepted by Alex, 2026-08-07.** All 16 cells' graduation tests are now applied to the
+four Engine hub pages (`04 Systems/Leads Engine.md`, `Labor Engine.md`,
+`Logistics Engine.md`, `Leadership Engine.md`) under a new **Graduation Test** column in
+each "By Season" table. Canon itself untouched — this lives as operational content on the
+Engine hubs, not as a Canon rewrite. Curriculum map untouched, no lessons or resources
+created.
 
 **One page was created** — [[The VA Is Your Leadership Layer]] — because the decision below
 exposed a real missing concept, and Alex asked for it.
@@ -25,10 +29,10 @@ exposed a real missing concept, and Alex asked for it.
 | 4 | Backup cleaner | **Stability**, not Survival | ✅ |
 | 5 | What the owner owns at Harvest | **Direction and standards, never operation** | ✅ |
 | 6 | Team leads | **Not a thing.** The leadership layer is the VA | ✅ Three cells rewritten |
-| 7 | Retag [[When To Fire A Client]] | **Approved** — add Leadership, keep Leads and Logistics | Proposed, not yet done |
+| 7 | Retag [[When To Fire A Client]] | **Approved** — add Leadership, keep Leads and Logistics | ✅ Done 2026-08-07 |
 | 8 | Contested Labor claims | **Ship Labor Stability first**, resolve after | ✅ with a guard |
 | 9 | [[Marketing Budget]] ~10% | **Dropped** — not a gate, not a teaching point | ✅ |
-| 10 | SOP folder vs operating manual | Alex's folder is "pretty close" — **still open** | ⚠️ |
+| 10 | SOP folder vs operating manual | **Verdict, 2026-08-07: not yet passed, gap is sequencing only** — see Logistics Harvest above | ✅ Verdict rendered |
 
 ### The two corrections that mattered
 
@@ -134,8 +138,18 @@ lead. **Instruments supported. No target is.**
 4 objection pages · [[GBP Posting Cadence]] · [[Post-Clean Review Script]] ·
 [[Website Technical SEO Basics]]
 *Sources:* `Leads 101 Part 2` (22 lessons)
-*NEEDS ALEX:* [[Close Rate By Channel]] says healthy means profitable, not a fixed
-percentage. Does Stability require **knowing** the close rate or **reaching** one?
+**Answered, Alex 2026-08-07 — two passes.** First: both — knowing the close rate isn't
+enough, it also has to clear a minimum. Second, when asked what the minimum number is:
+*"that number is based per channel and varying factors, the system should not try to know
+or serve perfect numbers — point them to real life experience from operators and experts...
+like me, their coach."*
+
+**Net effect:** no fixed percentage gets hard-coded anywhere. "Clearing a minimum" is a real
+requirement, but *what counts as cleared* is a judgment call for a human coach looking at
+the specific channel and context — not a number the vault or an AI computes and checks
+against. This actually lines back up with [[Close Rate By Channel]]'s existing teaching
+("healthy means profitable, not a fixed percentage") rather than overriding it. Relevant to
+how the $297 Strategist AI should behave here: point to coaching, don't compute a verdict.
 
 **Scale.** Growth without more of you.
 *Problems:* growth capped by your calendar · one-channel dependency · spend uncoupled from
@@ -149,7 +163,7 @@ capacity.
 *Have:* [[Client Concentration]] · [[Marketing Seasonality]] — neither is about delegated
 marketing.
 **Decision 5 applied:** the owner owns **the brand and the budget ceiling**. Not the
-campaigns, not the channels.
+campaigns, not the channels. **Confirmed by Alex, 2026-08-07** — no changes to the split.
 
 ### Labor — produces a cleaner who completes a job to standard
 
@@ -184,8 +198,15 @@ paid more for it.
 **Harvest.** — **0 pages. Emptiest cell in CleaningOS.**
 *Only source-derived hint:* the Business GPS grid — *"onboard new cleaners monthly and run a
 quality-testing phase."*
-**Everything else NEEDS ALEX.** Worth noting: [[Four Engines]] calls Labor the first serious
-growth ceiling once marketing works, and its top cell is empty.
+
+**Answered, Alex 2026-08-07 — the problem, not yet the method:** Labor Harvest is
+**retaining your good cleaners at scale when you can't personally connect with each one, and
+measuring their happiness and work ability at scale in a systemized way.** Alex's own words:
+*"there are many ways to do that, don't have an exact how to there."* This is a real
+criterion — the cell is no longer 0 pages of *problem statement* — but the specific system
+(what "measuring happiness and work ability, systemized" actually looks like week to week)
+is still `NEEDS ALEX`, and may need building rather than just recording once he has a
+method he's actually run. Not a page yet — this is scope, not a lesson.
 
 ### Logistics — produces a completed, correct, paid job
 
@@ -210,13 +231,28 @@ gets reviewed.
 
 **Harvest.** — 2 pages.
 *Have:* [[SOPs]] · [[Uncontracted Recurring Revenue]]
-> ⚠️ **Still open (decision 10).** Alex: *"i have an sop folder that is pretty close to an
-> operating manual…"*
+
+> [!success] Decision 10 — verdict, 2026-08-07
+> Alex's real SOP folder turned out to already be in the vault:
+> `01 Sources/Course Videos/Every SOP We Use/` — 32 lessons, already distilled into 19
+> canonical `03 Concepts`/`04 Systems` pages. Checked against the three-part test:
 >
-> My proposed definition, for you to accept or correct: a folder is documents. **A manual is
-> (a) every recurring job has a written response, (b) they're ordered by when you need them,
-> and (c) each names an owner who isn't the author.**
+> - **(a) every recurring job has a written response** — broad coverage: hiring,
+>   cancellations, re-cleans, lockouts, bad reviews, payment failures, cleaner pay,
+>   scheduling, GBP posting, review requests, daily/weekly/holiday cadence. **Cleared.**
+> - **(b) ordered by when you need them** — Alex confirmed: *"No, it's a flat list."*
+>   **Not cleared.**
+> - **(c) each names an owner who isn't the author** — **redefined by Alex, not a strict
+>   named individual.** *"There's SOPs that can be assigned to whoever. It doesn't need to
+>   name a specific owner. Most of them are for whoever is operating the business. Usually
+>   you just do it yourself until you get a VA."* Role-level assignability clears it, and
+>   the owner filling that role themselves (pre-VA) still counts. **Cleared**, under the
+>   corrected definition.
 >
+> **Net verdict: Logistics Harvest is not yet passed — but the only gap is sequencing.**
+> Coverage and ownership already clear. Adding an order (even something simple: what a new
+> hire or VA reads first, second, third) is the one thing standing between "documents" and
+> "operating manual" by Alex's own test.
 > If your folder already clears that, **Logistics Harvest may already be passed** — and this
 > cell is a documentation job, not a build.
 
@@ -260,12 +296,16 @@ buying or selling. The operating half was always there — it was tagged Logisti
 
 | # | Question | Blocks |
 |---|---|---|
-| 1 | **Does your SOP folder clear the manual test?** (a) every recurring job has a written response (b) ordered by when needed (c) each names a non-author owner | Logistics Harvest — possibly already passed |
-| 2 | **Labor Harvest** — 0 pages. What does recruiting-without-you actually look like in your business? | The emptiest cell |
-| 3 | **Leads Harvest** — what does the owner still own? Brand and budget ceiling, or less? | Leads Harvest |
-| 4 | Does Leads Stability require **knowing** close rate or **reaching** one? | Leads Stability |
-| 5 | Retag the three VA pages from Logistics to Leadership? | Which cell teaches VAs |
-| 6 | How many categories can one VA hold before you need a second? | Leadership Scale→Harvest |
+| ~~1~~ | ~~**Does your SOP folder clear the manual test?**~~ | ✅ **Verdict 2026-08-07** — see Logistics Harvest above. Not yet passed; gap is sequencing only |
+| ~~2~~ | ~~**Labor Harvest**~~ | ✅ **Answered 2026-08-07** — see cell detail above. Problem defined, method not yet |
+| ~~3~~ | ~~**Leads Harvest**~~ | ✅ **Confirmed 2026-08-07** — brand + budget ceiling, as drafted |
+| ~~4~~ | ~~Leads Stability — knowing vs. reaching close rate~~ | ✅ **Both, no fixed number** — coach judgment, not a computed threshold. See Leads Stability above |
+| ~~5~~ | ~~Retag the three VA pages from Logistics to Leadership?~~ | ✅ **Done 2026-08-07** — [[Picking The Right VA]], [[When To Hire A VA]], [[When To Fire A VA]] now `engine: [Leadership]` only |
+| ~~6~~ | ~~How many categories can one VA hold before you need a second?~~ | ✅ **No fixed number — Alex, 2026-08-07: "it's different from biz to biz."** Business-specific, judged by a coach, not a rule. See [[The VA Is Your Leadership Layer]] |
+
+**All 6 items in this proposal are now resolved.** Nothing left blocking this proposal from
+being read as a finished draft — promotion to Canon is a separate, deliberate step Alex has
+not yet taken.
 
 ## What I did not do
 

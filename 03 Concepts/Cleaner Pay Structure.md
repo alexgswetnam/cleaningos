@@ -227,9 +227,10 @@ in the exact floor figure.
 > (Handbook, Subcontractor Agreement, interview script, coaching call), none of which is
 > dated relative to the others.
 >
-> **Not a Type 1 supersession:** none of the four sources carries a date establishing it
-> as newer than the others, and per Constitution §X, undated material defaults to
-> Contested rather than superseding. **Not a genuine third *position*** in the sense of a
+> **Reason:** stays `[!failure]` styling instead of a real supersession because none of the
+> four sources carries a date establishing it as newer than the others, and per
+> Constitution §X, undated material defaults to Contested rather than superseding.
+> **Not a genuine third *position*** in the sense of a
 > clean alternative claim — it's evidence that the dispute is worse than two documents
 > disagreeing once. Filing this as a deepening of the existing Type 3 contested item, not
 > a new classification.
@@ -239,6 +240,32 @@ in the exact floor figure.
 > line is something candidates are actually told verbatim today, and if so, whether that
 > makes the $25 figure a de facto floor regardless of what the Subcontractor Agreement's
 > Exhibit A says on paper.
+
+> [!success] Direction from Alex, 2026-08-07 — teaching approach, not a ruling on which document governs
+> Asked which figure is operative, Alex declined to pick a winner and redirected instead:
+> *"these are all suggestions that are not legal advice, just ways some have done it...
+> consult legal professional, don't blame us... the point is the process/function we are
+> laying out that gives cleaners trust that they won't get screwed. it likely doesn't need
+> to be in the contract when you have good relationships. just saying a free discretion of
+> bonuses or something legally okay could work too instead of MEA."*
+>
+> **What this settles:** how CleaningOS should *teach* this topic going forward —
+>
+> - Present pay-floor mechanisms (MEA, DPS/RER, or otherwise) as **example approaches**,
+>   not a single prescribed CleaningOS policy — explicitly **not legal advice**, with a
+>   consult-a-professional disclaimer, the same way the Group Coaching guarantee is
+>   disclaimed elsewhere in this vault.
+> - **The actual teaching point is the function, not the mechanism:** giving cleaners
+>   confidence they won't get shortchanged. A member with a genuinely good relationship with
+>   their cleaners may not need any of this formalized in a contract at all.
+> - **A legally softer alternative exists and is worth presenting alongside MEA:**
+>   discretionary bonuses, not a guaranteed floor — closer to the Subcontractor Agreement's
+>   DPS structure than the handbook's MEA language.
+>
+> **What this does NOT settle:** which document is actually operative today at The Faithful
+> Cleaners, or whether the handbook's MEA language has been reconciled with counsel against
+> the Agreement's DPS language. That remains open and is explicitly a legal question, not an
+> editorial one — see the original "what would settle it" above.
 
 ## Presented In
 

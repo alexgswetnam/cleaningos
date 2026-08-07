@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Leads]
 season: [Stability, Scale]
 laws: [One Step Wins]
 status: Developing
 sources: [2025-03-25 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Cleaning Biz 101 — Acquire, Cleaning Biz 101 — Convert, Every SOP We Use, Weekly Sales Training Call — Harvest CRM, BookingKoala & Zapier Integration, Leads 101 Part 2]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Reactivating Past Clients

@@ -1,6 +1,6 @@
 ---
 type: concept
-engine: [Leadership, Logistics]
+engine: [Leadership]
 season: [Stability, Scale]
 laws: [Stop Guessing, Clarity Creates Momentum]
 status: Canonical

@@ -79,7 +79,7 @@ Google-Voice-and-scattered-texts chaos of not knowing who's been quoted or needs
 follow-up.
 
 **The hiring pipeline lives inside it.** [[Automated Hiring Pipeline]] — originally
-Rashawn's custom build — is now templatized into every member's Harvest CRM account:
+Rashaun's custom build — is now templatized into every member's Harvest CRM account:
 application → schedule interview → interviewed → good candidate (collect ID, W-9,
 insurance, background check, subcontractor agreement) → onboarded (cleaner handbook), or
 automated rejection for a bad candidate.
@@ -131,7 +131,7 @@ customization, when-to-get-a-CRM guidance
 
 ## Student Examples
 
-**Rashawn** — original builder of the hiring pipeline now templatized for everyone.
+**Rashaun** — original builder of the hiring pipeline now templatized for everyone.
 
 **Rick** — built a VIP lapsed-recurring follow-up workflow on top of the CRM's default
 one-time win-back sequence, tracking last booking date via a Zapier webhook.

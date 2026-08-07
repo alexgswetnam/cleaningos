@@ -127,12 +127,12 @@ cleaning is comparatively easier work.
 
 ## Templates
 
-*None yet — Rashawn's specific automation configuration wasn't captured beyond the stage
+*None yet — Rashaun's specific automation configuration wasn't captured beyond the stage
 sequence above.*
 
 ## Videos
 
-[[2026-02-20 Weekly Coaching Call]] — Rashawn's full walkthrough. Alex committed to
+[[2026-02-20 Weekly Coaching Call]] — Rashaun's full walkthrough. Alex committed to
 templating it for the wider group on this call.
 [[2026-03-04 Weekly Coaching Call]] — confirms the pipeline is now templatized into every
 member's [[Harvest CRM]] account, via an eight-minute setup video uploaded to the module.
@@ -141,7 +141,7 @@ Indeed-to-website routing.
 
 ## Student Examples
 
-**Rashawn** — built the pipeline described above in Go High Level (Harvest CRM). His
+**Rashaun** — built the pipeline described above in Go High Level (Harvest CRM). His
 bottleneck isn't hiring mechanics anymore, it's a VA to answer the phone leads he's
 already paying for — see [[When To Hire A VA]].
 
@@ -154,7 +154,7 @@ applicants and running interviews, with a plan to hire within two weeks — the 
 "wanted the pipeline" (Feb 20) and "it's live and I'm interviewing" closed inside about
 six weeks.
 
-**Group-wide** — as of 2026-03-04, the pipeline is no longer just Rashawn's; it's
+**Group-wide** — as of 2026-03-04, the pipeline is no longer just Rashaun's; it's
 templatized into every member's [[Harvest CRM]] account.
 
 **Rick and Melissa, 2026-04-01** — built their own instance in about a week, naming

@@ -34,7 +34,7 @@ updated: 2026-08-07
 - [[Conversion Tracking]] — If you can't attribute a lead to its source, none of your other numbers are real.  (Developing)
 - [[Diagnose Don't Take Orders]] — "What type of clean are you looking for?" is a menu. A doctor doesn't hand you a menu.
 - [[Differentiation And Trust Building]] — "We do great work, we're reliable, we're affordable" is what every competitor says too — a real differentiator is simple, stated immediately, and followed up with proof, not a menu of services.
-- [[Drop Scope Not Price]] — Meet their budget by cleaning less, never by charging less per hour.  (**contested**)
+- [[Drop Scope Not Price]] — Meet their budget by cleaning less, never by charging less per hour.
 - [[Form Field Optimization]] — Every extra form field loses submissions — qualify on the phone, not the form.  (Developing)
 - [[GBP Posting Cadence]] — Three real-job photos a week, Monday/Wednesday/Friday, 80% updates and 20% offers — consistency is the ranking signal, not any single post.
 - [[GBP Verification]] — Skip the pre-recorded video. Open a support case and get to a live video call as fast as you can — that's the path that actually verifies.  (superseded 2026-08-06)
@@ -49,8 +49,8 @@ updated: 2026-08-07
 - [[Labor Before Leads]] — When both are broken, fix the slower one first — and hiring is always the slower one.
 - [[Leads Don't Disappear]] — Nobody who called about a cleaning stopped wanting one. They booked someone else.  (Developing)
 - [[Leads Engine]] — Your lead engine — the system that gets strangers interested enough to raise their hand, gets in front of the right people, builds trust quickly, and gives them a clear next step. Weak, it feels like constantly hunting for business. Strong, leads show up whether or not you're the one hunting that day.  (Developing)
-- [[Leads Problem Or Sales Problem]] — Almost every owner stuck under $20K/month is stuck on one of two things — and they're not equally hard to fix.
-- [[Marketing Budget]] — About 10% of revenue — but only after you can convert the leads and keep the clients.
+- [[Leads Problem Or Sales Problem]] — Most owners who feel stuck are stuck on one of two things — and they're not equally hard to fix.
+- [[Marketing Budget]] — Spend is a function of how aggressive you're being and what stage you're at — not a fixed percentage of revenue.
 - [[Marketing Math]] — Four numbers turn marketing spend from a gamble into an equation.
 - [[Marketing Seasonality]] — January, February and March are worse — that's the calendar, not your funnel breaking.
 - [[Micro-Commitments]] — Get ten small yeses before the big one, so the price is a confirmation instead of the start of a negotiation.
@@ -64,11 +64,11 @@ updated: 2026-08-07
 - [[PPC Search Not Display]] — Google's setup wizard will put you on the display network, and it costs 4–6x per lead.
 - [[Post-Clean Review Script]] — Send the review link while they're still on the phone, and confirm they got it — never "I'll send it after we hang up."
 - [[Price Delivery]] — The price is a statement, not a question. Say it with a period at the end.
-- [[Price Objection]] — Don't get on your heels — push back and find out what their cheap cleaner did to them.  (**contested**)
+- [[Price Objection]] — Don't get on your heels — push back and find out what their cheap cleaner did to them.
 - [[Pricing Methodology]] — Reverse-engineer a flat rate from a target hourly rate and a measured time-per-job — consistency, not perfection, is the goal.
 - [[Raising Prices On Existing Clients]] — Know your number, name it plainly, and be willing to lose the client who won't pay it.
 - [[Reactivating Past Clients]] — Twenty messages to old clients produced two bookings and two inquiries, from one button — and recurring clients need their own version.  (Developing)
-- [[Reciprocity]] — If you're going to reduce the price anyway, make it a favour with your name on it — never a silent adjustment.  (**contested**)
+- [[Reciprocity]] — If you're going to reduce the price anyway, make it a favour with your name on it — never a silent adjustment.
 - [[Referral Program]] — Before you can pay for leads, call the clients you already have and ask directly — it's free and it leverages trust you've already earned.
 - [[Reschedule Not Cancel]] — Before you accept a cancellation, ask whether moving the date would help instead — most "cancellations" are a timing problem, not a service problem.
 - [[SMS Opt-In Consent]] — The lead form is where you earn the right to text — build it wrong and the carrier denies you months later, after the leads are already in.
@@ -132,7 +132,6 @@ updated: 2026-08-07
 - [[One-Time To Recurring]] — The percentage of one-time cleans that become recurring clients — where the profit actually lives.  (Developing)
 - [[Payment Processor Selection]] — Pick whatever processor connects cleanly to your scheduling platform — don't turn it into a decision, and only negotiate the fee once real volume is moving through it.  (Developing)
 - [[Payment Verification & Collection]] — Verify the card 48 hours before the job, confirm payment before you close the ticket — "we'll figure it out later" is how cleaners show up to jobs that don't pay.
-- [[Picking The Right VA]] — Don't hire from a resume — run a paid test (roleplay, a real system task, one to two weeks) and let the test decide, not the paper.
 - [[Pricing Methodology]] — Reverse-engineer a flat rate from a target hourly rate and a measured time-per-job — consistency, not perfection, is the goal.
 - [[Quality Complaints]] — First decide whose fault it is — that single question determines who pays.
 - [[Reschedule Not Cancel]] — Before you accept a cancellation, ask whether moving the date would help instead — most "cancellations" are a timing problem, not a service problem.
@@ -146,8 +145,6 @@ updated: 2026-08-07
 - [[Uncontracted Recurring Revenue]] — Recurring isn't the same as committed. Revenue held together by a relationship leaves with the person who holds it.
 - [[Weekend Operations]] — Weekend staff aren't just answering phones — they're a sales team, a support team, and an ops team running in parallel, or Monday starts as chaos.
 - [[When To Fire A Client]] — Ask what that schedule spot would be worth with a better-fit client — if the honest answer is "more than this one," offer the current client a price that would actually make it worth keeping them, and let them choose.
-- [[When To Fire A VA]] — Judge by KPIs, not affection — a VA doesn't have to be better than the owner, but a close rate a third of the owner's own is a business decision, not a training problem.
-- [[When To Hire A VA]] — Hire when you're losing money by not having one — which is earlier than it feels.
 - [[Zapier]] — Not a system — the glue between systems. Automate the handoffs that keep breaking, and nothing else.  (Developing)
 
 ## Leadership Engine
@@ -177,6 +174,7 @@ updated: 2026-08-07
 - [[There Is No Behind]] — Comparing your timeline to someone with a different life is unfair to yourself, and feeling behind makes you act behind.
 - [[Uncontracted Recurring Revenue]] — Recurring isn't the same as committed. Revenue held together by a relationship leaves with the person who holds it.
 - [[What The Money Makes Possible]] — A revenue target that hasn't been converted into what it buys stops motivating anyone, including the Owner who set it.  (Draft — Unverified)
+- [[When To Fire A Client]] — Ask what that schedule spot would be worth with a better-fit client — if the honest answer is "more than this one," offer the current client a price that would actually make it worth keeping them, and let them choose.
 - [[When To Fire A VA]] — Judge by KPIs, not affection — a VA doesn't have to be better than the owner, but a close rate a third of the owner's own is a business decision, not a training problem.
 - [[When To Hire A VA]] — Hire when you're losing money by not having one — which is earlier than it feels.
 

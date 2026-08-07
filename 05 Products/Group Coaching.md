@@ -44,12 +44,23 @@ yet.**
 >
 > [[1-1 Coaching]] already has all seven in a signed agreement. **That's the template.**
 
-**Remedy decided, Alex 2026-08-07:** pause billing (stop charging the member) and give them
-biweekly 1:1 help, continuing until they reach $25k/month. Not a straight refund and not a
-straight 1:1-help-only offer — a hybrid of both, paced biweekly rather than open-ended.
+**Terms decided, Alex 2026-08-07** — six of seven. See the full checklist in
+`07 Company/Claim Register.md`.
 
-**Still open:** does this also refund months already paid, or only pause charges going
-forward? That determines refund quantum (checklist term 5, `07 Company/Claim Register.md`).
+- **Clock starts** at the first coaching call attended, not signup date.
+- **Requirements to Claim:** attendance at calls. (Lighter than the 1:1 agreement's stacked
+  bar of ad spend + attendance + implementation + data access — worth a second look given
+  the exposure math below.)
+- **Remedy:** pause billing (stop charging) + biweekly 1:1 help, continuing until they
+  reach $25k/month.
+- **Refund quantum:** N/A — pauses future charges only, does not refund months already
+  paid.
+- **Governing law:** same as 1:1 — Texas + binding arbitration.
+- **What voids it:** missing calls (ghosting) — the same attendance bar that qualifies you
+  for the guarantee is what voids it if you drop below it.
+
+**All 7 terms now decided.** Still `DO NOT USE` in customer-facing copy until a lawyer
+reads it — see `07 Company/Claim Register.md` — but no term is missing anymore.
 
 **Exposure worth checking first.** $297/month × 12 = **$3,564** per member. One proposed
 remedy is 1:1 help, which sells for **$6,000**. Model it at realistic group size and claim

@@ -89,16 +89,17 @@ It is staffed rather than owner-run. That is a category being owned.
 
 ## Still Needed
 
-- How many categories one VA can hold before a second is needed. **NEEDS ALEX**
 - Whether ops, training and sales/admin are ever held by different people in this model, or
   always consolidated. **NEEDS ALEX**
 - What the owner still owns once the VA owns the category
 
-> [!question] Open tagging question
-> [[Picking The Right VA]], [[When To Hire A VA]] and [[When To Fire A VA]] are currently
-> tagged **Logistics and Leadership**. If the VA is the leadership layer, hiring one may be a
-> Leadership decision that happens to serve Logistics. Affects which cell teaches it.
-> Logged in `00 Inbox/review-queue.md`.
+> [!success] Answered — capacity is business-specific, 2026-08-07
+> How many categories one VA can hold before a second is needed: Alex, *"it's different from
+> biz to biz."* No fixed number belongs in this page or in any graduation test — capacity
+> depends on the specific business, not a rule that transfers between them. Same pattern as
+> [[Close Rate By Channel]]'s close-rate floor: the vault names the instrument (categories
+> held, whether the VA is at capacity), not a threshold. Judging whether a given VA is
+> overloaded is a coaching call, not a formula.
 
 ## Related Concepts
 

@@ -127,7 +127,7 @@ solid cleaners, hired one at Christmas, at capacity with a new account starting 
 Named it herself: *"I'm avoiding you like the plague."* Alex reframed it rather than
 pushing: *"Yes, that's a win"* — being at capacity and needing to hire is the right
 problem to have, not a sign something's wrong. What made it easier for her to actually
-face it was Rashawn's [[Automated Hiring Pipeline]], shown the same call — automating the
+face it was Rashaun's [[Automated Hiring Pipeline]], shown the same call — automating the
 mechanical parts of hiring lowers the activation energy for owners who are avoiding it out
 of dread rather than uncertainty about the process.
 

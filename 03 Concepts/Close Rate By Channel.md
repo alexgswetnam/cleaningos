@@ -4,8 +4,8 @@ engine: [Leads]
 season: [Stability, Scale]
 laws: [Stop Guessing]
 status: Developing
-sources: [2025-02-03 Weekly Coaching Call, Leads 101 Part 2, Leads 101 part 1]
-updated: 2026-08-06
+sources: [2025-02-03 Weekly Coaching Call, Leads 101 Part 2, Leads 101 part 1, Alex direct 2026-08-07]
+updated: 2026-08-07
 ---
 
 # Close Rate By Channel
@@ -108,10 +108,16 @@ price itself being mispositioned for that channel's leads.
 > carries no date (`date_translated: unknown`), so it cannot supersede the dated coaching
 > call per Constitution §X ("undated material is Type 3 by default"). Not resolved.
 >
-> **Unresolved since:** 2026-08-06.
 > **What would settle it:** a dated, tracked Meta close-rate figure from
 > [[KPI Tracking Sheet]] data, ideally over the same measurement window both anecdotal
 > figures are implicitly describing.
+>
+> **Left as-is, Alex 2026-08-07:** asked whether to reconcile, pull real tracked numbers, or
+> leave both — Alex chose to leave both figures standing as unreconciled anecdotes rather
+> than pick a winner or invent tracked data that doesn't exist. Consistent with his broader
+> ruling (see `00 Inbox/open-decisions.md` #13) that close-rate health is a coaching
+> judgment call per channel and context, not a number the vault computes or asserts. Teach
+> both ranges as rough historical color, never as a target.
 
 Also see [[Marketing Math]]'s existing Type 2 Conflict History entry (PPC close rate,
 26% vs. 41%, same 2025 Q4) — the PPC figures in the Models table above point there rather

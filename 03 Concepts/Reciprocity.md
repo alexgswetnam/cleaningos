@@ -4,9 +4,9 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Weekly Sales Training Call — March 26 P1, Objection Handling Course, Weekly Sales Training Call — April 2, Weekly Sales Training Call — April 6]
-updated: 2026-08-06
-contested: true
+sources: [Weekly Sales Training Call — March 26 P1, Objection Handling Course, Weekly Sales Training Call — April 2, Weekly Sales Training Call — April 6, Alex direct 2026-08-07]
+updated: 2026-08-07
+contested: false
 ---
 
 # Reciprocity
@@ -130,7 +130,7 @@ either way.
 
 ## Conflict History
 
-> [!warning] Contested — does this conflict with [[Drop Scope Not Price]]?
+> [!success] Resolved — Alex, 2026-08-07: both, different situations
 > **Claim A:** *"The only discount that exists: $10–15 off the first clean in exchange for a
 > review. Small, rare, and used at the finish line."* — [[Premium Workshop — 4 Seasons, 4 Bottlenecks]], via [[Drop Scope Not Price]] and [[Price Objection]]
 >
@@ -138,29 +138,19 @@ either way.
 > assumption — framed as personal favours, with no review attached and no scope removed. —
 > [[Weekly Sales Training Call — March 26 P1]]
 >
-> Claim B's reductions are larger than Claim A's stated maximum, are not exchanged for a
-> review, and are not scope reductions. Both are Alex's.
+> **Alex confirmed the reading this page had floated as unconfirmed:** the two govern
+> different things and both are current. **Claim A governs the base rate** — a review
+> discount, small, rare, used at the finish line, and it never moves the hourly rate.
+> **Claim B governs surcharges and tier boundaries** — the pet fee, the sqft rounding, the
+> time assumption — used situationally, case by case, with no review attached. Not a
+> contradiction; two tools for two different moments in a call.
 >
-> **Why this is Contested rather than a supersession:** neither source has an established
-> recording date. The workshop carries only a translation date, and the sales-training file's
-> "March 26 2026" is doubtful — see that source's frontmatter. CONSTITUTION §X: *"Supersede
-> based on a source whose date you couldn't establish — undated material is Type 3 by
-> default."*
->
-> **Unresolved since:** 2026-08-06
->
-> **What would settle it:** Alex saying which is current. Failing that, the recording dates
-> of both sources — if the sales training is genuinely later, this becomes a Type 1
-> supersession of the "$10–15 only" rule and needs a blast-radius audit.
->
-> **A reading that dissolves it, not yet confirmed:** the two may be about different things.
-> Claim A governs the *base rate*, which never moves. Claim B only ever touches *surcharges
-> and tier boundaries* — the pet fee, the sqft rounding, the time assumption. Under that
-> reading the hourly rate is intact in every Claim B example and there is no contradiction.
-> Plausible, but it is my inference, not something either source says. It needs Alex.
->
-> **Meanwhile:** do not teach either as settled, and do not write customer-facing copy that
-> states a discount policy. CONSTITUTION §X.
+> **Live compliance constraint, now that Claim A is confirmed as current:**
+> [[Objection Handling Course]] independently warns that discounting *in exchange for* a
+> Google review is technically against Google's policy and risks the review being pulled or
+> the Business Profile flagged. Claim A's $10–15/review mechanic needs to account for this
+> before it goes into customer-facing copy — full detail below and on
+> [[Drop Scope Not Price]] → Conflict History.
 
 > [!info] Checked against the 2026-04-02 and 2026-04-06 sales training calls — not resolved
 > Both are reliably dated. Neither mentions reciprocity, a personal-favor framing, or the

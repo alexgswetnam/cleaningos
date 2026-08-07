@@ -141,7 +141,7 @@ dashboard, unable to attribute. LSA producing at ~$22/lead in his area, GBP orga
 
 **A member with $18/lead LSA** — Alex's response: at that price he'd spend $5,000/month.
 
-**2026-02-20 call, three named data points at once:** Rashawn (Jersey City / Montgomery
+**2026-02-20 call, three named data points at once:** Rashaun (Jersey City / Montgomery
 County) ~$19/lead ($850 spend ÷ 45 leads) — phenomenal. Rick ~$22/lead — also great. Alex
 and Courtney, their own areas, ~$70/lead — unprofitable for most. Same claim as the
 $18/$60–70 range above, now with three named examples in one place: *"'LSA works' and
@@ -182,7 +182,7 @@ push back repeatedly before accommodating; expect near-zero conversion from lead
 stay text-only regardless. This sets a concrete number on the qualitative claim already on
 this page — text isn't just worse, it's roughly a third to a fifth of phone's close rate.
 
-**Text vs. phone matters as much as the per-lead cost.** Rashawn's $19/lead LSA still
+**Text vs. phone matters as much as the per-lead cost.** Rashaun's $19/lead LSA still
 underperformed because he could only respond to texts (full-time job, can't take calls)
 and booked one job out of 45 leads — the phone leads went unanswered. Text leads convert
 far worse than phone leads on LSA: *"people that text aren't as serious."* Alex's

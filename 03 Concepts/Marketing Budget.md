@@ -4,14 +4,15 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing, Build In Order]
 status: Canonical
-sources: [Alex direct 2026-08-05, leads 101 — Marketing Basics series, Cleaning Biz 101 — Acquire, Leads 101 part 1]
-updated: 2026-08-06
+sources: [Alex direct 2026-08-05, Alex direct 2026-08-07, leads 101 — Marketing Basics series, Cleaning Biz 101 — Acquire, Leads 101 part 1]
+updated: 2026-08-07
 ---
 
 # Marketing Budget
 
 > [!abstract] In one line
-> About 10% of revenue — but only after you can convert the leads and keep the clients.
+> Spend is a function of how aggressive you're being and what stage you're at — not a fixed
+> percentage of revenue.
 
 ## Definition
 
@@ -20,17 +21,23 @@ spending more is a good idea.
 
 ## Why It Matters
 
-There's no universal number.
+**There's no fixed ratio, and Alex has explicitly ruled against teaching one.** The
+governing variable is aggression and stage, not a percentage:
 
-> "I can't give you an exact number. What I have seen across the industry as a recommended
-> amount is about 10% of your revenue."
+> Alex, 2026-08-07: *"the higher percent the more aggressive. its normal to go very high in
+> the beginning, this number is arbitrary and changes massively. don't even make it a
+> teaching point honestly, i'm not considering this really."*
 
-`Cleaning Biz 101 — Acquire` independently states the same figure as a rule of thumb: "a
-healthy cleaning business usually needs to spend at least 10% of gross revenue on
-marketing if you want consistent growth" — corroborating, not new.
+Earlier material had floated **~10% of revenue** as an industry rule of thumb — both from
+Alex directly ("I can't give you an exact number... about 10% of your revenue") and
+independently from `Cleaning Biz 101 — Acquire` ("a healthy cleaning business usually needs
+to spend at least 10% of gross revenue... if you want consistent growth"). **That figure is
+kept here as historical record, not as teaching** — Alex has since called it arbitrary and
+asked that it not be used as a benchmark. See Conflict History.
 
-Below a certain size that percentage is meaningless, because 10% of very little is
-nothing. **When you're small, marketing is an investment rather than a percentage.**
+Below a certain size any percentage is meaningless anyway, because a percent of very little
+is nothing. **When you're small, marketing is an investment tied to aggression and stage,
+not a ratio of revenue.**
 
 ## The Two Gates
 
@@ -83,7 +90,7 @@ clients paid the cards down. See [[Month One Loses Money]].
 
 ## Checklist
 
-- [ ] Start from ~10% of revenue as a reference, not a rule
+- [ ] Set spend by aggression and stage, not a percentage of revenue
 - [ ] Gate 1: can you convert? Check your close rate
 - [ ] Gate 2: can you deliver and retain?
 - [ ] If borrowing, confirm 0% APR
@@ -92,7 +99,8 @@ clients paid the cards down. See [[Month One Loses Money]].
 
 ## Templates
 
-- "I can't give you an exact number. About 10% of revenue is the general benchmark."
+- "There's no fixed number — it's a function of how aggressive you're being and what stage
+  you're at."
 - "If you don't have 0% APR, it's like you're renting money."
 
 ## Videos
@@ -121,7 +129,13 @@ not a recommendation for every situation, and the risk belongs in any retelling.
 
 ## Conflict History
 
-*None.*
+**Not a contested claim in the Type 1/2/3 sense — a direct ruling.** The page previously
+taught ~10% of revenue as a reference figure. Alex, in passing on 2026-08-07, called that
+number arbitrary and said not to teach it as a benchmark at all — see the quote above.
+Per `00 Inbox/review-queue.md`'s framing, this was **not** treated as a formal supersession
+of a Canon claim (Alex hadn't fully thought it through when he said it), but it settled the
+open question of what this page should teach going forward: aggression and stage, not a
+ratio. Already applied: removed as a graduation criterion for Leads Scale.
 
 ## Presented In
 

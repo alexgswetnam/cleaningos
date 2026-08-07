@@ -82,8 +82,8 @@ system doesn't work.
 ## Key Ideas
 
 **The first cut is coarser than the grid.** Before Engine × Season, there's a fork that
-catches most owners: **[[Leads Problem Or Sales Problem]]** — 95% of owners stuck under
-$20K/month are stuck on one of those two.
+catches most owners: **[[Leads Problem Or Sales Problem]]** — the overwhelming majority of
+owners who feel stuck are stuck on one of those two.
 
 **Each Engine carries its own Season.** There is no single company-wide Season. Leads can
 be in Scale while Labor is in Survival. See [[Four Seasons]].

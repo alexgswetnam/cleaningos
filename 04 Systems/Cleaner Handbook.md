@@ -132,7 +132,7 @@ alone don't count as completing this add-on.
 The 2026-02-20 call named two existing handbooks before either's content was in the
 vault:
 
-- **Rashawn's** covers: about us, how they operate, what they offer contractors,
+- **Rashaun's** covers: about us, how they operate, what they offer contractors,
   requirements, required documents, pay structure, and cleaning breakdowns. Still not
   ingested.
 - **Alex's** (originally described as living in the Labor Fundamentals course in Skool)
@@ -150,7 +150,7 @@ vault:
 
 The 2026-02-20 call names two existing handbooks without including their content:
 
-- **Rashawn's** covers: about us, how they operate, what they offer contractors,
+- **Rashaun's** covers: about us, how they operate, what they offer contractors,
   requirements, required documents, pay structure, and cleaning breakdowns.
 - **Alex's** (referenced as living in the Labor Fundamentals course in Skool, not yet in
   this vault) covers: best practices, service standards, client experience guidelines

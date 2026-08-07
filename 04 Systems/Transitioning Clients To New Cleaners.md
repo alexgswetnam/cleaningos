@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Labor]
 season: [Stability, Scale]
 laws: [Build In Order]
 status: Canonical
 sources: [2026-02-24 Weekly Coaching Call]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Transitioning Clients To New Cleaners

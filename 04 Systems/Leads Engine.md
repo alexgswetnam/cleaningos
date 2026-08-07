@@ -31,7 +31,6 @@ is an index, not a second definition.
 - [[The Soft Close]]
 - [[PPC Search Not Display]]
 - [[Google Business Profile Naming]]
-- [[Reactivating Past Clients]]
 - [[Labor Before Leads]]
 - [[Airbnb Clients]]
 - [[Marketing Math]]
@@ -63,13 +62,11 @@ is an index, not a second definition.
 - [[Commercial Cleaning Via Personal Network]]
 - [[Referral Program]]
 - [[Harvest CRM]]
-- [[Sales Pipeline Stages]]
 - [[Monthly Revenue Tracking]]
 - [[Subcontracting Add-On Services]]
 - [[Social Media Strategy]]
 - [[AI CRM Auditing]]
 - [[Form Field Optimization]]
-- [[Sales Pipeline Stages]]
 - [[Differentiation And Trust Building]]
 - [[Building Connection]]
 - [[AI Chatbots For Sales]]
@@ -92,17 +89,24 @@ Sequences of concepts. These live here, not in Concepts.
 - [[Website Technical SEO Basics]]
 - [[Post-Clean Review Script]]
 - [[Importing Contacts Into Harvest CRM]]
+- [[Reactivating Past Clients]]
+- [[Sales Pipeline Stages]]
 
 ## By Season
 
 What matters in this engine at each stage. Populated once [[Four Seasons]] is named.
 
-| Season | Focus | Ignore |
-|---|---|---|
-| **Survival** | Find **one** channel that produces leads at a profitable cost per acquisition — something like $20–40/day. Don't build elaborate systems or run a billion channels at once. A marketing problem here is normal, not a crisis: no leads, not knowing how to get them, or having tried something that didn't work. See [[Marketing Budget]] — the two gates. | Channel optimisation. Scale tactics. Trying to save money with free-only posting — it produces low-control, bad-fit customers. |
-| **Stability** | You likely already have one or two channels bringing leads in — the work is making them *reliable and profitable*, not finding more of them. Track cost per lead and close rate per channel ([[KPI Tracking Sheet]], [[Marketing Math]]); if the issue is close rate, it's [[Leads Problem Or Sales Problem]], not the channel. Watch for a channel that's capped by local demand (Thumbtack in some areas won't absorb even $50/day). | Adding channels before the current one or two are reliable. Moving to Scale before marketing feels like an equation rather than a guess. |
-| **Scale** | *"Marketing is an equation."* Optimise cost per lead, best practices per channel. Then increase spend. Confirm sales and systems can absorb 3–5 more leads a day **before** you do. | Forcing a weak channel — *"squeezing LSA when you should be doing PPC."* |
-| **Harvest** | Zoom out to yearly trends. [[Marketing Seasonality]]. Referral programs, email follow-up. Always be testing creative, copy, landing pages. | Judging any single month in isolation. |
+**Graduation test, accepted 2026-08-07** (`00 Inbox/graduation-criteria-proposal.md`): the
+owner picks the measurement window; a test has to hold **twice** in it, not once, before the
+Season counts as cleared. Tests, not thresholds — no revenue or headcount number gates any
+of these.
+
+| Season | Focus | Ignore | Graduation Test |
+|---|---|---|---|
+| **Survival** | Find **one** channel that produces leads at a profitable cost per acquisition — something like $20–40/day. Don't build elaborate systems or run a billion channels at once. A marketing problem here is normal, not a crisis: no leads, not knowing how to get them, or having tried something that didn't work. See [[Marketing Budget]] — the two gates. | Channel optimisation. Scale tactics. Trying to save money with free-only posting — it produces low-control, bad-fit customers. | You can name where recent bookings came from, and deliberately trigger another from the same place |
+| **Stability** | You likely already have one or two channels bringing leads in — the work is making them *reliable and profitable*, not finding more of them. Track cost per lead and close rate per channel ([[KPI Tracking Sheet]], [[Marketing Math]]); if the issue is close rate, it's [[Leads Problem Or Sales Problem]], not the channel. Watch for a channel that's capped by local demand (Thumbtack in some areas won't absorb even $50/day). | Adding channels before the current one or two are reliable. Moving to Scale before marketing feels like an equation rather than a guess. | You can forecast next week's bookings and hit it without changing anything — a lead arriving while you're unavailable still gets followed up — and you know what a booking costs you |
+| **Scale** | *"Marketing is an equation."* Optimise cost per lead, best practices per channel. Then increase spend. Confirm sales and systems can absorb 3–5 more leads a day **before** you do. | Forcing a weak channel — *"squeezing LSA when you should be doing PPC."* | Someone other than you ran the sales conversation and the close rate held, and you moved volume up or down on purpose and bookings followed |
+| **Harvest** | Zoom out to yearly trends. [[Marketing Seasonality]]. Referral programs, email follow-up. Always be testing creative, copy, landing pages. | Judging any single month in isolation. | You didn't look at marketing for the window and both volume and lead quality held |
 
 > The course is structured as **Engine × Season** — there's a *"Marketing Basics [Season]
 > Coaching"* lesson for each, now fully translated across all four Seasons via

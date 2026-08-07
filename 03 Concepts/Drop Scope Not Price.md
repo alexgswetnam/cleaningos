@@ -4,9 +4,9 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1, Objection Handling Course, Weekly Sales Training Call — April 2]
-updated: 2026-08-06
-contested: true
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1, Objection Handling Course, Weekly Sales Training Call — April 2, Alex direct 2026-08-07]
+updated: 2026-08-07
+contested: false
 ---
 
 # Drop Scope Not Price
@@ -155,7 +155,7 @@ the work was overpriced; reduced scope says less work costs less.
 
 ## Conflict History
 
-> [!warning] Contested — "the only discount that exists"
+> [!success] Resolved — Alex, 2026-08-07: both, different situations
 > **Claim A:** *"The only discount that exists: $10–15 off the first clean in exchange for a
 > review."* — [[Premium Workshop — 4 Seasons, 4 Bottlenecks]]
 >
@@ -163,29 +163,22 @@ the work was overpriced; reduced scope says less work costs less.
 > assumption — framed as personal favours, no review attached, no scope removed. —
 > [[Weekly Sales Training Call — March 26 P1]]
 >
-> Claim B's reductions exceed Claim A's stated maximum and aren't traded for anything. Both
-> are Alex's. Neither source has an established recording date, so per CONSTITUTION §X this
-> is Contested rather than a supersession.
+> Confirmed: Claim A governs the base rate (review discount), Claim B governs surcharges
+> and tier boundaries (situational favors). Not competing claims — two tools for different
+> moments in a call. Full statement: **[[Reciprocity]] → Conflict History.**
 >
-> **Unresolved since:** 2026-08-06
->
-> **What would settle it:** Alex saying which is current, or recording dates for both
-> sources.
->
-> Full statement, including a reading under which the two don't actually conflict:
-> **[[Reciprocity]] → Conflict History.**
->
-> While contested, do not state a discount policy in customer-facing copy.
+> **Still open before Claim A goes into customer-facing copy:** the compliance constraint
+> below.
 
-> [!warning] New constraint, not yet reconciled with either claim — 2026-08-06
+> [!warning] Live constraint on Claim A, not yet reconciled — 2026-08-06
 > [[Objection Handling Course]] independently uses "$10 off if you leave us a couple
 > Google reviews" as a live example (twice, in the *quotes-from-other-companies* and
 > *it's-too-expensive* lessons) — a third source landing close to Claim A's $10–15 figure.
 > But both lessons immediately add: *"technically you are not allowed to offer discounts
 > for Google reviews,"* and that Google can remove the reviews or flag the Business
-> Profile for it. This doesn't pick a winner between Claim A and Claim B — it's a
-> compliance constraint that applies to *either* claim if reviews are the trigger. Whatever
-> Alex rules on the amount, the review-for-discount mechanism itself needs a policy call.
+> Profile for it. Now that Claim A is confirmed as current, this constraint is live: the
+> review-for-discount mechanism itself still needs a policy call on how it's actually worded
+> to members, independent of the dollar amount.
 
 > [!info] Checked against 2026-04-02 and 2026-04-06 sales training calls — not resolved
 > [[Weekly Sales Training Call — April 2]] adds two more worked examples of the

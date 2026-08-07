@@ -33,8 +33,6 @@ is an index, not a second definition.
 - [[Internal Communication Via Discord]]
 - [[Payment Processor Selection]]
 - [[Systems Cost-Benefit Analysis]]
-- [[Picking The Right VA]]
-- [[When To Fire A VA]]
 - [[When To Fire A Client]]
 
 ## Workflows & SOPs
@@ -53,11 +51,16 @@ Sequences of concepts. These live here, not in Concepts.
 
 ## By Season
 
-What matters in this engine at each stage. Populated once [[Four Seasons]] is named.
+What matters in this engine at each stage. Focus/Ignore not yet populated — Graduation
+Test accepted 2026-08-07 (`00 Inbox/graduation-criteria-proposal.md`); owner picks the
+measurement window, a test has to hold **twice**, not once.
 
-| Season | Focus | Ignore |
-|---|---|---|
-| Survival | | |
+| Season | Focus | Ignore | Graduation Test |
+|---|---|---|---|
+| Survival | | | No missed job, no forgotten booking, no completed job left unpaid |
+| Stability | | | A job went booking → clean → payment without you touching it |
+| Scale | | | Volume rose and the number of exceptions did not rise with it |
+| Harvest | | | Someone new was onboarded into operations using only written material |
 
 ## Health Check
 

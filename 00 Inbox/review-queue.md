@@ -54,13 +54,12 @@ Two things were hiding under one phrase. A management layer over **cleaners** do
 here. A leadership layer over **ops, training, sales and admin** does — it's the VA, and the
 vault already documents it across 5 concepts and 8 lessons.
 
-**Open follow-up:** [[Picking The Right VA]], [[When To Hire A VA]] and [[When To Fire A VA]]
-are tagged both Logistics and Leadership. If the VA is the leadership layer, VA hiring may be
-a Leadership decision that happens to serve Logistics. Affects which cell teaches it.
+**Resolved 2026-08-07:** [[Picking The Right VA]], [[When To Hire A VA]] and
+[[When To Fire A VA]] were tagged both Logistics and Leadership. Alex confirmed Leadership
+only — all three retagged, hub indexes updated, `03 Concepts/INDEX.md` rebuilt.
 
-**Open follow-up:** no page states that the VA *is* the leadership layer. The VA pages cover
-hiring, picking, managing and firing one; none says what role it plays in the model. Possibly
-the one genuinely missing concept in Leadership. **Not built — flagged.**
+**Resolved 2026-08-07:** no page stated that the VA *is* the leadership layer. Built —
+[[The VA Is Your Leadership Layer]].
 
 ---
 

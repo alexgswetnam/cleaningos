@@ -15,14 +15,13 @@ updated: 2026-08-07
 Every cell records what an owner should be able to do, what CleaningOS already has to teach
 it, and what's missing. This is where curriculum decisions get made.
 
-> [!danger] Graduation criteria are NEEDS ALEX in all sixteen cells
-> **No ingested source defines what moves an Engine from one Season to the next.** Not one
-> of the sixteen. Agents may not invent them, and a revenue figure is not a substitute —
-> see [[Four Seasons]].
->
-> This is the single largest gap in CleaningOS. Until it's filled, the Seasons are a
-> vocabulary rather than a diagnostic: an owner can be told which Season an Engine is in,
-> but not what specifically gets it to the next one.
+> [!success] Graduation criteria — accepted 2026-08-07, all sixteen cells
+> **Resolved.** `00 Inbox/graduation-criteria-proposal.md` is accepted and applied — every
+> cell's test is filled in below, and also lives on its Engine hub page as a "Graduation
+> Test" column (`04 Systems/Leads Engine.md`, `Labor Engine.md`, `Logistics Engine.md`,
+> `Leadership Engine.md`) since that's where an agent teaching the material will actually
+> look. Tests, not thresholds — the owner picks the measurement window, and a test has to
+> hold **twice** in it. No revenue figure substitutes for one.
 
 ## Coverage at a glance
 
@@ -64,13 +63,13 @@ parts of `Free Resources and Mini Courses`
 | | |
 |---|---|
 | **Desired outcome** | One channel produces bookings at all, reliably enough to prove demand exists |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | You can name where recent bookings came from, and deliberately trigger another from the same place |
 | **Key concepts** | [[Speed To Lead]] · [[Ideal Customer Profile]] · [[Sales Happen On The Phone]] · [[Referral Program]] · [[Month One Loses Money]] · [[Owner Learns Marketing First]] · [[Price Delivery]] · [[Word Tracks]] |
 | **Systems** | [[GBP Verification]] · [[SMS Opt-In Consent]] |
 | **Sources** | `Leads 101 part 1` — What Way Should I Get Leads First, How did WE get started with leads, Marketing Basics Survival Season Coaching |
 | **Resources** | Sales Call Outline · Sales Call One Pager (PDF) |
 | **Missing** | A single "first 30 days of leads" sequence. The material exists as 36 separate ideas with no ordering |
-| **Free or paid** | **NEEDS ALEX** — GBP and referral material is the obvious free-tier candidate |
+| **Free or paid** | **Free** — Alex, 2026-08-07: Survival-level material is free tier |
 | **Confidence** | **High** — deepest cell in the vault |
 
 ### Leads × Stability — 57 pages
@@ -78,13 +77,13 @@ parts of `Free Resources and Mini Courses`
 | | |
 |---|---|
 | **Desired outcome** | The channel produces predictably; cost per booking is known and conversion is measured |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | You can forecast next week's bookings and hit it without changing anything — a lead arriving while you're unavailable still gets followed up — and you know what a booking costs you |
 | **Key concepts** | [[Marketing Math]] · [[Conversion Tracking]] · [[Close Rate By Channel]] · [[Channel Prioritization]] · [[Price Objection]] · [[Handling I'm Shopping Around]] · [[One-Time To Recurring]] · [[Pricing Methodology]] |
 | **Systems** | [[GBP Posting Cadence]] · [[Post-Clean Review Script]] · [[Website Technical SEO Basics]] · [[Client Expectation Setting]] · [[Importing Contacts Into Harvest CRM]] |
 | **Sources** | `Leads 101 Part 2` in full — objection handling, close rate, response rate, pipeline |
 | **Resources** | [[KPI Tracking Sheet]] · objection word tracks |
 | **Missing** | Nothing structural. This is the most complete cell in CleaningOS |
-| **Free or paid** | **NEEDS ALEX** — reads as core paid material |
+| **Free or paid** | **Paid** — confirmed. Only Survival-level material is free tier |
 | **Confidence** | **High** |
 
 ### Leads × Scale — 43 pages
@@ -92,12 +91,12 @@ parts of `Free Resources and Mini Courses`
 | | |
 |---|---|
 | **Desired outcome** | Volume goes up without proportional owner involvement; a second channel exists; spend is capacity-aware |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | Someone other than you ran the sales conversation and the close rate held, and you moved volume up or down on purpose and bookings followed |
 | **Key concepts** | [[Marketing Seasonality]] · [[PPC Search Not Display]] · [[PPC Landing Page Strategy]] · [[AI CRM Auditing]] · [[Subcontracting Add-On Services]] · [[Client Concentration]] |
 | **Systems** | [[Weekend Operations]] · [[Importing Contacts Into Harvest CRM]] |
 | **Sources** | `Leads 101 part 1` — Marketing Basics Scale Season Coaching, Paid Marketing Methods Breakdown |
 | **Missing** | **Capacity-based marketing** — the Business GPS grid names "turn volume up/down with capacity" as the Scale action, and no page covers the mechanism. This is the clearest single content gap in the Leads Engine |
-| **Free or paid** | **NEEDS ALEX** |
+| **Free or paid** | **Paid** — confirmed. Only Survival-level material is free tier |
 | **Confidence** | **Medium** |
 
 ### Leads × Harvest — 2 pages
@@ -105,7 +104,7 @@ parts of `Free Resources and Mini Courses`
 | | |
 |---|---|
 | **Desired outcome** | Marketing runs delegated with reporting; lead quality and brand reputation are protected without the owner watching |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | You didn't look at marketing for the window and both volume and lead quality held |
 | **Key concepts** | [[Client Concentration]] · [[Marketing Seasonality]] — and neither is really about delegated marketing |
 | **Systems** | **None** |
 | **Sources** | `Leads 101 part 1 → Marketing Basics Sustain and Sell Season Coaching`, `Should someone else do marketing for me` |
@@ -129,13 +128,13 @@ Agreement
 | | |
 |---|---|
 | **Desired outcome** | One reliable person other than the owner can do the work |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | A job you didn't touch was completed to standard and the client noticed no difference |
 | **Key concepts** | [[Hiring Channels]] · [[Hire Slow Fire Fast]] · [[Backup Cleaner]] · [[Subcontractor Vs W-2]] · [[Labor Before Leads]] |
 | **Systems** | [[Testing A New Cleaner]] · [[Cleaner Handbook]] · [[Cleaner Availability System]] |
 | **Sources** | `Labor 101 → Labor Basics: Survival Season Coaching`, `Hire Slow, First Fast`, `How To: Find Good Cleaners in Minutes for Free` |
 | **Resources** | Subcontractor Agreement · FB Group Post for Hiring · Cleaner Onboarding Handbook · Indeed Job Posting |
 | **Missing** | Little. This cell is well served by the templates |
-| **Free or paid** | **NEEDS ALEX** — the agreement and handbook are strong paid-tier anchors |
+| **Free or paid** | **Free** — Alex, 2026-08-07: Survival-level material is free tier |
 | **Confidence** | **High** |
 
 ### Labor × Stability — 19 pages
@@ -143,7 +142,7 @@ Agreement
 | | |
 |---|---|
 | **Desired outcome** | Reliability is repeatable — onboarding is consistent and one absence isn't a crisis |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | Someone called out and the job still happened — without you cleaning it |
 | **Key concepts** | [[Cleaner Pay Structure]] · [[Three-Strike System]] · [[Cleaner Job Notes]] · [[Cleaner-Caused Damage]] · [[Transitioning Clients To New Cleaners]] |
 | **Systems** | [[Hiring a Cleaner SOP]] · [[Automated Hiring Pipeline]] · [[Cleaner Handbook]] |
 | **Sources** | `Labor 101` — Determining Cleaners' Pay, What Documents Should I Give Cleaners, How To: KEEP Your Best Cleaners |
@@ -156,7 +155,7 @@ Agreement
 | | |
 |---|---|
 | **Desired outcome** | Headcount grows without the owner in every hire; backup coverage and team leads exist |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | Someone other than you judged whether a new cleaner was good enough, and you accepted the judgement |
 | **Key concepts** | [[Spanish-Speaking Labor]] · [[Internal Communication Via Discord]] · [[Subcontracting Add-On Services]] |
 | **Systems** | [[Automated Hiring Pipeline]] · [[Cleaner Availability System]] |
 | **Sources** | `Labor 101 → 3-Strike System: Why it's Important at Scale`, `Why You Need a Roster of 1099 Cleaners` |
@@ -169,7 +168,7 @@ Agreement
 | | |
 |---|---|
 | **Desired outcome** | Recruiting and retention run continuously without the owner as the engine — monthly onboarding, a quality-testing phase, bench depth |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | Cleaners were onboarded and quality was audited during the window, and you did neither |
 | **Key concepts** | **None** |
 | **Systems** | **None** |
 | **Sources** | **None identified** |
@@ -197,12 +196,12 @@ control, payment and follow-up.*
 | | |
 |---|---|
 | **Desired outcome** | One or two checklists and basic scheduling rules stop the bleeding |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | No missed job, no forgotten booking, no completed job left unpaid |
 | **Key concepts** | [[The Walkthrough]] · [[Payment Processor Selection]] · [[Client Lifetime Value]] |
 | **Systems** | [[A2P Verification]] · [[SMS Opt-In Consent]] · [[Cleaner Availability System]] |
 | **Sources** | `Logistics Fundamental Course` — What does chaos look like in a cleaning biz, Basic Systems: Starting vs Scaling |
 | **Missing** | **The one or two essential checklists themselves.** The grid says start with 1–2; [[SOPs]] says write them after three occurrences. Neither names which two come first |
-| **Free or paid** | **NEEDS ALEX** |
+| **Free or paid** | **Free** — Alex, 2026-08-07: Survival-level material is free tier |
 | **Confidence** | **Medium** |
 
 ### Logistics × Stability — 28 pages
@@ -210,7 +209,7 @@ control, payment and follow-up.*
 | | |
 |---|---|
 | **Desired outcome** | One source of truth for jobs and notes; CRM and automated follow-up running |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | A job went booking → clean → payment without you touching it |
 | **Key concepts** | [[Harvest CRM]] · [[BookingKoala]] · [[Zapier]] · [[Quality Complaints]] · [[Systems Cost-Benefit Analysis]] · [[When To Hire A VA]] |
 | **Systems** | [[Handling A Lockout]] · [[Payment Verification & Collection]] · [[IVR Setup]] · [[Client Expectation Setting]] · [[Importing Contacts Into Harvest CRM]] |
 | **Sources** | `Logistics Fundamental Course` — What is a CRM, When should I get a CRM, What is an SOP · `Every SOP We Use` in full |
@@ -224,7 +223,7 @@ control, payment and follow-up.*
 | | |
 |---|---|
 | **Desired outcome** | A weekly operating cadence runs the business without the owner in each loop |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | Volume rose and the number of exceptions did not rise with it |
 | **Key concepts** | [[SOPs]] · [[Managing A VA]] · [[Picking The Right VA]] · [[When To Fire A VA]] · [[AI CRM Auditing]] |
 | **Systems** | [[Weekend Operations]] · [[Payment Verification & Collection]] |
 | **Sources** | `Logistics Fundamental Course` — the VA series in full, How do I create simple scalable systems |
@@ -237,7 +236,7 @@ control, payment and follow-up.*
 | | |
 |---|---|
 | **Desired outcome** | A master operating manual and a complete SOP library — asset-ready |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | Someone new was onboarded into operations using only written material |
 | **Key concepts** | [[SOPs]] · [[Uncontracted Recurring Revenue]] |
 | **Systems** | **None** |
 | **Sources** | `Every SOP We Use` is the raw material for a manual but is not organised as one |
@@ -259,12 +258,12 @@ weekly coaching calls, the Premium Workshop, and the broker conversation.
 | | |
 |---|---|
 | **Desired outcome** | Non-negotiable standards exist; boundaries hold; bad jobs get refused |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | You refused work or a client on the basis of a written standard, and the business was fine |
 | **Key concepts** | [[Hire Slow Fire Fast]] · [[Handling Upset Clients]] · [[Call Breakdowns]] |
 | **Systems** | **None** |
 | **Sources** | Scattered across coaching calls |
 | **Missing** | **Standards and boundaries** — the actual Survival action, and nothing teaches it. [[When To Fire A Client]] is tagged Leads and Logistics, not Leadership, though it is arguably the clearest boundary lesson in the vault |
-| **Free or paid** | **NEEDS ALEX** |
+| **Free or paid** | **Free** — Alex, 2026-08-07: Survival-level material is free tier |
 | **Confidence** | **Low** |
 
 ### Leadership × Stability — 11 pages
@@ -272,7 +271,7 @@ weekly coaching calls, the Premium Workshop, and the broker conversation.
 | | |
 |---|---|
 | **Desired outcome** | The team is held accountable through simple scorecards and consistent coaching |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | A performance conversation happened on schedule, not triggered by a problem |
 | **Key concepts** | [[Managing A VA]] · [[Picking The Right VA]] · [[When To Hire A VA]] · [[Monthly Revenue Tracking]] · [[Reviews As Asset Not Identity]] |
 | **Systems** | [[Review Response Scripts]] |
 | **Sources** | Coaching calls |
@@ -285,7 +284,7 @@ weekly coaching calls, the Premium Workshop, and the broker conversation.
 | | |
 |---|---|
 | **Desired outcome** | Team leads appointed; a weekly wins/issues/commitments cadence exists |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | Your VA owned a category of decision, made one without you, and you agreed with it |
 | **Key concepts** | [[Owner-Dependent Revenue]] · [[Owner Role Evolution]] · [[Client Concentration]] · [[Uncontracted Recurring Revenue]] |
 | **Systems** | **None** |
 | **Sources** | Coaching calls · Premium Workshop |
@@ -298,7 +297,7 @@ weekly coaching calls, the Premium Workshop, and the broker conversation.
 | | |
 |---|---|
 | **Desired outcome** | Leaders installed below the owner; the machine gets audited rather than operated |
-| **Graduation criteria** | **NEEDS ALEX** |
+| **Graduation criteria** | Ops, training and sales/admin are each owned by someone who isn't you, and you audit rather than operate |
 | **Key concepts** | [[Business Valuation]] · [[Add-Backs And SDE]] · [[Deal Structure]] · [[Due Diligence]] · [[Non-Compete]] · [[Owner-Dependent Revenue]] |
 | **Systems** | [[Buying A Cleaning Business]] |
 | **Sources** | `Another convo w the broker` · coaching calls |
@@ -310,15 +309,21 @@ weekly coaching calls, the Premium Workshop, and the broker conversation.
 
 ## What this map says to do next
 
-1. **Define graduation criteria.** Sixteen cells, sixteen answers, all `NEEDS ALEX`. Without
-   them the Seasons name a stage but can't move anyone through one.
-2. **Fill Labor × Harvest.** Zero pages, on the Engine that constrains most owners.
-3. **Write team leads once.** It's the missing piece in Labor Scale, Leadership Scale and
-   Leadership Harvest simultaneously — one concept unblocks three cells.
+1. ~~Define graduation criteria.~~ **Resolved, Alex 2026-08-07.** All sixteen answered, see
+   above and each Engine hub page.
+2. **Fill Labor × Harvest.** Still zero pages. Alex gave the problem statement 2026-08-07
+   (retention + measuring cleaner happiness/work-ability at scale, systemized) — see
+   `04 Systems/Labor Engine.md` and `00 Inbox/open-decisions.md` #11 — but the actual
+   *method* isn't written yet and shouldn't be invented.
+3. ~~Write team leads once.~~ **Retired premise, Alex 2026-08-07: "team leads" for cleaning
+   isn't a thing.** The Labor Scale / Leadership Scale / Leadership Harvest gap this item
+   pointed at is filled differently — the leadership layer is the VA, see
+   [[The VA Is Your Leadership Layer]]. Nothing left to write under this framing.
 4. **Build the Leadership Engine curriculum.** Three other Engines have dedicated courses.
    Leadership has coaching calls and a workshop.
-5. **Decide free vs paid.** Currently unknown for every cell, which blocks
-   [[CleaningOS Free]] and [[CleaningOS Membership]] from being definable at all.
+5. ~~Decide free vs paid.~~ **Resolved, Alex 2026-08-07: all four Survival cells are
+   free tier; every Stability/Scale/Harvest cell is paid.** See the "Free or paid" row in
+   each cell above.
 
 ## Related
 

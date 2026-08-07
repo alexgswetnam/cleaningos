@@ -4,8 +4,8 @@ engine: [Logistics]
 season: []
 laws: []
 status: Developing
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Zapier The Software Glue, 2026-02-24 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, Cleaning Biz 101 — Fulfill, Every SOP We Use, Logistics Fundamental Course]
-updated: 2026-08-06
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Zapier The Software Glue, 2026-02-24 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, Cleaning Biz 101 — Fulfill, Every SOP We Use, Logistics Fundamental Course, Alex direct 2026-08-07]
+updated: 2026-08-07
 ---
 
 # BookingKoala
@@ -49,6 +49,18 @@ schedulable resources and where client bookings originate.
   calendar system and compound into scheduling chaos over time
 
 ## Models
+
+**Getting our exact configuration cloned into a new account — resolves the "setup guide"
+question.** Alex, 2026-08-07: a click-by-click setup guide is unnecessary — *"I can copy
+and paste exactly what we use into their BK account. I just have to email the BK support
+team and the student has to have used my affiliate code. If they didn't, it's okay — just
+reach out to me, I can fix that so they get our exact BK setup."* The mechanism is
+support-assisted cloning, not self-service setup: (1) student signs up via Alex's
+affiliate code, (2) Alex emails BookingKoala support to copy the proven configuration
+(providers, colors, reminder cadence, etc.) into the student's account, (3) if the
+affiliate code was missed, the student contacts Alex directly and it gets fixed
+manually. This replaces the need for a written setup walkthrough, and sidesteps the
+vendor-UI-drift risk a static guide would carry. See `00 Inbox/open-decisions.md` #26.
 
 **Fixing double-booking: individual providers with pairing, not teams.** The root cause
 of most BookingKoala double-booking is using "teams." When a team is created, BookingKoala

@@ -21,6 +21,7 @@ Every concept tagged `engine: [Leadership]`. Each is defined once in `03 Concept
 is an index, not a second definition.
 
 - [[Managing A VA]]
+- [[When To Fire A Client]]
 - [[Reviews As Asset Not Identity]]
 - [[Business Valuation]]
 - [[When To Hire A VA]]
@@ -50,11 +51,18 @@ Sequences of concepts. These live here, not in Concepts.
 
 ## By Season
 
-What matters in this engine at each stage. Populated once [[Four Seasons]] is named.
+What matters in this engine at each stage. Focus/Ignore not yet populated — Graduation
+Test accepted 2026-08-07 (`00 Inbox/graduation-criteria-proposal.md`); owner picks the
+measurement window, a test has to hold **twice**, not once. This Engine doesn't start with
+people management — it starts with the owner holding a standard, then jumps to the VA
+owning a category. See [[The VA Is Your Leadership Layer]].
 
-| Season | Focus | Ignore |
-|---|---|---|
-| Survival | | |
+| Season | Focus | Ignore | Graduation Test |
+|---|---|---|---|
+| Survival | | | You refused work or a client on the basis of a written standard, and the business was fine |
+| Stability | | | A performance conversation happened on schedule, not triggered by a problem |
+| Scale | | | Your VA owned a category of decision, made one without you, and you agreed with it |
+| Harvest | | | Ops, training and sales/admin are each owned by someone who isn't you, and you audit rather than operate |
 
 ## Health Check
 

@@ -18,6 +18,14 @@ The governing document of CleaningOS. Every agent — Claude, ChatGPT, or anythi
 > **[[Philosophy]] — the $25k figure reclassified.** Alex ruled on 2026-08-07 that "$25k/month in under 12 months" is a **target, not a promise**. The Promise table now separates target from contractual guarantee, and the $25k row may be stated publicly only as a target. Recorded in `07 Company/Claim Register.md`.
 >
 > **Rule 2 rewritten to DEFAULT TO UPDATE**, with four criteria a new concept must meet and a new queue, `00 Inbox/knowledge-gaps.md`, for candidates that don't clearly meet them. Retired: *"when unsure, they are two"* · *"create stubs eagerly"* (§VII) · *"a single ingestion should touch 5–15 pages"* (§VIII.5) · *"minimum five links"* (§VIII.6). The concept template lost ten mandatory empty headings and a separate System template now exists. Further amendments land as the refactor proceeds.
+>
+> **§VI narrowed to same-extension collisions only.** Alex ruled on 2026-08-07: the
+> filename-collision rule was written against a `.md`-vs-`.md` example, but a real case
+> (`04 Systems/Cleaner Handbook.md` vs. `01 Sources/.../Cleaner Handbook.txt`) showed
+> Obsidian's wikilink resolution isn't actually ambiguous across a `.md`/`.txt` pair —
+> only same-extension collisions split the link graph the way §VI describes. Rule now
+> reads "same filename **and extension**." No files renamed as a result. Recorded in
+> `00 Inbox/open-decisions.md` #23.
 
 ---
 
@@ -188,11 +196,13 @@ So: `Hiring Flow` (a workflow) lives in `04 Systems/` and links to `[[Hiring Fir
 - **No dates or versions in filenames.** Git holds history.
 - **Sources keep their original names** plus a source ID prefix where one exists (`Video 41 — Hiring Your First Cleaner.md`).
 
-### No filename may exist twice
+### No filename may exist twice — same extension only
 
-**A page in `03–07` may not share a filename with any file in `01 Sources/`.** Sources keep their names under Rule 3, so the concept page is the one that gets renamed.
+**A page in `03–07` may not share a filename *and extension* with any file in `01 Sources/`.** Sources keep their names under Rule 3, so the concept page is the one that gets renamed.
 
 This is Rule 2's failure mode in disguise. If `03 Concepts/Hiring SOP.md` and `01 Sources/.../Hiring SOP.md` both exist, every `[[Hiring SOP]]` in the vault is ambiguous and Obsidian resolves it silently — half your links may point at a raw transcript. The idea still has one page, but the _name_ has two targets, and the graph splits invisibly. `/lint-vault` checks for this.
+
+**A `.md` page and a same-named `.txt` source are not a collision.** Wikilinks (`[[Cleaner Handbook]]`) resolve against `.md` files specifically — a `.txt` source with the identical basename doesn't split anything, because nothing ever resolves to it via a bare wikilink. Narrowed 2026-08-07 after `04 Systems/Cleaner Handbook.md` and a `.txt` source of the same name turned out not to be ambiguous in practice. Two `.md` files with the same basename still fully triggers this rule.
 
 ### Two link mechanics that bite
 

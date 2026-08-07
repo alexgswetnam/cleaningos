@@ -68,7 +68,7 @@ Alex shares SOPs with members who commit to the VA placement program (12 months 
 
 The master operations manual is the top-level document that describes how the entire business works and references each SOP. Example flow: a lead comes in through Zapier → goes into Harvest CRM → VA calls within 60 seconds → automatic SMS + 7-day follow-up sequence → new lead stage → calling twice a day, texting twice a day.
 
-Rashawn's VA didn't work out because he didn't have enough lead flow — the VA was sitting idle with nothing to do. Lesson: fix your lead engine before onboarding a VA, or the VA has no work.
+Rashaun's VA didn't work out because he didn't have enough lead flow — the VA was sitting idle with nothing to do. Lesson: fix your lead engine before onboarding a VA, or the VA has no work.
 
 ### Lead Attribution: UTM Tracking + Zapier + CRM
 To know where each lead comes from, you need UTM campaign tags on every link pointing to your website. When someone hits your site from GBP McKinney, the URL includes a UTM tag. When they fill out the form, the UTM data is captured and submitted with it.
@@ -137,7 +137,7 @@ Alex's frustration: most SEO companies, even paid ones ($2K/month), miss these b
 - Surprise bonus: "L closed five or six people in one day. I sent her $80 — 'You killed it. I want you to keep killing it.'"
 - Cleaner transition: "I'm not handing off the responsibility of making sure you're happy to the VA. You can still message me. But for the most part, they're going to be our team lead."
 - First week: "Have the VA follow you through the things you're doing. Then go — does that make sense? Cool, go ahead and do a booking for me and show me how you'd walk through this."
-- Rashawn's lesson: "It's important for me to figure out my lead engine first so that anyone who comes on board actually has work to do."
+- Rashaun's lesson: "It's important for me to figure out my lead engine first so that anyone who comes on board actually has work to do."
 - SEO frustration: "Every single SEO company except one — I haven't seen a single one do it right. The website stuff, the GBP stuff — there's always something basic missing."
 - Basic SEO checklist: "One H1, the rest H2s or H3s, local business schema, correct description and title, GBP on the page — that's just very basic."
 
@@ -147,7 +147,7 @@ Alex's frustration: most SEO companies, even paid ones ($2K/month), miss these b
 - Marketing aggressively while carrying credit card debt — pause, pay off, restart in growth season.
 - Treating the VA like a task robot instead of a team member with a future in the company.
 - Cutting off cleaner communication abruptly when introducing a VA — transition gradually.
-- Onboarding a VA before having enough lead flow — the VA sits idle (Rashawn's experience).
+- Onboarding a VA before having enough lead flow — the VA sits idle (Rashaun's experience).
 - Not using UTM campaign tags — you can't attribute leads to their source.
 - Letting a pop-up form appear on the PPC squeeze page — it corrupts lead attribution.
 - Paying an SEO company $2K/month that hasn't added local business schema or fixed H1 headings.
@@ -183,7 +183,7 @@ A coaching call covering VA onboarding leadership (treat them like an equity par
 
 **SOPs shared.** Master operations manual describes the entire business flow. Daily checklist: beginning/middle/end of day tasks. Situational SOPs: cancels, recleans, lockouts, Discord onboarding, paying cleaners. Members in the VA placement program get access to all SOPs.
 
-**Rashawn's VA lesson.** VA didn't work out because Rashawn's lead flow dried up — the VA had nothing to do. "Figure out your lead engine first so anyone who comes on board has work to do."
+**Rashaun's VA lesson.** VA didn't work out because Rashaun's lead flow dried up — the VA had nothing to do. "Figure out your lead engine first so anyone who comes on board has work to do."
 
 **Lead attribution setup.** UTM campaign tags on every link to your site (GBP McKinney, PPC1, etc.). Website form captures UTM data with the submission. Zapier scans email every 2 minutes → parses with JavaScript → creates contact in Harvest CRM + Discord notification. Alternative: embed Harvest CRM form directly on site. Jack's pop-up form generated 33 submissions vs. 2 from old PPC form — make sure the pop-up doesn't show on the PPC squeeze page to keep attribution clean.
 

@@ -75,20 +75,29 @@ Flow: **Diagnose → Challenge → Prioritize → Personalize → Prepare for co
 > AI phrases the point-into-the-Vault moment is still open — see decision **#34** in
 > `00 Inbox/open-decisions.md`.
 
-## Trial — scope decided, terms not yet
+## Trial — AI stays at Free for all 7 days, corrected 2026-08-07
 
-Alex, 2026-08-07: the 7-day trial reaches further than first drafted.
+Alex simplified this twice on 2026-08-07. Final rule: **the AI never grants a level during
+the trial that it would have to take back.**
 
-- **Permanent free**: Diagnostic, Business GPS / Survival AI, free Survival-level help.
-- **7-day trial**: temporary access to the $47 curriculum + Implementation AI **and**
-  [[Group Coaching]] ($297) — Strategist AI included.
-- **After trial**: unresolved. The original working direction assumed a drop to $47/month.
-  Whether that still holds once the trial includes $297-level access, or whether the member
-  has to actively choose a tier at day 8, is **not decided** — see decision #3 in
-  `00 Inbox/open-decisions.md`.
+- **Days 1–7, everyone**: Free / Survival AI only. This applies regardless of which tier's
+  curriculum the trial otherwise unlocks — a person trialing toward $297 gets the same AI
+  level as a person trialing toward $47. The AI does not go up during the trial at all.
+- **Day 8**: whichever tier they actually choose and pay for, their AI upgrades to match —
+  Implementation AI for $47, Strategist AI for $297. This is the first moment any AI level
+  above Free exists for them.
+- **If they don't continue**: they stay on Free AI — no downgrade to manage, because they
+  were never given more than Free to begin with.
 
-Not Canon. Tracked as `NEEDS VERIFICATION` in `07 Company/Claim Register.md` — do not write
-trial terms into customer-facing copy until the day-8 behavior is confirmed.
+**Why:** taking AI access away reads as a downgrade or a punishment in a way losing
+curriculum access doesn't — once someone's had a personalized assistant, pulling it back is
+worse than never having had it. Granting nothing above Free during the trial means there's
+never anything to take back.
+
+No auto-billing default at day 8 — the member actively chooses a tier ($47, $297, or
+cancel), per decision #3.
+
+Not Canon. Tracked as `NEEDS VERIFICATION` in `07 Company/Claim Register.md`.
 
 ## What this page does not do
 

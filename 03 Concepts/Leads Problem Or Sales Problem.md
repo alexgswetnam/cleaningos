@@ -11,7 +11,7 @@ updated: 2026-08-06
 # Leads Problem Or Sales Problem
 
 > [!abstract] In one line
-> Almost every owner stuck under $20K/month is stuck on one of two things — and they're not equally hard to fix.
+> Most owners who feel stuck are stuck on one of two things — and they're not equally hard to fix.
 
 ## Definition
 
@@ -23,9 +23,13 @@ months.
 
 > "It's usually almost really like 95% of the time — getting leads, closing those leads."
 
-Not cleaners. Not systems. Not fulfillment. Owners misattribute constantly: they conclude
-marketing is broken when the close rate is the problem, or they grind on sales scripts
-when they simply aren't getting enough calls.
+That's Alex's own spoken estimate from a pattern across many coaching conversations, not a
+measured statistic — **no dataset backs "95%," and this page does not restate it as fact.**
+Read it the way it was said: an emphatic "almost always," not a tracked percentage. The
+takeaway is the fork itself, not the number — the two most common answers to "why am I
+stuck" are lead volume and close rate, and owners routinely misattribute between them: they
+conclude marketing is broken when the close rate is the problem, or they grind on sales
+scripts when they simply aren't getting enough calls.
 
 **And the two are not equally hard to fix:**
 

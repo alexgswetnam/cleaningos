@@ -214,6 +214,14 @@ number, not established in any ingested source.
 >
 > **Unresolved since:** 2026-08-06. **What would settle it:** which document currently
 > governs, and whether the two have been reconciled with counsel.
+>
+> **Direction from Alex, 2026-08-07** (full statement on [[Cleaner Pay Structure]] →
+> Conflict History): declined to pick which document governs — this is a legal question for
+> counsel, not an editorial call. Redirected the teaching instead: present any pay-floor
+> mechanism as an example approach with a not-legal-advice disclaimer, teach the underlying
+> function (cleaner trust, not getting shortchanged) rather than a specific dollar figure,
+> and note that discretionary bonuses are a legally softer alternative to a guaranteed
+> floor. Which document is actually operative today remains open.
 
 > [!failure]- Deepened, not settled — Labor 101, 2026-08-06
 > Labor 101's own interview script tells every cleaner candidate: *"we do have a unique
@@ -224,8 +232,9 @@ number, not established in any ingested source.
 > [[Cleaner Pay Structure]]'s Conflict History. Relevant here because a guaranteed-minimum
 > promise, even a modest one, made verbally to every candidate during hiring, is itself a
 > fact pattern worth weighing in any classification review — independent of what either
-> written document says. **Not dated relative to the Handbook or Agreement** — stays
-> Contested, doesn't supersede.
+> written document says. **Reason:** stays Contested instead of superseding because it's
+> not dated relative to the Handbook or Agreement — per Constitution §X, undated material
+> can't establish itself as the newer, controlling version.
 
 ## Presented In
 

@@ -266,9 +266,9 @@ behaviour, not purchase intent, and it should not be treated as pipeline.
 | Requested | Underlying job to be done | Engine | Season | Freq | Existing asset? | Action |
 |---|---|---|---|---|---|---|
 | How to Get Free Leads from Google | "Get inquiries without paying for them" | Leads | Survival | **10/30** | Yes — 5 GBP course lessons + [[GBP Verification]], [[GBP Posting Cadence]], [[Google Business Profile Naming]], [[Website Technical SEO Basics]] | **IMPROVE EXISTING** — the parts exist as four scattered pages. Package as one ordered sequence |
-| The Best Sales PDF Ever (for New Leads) | "Convert the inquiries I already get, without winging it" | Leads | Survival→Stability | **10/30** | Yes — Sales Call Outline, Sales Call One Pager (PDF), [[Word Tracks]], [[Price Delivery]], [[Micro-Commitments]], [[Sales Happen On The Phone]] + 4 objection pages | **MERGE** — the material is strong and scattered across 8+ pages. One call guide |
+| The Best Sales PDF Ever (for New Leads) | "Convert the inquiries I already get, without winging it" | Leads | Survival→Stability | **10/30** | Yes — Sales Call Outline, Sales Call One Pager (PDF), [[Word Tracks]], [[Price Delivery]], [[Micro-Commitments]], [[Sales Happen On The Phone]] + 4 objection pages | **DECLINED, Alex 2026-08-07** — never built one specific to the quiz; the vault's existing sales resources stand as the asset. No new PDF |
 | Cleaning Checklist (for Cleaners) | "Quality that doesn't need me watching" | Labor | Survival | 4/30 | Yes — [[Cleaner Handbook]], `Every SOP We Use` (31 SOPs) | **KEEP EXISTING** |
-| BookingKoala Automatic Setup Guide | "Stop being the scheduling hub" | Logistics | Stability | 4/30 | Partial — [[BookingKoala]] explains what it is, not how to set it up | **NEEDS ALEX** — is a vendor setup guide ours to own, or does it date instantly? |
+| BookingKoala Automatic Setup Guide | "Stop being the scheduling hub" | Logistics | Stability | 4/30 | Partial — [[BookingKoala]] explains what it is, not how to set it up | **RESOLVED, Alex 2026-08-07** — a written guide is unnecessary. Setup is support-assisted cloning: student signs up via Alex's affiliate code, Alex emails BookingKoala support to copy the proven config into their account. See [[BookingKoala]] → Models |
 | Pre-Clean Expectations + TOS Email | "Fewer complaints, set expectations up front" | Logistics | Stability | 2/30 | Yes — [[Client Expectation Setting]] | **KEEP EXISTING** |
 
 ### The request I'd read differently
@@ -410,11 +410,15 @@ don't have the vocabulary for it. That doesn't make it wrong to build; it makes 
 
 ## What needs Alex before anything changes
 
-1. **The `Season` / `Role` scoring key** — two columns of numbers with no legend
-2. **Is the quiz meant to be Business GPS?** If yes it needs a goal question, and Business
-   GPS becomes a product, not just a concept
-3. **BookingKoala setup guide** — ours to own, or a vendor-dependency that dates?
-4. **Sales PDF** — ship the requested version, build the transferable system, or both?
+1. **The `Season` / `Role` scoring key** — two columns of numbers with no legend. Still
+   open.
+2. ~~Is the quiz meant to be Business GPS?~~ **Answered, 2026-08-07: yes, this quiz is v1.**
+   A v2 diagnostic is wanted — format (interactive AI vs. redesigned quiz) not yet chosen.
+3. ~~BookingKoala setup guide~~ **Resolved, 2026-08-07: not needed.** Setup is
+   support-assisted cloning via Alex's affiliate code, not a written guide. See
+   [[BookingKoala]] → Models.
+4. ~~Sales PDF~~ **Declined, 2026-08-07.** No PDF built — existing vault sales resources
+   stand as the asset.
 5. **Nothing here is proof.** No count on this page may appear in customer-facing copy. If
    any of it should become a public claim, it needs a row in `07 Company/Claim Register.md`
    first

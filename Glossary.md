@@ -52,7 +52,7 @@ index, not a second home for definitions.
 | **Law** | One of five governing principles. [[Five Laws]] | Alex |
 | **One Step** | The single next action, given the Season. Never a list of ten. | Alex |
 | **Business GPS** | The diagnostic — where am I, what's next. | Draft |
-| **Roadmap** | The sequence. Where you are, where you're going, next step. | Draft |
+| **Roadmap** | The specific plan for an owner — where they are, where they're going, next step — produced by [[Business GPS]] or built directly with a coach. Alex, 2026-08-07: *"Business GPS gives you the roadmap"* / *"I am going to help someone build the roadmap for where to go and what to do."* Not an abstract sequence — it's the output, for a specific business. | Alex direct 2026-08-07 |
 | **Constraint** | The Engine currently limiting the whole system. | Draft |
 
 ## People
@@ -72,7 +72,7 @@ index, not a second home for definitions.
 |---|---|---|
 | **Harvest** *(bare)* | The fourth Season. | Alex |
 | **[[Harvest CRM]]** | The software — what it is and when to adopt it. **Always both words.** Commercial terms and pricing live on [[Harvest CRM Offer]]. | Alex + Contract |
-| **House Cleaning Skool** | The community platform. 1:1 students get lifetime access to the highest tier. | Contract |
+| **House Cleaning Skool** *(→ House Cleaning Academy)* | The community platform. 1:1 students get lifetime access to the highest tier. **Rebrand decided, Alex 2026-08-07:** new brand name is "House Cleaning Academy," used going forward in marketing and new copy. The signed 1:1 contract text still says "House Cleaning Skool" — that can't be changed retroactively, so both names are accurate depending on whether you're citing the contract or writing new material. Do not silently swap the name into anything that quotes the contract. | Contract + Alex direct 2026-08-07 |
 | **Discord** | Where 1:1 students message Alex directly. 24 business hours, Mon–Fri. | Contract |
 | **VA Bootcamp** | 8-week training program for a student's VA. Included in 1:1 at no extra cost. | Contract |
 
@@ -87,7 +87,7 @@ index, not a second home for definitions.
 | **LSA** | Google Local Services Ads. Distinct from PPC; both can run at once. | Call |
 | **GBP** | Google Business Profile. [[Google Business Profile Naming]] | Call |
 | **Smart List** | A self-updating filtered contact list in Harvest CRM. [[Smart Lists]] | Call |
-| **Skool** | The community platform. House Cleaning Skool. | Contract |
+| **Skool** | The community platform, contractually "House Cleaning Skool." Rebranding to "House Cleaning Academy" going forward — see the Products and Places entry above. | Contract |
 | **Headwinds / Highlights** | The weekly coaching call format — hard things first, then wins. | Call |
 
 ## Terms From Course Lessons
@@ -127,7 +127,6 @@ Added 2026-08-06, the first entries written under the new write policy. These sa
 
 ## Still Needed
 
-- **Build** — a verb, an early-Season activity, or both?
 - Any acronym or coined term used on calls that a new agent wouldn't know.
 - Terms from the 2026-08-06 ingest of Labor 101, Leads 101, and Logistics Fundamental —
   those eight courses produced 17 new concept pages and their vocabulary has not been
