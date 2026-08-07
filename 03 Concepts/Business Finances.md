@@ -20,8 +20,7 @@ simple categorized bookkeeping tool (Wave) instead of elaborate reporting, and a
 low-friction way to pay cleaners weekly. Not owned by any single [[Four Engines|Engine]] —
 see [[Four Engines]]'s own statement that finance is *"the health of all four, not a
 separate production Engine,"* which this course's own framing corroborates almost exactly
-(see Models below), even though it's taught as its own pillar in [[Five Business
-Pillars]].
+(see Models below), even though it's taught as its own pillar in [[Five Business Pillars]].
 
 ## Why It Matters
 

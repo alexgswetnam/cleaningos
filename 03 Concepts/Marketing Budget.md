@@ -4,8 +4,8 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing, Build In Order]
 status: Canonical
-sources: [Alex direct 2026-08-05, leads 101 — Marketing Basics series, Cleaning Biz 101 — Acquire]
-updated: 2026-08-05
+sources: [Alex direct 2026-08-05, leads 101 — Marketing Basics series, Cleaning Biz 101 — Acquire, Leads 101 part 1]
+updated: 2026-08-06
 ---
 
 # Marketing Budget
@@ -98,6 +98,9 @@ clients paid the cards down. See [[Month One Loses Money]].
 ## Videos
 
 [[leads 101 — Marketing Basics series]]
+[[Leads 101 part 1]] — "How much to spend on marketing" lesson. Same transcript as the
+"How Much To Spend On Marketing" lesson already cited above (identical figures, identical
+phrasing) — the same course material repackaged into a second export, not a new claim.
 
 ## Student Examples
 

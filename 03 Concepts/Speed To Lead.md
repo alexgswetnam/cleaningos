@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [One Step Wins]
 status: Developing
-sources: [Weekly Sales Training Call — March 26 P1, Cleaning Biz 101 — Convert, Free Resources and Mini Courses]
+sources: [Weekly Sales Training Call — March 26 P1, Cleaning Biz 101 — Convert, Free Resources and Mini Courses, Leads 101 Part 2]
 updated: 2026-08-06
 ---
 
@@ -109,6 +109,10 @@ ahead of the number that could otherwise trigger hesitation. See [[Micro-Commitm
 - [[Cleaning Biz 101 — Convert]]
 - [[Free Resources and Mini Courses]] — "Are my sales suffering because I don't have a
   VA" and "Stop losing the easy sales.." lessons.
+- [[Leads 101 Part 2]] — "Speed-To-Lead: The First 5 Minutes" lesson. Same lesson title
+  and near-identical wording (including "Call them ASAP!!!") as the
+  `Cleaning Biz 101 — Convert` lesson already cited above — corroboration, not a second
+  source of new claims.
 
 ## Student Examples
 

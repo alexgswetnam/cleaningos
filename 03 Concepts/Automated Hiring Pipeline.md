@@ -4,7 +4,7 @@ engine: [Labor, Logistics]
 season: [Stability, Scale]
 laws: [One Step Wins, Build In Order]
 status: Canonical
-sources: [2026-02-20 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call]
+sources: [2026-02-20 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Weekly Sales Training Call — April 6]
 updated: 2026-08-06
 ---
 
@@ -147,6 +147,12 @@ already paying for — see [[When To Hire A VA]].
 
 **Courtney** — wanted the pipeline for her own business on the same call; had been
 avoiding hiring despite being at capacity. See [[Labor Before Leads]].
+
+**Courtney, April 6 — the follow-through.** Fully built out in Harvest CRM: applications,
+calendar scheduling, and the workflow all automated. Ready to start reaching out to
+applicants and running interviews, with a plan to hire within two weeks — the gap between
+"wanted the pipeline" (Feb 20) and "it's live and I'm interviewing" closed inside about
+six weeks.
 
 **Group-wide** — as of 2026-03-04, the pipeline is no longer just Rashawn's; it's
 templatized into every member's [[Harvest CRM]] account.

@@ -4,7 +4,7 @@ engine: [Labor]
 season: [Stability, Scale]
 laws: [Build In Order]
 status: Canonical
-sources: [Every SOP We Use]
+sources: [Every SOP We Use, Labor 101]
 updated: 2026-08-06
 ---
 
@@ -60,18 +60,44 @@ on a rubric: warmth/friendliness, communication clarity, professionalism (appear
 punctuality), reliability (transportation, schedule honesty), residential cleaning
 knowledge. Watch for red flags: lateness, aloofness, arguing, blaming previous clients.
 
+**Red flags, expanded — signals that don't fix themselves.** If someone doesn't feel like
+a fit during the interview itself, don't move forward on hope. Rescheduling once before
+even starting is a soft flag; twice is a clear no. "Experience" has to mean actual
+residential house cleaning — office, janitorial, or "I clean my own house" experience
+doesn't count, because cleaning a client's home professionally is a different skill and a
+different standard. And if a newly-onboarded cleaner is already causing problems in their
+first week, that's signal, not noise — it typically doesn't improve with time. The
+hardest version of this to act on: when the owner already knows, business-wise, that a
+cleaner isn't working out, but is emotionally reluctant to end it. That reluctance is
+itself the red flag worth naming — business decisions here need to stay logical and
+numbers-based, while still treating people with respect on the way out. See
+[[Hire Slow Fire Fast]] for the broader principle this sits inside.
+
 **Decision → paperwork:** hire, decline, or waitlist. If hired, send the subcontractor
 agreement, collect a W-9, run a background check — wait for everything to clear before
 assigning any job. See [[Subcontractor Vs W-2]] for the classification this paperwork
-has to match.
+has to match. **Background checks run through Checkr** — named directly as the vendor in
+use, no evaluation of alternatives given.
 
-**Onboarding:** create system accounts (booking app, communication platform — see
-[[Internal Communication Via Discord]]), and provide the [[Cleaner Handbook]].
+**Onboarding:** create system accounts (booking app — a BookingKoala Provider account
+specifically — and communication platform, see [[Internal Communication Via Discord]]),
+and provide the [[Cleaner Handbook]]. **The quality gate is explicit and binding:** a
+candidate cannot be assigned any job until the subcontractor agreement is signed, the W-9
+is received, and the background check reads Clear (or the owner explicitly approves a
+"Consider" result). A parallel gate applies before the first job specifically: all docs
+complete, plus BookingKoala marked active with availability set.
 
 **First job and evaluation:** pair the new cleaner with an experienced one, communicate
 expectations to both, observe the first job. Call both the new cleaner and the paired
 cleaner afterward for feedback before deciding on independent scheduling or added
 support. See [[Testing A New Cleaner]] for a live version of this pairing step.
+
+**The welcome email, verbatim structure** (a second source's actual template, not a
+paraphrase): download the booking app, watch for the Checkr background-check email and
+follow it immediately, review the handbook and checklist (not required to be memorized,
+just read), reply with a photo of the driver's license and the general liability
+insurance certificate, complete the W-9, and join Discord. All tasks requested back "by
+the end of tomorrow" — a short, firm turnaround, not an open-ended one.
 
 ## Checklist
 
@@ -93,10 +119,20 @@ the vault version.*
 ## Videos
 
 - [[Every SOP We Use]] — "Hiring SOP" lesson.
+- [[Labor 101]] — "Hiring SOP," "Background Check," "How to Conduct an Interview,"
+  "Cleaner Interview Example," "What you need from cleaners," "What Documents Should I
+  Give Cleaners."
 
 ## Student Examples
 
-*None yet.*
+**Michelle, a real interview call (Labor 101).** A candidate found through Indeed,
+already 1099-experienced, currently under-booked after relocating. Elijah walks the full
+script live: company background, the 1099 framing, past-experience question, compensation
+question (she names $25–30/hr, he confirms "that's right where we're at... we base our
+flat rate off of 25 an hour"), the rapid-fire requirements (license, background check,
+insurance, own supplies), payment logistics (Friday, Zelle), and next steps (agreement →
+onboarding email → paired first job). Ends with an on-the-spot "you're one of my favorite
+candidates" — the interview closes warm, not just informationally.
 
 ## AI Prompts
 
@@ -121,3 +157,4 @@ the vault version.*
 - [[Testing A New Cleaner]]
 - [[Cleaner Handbook]]
 - [[SOPs]]
+- [[Hire Slow Fire Fast]]

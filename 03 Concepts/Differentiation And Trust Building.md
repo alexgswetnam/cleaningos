@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Free Resources and Mini Courses]
+sources: [Free Resources and Mini Courses, Leads 101 part 1]
 updated: 2026-08-06
 ---
 
@@ -65,6 +65,25 @@ answers the questions a lead is thinking but not saying: are you legit, are your
 cleaners trustworthy, what happens if I'm unhappy, will this be a headache, can I feel
 confident hiring you. A "types of cleans" PDF doesn't touch any of that.
 
+**Naming the differentiator as a USP — the same decision, framed as "what's my ammo."**
+[[Leads 101 part 1]]'s USP lessons give the same instruction from a different angle:
+identify what's genuinely true and different about the business, then use it as ammo on
+calls, on the website, and in marketing. A USP has to fit the business's own DNA — it
+can't be copied wholesale from a competitor. Concrete examples given, several of which
+overlap directly with the trust-fear formula above: a satisfaction guarantee (available to
+any business, and the strongest single default), licensed/insured cleaners,
+background-checked cleaners, English-speaking cleaners, cleaner experience, and — while the
+business is still small — the owner personally taking the calls. Not every possible
+differentiator applies to every market: eco/green cleaning is explicitly named as a USP
+that doesn't fit this business's own customers, who rarely ask for it, even though it might
+matter in a different, more health-conscious market. The lesson is not "collect every
+differentiator" — it's "find the ones that are true and that your specific ICP (see
+[[Ideal Customer Profile]]) actually cares about."
+
+**A USP can expire as the business changes.** The owner-answers-the-phone differentiator
+stopped being true once VAs started taking calls — a reminder that a USP should be
+re-checked, not treated as permanently fixed once chosen.
+
 ## Checklist
 
 - [ ] State your differentiator in the first minute of a call, not at the end
@@ -109,3 +128,4 @@ confident hiring you. A "types of cleans" PDF doesn't touch any of that.
 - [[Social Media Strategy]]
 - [[Not Every Client Is Your Client]]
 - [[Reviews As Asset Not Identity]]
+- [[Ideal Customer Profile]]

@@ -4,7 +4,7 @@ engine: [Logistics]
 season: [Stability, Scale]
 laws: [Stop Guessing, Clarity Creates Momentum]
 status: Canonical
-sources: [Every SOP We Use]
+sources: [Every SOP We Use, Leads 101 Part 2]
 updated: 2026-08-06
 ---
 
@@ -71,6 +71,33 @@ assumption.
 **Escalate** when the payment method is unclear, wasn't received, the client is
 unresponsive, or someone's asking for a policy exception.
 
+**The mechanism behind the 48-hour hold, and why a hold isn't a charge.** A second source
+corroborates the 48-hour window and adds the client-facing distinction that makes it work
+without creating confusion: the hold is run through [[BookingKoala]], and it exists to
+surface a bad card *before* a cleaner is dispatched, not after. If the hold fails, contact
+the client immediately: *"Hey, the hold didn't go through, so we need to fix that before
+the clean."* A legitimate client with a real card problem will usually fix it — a
+different card, or a funds transfer.
+
+The distinction to hold onto on the phone: **a hold is not a charge.** Clients sometimes
+say "I got charged" when they see the hold. The correction is explicit and immediate:
+*"We put a hold, but we will not charge you until after the cleaning and everything goes
+perfectly well and you're satisfied."* Explaining this clearly up front is what prevents
+the alternative — cleaning a home first, then discovering there's nothing to collect and a
+cleaner who still needs to be paid, with a client who may simply disappear.
+
+**Payment methods policy — card as the default, not just card-on-file for the hold.**
+Beyond the hold mechanism itself, the underlying policy is that card should be the only
+payment method accepted going forward. Cash, Zelle, Venmo, Cash App, and checks all remove
+the "recourse" the card-on-file model depends on — if a client refuses to pay after a
+completed clean, or isn't home for a lockout, there's no card to charge a cancellation or
+lockout fee against. **Out-of-state certified check requests are a specific, named scam
+pattern** — treat with real suspicion, not just caution. The business has made exceptions
+before for trusted long-term clients (a next-door neighbor paying cash, an elderly client
+who has always paid by check), but the policy going forward, especially while scaling, is
+not to make new ones: *"We're a real business... you go to the doctor's office, you pay
+card."* Mixed payment methods also make bookkeeping meaningfully harder to track.
+
 ## Checklist
 
 - [ ] 48 hours out: run authorization hold
@@ -80,6 +107,11 @@ unresponsive, or someone's asking for a policy exception.
 - [ ] Post-job: payment method confirmed before closing the ticket
 - [ ] Payment logged in CRM, job notes, and tracking system
 - [ ] Unclear or missing payment escalated to a manager same day
+- [ ] If a client says "I was charged," correct it immediately: it's a hold, not a charge,
+      until after the clean
+- [ ] Card is the default and effectively only accepted method going forward — no new
+      cash/Zelle/Venmo/Cash App/check exceptions
+- [ ] Treat any out-of-state certified-check request as a likely scam
 
 ## Templates
 
@@ -97,10 +129,19 @@ unresponsive, or someone's asking for a policy exception.
 > cleaning, so the appointment has been canceled. You're welcome to reschedule anytime
 > once your payment method is updated."
 
+**Hold-not-a-charge correction:**
+> "We put a hold, but we will not charge you until after the cleaning and everything goes
+> perfectly well and you're satisfied."
+
+**Failed-hold outreach:**
+> "Hey, the hold didn't go through, so we need to fix that before the clean."
+
 ## Videos
 
 - [[Every SOP We Use]] — "Card Declined SOP" and "How to Collect Payment from Clients"
   lessons.
+- [[Leads 101 Part 2]] — "Why we put a 48 hour card hold..." and "What payment methods to
+  accept..." lessons.
 
 ## Student Examples
 

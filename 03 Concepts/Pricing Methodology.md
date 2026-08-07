@@ -4,7 +4,7 @@ engine: [Logistics, Leads]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Cleaning Biz 101 — Fulfill]
+sources: [Cleaning Biz 101 — Fulfill, Premium Resources]
 updated: 2026-08-06
 ---
 
@@ -17,8 +17,7 @@ updated: 2026-08-06
 
 A systematic way to set flat-rate prices: start from a target hourly rate per cleaner,
 measure how long a job of a given size and condition actually takes, and multiply.
-Distinct from [[Price Delivery]] (how to *say* the price on a call) and [[Price
-Objection]] (how to defend it) — this is how the number gets built in the first place.
+Distinct from [[Price Delivery]] (how to *say* the price on a call) and [[Price Objection]] (how to defend it) — this is how the number gets built in the first place.
 
 ## Why It Matters
 
@@ -66,6 +65,48 @@ recurring-discount structure (if used), and minimums so small jobs don't drain t
 business. The goal across all four is consistency, not a theoretically perfect number —
 there's no universal answer for what a given business *should* charge.
 
+## A Second Worked Model — Dirtiness Scale To Flat Dollar Amount
+
+The Faithful Cleaners' actual onboarding handbook shows a differently-structured version
+of the same underlying idea: instead of computing price live from a target hourly rate,
+they pre-build a lookup table keyed to the same 1–10 condition scale used elsewhere in
+this vault (see [[Diagnose Don't Take Orders]]'s deep-clean trigger rule). Both are valid
+instances of "no universal answer, but a repeatable system" — see the FAQ below.
+
+| Condition (1–10) | Price | Est. time |
+|---|---|---|
+| 1–3 | $0 (included in standard cadence) | — |
+| 4–6 | $50 / $70 / $80 | 30 min / 1.5 hr / 2 hr |
+| 7–8 | $85 / $120 / $170 | 2.5 hr / 3 hr |
+| 9–10 | $150 | 4 hr / 6 hr |
+
+> [!info] Extraction note
+> The source PDF-to-text conversion of this table lost some formatting (the multiple
+> price/time figures per condition band read as add-on tiers by home size, most likely
+> small/medium/large, but the size labels themselves didn't survive extraction). The
+> numbers themselves are verbatim from the source; the size-tier structure is inferred.
+> Treat the exact price at a specific home size as unconfirmed until the original
+> document (or a cleaner export of it) is checked. Source file: `Cleaner Onboarding
+> Handbook.txt` in [[Premium Resources]].
+
+Alongside the table, the handbook defines clean **types** the condition score sits
+inside of — a taxonomy this vault didn't have before:
+
+- **Standard** — regular upkeep cadence (weekly/biweekly/monthly), condition up to 5/10,
+  home cleaned within the last 6 months.
+- **Upkeep** — a "specialty" partial clean (e.g. "just the kitchen and one bathroom"),
+  condition 1–3/10.
+- **Deep** — required at condition 6/10+ or when it's been 6+ months since the last
+  professional clean, even if the client rates the condition lower.
+- **Move-In** — home already cleaned and nearly empty; a final sanitization pass before
+  the client moves in. Condition 1–3/10.
+- **Move-Out** — home not previously cleaned, needs a deeper reset for showings or a
+  deposit return; can be anywhere on the condition scale.
+
+This is the same trigger logic already on [[Diagnose Don't Take Orders]] (6+ months or
+5+/10 → recommend deep clean), now with the full type taxonomy it was drawn from, plus
+the two types (Upkeep, Move-In) that page didn't cover.
+
 ## Checklist
 
 - [ ] Set a target hourly rate per cleaner
@@ -82,6 +123,8 @@ there's no universal answer for what a given business *should* charge.
 ## Videos
 
 [[Cleaning Biz 101 — Fulfill]]
+[[Premium Resources]] — Cleaner Onboarding Handbook (Home Condition Guide, Type of Clean
+Guide).
 
 ## Student Examples
 
@@ -89,6 +132,11 @@ there's no universal answer for what a given business *should* charge.
 hours at a $60/hour target). This is the same $179 figure used as the worked example on
 [[Client Lifetime Value]] — same business, same client profile, confirming where that
 number comes from.
+
+**The Faithful Cleaners** — the dirtiness-scale-to-flat-dollar table above, plus the full
+clean-type taxonomy. A structurally different pricing system from the host's example
+(pre-built lookup table vs. live hourly-rate calculation), both consistent with this
+page's own claim that there's no universal method, only a repeatable one.
 
 ## AI Prompts
 

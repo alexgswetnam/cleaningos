@@ -4,8 +4,8 @@ engine: [Leads]
 season: [Scale, Harvest]
 laws: [Stop Guessing, Clarity Creates Momentum]
 status: Canonical
-sources: [leads 101 — Marketing Basics series, 2026-03-18 Weekly Coaching Call]
-updated: 2026-08-05
+sources: [leads 101 — Marketing Basics series, 2026-03-18 Weekly Coaching Call, Leads 101 part 1]
+updated: 2026-08-06
 ---
 
 # Marketing Seasonality
@@ -87,6 +87,10 @@ it was sequencing spend to land at the point in the calendar where it earns the 
 
 [[leads 101 — Marketing Basics series]]
 [[2026-03-18 Weekly Coaching Call]] — Alex's month-by-month recurring benchmark, ad-pause strategy.
+[[Leads 101 part 1]] — "Marketing Basics: Sustain and Sell Season Coaching" lesson. Same
+retired-name Season, same content ("zoom out to trends," Jan/Feb/March tougher, referral
+and email follow-up matter more at high volume) already documented via
+[[leads 101 — Marketing Basics series]] — corroboration, not new claims.
 
 ## Student Examples
 

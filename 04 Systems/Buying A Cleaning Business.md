@@ -100,8 +100,7 @@ The buyers' conclusion held two things at once, which is the right outcome of a 
 > On the surface it's a fair deal, and now the price makes sense — but the books aren't a
 > clean source of truth. The owner is "missing some pretty big stuff."
 
-**A second pair of buyers, likely reviewing the same target.** `[[Evaluating the Specifics
-of the Biz]]` isn't explicitly tied to Alex and Elijah's call, but the overlap is close
+**A second pair of buyers, likely reviewing the same target.** `[[Evaluating the Specifics of the Biz]]` isn't explicitly tied to Alex and Elijah's call, but the overlap is close
 enough to be the same business evaluated independently: a personal "mountain house"
 add-back, add-backs roughly doubling year over year, and owner-performed construction
 cleanup at ~25% of revenue match the worked example above almost exactly. Two things this

@@ -4,8 +4,8 @@ engine: [Leads]
 season: [Stability, Scale]
 laws: [Build In Order]
 status: Developing
-sources: [2025-02-03 Weekly Coaching Call, 2026-03-18 Weekly Coaching Call, Cleaning Biz 101 — Acquire]
-updated: 2026-08-05
+sources: [2025-02-03 Weekly Coaching Call, 2026-03-18 Weekly Coaching Call, Cleaning Biz 101 — Acquire, Leads 101 part 1]
+updated: 2026-08-06
 ---
 
 # PPC Landing Page Strategy
@@ -46,9 +46,14 @@ provides (the questions, expectations, and service-matching that actually win
 higher-quality recurring clients). A visitor who wants a bare number without talking is,
 in this framing, usually not the best client anyway. The site's three jobs: build trust
 fast (reviews, photos, a clear offer, policies), make it easy to reach you (a call button
-and a simple form), and route leads into the CRM so follow-up is automatic. See [[Form
-Field Optimization]] for the matching minimal-form argument, and [[Sales Happen On The
-Phone]] for why the close itself belongs on a call.
+and a simple form), and route leads into the CRM so follow-up is automatic. See [[Form Field Optimization]] for the matching minimal-form argument, and [[Sales Happen On The Phone]] for why the close itself belongs on a call.
+
+**[[Leads 101 part 1]]'s "Websites Build Trust, Don't Sell" restates this page's core
+claim near-verbatim** — same "trust, not sales" framing, same instant-quote/price-shopper
+warning, same three website jobs, same WordPress-for-SEO reasoning — down to matching
+phrases. Same underlying `Cleaning Biz 101 — Acquire` content in a second course wrapper,
+not independent corroboration. See [[Website Strategy]] for the broader question of
+whether/when to have a website at all, which this page doesn't cover.
 
 **Platform choice: WordPress, for SEO control.** The stated reasoning is that WordPress
 is the most flexible platform for the things that compound organic lead flow — page

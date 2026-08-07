@@ -1,0 +1,9 @@
+As far as what payment processor to use, right? So we use Stripe. I've used Stripe and tons of other businesses. I just, I like Stripe.
+
+We use Booking Koala, really, our scheduling platform. And in Booking Koala, Booking Koala is connected to Stripe. So when I charge someone at Booking Koala and hit charge and hold, like all that stuff goes, happens through Stripe, okay? So Booking Koala keeps their card on file and all that kind of stuff.
+
+Whatever platform you use, there's Square, there's Stripe, there's all sorts of things. We just use Stripe, you know? So when you're at scale and you're a lot bigger, like Stripe has like a 2.9% fee plus 30 cents per transaction, I believe. And when you have a lot more money moving through your payment processor, then you can negotiate with your payment processor and have a lower percent.
+
+You know, instead of 2.9, maybe we can be like at 2.1%. And we're keeping 1% more per transaction. And it doesn't sound like a lot, but like if you're at 100K, 1% more per transaction is a whole $1,000, you know? So not a big deal what payment processor you use. Almost all of them are gonna have the same fees.
+
+It's really whichever one is compatible with your scheduling platform.

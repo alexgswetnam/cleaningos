@@ -16,8 +16,7 @@ updated: 2026-08-06
 ## Definition
 
 A weekly routine for confirming which cleaners are available when, so that scheduling
-gaps surface a week ahead instead of the day before a clean. Distinct from [[Backup
-Cleaner]] (having enough total staff) and [[Scheduling Cleans]] (how a single day is
+gaps surface a week ahead instead of the day before a clean. Distinct from [[Backup Cleaner]] (having enough total staff) and [[Scheduling Cleans]] (how a single day is
 structured) — this is about knowing, continuously, who's actually available.
 
 ## Why It Matters

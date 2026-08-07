@@ -28,9 +28,22 @@ defines rather than links.
 
 ## 3. Broken links and orphans
 
-- Every `[[Target]]` resolving to nothing
-- Pages with zero inbound links — invisible to browsing
+**Run `python3 .claude/scripts/fix_wrapped_links.py .` first** (dry run), then report.
+A wikilink hard-wrapped across two lines — `[[Sales Pipeline\nStages]]` — does not
+resolve, and the page still *reads* as linked, so this failure is invisible without
+the script. It was the cause of 41 of 49 broken links the first time anyone checked.
+
+- Every `[[Target]]` resolving to nothing, after wrapped links are excluded. **Honour
+  `aliases:` in frontmatter** — Obsidian resolves them and a filename-only check does not.
+  `Voice/Alex Voice.md` declares `aliases: [Voice]`, so `[[Voice]]` is valid. A checker
+  that missed this reported two false positives twice and generated a bogus Canon
+  proposal on 2026-08-06.
 - Pages with fewer than five outbound links, per the linking rule
+- **Orphans — check `03 Concepts/` and `04 Systems/` ONLY.** Do not report orphans in
+  `01 Sources/`. Roughly 170 files there are individual course lessons living inside a
+  course folder, and concepts cite the *course record*, not each lesson. They are archive
+  by design and will never have inbound links. Reporting them buries the handful of real
+  orphans under ~170 false positives and teaches the reader to skip this section.
 
 ## 4. Template compliance
 
@@ -67,7 +80,17 @@ Per `CONSTITUTION.md` §X:
 
 Send anything needing a decision to `/reconcile` rather than resolving it here.
 
-## 7. Stale stubs
+## 7. Index freshness
+
+`03 Concepts/INDEX.md` is what every other agent reads instead of searching. If it's
+stale, Rule 2 is being enforced against an out-of-date map.
+
+- Any page in `03 Concepts/` or `04 Systems/` with an `updated:` later than the index's
+- Any page missing an `In one line` block — these are invisible to search-before-create
+  and show up in the index's own **Needs A One-Liner** section
+- Regenerate at the end of the audit: `python3 .claude/scripts/build_index.py .`
+
+## 8. Stale stubs
 
 `status: Stub` untouched 30+ days. Either the idea wasn't real or it's overdue.
 

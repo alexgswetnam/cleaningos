@@ -1,0 +1,17 @@
+All right, let's look here. Let me share my screen. There's a recording too, so you'll be able to go back and look at things.
+
+We're gonna move somewhat quick here to answer questions that are going about, but let me just kind of show you the first what we're looking at here. Okay, where's your site hosted? It was Wix? Yeah, it was Wix. Yep.
+
+All right, so off the RIP, we're in the home site, so you can use a SEO extension. The biggest thing I'm seeing right now is that your title isn't optimized for what people are specifically searching, and then your description's too long here, obviously, because it's showing that. To give you an example of what ours looks like, we're looking at house cleaning service in this area, and then there's our name, right? So when people are searching this, our title of our site is literally that.
+
+So that's important. The other thing here, that's, so this is, this is pretty big. This is pretty important, like the title of your site is like the one thing that Google looks at and goes, what the heck are you? Who are you? So I'd be looking here at residential, residential and commercial cleaning services in, and then the county or the city that's most popular, and then you can put, you don't even need, you can put TJ, TJS, HQ, CS at the end, but really you just need to put the keyword what people are searching for.
+
+It's a big thing. Description, it's too long. It's good that you have the names of the places in here, but it's not necessary.
+
+What's more important is that once again, this here is nobody's searching this specifically, but what people are searching for, as an example, is top rated house cleaning service in Collin County or house cleaning service in Collin County, right? So that's what people are searching for. They're not searching specifically for your name. So you want to optimize for what people are searching for, okay? The way that your site is broken down is, it needs improvement.
+
+The big area being that, number one, you should only have one H1 on your website. So right now you have this H1, and then you also have this H1, which is a non, it's a no-go. Like there can only be one H1, it should be the top of the site.
+
+My structure all messed up. I just found out about the H1s, H2s, and H3s. They messed up on every page.
+
+Yeah, so H2 or a service area would be H2, but like H3 should be, instead of right here, you've got service areas, and then you have text right here. This is fine for customers, you know, but Google doesn't like it. Google doesn't understand.

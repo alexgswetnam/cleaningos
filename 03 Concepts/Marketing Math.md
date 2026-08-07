@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing, Clarity Creates Momentum]
 status: Canonical
-sources: [2025-02-03 Weekly Coaching Call, Cleaning Biz 101 — Acquire, Cleaning Biz 101 — Convert, Free Resources and Mini Courses]
+sources: [2025-02-03 Weekly Coaching Call, Cleaning Biz 101 — Acquire, Cleaning Biz 101 — Convert, Free Resources and Mini Courses, Weekly Sales Training Call — April 6, Leads 101 Part 2, Leads 101 part 1]
 updated: 2026-08-06
 ---
 
@@ -81,10 +81,54 @@ same [[Leads Problem Or Sales Problem]] diagnostic already on this page, restate
 single clean table: when CPA looks bad, check close rate before touching spend. The
 source's own VA hit a 60% close rate in December, which is the top row realized.
 
+**The equation completed: compare CPA against profit per customer, not against another
+channel's CPA.** A later call closes the loop these four numbers set up, using
+[[Client Lifetime Value]] as the ceiling rather than the average ticket alone. Courtney's
+numbers: $199 average booking, $2,564 revenue per customer lifetime, ~$964 profit per
+customer at a 61% expense load. Anything spent to acquire a customer below $964 is
+profitable, full stop — a $145 Thumbtack CAC leaves $819 on the table, a $100 LSA CAC
+leaves $864.
+
+**This is what makes a higher-CPA channel the right one to prefer.** Rick's data showed
+Thumbtack at $145 CAC against LSA at $100 CAC — LSA looks cheaper by the CPA math alone.
+But the Thumbtack lead became a recurring client worth $4,800 in lifetime revenue; the
+LSA lead was one-time, worth $199. Judged by CPA, LSA wins. Judged by profit per
+acquisition — CPA against the actual lifetime value the channel produces — Thumbtack
+wins by a wide margin. See [[Channel Prioritization]] for how this changes the ranking in
+practice.
+
+> "Marketing is not meant to be a guessing game. Marketing is meant to be an equation."
+
 **Why cleaning is harder than high-ticket.** Roofing: $20K ticket, $100 cost per lead, 5%
 close = $2,000 CPA, ~$8K net per client. You can be bad at marketing and still win. In
 cleaning the ticket is $200–$400, so margins are thin and the marketing has to be tight.
 **That's why most owners under $20K/month are stuck.**
+
+**"Working" means profitable — first-clean ideally, but judge over 2–3 months.**
+[[Leads 101 part 1]] defines the diagnostic directly: marketing "works" when it's
+profitable, ideally on the first clean, but it's normal and acceptable to lose a small
+amount (maybe $50–100) on the first clean if enough clients become recurring and the money
+comes back within two to three months. This is the same 2–3 month window already on this
+page's Checklist, now with an explicit reason it's acceptable to be underwater briefly:
+CPA matters more than CPL, and CPL alone tells you nothing about whether a lead becomes a
+profitable, retained client.
+
+**Rough healthy CPL ranges by platform, from experience rather than a universal rule.**
+The same source gives platform-specific anchors — useful as a sanity check, not a target:
+Meta $5–10/lead is fine, $15–25 gets "rough" because lead quality tends to drop; PPC under
+$40/lead is good, and $30–50 can still work if close rate and quality hold up; LSA becomes
+difficult above roughly $50/call, especially in areas that skew toward price shoppers.
+None of these override [[Close Rate By Channel]] — a cheap lead that never closes is worse
+than an expensive one that does.
+
+**Marketing as hypothesis → test → result → pivot.** A book-recommendation lesson in the
+same source (*One Million Followers* by Brendan Cain) frames the whole discipline this
+page runs on as an explicit loop rather than a one-time setup: form a hypothesis about
+what might work (an offer, an audience, a creative), test it, review the actual result,
+then pivot based on what the numbers say — diagnosing specifically whether the offer, the
+creative, the audience, or the underlying idea was what didn't work. This is the same
+Stop-Guessing discipline as the rest of this page, stated as a repeatable cycle rather
+than a one-time equation.
 
 ## Checklist
 
@@ -105,6 +149,11 @@ cleaning the ticket is $200–$400, so margins are thin and the marketing has to
 ## Videos
 
 [[Free Resources and Mini Courses]] — "Marketing Philosophy" lesson.
+[[Weekly Sales Training Call — April 6]] — CPA vs. profit-per-customer, using
+[[Client Lifetime Value]] as the ceiling instead of average ticket alone.
+[[Leads 101 Part 2]] — "Convert: Turning Leads Into Bookings" lesson. Restates the
+$40-lead / 10-30-60% close-rate table above almost exactly — same numbers, same source
+lesson as `Cleaning Biz 101 — Convert`, repackaged into a different course bundle.
 
 ## Student Examples
 

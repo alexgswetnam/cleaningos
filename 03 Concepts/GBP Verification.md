@@ -4,14 +4,15 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: []
 status: Canonical
-sources: [2026-03-04 Weekly Coaching Call, Free Thumbtack Leads + GBP Optimization]
+sources: [Google Biz Profile Setup and Growth → DO NOT use video verification, 2026-03-04 Weekly Coaching Call, Free Thumbtack Leads + GBP Optimization, Leads 101 part 1, Alex direct 2026-08-06]
 updated: 2026-08-06
+superseded: 2026-08-06
 ---
 
 # GBP Verification
 
 > [!abstract] In one line
-> If Google denies a pre-recorded verification video, request a live video call — it works.
+> Skip the pre-recorded video. Open a support case and get to a live video call as fast as you can — that's the path that actually verifies.
 
 ## Definition
 
@@ -44,6 +45,15 @@ is a distinct, escalated path — not a resubmission of the same recorded video.
 profile was denied on the pre-recorded method, requested the live call instead, and was
 approved within 24 hours.
 
+**How to actually unlock the live video option — it isn't a visible default.** The
+verification screen doesn't offer "live video" as a normal choice. Open the dropdown
+labeled **"other ways to verify,"** which lets you open a support case (you get a case
+number). Email `googlebusinessprofile-support@google.com` with the case number as the
+subject line. Google replies confirming the ticket. Check the verification options daily
+after that — once the case is processed, "live video" appears as an option where only
+the standard recorded-video option showed before. Do the live call from the actual
+business location. Source: [[Google Biz Profile Setup and Growth]].
+
 **What the live video call actually asks for.** Before the call, the business name and
 suite number need to be physically on the office door, matching the GBP name exactly. On
 the call, Google asks you to show three things in sequence: the office door with the
@@ -58,10 +68,21 @@ explicitly allows GBP verification before signing up for a virtual mail/business
 plan (roughly $70/month). See [[Google Business Profile Naming]] for why the address
 itself, not just the verification method, is one of the two highest-leverage GBP moves.
 
+**A lighter-weight verification path exists before an address does — service-area
+verification.** [[Leads 101 part 1]] describes a simpler, earlier-stage option: before
+getting a physical address, a business can set up as a service-area profile and verify
+using proof like equipment, a vehicle, or a nearby street, rather than the live-video door
+walkthrough this page otherwise documents. This isn't in tension with the live-video
+process above — it's the option available before an address exists at all, and getting an
+actual address (see [[Google Business Profile Naming]]) remains the higher-leverage move
+once it's affordable.
+
 ## Checklist
 
-- [ ] Submit standard pre-recorded video verification first
-- [ ] If denied, request a live video call verification instead of resubmitting
+- [ ] **Go straight for the live call.** Don't bother with the pre-recorded video
+- [ ] Open "other ways to verify" → support case → email the case number to
+      `googlebusinessprofile-support@google.com` → check daily → live video option
+      appears
 - [ ] Expect approval within roughly 24 hours of the live call
 - [ ] Put the business name + suite number on the office door before the call, matching the GBP name exactly
 - [ ] Confirm the address source is a real virtual/coworking office, not a P.O. box
@@ -77,6 +98,7 @@ yet documented.*
 
 [[2026-03-04 Weekly Coaching Call]]
 [[Free Thumbtack Leads + GBP Optimization]] — the full live-call mechanics and address setup.
+[[Google Biz Profile Setup and Growth]] — the support-ticket mechanism for unlocking live video, and the case for requesting it proactively rather than waiting on a denial.
 
 ## Student Examples
 
@@ -85,6 +107,11 @@ requesting the live call.
 
 **The host** — runs two verified locations (~$70/month each) and was planning a third,
 each with its own virtual address and live video verification.
+
+**An unnamed friend, window cleaning and pressure washing** — took a month and a half to
+get verified because he skipped the live-video route; once he switched, he got verified
+and started getting free leads. No name given in the source, so recorded anonymously.
+Source: [[Google Biz Profile Setup and Growth]].
 
 ## AI Prompts
 
@@ -96,7 +123,26 @@ each with its own virtual address and live video verification.
 
 ## Conflict History
 
-*None.*
+> [!failure]- Superseded — 2026-08-06, resolved by Alex
+> Previously contested between two sequences. **Alex ruled: skip to the live call as soon
+> as possible.**
+>
+> **Retired — Claim A, "submit pre-recorded first, escalate only if denied":** try the
+> default recorded-video verification, and only if Google denies it, request a live video
+> call. Source: [[2026-03-04 Weekly Coaching Call]] / [[Free Thumbtack Leads + GBP Optimization]].
+>
+> **Now canonical — Claim B, "go straight to live video":** source
+> [[Google Biz Profile Setup and Growth]], module *"DO NOT use video verification. Do THIS
+> instead."*
+>
+> **Reason:** Alex direct, 2026-08-06 — *"skip to live call asap if possible."* Neither
+> source could be established as newer, so this could not be settled by supersession under
+> §X. It was settled by the author. The friend's 1.5-month delay on the recorded-video
+> path is consistent with the ruling.
+>
+> **Blast-radius audit, 2026-08-06:** `06 Marketing/` is empty; `05 Products/` has 3 pages,
+> none of which teach GBP verification; this page's own *Presented In* is empty. **Nothing
+> live teaches the retired sequence.**
 
 ## Presented In
 

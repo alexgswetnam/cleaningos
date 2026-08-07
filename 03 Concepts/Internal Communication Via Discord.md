@@ -4,7 +4,7 @@ engine: [Logistics, Labor]
 season: [Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Cleaning Biz 101 — Operate, Every SOP We Use]
+sources: [Cleaning Biz 101 — Operate, Every SOP We Use, Weekly Sales Training Call — April 2, Labor 101]
 updated: 2026-08-06
 ---
 
@@ -73,6 +73,24 @@ needed. Etiquette additions: use @mentions when you specifically need someone's
 attention, send photos/videos to document issues or completed work, and reply in
 threads to keep parallel conversations from tangling together.
 
+**A third source, describing Alex's own live server, gives a more operationally-specific
+channel set** — built around visibility into the business, not just cleaner
+communication:
+
+- **Leads** — auto-populated via [[Zapier]] whenever a new lead comes in
+- **Daily cleans report** — the VA posts how each day's cleans went
+- **New bookings** — the VA posts every new booking as it happens
+- **Canceled bookings** — auto-populated via Zapier from [[BookingKoala]], including the
+  cancellation reason
+- **Mistakes and complaints** — its own channel, not mixed into general chat
+- **Individual cleaner channels** — one per cleaner, for 1-on-1 communication and photos
+
+The point of this structure: the owner can see leads, cleans, bookings, and cancellations
+for the whole business without ever opening [[Harvest CRM]] or [[BookingKoala]] directly —
+Discord becomes the single dashboard, not just the messaging layer. This is the same
+"pipe key numbers into the same space via automation" principle already on this page, now
+with the specific channel-by-channel breakdown of what gets piped where.
+
 ## Checklist
 
 - [ ] Move all cleaner communication to one platform with reliable notifications
@@ -93,6 +111,10 @@ threads to keep parallel conversations from tangling together.
 
 [[Cleaning Biz 101 — Operate]]
 [[Every SOP We Use]] — "How to Get Cleaners on Discord" lesson.
+[[Labor 101]] — "Best Way to Communicate with Cleaners" lesson. Corroboration only — same
+Discord-over-scattered-texting rationale, no new detail.
+[[Weekly Sales Training Call — April 2]] — Alex's own channel structure (leads, daily
+cleans report, bookings, canceled bookings, mistakes/complaints, per-cleaner channels).
 
 ## Student Examples
 

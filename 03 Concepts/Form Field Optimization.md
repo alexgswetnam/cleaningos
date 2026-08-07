@@ -63,8 +63,7 @@ quotes can close for the wrong reason and become bad clients anyway.
 > "It's better to have no client than to have a bad client."
 
 **Test it, don't assume it.** Take the long form down for a week, replace it with the
-minimal version, and watch whether more people reach out. Pair with [[Conversion
-Tracking|Microsoft Clarity]] to see exactly where visitors were dropping off on the old
+minimal version, and watch whether more people reach out. Pair with [[Conversion Tracking|Microsoft Clarity]] to see exactly where visitors were dropping off on the old
 form.
 
 ## Checklist

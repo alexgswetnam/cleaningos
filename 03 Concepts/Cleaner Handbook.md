@@ -4,7 +4,7 @@ engine: [Labor]
 season: [Survival, Stability]
 laws: []
 status: Canonical
-sources: [2026-02-20 Weekly Coaching Call, Every SOP We Use, Free Resources and Mini Courses]
+sources: [2026-02-20 Weekly Coaching Call, Every SOP We Use, Free Resources and Mini Courses, Labor 101]
 updated: 2026-08-06
 ---
 
@@ -90,6 +90,43 @@ cleaner plus dedicated brush, shower and mildew cleaner, scrub brushes, rubber g
 Floors: vacuum, hardwood/tile cleaners, mop solution. Optional: handheld vacuum, supply
 caddy, spray bottles, mask, knee pads, sticky roller for blinds/fabric.
 
+**Type of Clean Guide** — the five clean types the handbook defines, each with its own
+scope: **Standard** (weekly/biweekly/monthly upkeep, homes up to 5/10 on the dirtiness
+scale, ideally cleaned within the last 6 months); **Upkeep** (a "specialty" clean for a
+client who wants only a limited scope done — e.g. "just the kitchen, living room, and one
+bathroom" — homes 1–3/10); **Deep** (required at 6/10 or greater, or recommended whenever
+it's been 6+ months since the last professional clean regardless of stated dirtiness);
+**Move In** (a near-empty home, already cleaned once for photos/showings, getting a final
+once-over before the owner moves in — homes 1–3/10); **Move Out** (an occupied-turned-empty
+home needing a deep clean to pass a showing or get a deposit back — can be anywhere on the
+dirtiness scale; if the home isn't actually empty yet, treat it as a Deep Clean instead).
+
+**Home Condition Guide — the dirtiness-scale pricing table.** In place of a walkthrough,
+the client self-reports condition on a 1–10 scale before the crew arrives, with the
+company reserving the right to adjust price on arrival if the home doesn't match what was
+reported:
+
+| Scale | Add-on price / time | What it looks like |
+|---|---|---|
+| 1–3 | $0 | Minimal cobwebs/dust, surfaces need a touch-up, little to no clutter — cleaned within the last 60–90 days |
+| 4–6 | $50 / $70 / $80 (30 min / 1.5 hr / 2 hr) | Visible grease, grime, or buildup on surfaces and appliances; some clutter and dust — more than 3 months since last professional clean |
+| 7–8 | $85 / $120 / $170 (2.5 hr / 3 hr) | Deep stains, mildew in bathrooms, heavy kitchen grease, baseboard buildup, dust and clutter in most areas — never professionally cleaned, or 6+ months — **Deep Clean required** |
+| 9–10 | $150 (4 hr / 6 hr) | Grout and surfaces coated with grime and mildew, deep stains everywhere, heavy odors, clutter in all areas — never professionally cleaned or 1+ year — **Deep Clean required** |
+
+**Add-on procedures, stated as cleaner instructions:** **Fridge** — remove any remaining
+movable items, wipe shelves/drawers/compartments with all-purpose cleaner or mild
+disinfectant, dry to prevent streaking, return items to place; cleaners aren't
+responsible for disposing of expired food (the client empties it beforehand). **Oven** —
+spray the interior with a recommended oven cleaner on arrival unless the client
+pre-sprayed the night before, let it sit and do the oven last, wipe out with damp
+cloths/paper towels until residue is gone, rinse and wipe again, finish the door
+(interior glass and edges). **Windows (interior only)** — glass cleaner for
+streak-free panes, clear the tracks of visible dust/dirt without necessarily opening
+every window, dust the blinds; exterior windows are explicitly not covered.
+**Baseboards** — hand-wipe every section with a damp cloth or mild cleaner, corners and
+behind doors especially, dry/buff to prevent streaking; vacuum attachments or dusters
+alone don't count as completing this add-on.
+
 ## What's Known
 
 The 2026-02-20 call named two existing handbooks before either's content was in the
@@ -152,6 +189,11 @@ it's no problem at all!"
 Picture Guidelines," and "FOR CLEANERS: Preferred Cleaning Supplies" lessons.
 [[Free Resources and Mini Courses]] — "Cleaner Picture Guidelines" and "Take before and
 after pics!" lessons.
+[[Labor 101]] — "Cleaner Handbook" lesson, whose .txt export is the fullest single copy
+of the actual handbook text found in the vault so far, including sections (Type of Clean
+Guide, Home Condition Guide, Add-ons) not previously captured on this page. Likely the
+same underlying document as the `Every SOP We Use` and `Premium Resources` citations
+already on this page — archived as its own immutable source file per Rule 3 regardless.
 
 ## Student Examples
 
@@ -183,4 +225,4 @@ after pics!" lessons.
 - [[Cleaner Availability System]]
 - [[Cleaner Pay Structure]]
 - [[The Walkthrough]]
-- [[Hiring SOP]]
+- [[Hiring a Cleaner SOP]]

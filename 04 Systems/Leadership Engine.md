@@ -39,6 +39,8 @@ is an index, not a second definition.
 - [[Handling Upset Clients]]
 - [[Owner Isolation And Community]]
 - [[Review Response Scripts]]
+- [[Picking The Right VA]]
+- [[When To Fire A VA]]
 
 ## Workflows & SOPs
 

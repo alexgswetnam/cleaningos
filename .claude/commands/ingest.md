@@ -32,8 +32,12 @@ Show me this list before writing anything.
 
 For **each** extracted idea, search the vault before deciding anything:
 
+- **Read `03 Concepts/INDEX.md` once, first.** Every concept and system, one line each.
+  It resolves most of this step without opening a single page, and it catches
+  near-synonyms that a title match misses.
 - Exact title match in `03 Concepts/`
-- Full-text search for the idea's key terms across all of `02–07`
+- Full-text search for the idea's key terms across all of `02–07` — only for ideas the
+  index didn't settle
 - Check [[Glossary]] for a term that already covers it
 - Check for near-synonyms — the most common failure is creating `Cleaner Retention`
   when `Keeping Your First Cleaner` already exists
@@ -54,6 +58,23 @@ close. Duplicates are the one error this system cannot absorb.
 
 For updates: add the new material to the right section, append the source to
 `sources:`, bump `updated:`. Do not rewrite what's already there unless it's now wrong.
+
+### Cite the lesson, not just the course, for anything disputable
+
+When the source is a multi-lesson course, `sources: [Labor 101]` points at 72 files. That
+is fine for background. It is not fine for a claim someone might challenge — and
+Constitution §VII says `sources:` is not decoration.
+
+So:
+
+| The claim is… | Cite |
+|---|---|
+| Background, or restates what the page already said | the course — `Labor 101` |
+| A number, a script, a policy, a dated figure, or anything contested | the lesson — `Labor 101 → Determining Cleaners' Pay` |
+
+The test: **if Alex challenged this line, could you find the evidence in under a minute?**
+If not, you cited too coarsely. The pay-floor dispute currently traces to three course
+names and roughly 150 files; that is the failure this rule exists to prevent.
 
 For new pages: use the full template. Keep every heading — write `*None yet.*` under
 empty ones rather than deleting them.
@@ -85,7 +106,10 @@ supersede — it defaults to Contested.
 ## Step 6 — Propagate
 
 - Add concepts to their [[Four Engines|engine]] hub index
-- Add new terms to [[Glossary]]
+- Add new terms to [[Glossary]] — **now legal.** The Glossary moved out of `02 Canon/` on
+  2026-08-06, so agents may append directly. One rule: a Glossary row is a *pointer* to a
+  concept page, never the only place a term is defined. If a term needs defining and has
+  no page, create the page first. See the write policy at the top of `Glossary.md`.
 - Ensure every touched page still has five or more Related Concepts
 
 ## Step 7 — Report

@@ -4,7 +4,7 @@ engine: [Leadership, Labor]
 season: [Survival, Stability, Scale]
 laws: []
 status: Canonical
-sources: [2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call]
+sources: [2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, Labor 101]
 updated: 2026-08-06
 ---
 
@@ -132,6 +132,10 @@ one-off lapses in judgment.
 
 [[2026-03-04 Weekly Coaching Call]]
 [[2026-04-01 Weekly Coaching Call]] — the walk-away case, and writing the difficult-client SOP.
+[[Labor 101]] — "Dealing with a Rude or Unreasonable Client" lesson. Independently
+corroborates the angry-boat technique with the same "only one person can be in the angry
+boat" framing and adds a re-clean/discount/credit decision layer on top of it — no new
+model, same technique from a second source.
 
 ## Student Examples
 

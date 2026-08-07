@@ -1,0 +1,390 @@
+Pay attention - there are some big DO NOT DO THIS stuff in here. Google will get mad at you
+
+🧾 Google Business Profile (GBP) Posting SOP
+
+Unified & Updated Version
+
+Effective Date: Nov. 2025
+
+Version: 2.0
+
+Prepared By: Elle
+
+Approved By: Alex / Elijah
+
+Department: Marketing
+
+
+
+🎯 1. Purpose
+
+To maintain active, high-quality, SEO-optimized Google Business Profile (GBP) posts for The Faithful Cleaners, ensuring:
+
+
+
+Strong local ranking
+
+Consistent branding
+
+High conversion from "Call now"
+
+Proper use of real job photos
+
+Compliance with offer/discount and content rules
+
+This SOP combines marketing standards (content creation, posting structure) with sales/fulfillment standards (photo sourcing, QA, and rules on offers, phone numbers, and cross-posting).
+
+
+
+👥 2. Scope
+
+This SOP applies to:
+
+
+
+Marketing Assistants / Admin / VA-Sales:
+
+– Copywriting, post creation, scheduling, design (if needed), compliance.
+
+VA-Fulfillment / Team Lead:
+
+– Providing real job photos, exporting from BookingKoala, quality checks.
+
+Managers / Owners:
+
+– Approvals (if required), performance review, corrections.
+
+This applies to all GBP locations handled by The Faithful Cleaners.
+
+
+
+📆 3. Posting Cadence
+
+
+
+3 posts per GBP weekly → Mon / Wed / Fri
+
+80% Updates (services, before/after, tips, testimonials, team)
+
+20% Offers (must follow discount rules)
+
+Additionally:
+
+
+
+Photo uploads: 3–5 new images weekly
+
+Event/Promo posts: As needed, following rules
+
+
+
+🧪 4. Post Types Allowed
+
+A. What's New / Update (default)
+
+Highlight a service, benefit, recent job, cleaning transformation, local SEO angle, or educational tip.
+
+B. Offer Posts
+
+Allowed but limited. Rules:
+
+
+
+Discount must not exceed 15%
+
+Short validity dates
+
+No price shown in text
+
+No offer graphics in the image
+
+CTA remains the same: Tap "Call now" to book
+
+
+
+🚫 5. Non-Negotiable Rules
+
+These apply to all posts:
+
+
+
+No phone number in post text. Ever.
+
+
+
+Rely only on Call now button.
+
+Real job photos only.
+
+
+
+Never use stock images.
+
+Never reuse the same exact photo across different GBPs.
+
+No graphic-designed offer images.
+
+
+
+No text baked into images.
+
+Photos must look naturally taken from a real cleaning job.
+
+Brand-safe images only:
+
+
+
+No faces, family photos, personal items, documents, or sensitive information.
+
+
+
+📸 6. Photo Guidelines
+
+Acceptable Photos
+
+
+
+Before & after shots
+
+Cleaned rooms (kitchen, bathroom, common areas)
+
+Detail shots (fixtures, appliances)
+
+Team in action (faces avoided)
+
+Quantity / Quality
+
+
+
+Use 1–3 images per post, preferably 2
+
+Bright, sharp, clean composition
+
+Avoid blurry, dark, or cluttered photos
+
+Filename Format
+
+<city>_<keyword>_<thefaithfulcleaners>_<####>.jpg
+
+
+
+🔽 6a. BookingKoala → Photo Export Steps
+
+
+
+Open BookingKoala → Jobs.
+
+Filter by City/Zip of the target GBP location.
+
+Select 3–5 jobs with strong visuals.
+
+Download 4–6 total images.
+
+Rename the following filename format.
+
+Store here:
+
+Google Drive > Marketing > GBP > <Location> > YYYY > MM > raw/selected
+
+
+
+📖 6b. Photo Uniqueness Log
+
+Maintain a shared sheet titled "GBP Photo Usage Log."
+
+Columns:
+
+Date | GBP Location | File Name | BookingKoala Job ID | Room/Area | VA | Notes
+
+
+
+Rule: Before scheduling, search the Sheet.
+
+If a photo is used by another GBP → choose another image.
+
+
+
+✍️ 7. Copywriting Rules
+
+
+
+Include City + one local Neighborhood/Landmark early in text
+
+Highlight one service only (e.g., Deep Clean, Move-Out Clean)
+
+Tone: friendly, confident, helpful
+
+Avoid hype, long emojis, excessive punctuation
+
+0–1 emoji max
+
+CTA must be: Tap "Call now" to book.
+
+Post Length: 650–900 characters (if following the prompt) or 100–200 words max for general posts
+
+No shortened URLs unless approved
+
+No phone number in body text
+
+Brand name "The Faithful Cleaners" may appear once
+
+Offer Copy Rules
+
+
+
+Max 15% discount
+
+Must include start & end dates
+
+Include one simple condition (e.g., "new clients only")
+
+No prices in text
+
+No emojis (optional guideline but safer for offer posts)
+
+
+
+🧱 8. Post Structure (All Posts)
+
+
+
+Title / Hook
+
+
+
+Short and engaging ("Breathe easier with a fresh home!")
+
+Body Text (2–3 sentences)
+
+
+
+Describe a benefit, service, or job
+
+Add local keyword naturally ("house cleaning in {City} near {Landmark}")
+
+CTA
+
+
+
+Tap "Call now" to book.
+
+Hashtags (optional, 3–5 max)
+
+Examples:
+
+
+
+#HouseCleaning #DeepCleaning #CleanHomeHappyHome #TheFaithfulCleaners
+
+Image(s)
+
+
+
+Real job photos
+
+Branded if needed (small logo watermark only)
+
+
+
+💬 9. ChatGPT Prompt (Unified Exact Version)
+
+Use this exact prompt when generating GBP copy:
+
+You are writing a Google Business Profile post for a home cleaning company. Follow these rules STRICTLY:
+- Return exactly 3 options labeled Option 1/2/3.
+- Each option must be 650–900 characters.
+- Do NOT include a phone number, email, or any URL.
+- CTA must be a single, short line: "Tap **Call now** to book."
+- Work in local SEO naturally using these variables: {City}, {Neighborhood_or_Landmark}.
+- Emphasize exactly one service: {ServiceName} (e.g., Deep Clean, Move-Out Clean, Standard Maintenance, Short-Term Rental Turnover).
+- Use friendly, professional tone; avoid hype.
+- For Offer posts only (if `{IsOffer}=true`): discount must be ≤ 15%, include start `{OfferStartDate}` and end `{OfferEndDate}` dates, and a one-line condition like "new clients only." Do NOT embed prices.
+- If `{IsOffer}=false`, do NOT mention any discount.
+- Never ask to text/call a number; rely on the Call now button only.
+- Avoid emojis except 0–1 optional tasteful emoji.
+- Output in plain text.
+
+Inputs:
+- City: {City}
+- Neighborhood_or_Landmark: {Neighborhood_or_Landmark}
+- ServiceName: {ServiceName}
+- IsOffer: {true|false}
+- OfferDiscount: {0–15}% (ignored unless IsOffer=true)
+- OfferStartDate: {YYYY-MM-DD}
+- OfferEndDate: {YYYY-MM-DD}
+
+Now produce 3 options that follow every rule above. Make the options distinct in angle (benefit, problem-solution, social proof), but consistent in tone.
+
+
+
+📋 10. Approval Process
+
+
+
+Create draft in Google Docs or Canva Content Calendar.
+
+Attach photos + filename list.
+
+Manager reviews (if required).
+
+Once approved:
+
+
+
+Upload to GBP
+
+Add used photo info to the GBP Photo Usage Log
+
+Double-check post formatting before publishing.
+
+
+
+🔎 11. Quality Control Checklist
+
+Before posting, confirm:
+
+☐ No grammar or spelling errors
+
+☐ Correct location + local SEO used
+
+☐ CTA correct
+
+☐ Photo(s) follow uniqueness + quality rules
+
+☐ Discount (if any) ≤ 15%
+
+☐ No phone number in text
+
+☐ Real photos only (no stock, no graphics)
+
+☐ Filename format correct
+
+☐ Posted to correct GBP location
+
+
+
+📈 12. Performance Review
+
+
+
+Review GBP Insights monthly:
+
+
+
+Views
+
+Calls
+
+Clicks
+
+Direction requests
+
+Evaluate which post types perform best
+
+Adjust schedule or content types accordingly
+
+Archive best-performing posts as templates
+
+7a) Example Inputs
+
+https://business.google.com/locations

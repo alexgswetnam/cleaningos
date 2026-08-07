@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Stability, Scale]
 laws: [One Step Wins]
 status: Developing
-sources: [2025-03-25 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Cleaning Biz 101 — Acquire, Cleaning Biz 101 — Convert, Every SOP We Use]
+sources: [2025-03-25 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Cleaning Biz 101 — Acquire, Cleaning Biz 101 — Convert, Every SOP We Use, Weekly Sales Training Call — Harvest CRM, BookingKoala & Zapier Integration, Leads 101 Part 2]
 updated: 2026-08-06
 ---
 
@@ -24,6 +24,10 @@ sequences because it's a real conversation, not a message.
 ignore," with the same warning: *"Most cleaning businesses burn money chasing new leads
 while they let warm leads die in their database!!!"* Corroborates the pattern rather than
 adding a new mechanism.
+
+Distinct from [[Importing Contacts Into Harvest CRM]] — that's the one-time setup decision
+of getting an existing customer list into the CRM correctly sorted; this page is the
+ongoing decision of what to do with a database once it's already there.
 
 ## Why It Matters
 
@@ -119,6 +123,11 @@ and schedule a follow-up for non-responders rather than a one-shot blast.
 [[2026-03-04 Weekly Coaching Call]] — Rick's VIP lapsed-recurring workflow.
 [[2026-04-01 Weekly Coaching Call]] — calling the database as a free organic channel.
 [[Every SOP We Use]] — "Database Reactivation & Last-Second Smart List SOP" lesson.
+[[Weekly Sales Training Call — Harvest CRM, BookingKoala & Zapier Integration]] —
+Courtney's ongoing 20-a-day run rate.
+[[Leads 101 Part 2]] — "How To: Nurture Old, Cold Leads" lesson. Corroborates the
+monthly/quarterly automated cadence and calling the cold list when the calendar has
+openings; adds no new mechanism beyond what's already documented above.
 
 ## Student Examples
 
@@ -150,6 +159,17 @@ moved or weren't interested got removed rather than left cluttering future outre
 50 contacts remained to work through. Confirms the "old leads are not dead leads"
 principle isn't just theory: a real, if modest, revenue source ahead of any ad spend.
 
+**Courtney, undated (from a live Zapier/CRM setup call) — the ongoing run rate.** Sending
+20 messages a day through the one-time follow-up sequence, an ongoing habit rather than a
+one-time push: **three bookings, plus three more interested**, with some replies landing
+only after the third automated text — evidence that persistence in the sequence itself
+matters, not just the initial send. One person tried to get their credit refunded to a
+card instead of used as store credit; the answer given was no, store-credit only. This
+data point comes from an undated source (see the source's own frontmatter) — it reads as
+a continuation of the same ongoing 20-a-day habit recorded on 2026-04-08, not a
+conflicting number, but the exact date and sequencing relative to that call aren't
+established.
+
 ## AI Prompts
 
 *None yet.*
@@ -173,3 +193,4 @@ principle isn't just theory: a real, if modest, revenue source ahead of any ad s
 - [[Smart Lists]]
 - [[Five Laws|One Step Wins]]
 - [[IVR Setup]]
+- [[Importing Contacts Into Harvest CRM]]

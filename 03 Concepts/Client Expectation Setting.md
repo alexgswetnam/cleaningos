@@ -4,7 +4,7 @@ engine: [Leads, Logistics]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Every SOP We Use, Free Resources and Mini Courses]
+sources: [Every SOP We Use, Free Resources and Mini Courses, Labor 101]
 updated: 2026-08-06
 ---
 
@@ -77,6 +77,33 @@ one, is what lets you consistently exceed it. **Automate the send.** The email (
 companion "Welcome to Our Family" SMS) fires automatically the moment someone books,
 built as a [[Harvest CRM]] workflow rather than sent manually per booking.
 
+**A concrete exclusions list, from a second real company** — not a generic placeholder,
+the specific items excluded and why: inside window tracks (a frequent source of
+disputes, more complicated and risk-prone than it looks); wall washing (clients easily
+mistake pre-existing paint wear or scratches for a cleaning failure, and the company
+doesn't want to be blamed for damage it didn't cause); organizing (clutter dramatically
+increases job time — go around it or charge extra, but don't include it by default);
+anything requiring more than a 2–3 step ladder; exterior window washing; heavy furniture
+moving; porches (front or back). The underlying test for what to exclude: does doing it
+create outsized risk, time, or blame exposure relative to what a standard clean promises?
+
+**Qualify dirtiness with a follow-up question, not just a number.** When booking, ask
+where the home falls on a 1-to-10 dirtiness scale — then always ask *what makes it that
+number*. The number alone is unreliable because people calibrate differently: a home
+someone calls a "4" can be genuinely easy or genuinely bad, and the same is true at every
+point on the scale. Price and scope from the explanation, not the raw number. A home
+self-reported as a 7+ isn't a standard clean — it needs deep-clean pricing regardless of
+what the client calls it.
+
+**Walkthrough before cleaning starts, every time — this is the in-home enforcement of the
+expectation-setting promise.** The cleaner should assess the whole home against what was
+booked *before* starting work, not discover extra scope an hour in. A small unexpected
+extra (15 minutes or less) can just get done. Anything bigger needs the cleaner to
+contact the business before continuing, so the business can call the client and adjust
+scope, price, or timeline *before* the client assumes the original price covers
+everything. Discovering the mismatch after the client already expects full completion at
+the original price is the failure mode this entire practice exists to prevent.
+
 ## Checklist
 
 - [ ] Message sent 24–48 hours before every first-time appointment
@@ -88,6 +115,11 @@ built as a [[Harvest CRM]] workflow rather than sent manually per booking.
 - [ ] Walkthrough and on-the-spot re-clean guarantee mentioned
 - [ ] Template customized with company name and checklist link
 - [ ] Send automated via CRM at the moment of booking, not manually per client
+- [ ] Ask the dirtiness-scale question on every booking call, and always ask the follow-up
+      ("what makes it a [number]?")
+- [ ] Cleaner does a full walkthrough before starting any work, not after an hour in
+- [ ] Small unexpected extras (under ~15 min) just get done; bigger ones trigger a call
+      to the business before continuing
 
 ## Templates
 
@@ -126,6 +158,8 @@ kept verbatim as sent, minus contact details):
 - [[Every SOP We Use]] — "Client Expectation Email" lesson.
 - [[Free Resources and Mini Courses]] — "Client Expectation Email" and "Use this for
   FEWER Unsatisfied Clients" lessons.
+- [[Labor 101]] — "What to Include in Cleans, and What to Exclude," "What if a Clean is
+  WORSE than Expected."
 
 ## Student Examples
 

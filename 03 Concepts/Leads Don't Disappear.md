@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing]
 status: Developing
-sources: [Weekly Sales Training Call — March 26 P1]
+sources: [Weekly Sales Training Call — March 26 P1, Leads 101 Part 2]
 updated: 2026-08-06
 ---
 
@@ -78,6 +78,9 @@ number of attempts, no script. **That is the most valuable gap on this page.**
 ## Videos
 
 - [[Weekly Sales Training Call — March 26 P1]]
+- [[Leads 101 Part 2]] — "How To: Nurture Old, Cold Leads" lesson. Restates the core claim
+  almost word-for-word: *"If somebody didn't book right then, it doesn't mean that they
+  won't book in the future."*
 
 ## Student Examples
 

@@ -104,8 +104,7 @@ Planner ("Discover new keywords," filtered to your city) to see real local searc
 — e.g., for a window-cleaning business in McKinney, "window cleaning near me" and
 "window washers near me" outranked the business's own assumed best keyword. Use whatever
 that top keyword is consistently: in the GBP name/category, in the website's H1 and meta
-description, and worked naturally into review responses (see [[Review Response
-Scripts]]) — Google factors keyword usage in review replies into ranking too. SEMrush and
+description, and worked naturally into review responses (see [[Review Response Scripts]]) — Google factors keyword usage in review replies into ranking too. SEMrush and
 Ahrefs are named as alternative tools for the same lookup.
 
 **Read a ranking-scan report as binary, not gradient.** A map-pack ranking scan colors
@@ -116,8 +115,7 @@ yellow as partial progress.
 
 **Reviews alone don't beat a missing address.** A live comparison: a competitor with far
 more reviews (385) than a newly-optimized profile still ranked 7th because they were
-running a service-area-only listing with no physical address (see [[Google Business
-Profile Naming]] for why address placement outranks review count). Address and pin
+running a service-area-only listing with no physical address (see [[Google Business Profile Naming]] for why address placement outranks review count). Address and pin
 placement can out-rank pure review volume.
 
 ## Checklist

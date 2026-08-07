@@ -1,0 +1,15 @@
+Okay, so how do we handle cancellations? One, you handle cancellation completely different for a one-time client versus a recurring client. What we tell our recurring clients is that, and there's also a big red flag if it's the first time clean or second time clean of a recurring client. Okay, so recurring clients, we tell them I think it's once every six months there's a free just cancellation or same day or the day before like rescheduling that we won't charge them. 
+
+But it's in our policies and such. You can go look at our terms of service and policies and all that to get a grasp. There's no right way to do it. 
+
+It's just based on how you want to do things. But for recurring clients, I don't want to charge someone that's been with us for three months, four months because they had a real situation pop up. But if it's a recurring thing, if it's every month, every two months, even every three months, it's just too often like we have a schedule to manage. 
+
+So there will be no rescheduling fee. There will be a cancellation fee. We make it really cool with our recurring clients the first time that we kind of give them a freebie that we're not going to charge, but that in the future we would have to charge because our policy is to do it once every six months because our cleaners were expecting that job to happen. 
+
+So if we get in a situation where a cleaner is on the way to a job, actually is driving or arrives at a door, then we actually do pay the cleaners $25 or $50 or something just depending on the impact to their day because I feel bad for a cleaner driving and that happening and you should be charging the client for that. Now one-time clients, you're much more strict on your policy and your policy also should be related and very clear in your sales process and the conversation you have with the client initially. So that's kind of in the lead's fundamentals course. 
+
+So I want to make sure we're very upfront and clear about that. Something else that we do, booking qual allows us to take a payment hold days before. I think we do two, maybe three days before we hold the payment to payment pending. 
+
+So that way we make sure they actually have the money in their account. So that way if they do cancel on us, you know, the day of or whatever for a one-time clean, we will charge that 25% or whatever it is that, you know, we're going to charge because and we're able to, like they can't not allow us because we literally have the card, right? This is the issue if you're doing Gazelle, Venmo, cash, check is that you have no recourse. You have no way to get that money that was promised. 
+
+So and that they agreed to with their terms of service. So something to think about there.

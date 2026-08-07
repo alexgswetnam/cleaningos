@@ -1,0 +1,13 @@
+So actually paying your cleaners, here's what we do. There's other things out there like Gusto and doing ACH payments. What we like to do is we like to use Zelle to pay our cleaners because it's just an easier way for us.
+
+It's an easier way for them. Cleaners like, you know, getting paid quicker instead of having to wait days for ACH and such. So we actually pay weekly.
+
+We pay for, we pay on Friday. We pay from that Friday to the last Saturday. So it creates a little bit of a difficulty with money that comes in like through Stripe and through your payment platform where it's like delayed by a couple of days.
+
+But that's just what we do. Could you pay your cleaners, you know, twice a month, once a month? Sure, yeah. It's what we do because our cleaners like it and yeah.
+
+But I would be looking for a bank where you are able to send Zelle. Your limit in the beginning is going to be lower, but over time as you use it, I think within a month, our limit was extended to where we didn't have a problem being able to send money to cleaners. So that's what paying cleaners looks like on kind of more of the logistical side.
+
+But yeah, there was one more thing. Paying cleaners, oh yeah, we use PNC specifically. Chase is another good option.
+
+Pretty sure American Express, you can also send through Zelle. But we use PNC, that's what we do. So yeah, pretty simple, but just in case you guys were wondering.

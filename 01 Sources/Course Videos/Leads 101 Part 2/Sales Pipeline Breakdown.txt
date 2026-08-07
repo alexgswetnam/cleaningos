@@ -1,0 +1,319 @@
+This is an image of Harvest CRM's automation for a 12 month follow up... This automatic sequence has made us thousands without any extra work or mental strain. There are many more automations in Harvest CRM in addition to this one!
+
+
+
+You need the 6 stages below in your CRM. 
+
+
+
+It's the core of what makes Harvest CRM our favorite choice, and why it's better than anything else we've personally seen.
+
+
+
+New Lead
+
+The EXACT MOMENT someone reaches out to your business, they are automatically put into the New Lead stage.
+
+Goal: Instant contact + don’t let them slip.
+
+What should happen automatically:
+
+
+
+
+
+Lead has a marketing source tagged (PPC / Thumbtack / GBP / LSA / Website / etc.)
+
+
+
+Immediate auto text goes out: “Hey this is ___ with ___. Saw you reached out for cleaning - when is a good time to call you?"
+
+
+
+Immediate email (optional) confirming you got their request + what happens next
+
+
+
+Missed call text (if they called and didn’t reach you)
+
+What should happen manually (same day):
+
+
+
+
+
+Call them ASAP (speed-to-lead is everything)
+
+
+
+If they don't respond, you should double dial twice a day until you get in touch - or until they respond to your automatic texts over the next week.
+
+Once you finally get in touch with someone, they should move to the next appropriate stage.
+
+
+
+Follow-Up
+
+Goal: Turn “no response yet” into a conversation.
+
+Who goes here:
+
+
+
+
+
+Leads who said “call me at xyz time"
+
+
+
+Leads who you are actively texting, but haven't gotten on the phone to quote yet.
+
+What should happen automatically:
+
+
+
+
+
+Reminders/tasks for your team to call
+
+What should happen manually:
+
+
+
+
+
+Wait to call them until the time they have asked (or follow an automatic task system built into your CRM like Harvest CRM has)
+
+
+
+Once you get them on the phone: you will either quote them, book them, or move them to Long Term Follow Up if timing isn’t right
+
+
+
+Quoted
+
+Goal: Close the deal (most bookings happen here with good follow-up).
+
+Who goes here:
+
+
+
+
+
+Anyone you gave pricing to (phone, text, email, or in-person)
+
+
+
+Anyone you sent a booking link to with a price attached
+
+What should happen automatically:
+
+
+
+
+
+Reminders/tasks for your team to call/text
+
+What should happen manually:
+
+
+
+
+
+If they’re hesitating: ask why (timing, price, trust, decision maker)
+
+
+
+Offer the simplest next step: “I can get you booked in 2 minutes”
+
+
+
+Follow up with them every 1-2 days, get them booked. You are NOT bothering them! You need a yes or no, so call/text often to get that answer.
+
+Exit criteria:
+
+
+
+
+
+If they book once → Booked - One Time (This should happen automatically in BookingKoala, or your pricing/scheduling software which is integrated into Harvest CRM)
+
+
+
+If they start recurring → Booked - Recurring (This should happen automatically in BookingKoala, or your pricing/scheduling software which is integrated into Harvest CRM)
+
+
+
+If they say not now → Long Term Follow Up
+
+
+
+If they are a bad fit for you → mark them as DNC (Do Not Contact)
+
+
+
+Booked - One Time
+
+Goal: Perfect first experience + convert to recurring later.
+
+What should happen automatically:
+
+
+
+
+
+Confirmation email/text with expectations + policy reminders (We use Harvest CRM for this)
+
+
+
+5 days out reminder (We use BookingKoala for this)
+
+
+
+24 hours out reminder (We use BookingKoala for this)
+
+
+
+“On the way” text (We use BookingKoala for this)
+
+
+
+Added to a "One Time Clean Follow-Up"  Auto-Text/Email automation that follows up with them 2-3 months later with store credit that will expire if they don't use it. Harvest CRM has this auto-built in.
+
+What should happen manually:
+
+
+
+
+
+Make sure job notes are clear for the cleaner!
+
+Next step:
+
+
+
+
+
+Assign an available cleaner
+
+
+
+Booked - Recurring
+
+Goal: Keep them long-term (this is where the business becomes stable).
+
+What should happen automatically:
+
+
+
+
+
+Confirmation email/text with expectations + policy reminders (We use Harvest CRM for this)
+
+
+
+5 days out reminder (We use BookingKoala for this)
+
+
+
+24 hours out reminder (We use BookingKoala for this)
+
+
+
+“On the way” text (We use BookingKoala for this)
+
+What should happen manually:
+
+
+
+
+
+Track preferences (pets, priorities, areas of focus)
+
+
+
+Handle issues quickly (retention lives or dies here)
+
+
+
+Periodic quality check / manager touch (even if short)
+
+Next step:
+
+
+
+
+
+Assign an available cleaner
+
+
+
+Long Term Follow Up
+
+Goal: Turn old leads and past clients into future bookings automatically.
+
+Who goes here:
+
+
+
+
+
+Leads who said “not right now”
+
+
+
+Leads who ghosted after quote/follow-up
+
+
+
+Past one-time clients who didn’t rebook
+
+
+
+Past recurring clients who paused/canceled (optional)
+
+What should happen automatically:
+
+
+
+
+
+Long-term reactivation cadence:
+
+
+
+
+
+30 days: “Still need help?”
+
+
+
+60–90 days: “Want to get back on the schedule?”
+
+
+
+6 months: seasonal check-in
+
+
+
+12 months: annual check-in
+
+
+
+These should feel human, not spammy
+
+What should happen manually (when they respond):
+
+
+
+
+
+Move them back to Quoted or New Lead depending on situation
+
+
+
+Get them on the phone quickly and book!
+
+
+
+This is the basic breakdown for our business. Almost all of it happens automatically in Harvest CRM. DM me for a free demo call!

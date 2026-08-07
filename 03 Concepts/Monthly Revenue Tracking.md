@@ -25,8 +25,7 @@ trendline, not a per-lead diagnostic.
 ## Why It Matters
 
 Without a month-over-month recurring-revenue trendline, an owner has no way to tell
-whether a given month's numbers are normal seasonal variation (see [[Marketing
-Seasonality]]) or a real problem. A single month read in isolation invites panic or false
+whether a given month's numbers are normal seasonal variation (see [[Marketing Seasonality]]) or a real problem. A single month read in isolation invites panic or false
 confidence; the trend across many months is what's actually informative.
 
 ## Symptoms

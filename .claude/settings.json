@@ -1,0 +1,44 @@
+{
+  "$comment": [
+    "Permissions for CleaningOS. Two jobs.",
+    "1. ALLOW: pre-approve what /ingest-all needs, so an unattended run doesn't stall",
+    "   on a prompt with nobody there to answer it.",
+    "2. DENY: enforce Constitution Rules 3 and the Canon lock at the tool layer instead",
+    "   of trusting an agent to have read them. A prompt is a request; this is a wall."
+  ],
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "Write",
+      "Edit",
+      "Task",
+      "Bash(python3:*)",
+      "Bash(unzip:*)",
+      "Bash(ls:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(find:*)",
+      "Bash(wc:*)",
+      "Bash(cat:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(git status:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)"
+    ],
+    "deny": [
+      "Edit(01 Sources/**)",
+      "Bash(rm:*)",
+      "Bash(git push:*)",
+      "Bash(git reset:*)",
+      "Bash(git checkout:*)",
+      "Edit(02 Canon/**)",
+      "Write(02 Canon/**)"
+    ]
+  }
+}

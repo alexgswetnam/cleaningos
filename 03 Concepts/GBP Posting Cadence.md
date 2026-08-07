@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Every SOP We Use, 2026-04-01 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call]
+sources: [Every SOP We Use, 2026-04-01 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, Google Biz Profile Setup and Growth, Weekly Sales Training Call — April 6]
 updated: 2026-08-06
 ---
 
@@ -72,25 +72,101 @@ condition stated (e.g. "new clients only"), never a price or phone number in the
 **Post structure:** hook/title → body (benefit/service/solution) → CTA → optional
 hashtags → 1–3 real photos.
 
+**Where to actually schedule the posts.** [[Harvest CRM]]'s Social Planner (Marketing →
+Social Planner) connects directly to the Google Business Profile and lets you write and
+schedule posts from inside the CRM rather than GBP's own interface — same rules apply
+(no phone numbers, no stock images, no text baked into graphics, "Call Now" over a number).
+
+**Photo volume, beyond the 3 posts/week themselves.** Upload 3–5 new images to the
+rotation weekly, so the photo pool doesn't run dry between posting days. Source: the
+fuller, versioned internal SOP (v2.0, effective Nov. 2025, prepared by Elle, approved by
+Alex/Elijah) in [[Google Biz Profile Setup and Growth]] — same routine as the shorter
+SOP already archived under [[Every SOP We Use]], with more mechanical detail attached.
+
+**Sourcing real job photos from BookingKoala, step by step.** Open BookingKoala → Jobs
+→ filter by the city/zip of the target GBP location → select 3–5 jobs with strong
+visuals → download 4–6 images total → rename to the filename convention → store in
+`Google Drive > Marketing > GBP > <Location> > YYYY > MM > raw/selected`.
+
+**The photo uniqueness log, with its actual columns.** A shared sheet titled "GBP Photo
+Usage Log": `Date | GBP Location | File Name | BookingKoala Job ID | Room/Area | VA |
+Notes`. Rule: search the sheet before scheduling a post — if a photo is already used on
+another GBP location, pick a different image. This is the mechanical version of the
+"don't reuse photos across locations" rule already on this page.
+
+**Who does what.** Marketing Assistant / Admin / VA-Sales handles copywriting, post
+creation, scheduling, and compliance. VA-Fulfillment / Team Lead sources the real job
+photos from BookingKoala and runs quality checks. Manager/Owner handles approval (if
+required) and the monthly performance review.
+
+**Approval workflow.** Draft the post in Google Docs or a Canva content calendar →
+attach the photos plus their filenames → manager reviews if approval is required → once
+approved, upload to GBP, log the photo usage in the Photo Usage Log, and do a final
+formatting check before it goes live.
+
+**The exact ChatGPT prompt used to generate post copy, verbatim:**
+
+```
+You are writing a Google Business Profile post for a home cleaning company. Follow these rules STRICTLY:
+- Return exactly 3 options labeled Option 1/2/3.
+- Each option must be 650–900 characters.
+- Do NOT include a phone number, email, or any URL.
+- CTA must be a single, short line: "Tap **Call now** to book."
+- Work in local SEO naturally using these variables: {City}, {Neighborhood_or_Landmark}.
+- Emphasize exactly one service: {ServiceName} (e.g., Deep Clean, Move-Out Clean, Standard Maintenance, Short-Term Rental Turnover).
+- Use friendly, professional tone; avoid hype.
+- For Offer posts only (if `{IsOffer}=true`): discount must be ≤ 15%, include start `{OfferStartDate}` and end `{OfferEndDate}` dates, and a one-line condition like "new clients only." Do NOT embed prices.
+- If `{IsOffer}=false`, do NOT mention any discount.
+- Never ask to text/call a number; rely on the Call now button only.
+- Avoid emojis except 0–1 optional tasteful emoji.
+- Output in plain text.
+
+Inputs:
+- City: {City}
+- Neighborhood_or_Landmark: {Neighborhood_or_Landmark}
+- ServiceName: {ServiceName}
+- IsOffer: {true|false}
+- OfferDiscount: {0–15}% (ignored unless IsOffer=true)
+- OfferStartDate: {YYYY-MM-DD}
+- OfferEndDate: {YYYY-MM-DD}
+
+Now produce 3 options that follow every rule above. Make the options distinct in angle (benefit, problem-solution, social proof), but consistent in tone.
+```
+
+**Monthly performance review, with the actual metrics.** Review GBP Insights monthly:
+Views, Calls, Clicks, and Direction requests. Evaluate which post types perform best,
+adjust the schedule or content mix accordingly, and archive top-performing posts as
+templates — the same "review monthly, save top performers" rule already on this page,
+now with the specific metrics named.
+
 ## Checklist
 
 - [ ] Post Mon/Wed/Fri, 3x per week
+- [ ] Upload 3–5 new photos to the rotation weekly
 - [ ] 80/20 split: updates vs. offers
-- [ ] Real photos only, correct filename convention, no repeats (tracked in a sheet)
+- [ ] Real photos only, correct filename convention, no repeats (tracked in the GBP
+      Photo Usage Log — search it before scheduling)
 - [ ] City + neighborhood in copy; one service per post
 - [ ] CTA present: "Tap Call now to book"
 - [ ] Offer posts: ≤15% discount, dated, one condition, no price/phone in text
 - [ ] Character count 650–900, max 1 emoji
-- [ ] Review post performance monthly; save top performers as templates
+- [ ] Draft → attach photos/filenames → manager review (if required) → upload → log
+      photo usage → final formatting check
+- [ ] Review GBP Insights monthly (Views, Calls, Clicks, Direction requests); save top
+      performers as templates
 
 ## Templates
 
-*Post structure and copy rules above serve as the template; no single verbatim post
-text given in the source.*
+Post structure and copy rules above serve as the template. The ChatGPT prompt for
+generating post copy (verbatim, in Models above) is the one concrete template this
+source provides — see also AI Prompts.
 
 ## Videos
 
 - [[Every SOP We Use]] — "Google Business Profile - Posting 3x/Week SOP" lesson.
+- [[Google Biz Profile Setup and Growth]] — "SOP for Making Google Biz Profile Posts"
+  (the fuller, versioned internal SOP) and "We add $6k in new business every month with
+  this."
 
 ## Student Examples
 
@@ -98,7 +174,11 @@ text given in the source.*
 
 ## AI Prompts
 
-*None yet.*
+**Generating GBP post copy.** The exact prompt in Models above, run with the four
+variables (`City`, `Neighborhood_or_Landmark`, `ServiceName`, `IsOffer` plus offer
+fields when relevant) filled in per post. Returns 3 distinct angles (benefit,
+problem-solution, social proof) in one pass, each already compliant with the character
+count, CTA, and no-phone-number rules.
 
 ## FAQ
 
@@ -119,3 +199,4 @@ text given in the source.*
 - [[Review Response Scripts]]
 - [[Leads Engine]]
 - [[Social Media Strategy]]
+- [[Harvest CRM]]

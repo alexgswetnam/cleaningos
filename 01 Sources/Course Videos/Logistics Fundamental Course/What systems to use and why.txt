@@ -1,0 +1,113 @@
+Okay, so what systems do we use and why do we use them? The systems that you need, depending on what stage you're in, are going to change. What areas you need to be able to, let me take a step back, the reason why having these systems is going to help you is one, you are going to reduce the inconsistency that happens when you're relying on a human to remember to do something versus a system that is going to do it for you or a system that gives a human a checklist and walks them through it and prompts them when to do it, right? So you reduce inconsistency, meaning you're just going to have better results in your business. Whether that means remembering to call people when they need to be called, following up that person from two months ago that said that their grandma died and they're moving two months out, but they just wanted to see and check for prices, putting a task in a system so that system tells you, hey, you should reach out.
+
+That takes things off of your plate because you're kind of giving it to the system and the system will eventually give it back to you instead of you having to hold it the whole time, right? So an area where you will need systems is the booking scheduling side of things. I know people that use different things, Schedule Drop, Booking Guava, ZenMaid, Launch27, Jobber, Housecall Pro. What we personally use is Booking Guava.
+
+I use Booking Guava because I'm familiar with it, because I was recommended it, and because it's really simple. It's fairly simple to be able to just start and use. So it manages all the scheduling, manages where we receive payment.
+
+Now it's connected to Stripe, that's an integration, but you charge people through Booking Guava. You put them on the calendar. You have all the job notes.
+
+Cleaners get onboarded there, and you will also get job information there. Cleaners will be able to tell you when they're on the way, which sends a text from that system. So your scheduling, booking, cleaner, logistics is there.
+
+Another extremely important platform is having a CRM. I would not recommend getting a CRM if you are in the survival stage, because if you're in the survival stage, you are likely just struggling financially and making things work, so it's a bit difficult. And adding another expensive charge on top of what you're doing in the beginning, especially when you're not getting leads.
+
+If you're just getting ripping leads right from the get-go, definitely a CRM, but if you don't have that many leads coming in, it's a different story. So I would recommend that you get a CRM when you have more leads coming in. Now I just actually had a call two days ago with someone who was pitched a CRM that was $1,000 up front and then $100 a month, and then another one that was $1,500 up front and $300 a month, $400 a month.
+
+And I literally showed him ours and he's like, yep, yours is better, yours is cheaper, and there's not the big up front. So I get it, I'm biased because we use it, but we use it because it's truly what I think is the best thing out there. We've looked at other options and this is what we actually use in our business, and you can use the same CRM in your business.
+
+CRM is for client relationship management. It basically is going to handle all of the incoming leads and it's going to auto-text, auto-email. Our CRM, of course, has a bunch of other capabilities like ad reporting and AI stuff and automatic responses and review stuff and make a landing page, and there's just so much that's there.
+
+Documents, onboarding, it replaces DocuSign, it replaces so many other softwares. It's like an all-in-one and it's built specifically, we built it for our cleaning company. It's go-high-level based and other people are using it right now that are in the program.
+
+So what I would recommend there is our CRM, Harvest CRM for CRM. So you've got your logistical scheduling and that sort of thing. Like I said, we use many other things.
+
+We use BookQual, your CRM, which is important in stability season and going forward. It's going to make you a lot more money than you spend. It's not a cost at that point, it's an investment.
+
+In the survival season, it just probably feels like a cost. Stability season, you know that it's worth it very clearly. You are making much more money by using it than not.
+
+It'd be like, is it better to clean a house with a rag and a, oh my goodness, just a cleaner, right? Or is it better to clean the floors or is it better to use like an actual mop, right? It's definitely better to use a mop. Like by spending the extra $30 on a mop, you are saving your time, you're making more money, you can do more houses. Same kind of idea with the CRM.
+
+Yes, you're spending money for it, but it's an investment and you're making way more back. You're saving yourself so much time and eventually you're able to scale with the system that you need. You need a CRM.
+
+It's just one of those things. Got to have one. So CRM for the sales and marketing and communication sides, you're texting all clients through there.
+
+Every communication with anybody is with any of your clients and leads, old leads, existing clients is in your CRM. The next thing that we use, and this is not something that everyone does, but we specifically like to use Discord for cleaner communications and for communication internally. Now, the reason we use Discord is because in Discord I can see different channels.
+
+So I can see leads that come in. I can see cleans that happened today. I can see cancellations that happened.
+
+I can see any problems or complaints that the team ran into. I can see every single interaction with each of the cleaners. So there's like a channel named like my cleaner's name, my second cleaner's name, my third cleaner, and only that cleaner has access to only that channel.
+
+We're communicating with them there. Our VA is communicating with them there. I'll go into VA later, but our team is communicating with them there and we have it all in one place.
+
+The cleaners, we give them SOP for how to get onboarded. Like, hey, it takes five minutes, download Discord, use this. This is how we're going to communicate with you.
+
+Of course, in an emergency situation, we're going to call them if we can't reach them. But they're very communicative through Discord. It's how we talk to our VAs as well.
+
+Discord is great for communication, but like I said, it also gives us those updates of daily stuff, weekly stuff. Every time I start these videos, I start yawning. It's ridiculous.
+
+I'm not even tired. I just, I'm going to stand up here in a second. But Discord we use there for internal communication.
+
+What about internal documents, internal resources, internal SOPs, a task board, a calendar of like what we're doing in the future, our milestones, our goals. That is what we use Notion for. Notion is similar to like a Monday or a sauna.
+
+It's got a Kanban board, if you're kind of like Trello. It's a project management software. Project management software.
+
+So I'm able to put what I'm working on, what my to-do list is, what needs to be done in the future, what's in progress. I can put marketing images, videos. I can put like, it's just a place to put everything like a notes app on your phone where you just put stuff, but it's organized.
+
+It has way more capabilities and it's built for your business. So that's where we all collaborate. So our SOPs are all in a, let me see if I can just pull this up real quick so you can see actually what Notion looks like.
+
+It's kind of a big deal. Let's just do this here. Okay.
+
+Yeah, you'll see this. All right. Forgive the fact that it looks ugly and I'm like literally behind the camera, but let me show you guys this.
+
+So this is our, the faithful cleaners, our business, the home. So you can build it however you want, but we have all of our SOPs here. All our resources.
+
+Let's say our team needs to figure out what to do about a lockout. We just got locked out of someone's home. They go to how to handle a lockout and they can see how to do it.
+
+And this is not some chat GPT stuff. This is actually what we do in our business. And we use chat GPT to clean it up as far as formatting or whatever sometimes, but SOPs are stand for standard operating procedures.
+
+But we use Notion here and I can see like, what's the task board for L right now? For example, I can see right here, I can see what is L working on? Where is she not started yet? What's already done, right? L or Notion is just super comprehensive. Honestly, we aren't in here as much as we, no, we are in here as much as we should be because we've taken more of a backseat in our business because we've systemized things, we've scaled things and now we're in the sustain and sell stage of like, we're just scale, sustain and sell in some areas, but we're growing and just our VAs are running it and I don't have to do these things except do payroll and answer questions for our VA whenever she has them, but it's rare that she has them. So that's the ideal situation for us, right? The ideal situation for you might look different.
+
+We're actually not going to grow as fast as many other high achievers and other people that have grown really fast in the space have because we're taking a step back, letting our VAs run it so we can go and focus on other businesses that we have. So, but we have done a, I would say not to pat myself on the back, but a phenomenal job of creating the systems, SOPs and training our VAs in order for them to hand them the business that goes, here's how to do it so you can run it for us, ask us if you have any questions, right? So that's what we use for our like home base, our knowledge base, our project management, our resources, SOPs, we put everything there in Notion, right? Let me see if I'm forgetting anything here. We got Book & Koala, your scheduling software, we have Harvest CRM.
+
+If you're interested in these things, you can just message me, reach out. Harvest CRM, which is a must have. Then you have your, we use Discord.
+
+You don't have to use Discord, but that's how we communicate with cleaners rather than having individual texts and stuff and updates and such. Notion, oh, Zapier or Zapier. Zapier is kind of like the glue that holds multiple things together.
+
+So if I get a lead from my website, I connect my website to Zapier and then Zapier then sends a message to Discord. So Zapier is kind of like the handshake that's happening between all of them. It's the central point that can connect different things through API.
+
+It's very simple, easy integrations. If you've never, it's not like coding or any crazy like AI stuff, unless you want to go down that route, but it's very simple. It's meant to be extremely user-friendly.
+
+So that's what we use there. Systems, okay, for tracking, KPI tracking, understanding where a business is at and how it's doing, our sales numbers, our marketing numbers, closing rates, our ad spend, all these things. We just use a Google Sheet and that Google Sheet is their resources here in the program, but you are getting that when you're here.
+
+So that's what we use for as far as tracking analytics and that sort of thing. Like I said, phone system and those, that's all Harvest CRM. And that's a cool feature because you can actually just have AI create a response for you.
+
+So if you have VAs and you're worried about their English or whatever, because they're just more grammatical things you can't really fix all the time, but AI can really write in Harvest CRM. So let me think here, Notion, Discord, Zapier, Zapier, I don't know which one's right. I don't think there's any other like really system.
+
+I mean, you have like whatever website provider you use. Some people just use Booking Policy, people use Wix, we use WordPress just because of WordPress. We use Pressable through WordPress, but we use that because you have, I have developed websites.
+
+I've charged five figures for websites. I'm very familiar with what and able to do design and sales and marketing copy and all that. So we're thinking about doing something soon where it's like, hey, you can take our website and just copy it into your business.
+
+You can do that inside of Harvest CRM and just change your colors, logos, and name. But we haven't done that yet. We kind of need someone like a test dummy because it's not always smooth and easy in the first time you do that, but that way you get all the SEO and those things that are already built in rather than having to do it yourself.
+
+Anyways, yeah, we use WordPress website. You can use anything. I recommend, like I said, WordPress because you can go deeper on the SEO stuff.
+
+I don't think there's any other, oh, money. Okay, so we use Wave, Wave apps or whatever. You can use QuickBooks, whatever, but Wave is just super simple.
+
+So I've loved Wave. You connect your bank accounts and you just categorize transactions. We're about to do taxes right now, so it's helpful.
+
+As far as bank accounts and such, we have tried multiple. Right now, we follow the profit first model, if you're familiar. If you're not familiar, it's a great thing to learn as far as how to manage finances.
+
+It's not the sexiest thing, but it is a very vital thing, crucial to the success of your business. I recommend profit first to everyone, every business owner that I know. So we like PNC.
+
+We also like Chase. Yeah, Chase. And we like Amex.
+
+We like them because I'm pretty sure Amex has Zelle, but they have Zelle and they can increase your limit to where you're able to Zelle up to like $30,000 a month. We like to pay our cleaners via Zelle weekly just because they get quick payment fast and just makes it easy doing it through Zelle. I don't think that there's any other softwares that we use.
+
+It's very simple, honestly. Once you've been in so long, I'm just like, what is our VA use daily? But yeah, if you're not using chat to PT daily, great idea to use it. I didn't think about mentioning that, but I should mention that.
+
+So that's really as far as systems go. If you have any questions, feel free to drop them in the chat, but systems are pretty straightforward. If you're paying for like a legal thing, that's like legal Zoom or one of those, I wouldn't recommend it.
+
+There's a lot of stuff out there that is expensive and charges you hundreds more than it actually costs to just go and directly file with the government. So I remember us signing up, like some system wants to pay like six to $800. And like, we just went straight to the state and it was like 300 bucks and that's what they actually charge.
+
+So be aware of that because you'll end up paying yearly fees too for something that you shouldn't. This is ridiculous, but okay. That's it as far as systems and why do we use it? We found that they're the best for us.
+
+I'm sure there's other people that also love what they use, but I know what works and it's this. Can't speak for others.

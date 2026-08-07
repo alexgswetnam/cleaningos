@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [2025-03-11 Weekly Coaching Call, Weekly Sales Training Call — March 26 P1, Cleaning Biz 101 — Convert, Every SOP We Use]
+sources: [2025-03-11 Weekly Coaching Call, Weekly Sales Training Call — March 26 P1, Cleaning Biz 101 — Convert, Every SOP We Use, Weekly Sales Training Call — April 2]
 updated: 2026-08-06
 ---
 
@@ -83,6 +83,35 @@ Same number, same call, and now it's a favour rather than a revised quote. See
 conversation.** What happens after they hang up is covered by [[Leads Don't Disappear]], and
 it is not good.
 
+**A second, independent source names this as a borrowed principle, not an invention:
+Elijah's rule from door-to-door sales.** *"Never be the one to end the conversation."*
+Keep it going until the prospect either books or firmly says no. The mechanism is the
+same as above, restated as a skill: when the prospect pushes back — *"we'll take care of
+it"* — the response isn't to accept the exit, it's another question: *"How do you plan to
+take care of it?"* or *"What made you think that option was best?"* That question alone
+puts the conversation back in play.
+
+> "The skill of sales is being able to feel that pushback and instead of stopping, ask
+> another question. You're not selling — you're trying to understand."
+
+This runs against a natural instinct, named explicitly: someone with high emotional
+intelligence *feels* the pushback and wants to honor it by backing off. The correct read
+is the opposite — feeling the pushback is the cue to ask, not to stop.
+
+**On the phone specifically, the same instinct shows up as "I'll send you a text with the
+info."** The fix isn't refusing to send anything — it's not letting the offer end the
+conversation:
+
+> "Great, I have your email here — I'll shoot you this info. What specifically are you
+> looking for when you compare? Best price, best quality?"
+
+**A follow-up cadence for the calls that still don't close on the spot.** Call the next
+day, then two days later, then text. Until the prospect says no, following up is not
+bothering them — they reached out first. If it starts to feel like nagging: *"I don't want
+to bug you. I don't mean to. I just wanted to see if it would work. Wish you the best."*
+This is the mechanical version of [[Leads Don't Disappear]] applied to a specific call
+that didn't close.
+
 ## A Topic Order, Not A Script
 
 A separate, more mechanical source lays out a call in a fixed order of topics — lead the
@@ -134,6 +163,8 @@ number land as the last step of booking rather than the opening bid of a negotia
 
 [[2025-03-11 Weekly Coaching Call]]. Submit a call for breakdown — see [[Call Breakdowns]].
 [[Every SOP We Use]] — "Sales Call Outline" and "Pricing Guide" lessons.
+[[Weekly Sales Training Call — April 2]] — Elijah's door-to-door "never end the
+conversation" rule, and the follow-up cadence for calls that don't close on the spot.
 
 ## Student Examples
 
@@ -143,6 +174,17 @@ given was *"listen to your seven-out-of-eight streak. What did you do? Do that m
 
 **Melissa** — took over sales calls from Rick, improving per call. That handoff is an
 owner-independence milestone: see [[Four Roles]].
+
+**Melissa / Heidi, April 2** — a Thumbtack move-out call that went well overall but ended
+with *"I'm getting other quotes, I'll call you back."* Followed up next day and a few
+days later by text; the prospect eventually said she'd do it herself. Named on review as
+a call that needed one more question at the exit, not a rebuilt approach — see
+[[Handling I'm Shopping Around]].
+
+**Rick, April 2** — the counter-example that closed instead of losing: told a bi-weekly
+prospect the price would "seem high," asked whether she needed every room every time, and
+built a custom plan on the spot instead of ending the call with a quote. See
+[[Drop Scope Not Price]].
 
 ## AI Prompts
 
@@ -174,3 +216,4 @@ owner-independence milestone: see [[Four Roles]].
 - [[Diagnose Don't Take Orders]]
 - [[Client Expectation Setting]]
 - [[Not Every Client Is Your Client]]
+- [[AI Chatbots For Sales]]

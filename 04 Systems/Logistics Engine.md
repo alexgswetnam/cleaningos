@@ -4,7 +4,7 @@ engine: [Logistics]
 season: []
 laws: []
 status: Developing
-sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call, Get Phone Number + A2P Approval, Zapier The Software Glue, 2026-03-04 Weekly Coaching Call, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, Cleaning Biz 101 — Fulfill, Cleaning Biz 101 — Operate]
+sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call, Get Phone Number + A2P Approval, Zapier The Software Glue, 2026-03-04 Weekly Coaching Call, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, Cleaning Biz 101 — Fulfill, Cleaning Biz 101 — Operate, Leads 101 Part 2]
 updated: 2026-08-06
 ---
 
@@ -36,9 +36,15 @@ is an index, not a second definition.
 - [[Internal Communication Via Discord]]
 - [[Handling A Lockout]]
 - [[Payment Verification & Collection]]
+- [[Payment Processor Selection]]
 - [[Client Expectation Setting]]
 - [[Weekend Operations]]
 - [[Cleaner Availability System]]
+- [[Importing Contacts Into Harvest CRM]]
+- [[Systems Cost-Benefit Analysis]]
+- [[Picking The Right VA]]
+- [[When To Fire A VA]]
+- [[When To Fire A Client]]
 
 ## Workflows & SOPs
 
