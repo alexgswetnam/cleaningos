@@ -13,7 +13,7 @@ updated: 2026-08-07
 
 **Read this before creating any page.** Constitution Rule 2: if an idea below already covers what you're about to write, update that page instead.
 
-123 pages indexed across 03 Concepts, 04 Systems.
+124 pages indexed across 03 Concepts, 04 Systems.
 
 ---
 
@@ -173,6 +173,7 @@ updated: 2026-08-07
 - [[Quality Complaints]] — First decide whose fault it is — that single question determines who pays.
 - [[Review Response Scripts]] — Reply to every review within 12 hours — the reply is public, and it's read by the next hundred people who haven't booked yet, not just the reviewer.
 - [[Reviews As Asset Not Identity]] — The business is an asset that supports your life, not a reflection of your worth — and reviews will destroy you if you confuse the two.
+- [[The VA Is Your Leadership Layer]] — The first person who leads anything in a cleaning business is a VA — not a manager, and not a lead cleaner.
 - [[There Is No Behind]] — Comparing your timeline to someone with a different life is unfair to yourself, and feeling behind makes you act behind.
 - [[Uncontracted Recurring Revenue]] — Recurring isn't the same as committed. Revenue held together by a relationship leaves with the person who holds it.
 - [[What The Money Makes Possible]] — A revenue target that hasn't been converted into what it buys stops motivating anyone, including the Owner who set it.  (Draft — Unverified)
