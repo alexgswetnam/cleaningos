@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing, Clarity Creates Momentum]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call, Objection Handling Course, Every SOP We Use]
+sources: [2025-03-25 Weekly Coaching Call, Objection Handling Course, Every SOP We Use, Free Resources and Mini Courses]
 updated: 2026-08-06
 ---
 
@@ -61,11 +61,32 @@ Stages]]'s Quoted-stage cadence (follow up every 1–2 days): a light check-in a
 hours, a scarcity-framed nudge at 48 hours, and a door-left-open final message rather
 than one more push.
 
+**A reusable framework for building a word track from scratch: Acknowledge → Clarify →
+Solve.** For any objection not yet in your library — write down the objections you hear
+weekly (too expensive, spouse, thinking about it, other quotes, cheaper, availability,
+trustworthiness), then build one response per objection using this shape:
+
+1. **Acknowledge** — *"Yes, that makes sense — I get that."*
+2. **Clarify** — isolate the real blocker: *"Is it just the price that's keeping you
+   from booking?"*
+3. **Solve** — get the conditional commitment: *"So if you were happy with the price,
+   you would book a cleaning with us right now?"*
+
+Once they agree, any concession offered next (a small one-time discount tied to leaving
+a review, dropping an add-on, a recurring-only discount) is closed with a single line —
+*"Sound fair enough?"* — and the moment they say yes, move straight to the card, using
+whatever preferred time was already banked earlier in the call. See
+[[Drop Scope Not Price]] for the scope-reduction version of the same concession
+principle, and [[Speed To Lead]] for the "ask timing before price" technique that sets
+this up.
+
 ## Checklist
 
 - [ ] Write the exact sentence for each objection you lose to
 - [ ] Say it out loud until you don't have to think about it
 - [ ] Run a call and notice whether you can hear them better
+- [ ] For a new objection: acknowledge, clarify the real blocker, then solve for a
+      conditional yes before offering any concession
 
 ## Templates
 
@@ -88,6 +109,8 @@ about it*, *my old cleaner charged less*, *securing recurring cleanings*. Ingest
 opens the same way this page teaches: validate first, then a single fixed question, never
 an improvised one. See each linked concept for the specific line.
 [[Every SOP We Use]] — "Sales Call Outline" and "Pricing Guide" lessons.
+[[Free Resources and Mini Courses]] — "How do I get better at handling objections"
+lesson.
 
 ## Student Examples
 
@@ -127,3 +150,5 @@ listening. The line is what buys you the attention to be present.
 - [[Mirroring]]
 - [[Price Delivery]]
 - [[Sales Pipeline Stages]]
+- [[Drop Scope Not Price]]
+- [[Differentiation And Trust Building]]

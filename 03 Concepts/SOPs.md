@@ -4,7 +4,7 @@ engine: [Logistics]
 season: [Scale, Harvest]
 laws: [Build In Order, One Step Wins]
 status: Canonical
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Cleaning Biz 101 — Operate, Every SOP We Use]
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Cleaning Biz 101 — Operate, Every SOP We Use, Free Resources and Mini Courses]
 updated: 2026-08-06
 ---
 
@@ -89,6 +89,23 @@ doesn't exist."*
 
 > "You're already doing the process. An SOP is just writing it down."
 
+**The five-step build process, stated as a repeatable loop:** (1) document the task once,
+the next time you actually do it — onboarding a cleaner, handling a complaint, a
+move-out clean; (2) turn it into a checklist, not a paragraph — *"people don't follow
+paragraphs, they follow checkboxes"*; (3) store every SOP, template, script, and
+checklist in one place (Notion, in this source's case); (4) attach the SOP to the real
+moment it applies to — a new hire gets the onboarding SOP, an upset client triggers the
+complaint SOP; (5) improve it over time, treating every mistake as a prompt to update the
+document rather than just move past it. The worked example of step 5: discovering that
+sending the review link *while still on the phone* (see [[Post-Clean Review Script]])
+converted better than sending it after the call became a new checkbox in the post-clean
+script, not just a one-off tweak.
+
+**Not every SOP needs to be a rigid script.** Some are light guidelines, others are exact
+steps — the post-clean call SOP is described as tracking the same *outline* every time
+without being a word-for-word script, and that's fine. Improve the SOP over time; it
+doesn't need to start (or stay) rigid to be useful.
+
 **When the trigger is emotional rather than operational, write general guidelines, not a
 script for every scenario.** A nightmare client situation is the clearest case: you can't
 write "if a cleaner cries, then..." for every possible variation, but you can write a
@@ -156,6 +173,10 @@ months in Skool).
 - [ ] Confirm the Leads Engine can actually feed a VA work before onboarding one — see
       [[When To Hire A VA]]'s Rashawn example
 - [ ] Once several SOPs exist, tie them together in a top-level master operations manual
+- [ ] Store every SOP, template, script, and checklist in one central place
+- [ ] Attach each SOP to the real trigger moment it applies to
+- [ ] When a mistake happens, update the relevant SOP with what you learned, not just
+      fix the one instance
 
 ## Templates
 
@@ -179,6 +200,7 @@ one-page-per-idea rule — this page indexes them rather than duplicating them:
 [[2026-04-08 Weekly Coaching Call]] — daily checklist detail, "customize don't rebuild."
 [[Every SOP We Use]] — "Hiring SOP," "Daily Checklist," and "Client Expectation Email"
 lessons directly; the wider course supplied nearly every template linked above.
+[[Free Resources and Mini Courses]] — "What is an SOP How do I use them" lesson.
 
 ## Student Examples
 

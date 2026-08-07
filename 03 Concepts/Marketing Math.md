@@ -4,8 +4,8 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing, Clarity Creates Momentum]
 status: Canonical
-sources: [2025-02-03 Weekly Coaching Call, Cleaning Biz 101 — Acquire, Cleaning Biz 101 — Convert]
-updated: 2026-08-05
+sources: [2025-02-03 Weekly Coaching Call, Cleaning Biz 101 — Acquire, Cleaning Biz 101 — Convert, Free Resources and Mini Courses]
+updated: 2026-08-06
 ---
 
 # Marketing Math
@@ -104,7 +104,7 @@ cleaning the ticket is $200–$400, so margins are thin and the marketing has to
 
 ## Videos
 
-*None yet.*
+[[Free Resources and Mini Courses]] — "Marketing Philosophy" lesson.
 
 ## Student Examples
 
@@ -113,6 +113,17 @@ about half the leads were free. Thumbtack: 90 leads (51 free), $15.64 CPL, 26% c
 CPA. PPC: $1,500 spend, $43 CPL, 26% close, $100 CPA. Organic: 119 leads, 70 bookings, $0.
 
 That organic half is what drags the average down — see [[Channel Prioritization]].
+
+**A December figure from a separate resource, likely not the same measure.** A different
+source states December's overall **qualified close rate at 60%**, with Thumbtack at
+$17.88 CPL / $40 CPA and Google Ads (PPC) at $35.31 CPL / $98 CPA — average ticket $377.
+The per-channel CPL/CPA figures are close to (not identical to) the Q4 numbers above, but
+the 60% figure is far above the 26% channel-level close rates recorded elsewhere. Not
+flagged as a hard contradiction: "qualified close rate" explicitly excludes unqualified
+leads from the denominator (see [[KPI Tracking Sheet]]'s lead-analytics breakdown), so a
+blended, unqualified-leads-excluded rate reading meaningfully higher than a single
+channel's raw close rate is plausible rather than inconsistent. Worth reconciling with an
+exact date and matching methodology if it comes up again.
 
 **A member stuck at $9K/month for a year** couldn't state his cost per lead or close rate.
 There was no way to diagnose him.

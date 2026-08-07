@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [One Step Wins]
 status: Developing
-sources: [Weekly Sales Training Call — March 26 P1, Cleaning Biz 101 — Convert]
+sources: [Weekly Sales Training Call — March 26 P1, Cleaning Biz 101 — Convert, Free Resources and Mini Courses]
 updated: 2026-08-06
 ---
 
@@ -68,6 +68,22 @@ delaying CRM adoption to save money cost hundreds if not thousands of dollars in
 speed-to-lead — the tool pays for itself specifically through this mechanism, not just
 organization.
 
+**Quantified, from a third source:** responding within 5 minutes makes a lead roughly
+21x more likely to convert than waiting 30 minutes; 78% of buyers purchase from whichever
+company responds first; and even the gap between 5 and 10 minutes drops the odds by
+roughly 400%. A prospect requesting a quote is frequently requesting from multiple
+companies at once — speed is often the deciding factor before price ever enters the
+conversation. If you can't personally answer within minutes because of a day job or
+other constraint, that's explicitly framed as a "hire a VA or answering service" problem,
+not a "just try harder" one — see [[Weekend Operations]] for the same logic applied to
+weekend coverage specifically.
+
+**Ask when they want it done, before quoting.** A small but repeatable technique from the
+same source: before giving a price estimate, ask *"when are you wanting to get this
+done?"* — a version of the assumed close. Conversion improved when this question came
+*before* the price rather than after, likely because it gets a small commitment banked
+ahead of the number that could otherwise trigger hesitation. See [[Micro-Commitments]].
+
 ## Checklist
 
 - [ ] New leads trigger a notification you actually see
@@ -76,15 +92,23 @@ organization.
 - [ ] Automate an immediate auto-text, missed-call text, and email confirmation even when
       a human hasn't called yet
 - [ ] Treat "within seconds" as the target, five minutes as the outer bound
+- [ ] If you can't personally hit that window, hire a VA or answering service rather than
+      accepting the delay
+- [ ] Ask when the prospect wants the job done, before naming a price
 
 ## Templates
 
-*None yet.*
+- "Hey! This is ___ with ___ Cleaning. I saw you just requested a quote - tell me a
+  little bit about your home and what you're looking for!" (VA first-contact script)
+- "Just so I can even make sure we can fit you in, when are you wanting to get this
+  done?" (assumed-close timing question, before pricing)
 
 ## Videos
 
 - [[Weekly Sales Training Call — March 26 P1]]
 - [[Cleaning Biz 101 — Convert]]
+- [[Free Resources and Mini Courses]] — "Are my sales suffering because I don't have a
+  VA" and "Stop losing the easy sales.." lessons.
 
 ## Student Examples
 
