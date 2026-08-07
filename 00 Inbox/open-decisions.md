@@ -22,8 +22,8 @@ Sources: `VERIFY.md` · `07 Company/Claim Register.md` · `00 Inbox/review-queue
 | ~~1~~ | ~~**Classify the $25k claim**~~ | ⚠️ **Answered twice.** Target → then **contractual guarantee**, same day. Terms don't exist, so it stays DO NOT USE. **7-term drafting checklist** in the Claim Register |
 | **1b** | **Write the guarantee terms** — clock start · Requirements to Claim · which remedy · refund quantum · what voids it · governing law | Group Coaching. Model the exposure first: $297×12 = $3,564/member, and one proposed remedy sells for $6,000 |
 | ~~2~~ | ~~**What does Membership exclude?**~~ | ✅ **The Vault** — older archives, 100+ hrs — sits at $297. $47 gets all core material + AI |
-| **2b** | **AI access by tier** — your reply said $47 is *limited* AI in one sentence and *full* AI in the next | Membership and Free scope. Not guessed |
-| **2c** | **A CleaningOS AI is a product component and has no page anywhere** | The whole tier ladder now hangs off it |
+| ~~2b~~ | ~~**AI access by tier**~~ | ✅ Not limited-vs-full — each tier does a different **job**. `05 Products/CleaningOS AI.md` |
+| ~~2c~~ | ~~**A CleaningOS AI is a product component and has no page anywhere**~~ | ✅ **`05 Products/CleaningOS AI.md`** created |
 | 3 | **7-day free trial — which tiers, what terms?** | Any copy mentioning a trial |
 | 4 | **Student permissions** — Rick, Courtney, Jack, Melissa, Rashawn, Nicole, Heidi, Keeley | Every proof section. 8 people, all `UNCONFIRMED` |
 | ~~5~~ | ~~**Does CleaningOS Free exist?**~~ | ✅ **"How to get to Survival."** Scope recorded. Still open: which Engines, where it lives, AI access |
@@ -92,3 +92,18 @@ The Philosophy-vs-register contradiction is closed.
 
 The 2026-08-07 graduation rulings are recorded in
 `00 Inbox/graduation-criteria-proposal.md`.
+
+**#2b — AI access by tier is a job difference, not a quality difference.** Alex, 2026-08-07.
+
+Resolves the *limited* vs *full* contradiction: it was never a quality axis. Free = help me
+understand where I am and get moving. $47 = help me implement the roadmap. $297 = help me
+apply CleaningOS to my specific business. Each tier includes everything the tier below it
+does; all three are meant to be genuinely useful. Recorded in `05 Products/CleaningOS AI.md`.
+
+**#2c — CleaningOS AI now has a page.** Alex, 2026-08-07.
+
+`05 Products/CleaningOS AI.md` created — the three-tier job model, working internal names
+(Survival AI / Business GPS AI, CleaningOS Implementation AI, CleaningOS Strategist AI —
+none final), and the 7-day trial noted as a working direction, not decided. Decision **#34**
+(how the AI points into the $297 Vault without feeling like a paywall) is still open —
+that page states the mechanic, not the wording.
