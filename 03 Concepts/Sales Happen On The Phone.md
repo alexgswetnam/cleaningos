@@ -173,7 +173,7 @@ negotiating scope, lost by ending the conversation. Both are his. The instructio
 given was *"listen to your seven-out-of-eight streak. What did you do? Do that more."*
 
 **Melissa** — took over sales calls from Rick, improving per call. That handoff is an
-owner-independence milestone: see [[Four Roles]].
+owner-independence milestone: see [[Owner Role Evolution]].
 
 **Melissa / Heidi, April 2** — a Thumbtack move-out call that went well overall but ended
 with *"I'm getting other quotes, I'll call you back."* Followed up next day and a few

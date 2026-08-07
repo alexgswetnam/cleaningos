@@ -23,7 +23,7 @@ Checklist, step-by-step, or video.
 > "SOPs = replacing yourself. Every SOP you create is a piece of yourself that someone
 > else can now do."
 
-They're what makes [[Four Roles|Owner]] possible, and they're what a buyer is actually
+They're what makes [[Owner Role Evolution|Owner]] possible, and they're what a buyer is actually
 purchasing. See [[Business Valuation]].
 
 **A concrete test of whether Operate is actually working:** the host had nose surgery in
@@ -244,7 +244,7 @@ a VA. Logistics was her secondary constraint.
 
 - [[Logistics Engine]]
 - [[Business GPS]]
-- [[Four Roles]]
+- [[Owner Role Evolution]]
 - [[Business Valuation]]
 - [[When To Hire A VA]]
 - [[Hiring Channels]]

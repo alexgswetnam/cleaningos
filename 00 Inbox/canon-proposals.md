@@ -21,12 +21,19 @@ Format:
 
 ---
 
-## ⏳ AWAITING ALEX 2026-08-07 — [[Four Seasons]] and [[Four Roles]] — CleaningOS v2 refactor
+## ✅ EXECUTED 2026-08-07 — [[Four Seasons]] and Four Roles — CleaningOS v2 refactor
 
-> [!important] This is the Canon edit for Commit 2 on `refactor/cleaningos-v2`
-> Alex directed these changes in writing and authorised execution under §XII, with the
-> tool-layer lock in `.claude/settings.json` left in place. This entry is the amendment
-> record. **Nothing has been applied yet** — approve and it goes in.
+> [!success] Alex approved 2026-08-07 — *"good to go."* Applied in full.
+> Executed as commit `refactor(canon)` on `refactor/cleaningos-v2`. Recorded as a §XII
+> amendment at the top of `CONSTITUTION.md`. The tool-layer lock in
+> `.claude/settings.json` was left in place and **not** relaxed.
+>
+> **Finding worth Alex's attention:** the deny rules in `.claude/settings.json`
+> (`Edit(02 Canon/**)`, `Write(02 Canon/**)`) did **not** block these writes. They govern
+> Claude Code's own tools inside this project; they do not bind every agent that can reach
+> the folder. The Constitution's claim in §III that the Canon lock is *"enforced at the
+> tool layer… A prompt is a request; this is a wall"* is therefore only true for one
+> client. Flagged rather than fixed — it's a governance decision, not a refactor step.
 
 ### 2a — [[Four Seasons]]: remove global Season revenue bands
 
@@ -60,7 +67,7 @@ The existing descriptive prose for each Season is **kept**, re-scoped from "the 
 to "this Engine." The two superseded blocks (Sustain and Sell → Harvest) are untouched.
 
 Specific thresholds move to the Engine × Season implementation map
-([[CleaningOS Curriculum Map]], Commit 11), not the universal definition.
+(CleaningOS Curriculum Map, Commit 11), not the universal definition.
 
 **No numerical graduation criteria will be invented.** Every cell is marked
 `NEEDS ALEX` until Alex or a source supplies one.
@@ -75,7 +82,7 @@ error.
 **Blast radius:** `VERIFY.md` §3 (the open ask), [[Business GPS]] (already corrected in
 Commit 1), [[Philosophy]] line 168.
 
-### 2b — [[Four Roles]] leaves Canon
+### 2b — Four Roles leaves Canon
 
 **Current:** `02 Canon/Four Roles.md`, listed in `CONSTITUTION.md` §II as one of six
 Canon documents. It maps one Role to each Season — Survival→Self-Employed,

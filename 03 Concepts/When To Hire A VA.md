@@ -31,7 +31,7 @@ One missed booking can exceed a fortnight of VA cost.
 working hours is a lead you're donating to a competitor.
 
 **2. You want the business to be an asset, not a job that owns you.** Hire early. This is
-the [[Four Roles|Supervisor → General Manager]] transition.
+the [[Owner Role Evolution|Supervisor → General Manager]] transition.
 
 **3. You want maximum control and can genuinely do it all.** You might not need one. Alex
 knows an owner running **$45K/month with no VA** — working 12 hours a day, and miserable
@@ -205,5 +205,5 @@ ready to hand over the work.
 - [[Systems Cost-Benefit Analysis]]
 - [[SOPs]]
 - [[Leadership Engine]]
-- [[Four Roles]]
+- [[Owner Role Evolution]]
 - [[Marketing Math]]

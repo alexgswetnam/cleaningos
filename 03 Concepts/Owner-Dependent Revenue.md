@@ -29,7 +29,7 @@ vault already says it from the sell side — *"SOPs = replacing yourself... that
 buyer is actually purchasing"* ([[SOPs]]). This is what it looks like from the buy side, and
 the view is less flattering.
 
-For an owner: owner-dependent revenue is what keeps you at [[Four Roles|Self-Employed]] no
+For an owner: owner-dependent revenue is what keeps you at [[Owner Role Evolution|Self-Employed]] no
 matter what the top line says. A business doing well on paper that stops the week you stop
 is not in [[Four Seasons|Harvest]] — it's a job with good margins.
 
@@ -150,7 +150,7 @@ dependence, it's dependence nobody quantified.
 
 **Q:** Does this apply to a business I'm not selling?
 **A:** Especially then. It's the measurement of whether you own a business or a job. See
-[[Four Roles]].
+[[Owner Role Evolution]].
 
 ## Conflict History
 
@@ -166,6 +166,6 @@ dependence, it's dependence nobody quantified.
 - [[Client Concentration]]
 - [[Uncontracted Recurring Revenue]]
 - [[Business Valuation]]
-- [[Four Roles]]
+- [[Owner Role Evolution]]
 - [[SOPs]]
 - [[Business GPS]]

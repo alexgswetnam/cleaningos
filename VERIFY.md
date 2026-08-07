@@ -54,12 +54,21 @@ into your power," "raise your vibration," "work on your mindset."
 
 ## Open — numbers that don't exist yet
 
-### 3. Season revenue bands
+### 3. ~~Season revenue bands~~ → per-Engine graduation criteria
 
-Only Survival has a number ($0–5k/mo).
+> [!success] Closed 2026-08-07 — the question was wrong, not unanswered
+> Universal Season revenue bands, headcount ranges, and recurring-client ranges were
+> **removed** from [[Four Seasons]]. If the four Engines producing a business's revenue
+> each sit in a different Season, no single revenue figure can indicate a Season. The old
+> asks were requesting numbers that cannot exist.
 
-- [ ] Stability, Scale, and Harvest bands
-- [ ] Headcount and recurring-client ranges per Season
+What replaces it, and it is a real gap:
+
+- [ ] **Graduation criteria per Engine × Season cell — 16 answers, not 4.** What
+      specifically moves Leads from Survival to Stability? Labor from Scale to Harvest?
+      No ingested source defines any of them. Agents are barred from inventing them, so
+      every cell reads `NEEDS ALEX` until you fill it.
+- [ ] Which Engine most commonly constrains an owner at each Season
 
 ### 4. Group Coaching details
 

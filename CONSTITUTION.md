@@ -13,6 +13,8 @@ The governing document of CleaningOS. Every agent — Claude, ChatGPT, or anythi
 
 > [!info] Amended 2026-08-06 by Alex, executed by Claude on instruction Rewritten after the first large unattended ingest (8 courses, 135 lessons) exposed gaps. Changes: §II corrected and given the governing/descriptive test · §V gained rows for `08 Logs/` and the unnumbered files · §VI gained the filename-collision rule · §VII gained citation granularity · §VIII now routes through `03 Concepts/INDEX.md` · §IX gained the unsourced-claim rule. Nothing in §I, §III, §IV, §X or §XI changed in substance.
 
+> [!info] Amended 2026-08-07 by Alex, executed by Claude on instruction — CleaningOS v2 refactor §II: the Canon drops from six documents to five. **Four Roles removed** and demoted to [[Owner Role Evolution]] in `03 Concepts/` — it assigned one Role per Season, which implies one Season per business and contradicts [[Four Seasons]]. First removal on grounds of correctness rather than filing. §II also now states the model in one line and requires Alex's approval before any second customer-facing business map exists. [[Four Seasons]] rewritten to describe **per-Engine maturity**; universal revenue, headcount and recurring-client bands removed as a category error. [[Business GPS]] corrected separately — the constraint is selected by the owner's goal, not by the lowest-Season Engine. Proposal and reasoning recorded in `00 Inbox/canon-proposals.md`. Further amendments land as the refactor proceeds.
+
 ---
 
 ## I. Mission
@@ -29,14 +31,15 @@ Full version — the enemy, the promise, what we believe — in [[Philosophy]].
 
 ## II. The Canon
 
-**Six documents** hold the intellectual property. They are the constitution's body, and no page anywhere in the vault may contradict them.
+**Five documents** hold the intellectual property. They are the constitution's body, and no page anywhere in the vault may contradict them.
 
 - [[Five Laws]] — Stop Guessing · Clarity Creates Momentum · Build In Order · The Roadmap Already Exists · One Step Wins
 - [[Four Engines]] — Leads · Labor · Logistics · Leadership
-- [[Four Seasons]] — Survival · Stability · Scale · Harvest. Each Engine has its own.
-- [[Four Roles]] — Self-Employed · Supervisor · General Manager · Owner. One per Season; the role is how you move between them.
+- [[Four Seasons]] — Survival · Stability · Scale · Harvest. **The maturity of one Engine.** Each Engine has its own; there is no business-level Season.
 - [[Philosophy]] — what we believe, what we reject, how we teach
 - [[Language]] — naming rules. "Harvest CRM" is always both words
+
+**The model, in one line: Four Engines × Four Seasons, governed by the Five Laws.** Any second customer-facing map of the business is a competing model and needs Alex's explicit approval before it exists.
 
 **Canon is edited by Alex only.** Agents may propose changes in `00 Inbox/canon-proposals.md`, but must never edit `02 Canon/` directly. Everything else in the vault flows downhill from these files; changing them silently changes everything. **There are no exceptions to this rule.**
 
@@ -56,6 +59,7 @@ Two files have left Canon on this test:
 |---|---|---|
 |[[Alex Voice]]|`Voice/`|Records how Alex already sounds. Also **portable** — voice belongs to the person, not the business, and should survive into any other vault Alex builds.|
 |[[Glossary]]|vault root|An _index_. Every real definition lives on a concept page; a row is a pointer to one. Also had to move at the speed of ingestion, which the lock made impossible.|
+|[[Owner Role Evolution]] — was *Four Roles*|`03 Concepts/`|**Removed for being wrong, not for being descriptive** — the first on those grounds. It assigned one Role per Season, which implies one Season per business, which contradicts [[Four Seasons]]. The progression survives as a Leadership concept about the _owner's_ job. Alex, 2026-08-07.|
 
 Both were considered for a carve-out — keeping them in Canon with write access — and both times that was rejected: **an exception inside the lock teaches every future agent that the lock is negotiable**, which is the exact silent erosion this section exists to prevent. Moving the file out is honest; a hole in the rule is not.
 

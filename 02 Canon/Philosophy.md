@@ -111,7 +111,7 @@ all trades. There are only two ways through: **improve the skill, or hire someon
 it.**
 
 This is why personal development and business development aren't separable here — and why
-the [[Four Roles]] matter as much as the Engines.
+the owner's own role evolution matters as much as the Engines — see [[Owner Role Evolution]].
 
 ## What We Reject
 
@@ -165,8 +165,8 @@ needs to be able to reproduce the decision after the story is over.
 **What to do, then how to decide.** In Survival, owners need clear instructions — too many
 open choices create paralysis. Here's the offer, here's the script, here's the process,
 here's today's action. As the company moves through Stability and Scale the problems stop
-being identical, so we teach them to diagnose the Season of each Engine, find the
-constraint, read the evidence, and select the next move.
+being identical, so we teach them to name the goal, diagnose the Season of each Engine,
+find the constraint standing between the two, read the evidence, and select the next move.
 
 > CleaningOS is ultimately not just a library of things to do. It is a way to decide what
 > matters now.

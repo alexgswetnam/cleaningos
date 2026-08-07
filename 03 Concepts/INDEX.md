@@ -13,7 +13,7 @@ updated: 2026-08-07
 
 **Read this before creating any page.** Constitution Rule 2: if an idea below already covers what you're about to write, update that page instead.
 
-122 pages indexed across 03 Concepts, 04 Systems.
+123 pages indexed across 03 Concepts, 04 Systems.
 
 ---
 
@@ -167,6 +167,7 @@ updated: 2026-08-07
 - [[Monthly Revenue Tracking]] — Screenshot recurring revenue at the start and end of every month — that's the whole growth benchmark.  (Developing)
 - [[Non-Compete]] — Without one, the seller can take the clients and the employees and rebuild the thing you just paid for.
 - [[Owner Isolation And Community]] — Nobody in your personal life understands what a $29K month means — that gap is real, and finding one person who gets it is worth actively seeking out.  (Developing)
+- [[Owner Role Evolution]] — How the owner's own job changes as the business matures — Self-Employed → Supervisor → General Manager → Owner — and why you have to act like the next role up before the business obviously requires it.  (superseded 2026-08-07)
 - [[Owner-Dependent Revenue]] — Revenue that only exists because the owner is working for free. It looks like profit and it isn't.
 - [[Picking The Right VA]] — Don't hire from a resume — run a paid test (roleplay, a real system task, one to two weeks) and let the test decide, not the paper.
 - [[Quality Complaints]] — First decide whose fault it is — that single question determines who pays.

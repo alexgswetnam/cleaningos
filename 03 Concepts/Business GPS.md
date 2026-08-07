@@ -153,4 +153,4 @@ The ranking rule was superseded on 2026-08-07. See the collapsed block under
 - [[Five Laws]]
 - [[Leads Problem Or Sales Problem]]
 - [[Labor Before Leads]]
-- [[Four Roles]]
+- [[Owner Role Evolution]]
