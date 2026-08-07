@@ -19,6 +19,44 @@ Delete an entry once it's resolved. Note the resolution in that session's log.
 
 ---
 
+## Parked for a proper ruling (2026-08-07)
+
+### [[Marketing Budget]] — the ~10%-of-revenue figure
+
+**Current page:** marketing budget ≈ 10% of revenue. Already flagged unproven in
+`07 Company/Claim Register.md`.
+
+**Alex, 2026-08-07, in passing:** *"the higher percent the more aggressive. its normal to go
+very high in the beginning, this number is arbitrary and changes massively. don't even make
+it a teaching point honestly, i'm not considering this really."*
+
+**Not treated as a supersession.** He said himself he hasn't thought it through, and §X bars
+superseding on an unconsidered remark. But the page currently teaches a fixed ratio and its
+author has just called that ratio arbitrary.
+
+**What would settle it:** Alex decides whether the page teaches (a) a ratio, (b) "spend is a
+function of aggression and stage, not a fixed ratio," or (c) nothing — and the page is cut.
+
+**Already actioned:** removed as a graduation criterion for Leads Scale.
+
+### Business GPS — how did Faithful Cleaners actually reach Harvest?
+
+[[Business GPS]] records Faithful Cleaners at Logistics and Leadership **Harvest**, owners
+working ~1 hr/week. The Business GPS grid's Leadership Harvest action is *"install leaders
+(ops, training, sales/admin)."*
+
+**But Alex confirmed 2026-08-07 that he does not run team leads** — only pairing an
+experienced cleaner with a new one for feedback, at higher pay.
+
+So either the grid's "install leaders" is borrowed framing rather than a description of what
+happened, or the leadership layer is something else — VAs, systems, or both.
+
+**What would settle it:** Alex names what actually carries the business at 1 hr/week. It
+rewrites Leadership Scale and Leadership Harvest, which are currently 14 and 10 pages of
+mostly exit material.
+
+---
+
 ## Conflict-state defects found by lint (2026-08-07)
 
 Three real findings from `lint_structure.py`. **Not fixed** — each needs a judgment that

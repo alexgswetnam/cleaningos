@@ -12,6 +12,72 @@ created. This is for review.
 
 ---
 
+## Decisions — Alex, 2026-08-07
+
+| # | Decision | Ruling |
+|---|---|---|
+| 1 | Four units of production | **Approved**, as corrected — owner-independence removed from the unit definitions and left on the Season axis |
+| 2 | Tests instead of thresholds | **Approved.** Keep tests |
+| 3 | Does "profitable" enter Leads at Survival? | **No — Stability.** Survival asks only whether a booking can be produced at all |
+| 4 | Backup cleaner — Survival or Stability? | **Stability** |
+| 5 | What the owner owns at Harvest | **Approved** — direction and standards, never operation |
+| 6 | Team leads | **Alex does not run them.** See the correction below — this changes three cells |
+| 7 | Retag [[When To Fire A Client]] to Leadership Survival | **Approved** — add Leadership, keep Leads and Logistics |
+| 8 | Contested Labor claims | **Resolve separately, after Labor Stability ships** |
+| 9 | [[Marketing Budget]] ~10% | **Drop it.** Not a gate and not a teaching point |
+| 10 | SOP folder vs operating manual | Alex's own SOP folder is "pretty close to an operating manual" — **open, see below** |
+
+### Correction to #6 — team leads are not a CleaningOS role
+
+**What Alex actually does, in his words:** *"letting someone with more experience know that
+they are being paired and to give us feedback and will probably be paid more."*
+
+**That is not a management layer.** It's an experienced cleaner acting as a quality judge,
+paid a premium for it — and it already appears in [[Testing A New Cleaner]] ("ask your best
+cleaner").
+
+**Consequence:** the phrase *"backup coverage + team leads"* in the Business GPS Scale row
+came from the Premium Workshop grid. **No CleaningOS source describes running team leads,
+and Alex does not run them.** Building the concept would have been inventing a role from one
+line of a grid.
+
+**Replacement criterion for Labor Scale — proposed:**
+> **Someone other than the owner judged whether a new cleaner was good enough, and the owner
+> accepted the judgement.**
+
+Grounded in what Alex actually does. Still a real Scale marker: it takes the owner out of the
+quality-judgment loop. **No new concept required.**
+
+**Open contradiction this exposes.** [[Business GPS]] records Faithful Cleaners as Logistics
+and Leadership in **Harvest**, owners working ~1 hr/week. If Alex runs no team leads, that
+Harvest was **not** reached by installing a management layer. The Business GPS grid's
+Leadership Harvest action — *"install leaders (ops, training, sales/admin)"* — may not
+describe how it actually happened. **NEEDS ALEX:** what carries Faithful Cleaners at 1 hr/week
+— VAs, systems, or something else? The answer rewrites Leadership Scale and Harvest.
+
+### Note on #8 — the sequencing is safe
+
+Alex's call reverses my recommendation, and on checking, his is fine. The Labor Stability
+graduation test — *someone called out and the job still happened* — **does not depend on**
+[[Cleaner Pay Structure]] or [[Subcontractor Vs W-2]]. Those are supporting concepts, not the
+criterion. Ship Labor Stability; resolve the contested claims after.
+
+**One guard:** the criterion may ship, but neither contested page may be taught as settled
+inside it.
+
+### Note on #9 — Marketing Budget
+
+Removed as a graduation signal and as a teaching point.
+
+Alex, 2026-08-07: *"the higher percent the more aggressive. its normal to go very high in the
+beginning, this number is arbitrary and changes massively."*
+
+**Not recorded as a supersession.** Alex flagged it as something he hasn't thought through
+("I'm not considering this really"), so it is parked for a proper ruling rather than used to
+overwrite the page. Logged in `00 Inbox/review-queue.md`.
+
+---
+
 ## Before the matrix: three things to approve first
 
 Everything below depends on these. If any is wrong, the 16 cells are wrong.
