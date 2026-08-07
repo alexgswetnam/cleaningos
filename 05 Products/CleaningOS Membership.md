@@ -12,7 +12,8 @@ updated: 2026-08-07
 # CleaningOS Membership
 
 > [!abstract] In one line
-> $47/month for access to almost all core CleaningOS material.
+> $47/month. Core promise: **show me how to build it.** The complete core CleaningOS
+> operating system, plus Implementation-level AI.
 
 ## Price
 
@@ -28,20 +29,26 @@ Alex, 2026-08-07: *"$47/mo is all core material except the vault which is older 
 
 | | $47 Membership |
 |---|---|
-| **All core material** | ✅ Included |
-| **The Vault** — older archives, 100+ hours | ❌ Held back. Sits at [[Group Coaching]], $297 |
-| **AI access** | ✅ — see the open question below |
+| **All core material** | ✅ Included — all Four Engines, all Four Seasons, all 16 Engine × Season paths, core SOPs, templates, scripts, calculators/checklists/resources |
+| **The Vault** — older archives, 100+ hours | ❌ Held back. Sits at [[Group Coaching]], $297 — deep implementation / advanced reference material, not the main roadmap |
+| **AI access** | ✅ Full [[CleaningOS AI]] access at the Implementation tier — see below |
+| **Community access** | Included, if already supported by current business facts — see open question below |
+
+**$47 CleaningOS AI — job: implement the roadmap.** Includes everything the Free AI does,
+plus: use the full core CleaningOS curriculum, teach Survival, Stability, Scale, and Harvest,
+explain lessons, help implement core systems, help use templates, help implement SOPs,
+troubleshoot normal implementation problems, help create basic implementation assets, explain
+curriculum metrics, point to the correct core lesson/system/resource.
+
+Flow: **Teach → Guide → Help implement → Point to the roadmap.**
+
+Not intentionally crippled — the member gets the complete core operating system. The
+distinction from $297 is not "worse AI," it's the job: $47 helps the member *implement*
+CleaningOS. The $47 tier does not include the premium Vault itself.
 
 **The AI points into the Vault.** A $47 member asks the AI something, and the AI can tell them
 the answer exists in material they don't have. That is either an excellent upgrade mechanic or
 an infuriating paywall, depending entirely on how it's worded. **Worth designing on purpose.**
-
-> [!warning] One sentence in Alex's answer contradicts another
-> *"the $47 tier gives them a limited ai"* … and then … *"$47 gives them full ai access."*
->
-> Both appear in the same reply. **Not resolved by guessing.** The likely reading is that
-> *limited* belongs to the free tier and $47 is full access — but likely is not the same as
-> stated. Open as decision #2b.
 
 > [!question] Still open for this tier
 > - Community access — Skool tier, Discord, neither, both?
@@ -59,6 +66,10 @@ an infuriating paywall, depending entirely on how it's worded. **Worth designing
 > "7-day free trial" into customer-facing material until Alex confirms the tier and the
 > terms.
 
+**Possible direction, not confirmed.** Alex direct 2026-08-07: Free CleaningOS AI / Business
+GPS → 7-day trial of $47 CleaningOS → $47/month. Alex is still deciding — do not present this
+funnel shape as customer-facing fact.
+
 ## Guarantee
 
 **None recorded.** Do not imply one.
@@ -71,15 +82,15 @@ inventing one would be the most expensive fabrication in this vault.
 
 The ladder, as far as it's now defined:
 
-| Tier | Gets | Upgrade trigger |
-|---|---|---|
-| **Free** | How to get to Survival | You reach Survival and want what's next |
-| **$47 Membership** | All core material + AI | The AI points at Vault material you don't have |
-| **$297 Group Coaching** | The Vault — older archives, 100+ hrs — plus coaching | *(scope beyond the Vault not yet documented)* |
-| **$6,000 1:1** | Everything, plus weekly 1:1 and a written guarantee | — |
+| Tier | Core promise | Gets | Upgrade trigger |
+|---|---|---|---|
+| **Free** | Figure out what I should work on | Business GPS Assessment, Season read across all four Engines, One Step, basic Engines/Seasons education, diagnosis-level AI | You want the full roadmap, not just the next step |
+| **$47 Membership** | Show me how to build it | All core material, all 16 Engine × Season paths, Implementation-level AI | The AI points at Vault material you don't have |
+| **$297 Group Coaching** | Help me make the right decisions and coach me through it | Everything in $47, plus group coaching, the Vault, Strategist-level AI, advanced trainings | *(format/cadence not yet documented — see [[Group Coaching]])* |
+| **$6,000 1:1** | Help me implement it with direct human support | Everything, plus direct human involvement in implementation and a written guarantee | — *(contract-backed, see [[1-1 Coaching]] — not altered here)* |
 
-**The upgrade mechanic from $47 to $297 is the AI itself.** That's a real product design and
-it's now on record.
+**The AI points into the Vault as the $47 → $297 mechanic.** Real product design, on record.
+Full tier-by-tier AI job definitions live in [[CleaningOS AI]].
 
 ## Related
 
@@ -87,3 +98,4 @@ it's now on record.
 - [[Group Coaching]]
 - [[1-1 Coaching]]
 - [[Harvest CRM Offer]]
+- [[CleaningOS AI]]

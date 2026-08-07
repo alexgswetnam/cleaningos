@@ -12,7 +12,8 @@ updated: 2026-08-07
 # Group Coaching
 
 > [!abstract] In one line
-> $297/month group coaching. The headline outcome claim attached to it is currently unusable in marketing.
+> $297/month. Core promise: **help me make the right decisions and coach me through it.** The
+> headline $25k outcome claim attached to it is currently unusable in marketing — see below.
 
 ## Price
 
@@ -70,15 +71,41 @@ rate before writing terms.
 
 ## What's Included
 
-*Not recorded.* No source describes format, cadence, call schedule, community access, or
-what materials come with it.
+Alex direct 2026-08-07 — the product-access architecture. Format and cadence are still
+undecided; see NEEDS ALEX below. Everything in [[CleaningOS Membership]] ($47), plus:
 
-> [!question] NEEDS ALEX
+- Group coaching
+- Full [[CleaningOS AI]] — Strategist tier
+- The full premium Vault / legacy implementation library — older archives, 100+ hours
+- Advanced trainings
+- Deep dives
+- Legacy courses
+- Workshops / approved Q&A material, where appropriate
+- Advanced resources
+- Help with edge cases
+- Deeper diagnosis
+- Personalized prioritization
+- Accountability / coaching support
+
+**$297 CleaningOS AI — job: apply CleaningOS to my specific business.** Includes everything
+the Free and $47 AI can do, plus: deeply interpret the member's specific numbers, reason
+across multiple Engines, challenge the member's assumed bottleneck, use the member's next
+measurable goal, identify likely constraints, prioritize competing actions, build
+personalized weekly action plans, review implementation, prepare the member for coaching
+calls, use premium Vault material, use advanced implementation knowledge, work through edge
+cases, help with more complex business decisions.
+
+Flow: **Diagnose → Challenge → Prioritize → Personalize → Prepare for coaching.**
+
+**The Vault sits here, not as the main roadmap.** The Vault is deep implementation / advanced
+reference material — the core CleaningOS curriculum at $47 is the shortest clear path.
+Members come to the Vault when they need to go deeper. Not reorganized as part of this note.
+
+> [!question] NEEDS ALEX — format and delivery, still open
 > - Format and cadence — how many calls, how long, group size
-> - What's included beyond the calls
 > - Whether [[Harvest CRM Offer]] is bundled, discounted, or separate
-> - How it differs from [[CleaningOS Membership]] beyond price
-> - Whether the **7-day free trial** applies to this tier
+> - Whether the **7-day free trial** applies to this tier — Alex is still deciding, see
+>   [[CleaningOS Membership]] § Free Trial
 
 ## Guarantee
 
@@ -90,3 +117,4 @@ what materials come with it.
 - [[1-1 Coaching]]
 - [[Harvest CRM Offer]]
 - [[Philosophy]]
+- [[CleaningOS AI]]
