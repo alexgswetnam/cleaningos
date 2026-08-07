@@ -10,6 +10,10 @@ file only tells you where to start.
 3. `Voice/Alex Voice.md` — how Alex sounds. Imitate the anchors, not the adjectives.
    Outside Canon on purpose, and agents may write to it. Policy is at the top of the file.
 4. `02 Canon/Language.md` — naming rules. Harvest CRM is always both words.
+5. `03 Concepts/INDEX.md` — every concept in one line each. **Read this instead of
+   searching `03 Concepts/` page by page.** It is how Rule 2 gets obeyed cheaply.
+
+Or just run `/resume`, which does all five plus the open threads from last session.
 
 ## The four rules, compressed
 
@@ -37,6 +41,8 @@ file only tells you where to start.
 - `/reconcile` — resolve contested claims, audit published content for retired claims
 - `/voice` — turn a correction into a voice rule (run after every edit you make)
 - `/draft <format> <concept>` — render knowledge into a presentation asset
+- `/resume` — load last session: recent logs, open threads, what's waiting on Alex
+- `/save [description]` — close the session: log what changed, regenerate the index, commit
 
 ### Parallel variants — do not use yet
 
@@ -49,6 +55,7 @@ longer reading the Canon than it saves searching, so the sequential versions are
 
 Ideas → `03 Concepts/`. Sequences and SOPs → `04 Systems/`. Things sold →
 `05 Products/`. Things that promote → `06 Marketing/`. Internal → `07 Company/`.
+Session records → `08 Logs/` (written by `/save`, never linked to, never knowledge).
 
 If it defines an idea, it belongs in `03 Concepts/` and everything else links to it.
 See Constitution §V.

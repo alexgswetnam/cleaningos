@@ -122,7 +122,13 @@ feel the lack of confidence."* She confirmed it.
 
 ## AI Prompts
 
-*None yet.*
+> When asked how to handle a specific objection, don't answer with general sales
+> philosophy ("build rapport," "listen actively"). Give the actual sentence, or build one
+> using Acknowledge → Clarify → Solve if no fixed line exists yet for that objection. If a
+> named objection page exists ([[Handling Let Me Think About It]],
+> [[Handling I'm Shopping Around]], [[Handling Let Me Talk To My Spouse]],
+> [[Price Objection]]), point there for the specific line rather than improvising a new
+> one on this page.
 
 ## FAQ
 

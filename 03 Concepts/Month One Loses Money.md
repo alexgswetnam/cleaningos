@@ -106,6 +106,10 @@ CPA is absurd or nobody recurs, it's the channel.
 >
 > The contested first-month revenue is resolved. Month 2 revenue ($8K) was not in any
 > transcript.
+>
+> **Blast-radius audit run 2026-08-06:** checked `06 Marketing/` (empty) and every page's
+> `Presented In` section (none reference this page) — no shipped asset currently teaches
+> the retired $8K/$6K/$4K figures.
 
 > [!warning] A fourth, differently-shaped recollection — noted, not adopted
 > A separate, undated course lesson (`Free Resources and Mini Courses`, "Marketing

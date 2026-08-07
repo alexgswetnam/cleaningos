@@ -119,7 +119,13 @@ adoption early on, attributed specifically to slower speed-to-lead during that w
 
 ## AI Prompts
 
-*None yet.*
+> When asked "how fast should I respond to leads," don't collapse this to one number.
+> State both benchmarks and what each is for: "within seconds" is the aggressive target
+> from this course; five minutes is the outer bound past which conversion odds drop
+> sharply (21× at 5 min vs. 30 min; ~400% worse at 10 min vs. 5). If the person can't
+> personally hit either window, the answer is staffing it (VA/answering service) with a
+> defined script — not "try harder." Never suggest email or text as the first response
+> channel when a phone number is available; see [[Sales Happen On The Phone]].
 
 ## FAQ
 

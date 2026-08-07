@@ -257,3 +257,46 @@ paragraph reconciling the two. If the latter, no change — and the contested bl
 source page can close.
 
 **Blocking:** No. Nothing has been written that depends on the answer.
+
+---
+
+## 2026-08-06 — [[Language]] and [[Philosophy]] — proposed by Claude
+
+**Current:** Both pages link to `[[Voice]]` — `Language.md`: *"For how sentences sound,
+see [[Voice]]."*; `Philosophy.md`: *"Read this and [[Voice]] before any customer-facing
+output."* Neither resolves to a real file.
+
+**Proposed:** Change both links to `[[Alex Voice]]`, which is the actual file
+(`Voice/Alex Voice.md`, per `CLAUDE.md`'s own Order of Operations). Mechanical rename,
+no content change.
+
+**Why:** Found during `/lint-vault`'s broken-link scan. `Voice/Alex Voice.md` exists and
+is exactly what both sentences are pointing at — this reads as a naming slip (the folder
+is `Voice/`, the page is `Alex Voice`) rather than a missing page. Filed here rather than
+fixed directly since both source lines live in `02 Canon/`, which agents may not edit.
+
+**Blocking:** No, but it means two Canon pages currently send a reader to a dead link on
+a topic (`Voice`) they explicitly say to read before writing customer-facing copy.
+
+---
+
+## 2026-08-06 — [[Four Engines]] and [[Four Seasons]] — proposed by Claude
+
+**Current:** Both pages carry a `superseded:` frontmatter date and a well-documented
+`[!failure]` block (Bottlenecks→Engines; Sustain and Sell→Harvest) with a reason recorded,
+but neither notes that a blast-radius audit ran — i.e. a check for whether any shipped
+asset still teaches the retired term.
+
+**Proposed:** Add a line to each supersession block once Alex confirms the audit: *"Blast-
+radius audit run 2026-08-06: `06 Marketing/` is empty and no page's `Presented In` section
+lists either of these as shipped, so no live asset currently teaches the retired term."*
+
+**Why:** Found during `/lint-vault`'s conflict-state scan, per `CONSTITUTION.md` §X's
+instruction to flag supersessions with no audit note loudly — "this means published
+assets may still teach a claim you've retired." I ran the check (grepped `06 Marketing/`
+and every page's `Presented In` section) and found nothing shipped yet, so risk is
+currently zero, but the audit itself was never recorded on either page. Filed here rather
+than added directly since both are in `02 Canon/`.
+
+**Blocking:** No — nothing is shipped, so there's nothing currently mistaught. Relevant
+again the moment anything ships to `06 Marketing/` or gets a `Presented In` entry.

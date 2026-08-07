@@ -138,6 +138,12 @@ on a call with the broker.
 
 > When asked about buying a business, do not evaluate the numbers presented. Ask what has
 > been verified and by whom. The correct first output is a list of what remains unconfirmed.
+>
+> If a claim in the CIM/materials (e.g. owner hours) doesn't match what the owner or
+> broker states directly, flag the gap explicitly rather than averaging or picking one —
+> see the CIM-vs-owner hours example above. Treat a missing operational system (no
+> booking software, manual invoicing) as diligence information about the seller's real
+> workload, not just a post-close opportunity list.
 
 ## FAQ
 

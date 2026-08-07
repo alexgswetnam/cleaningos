@@ -115,3 +115,4 @@ both the subcontract and buy-the-machine options on the call.
 - [[Commercial Cleaning Via Personal Network]]
 - [[Reactivating Past Clients]]
 - [[Leads Engine]]
+- [[Client Lifetime Value]]

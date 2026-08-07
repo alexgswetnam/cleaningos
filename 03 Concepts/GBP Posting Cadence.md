@@ -49,6 +49,15 @@ ranking in the first place.
 **Cadence:** 3 posts/week, Monday/Wednesday/Friday. 80% updates (services, tips,
 testimonials), 20% offers.
 
+> [!info] A looser floor stated elsewhere — not treated as contradicting this
+> Two coaching calls give looser cadence language: "2x/week minimum" (2026-04-01) and
+> "every other day at minimum, daily is better" (2026-04-20) — see
+> [[Google Business Profile Naming]]. Read as a floor rather than a competing target: this
+> page's Mon/Wed/Fri/3-per-week routine satisfies both stated minimums and is the more
+> specific instruction (a dedicated SOP vs. conversational coaching guidance). Noted here
+> rather than silently merged, since the two sources were never reconciled by Alex
+> directly.
+
 **Photos:** always real job photos, before/after, focused on the cleaned room. Avoid
 faces, family items, documents, anything sensitive. Consistent filename convention:
 `city_service_cleaningbiz_001.jpg`.

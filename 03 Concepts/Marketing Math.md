@@ -130,7 +130,14 @@ There was no way to diagnose him.
 
 ## AI Prompts
 
-*None yet.*
+> When someone says "my marketing is broken," don't take the diagnosis at face value —
+> ask for the four numbers (cost per lead, close rate, CPA, average ticket) per channel
+> before agreeing or disagreeing. Most of the time the actual problem is close rate, not
+> the channel — see the worked examples above. Never quote a single blended close rate as
+> if it describes the business; always ask whether it's broken out by channel first, per
+> [[Close Rate By Channel]]. If citing this page's Q4 PPC close rate, note the open
+> Conflict History entry (26% vs. 41% in a different source) rather than stating either
+> number as settled.
 
 ## FAQ
 

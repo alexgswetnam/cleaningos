@@ -98,3 +98,5 @@ number, not established in any ingested source.
 - [[Automated Hiring Pipeline]]
 - [[Hiring Channels]]
 - [[Labor Engine]]
+- [[Business Finances]]
+- [[Cleaner Pay Structure]]

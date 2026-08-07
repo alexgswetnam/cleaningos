@@ -51,11 +51,7 @@ One member: **70% conversion in December, 16% in January.** Same business, same 
 
 ## Student Examples
 
-- [[Client Lifetime Value]]
-- [[Month One Loses Money]]
-- [[Reactivating Past Clients]]
-- [[Marketing Math]]
-- [[Logistics Engine]]
+*None yet.*
 
 ## AI Prompts
 
@@ -75,4 +71,8 @@ One member: **70% conversion in December, 16% in January.** Same business, same 
 
 ## Related Concepts
 
-
+- [[Client Lifetime Value]]
+- [[Month One Loses Money]]
+- [[Reactivating Past Clients]]
+- [[Marketing Math]]
+- [[Logistics Engine]]

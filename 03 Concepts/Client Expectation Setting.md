@@ -135,7 +135,13 @@ booking alongside a companion SMS.
 
 ## AI Prompts
 
-*None yet.*
+> When asked to draft a client-facing expectation message, use The Faithful Cleaners'
+> real template as the structural model (six sections: prep, scope, limitations, payment,
+> policies, closing), not the generic `[Your Company Name]` placeholder version — but
+> swap in the requester's own policy numbers rather than assuming the 25%/72-hour fee or
+> 24-hour payment hold apply to their business. Those are one real company's confirmed
+> figures, not a vault-wide default. Always send it 24–48 hours before the appointment,
+> never after a complaint.
 
 ## FAQ
 

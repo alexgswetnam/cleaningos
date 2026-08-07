@@ -1,0 +1,162 @@
+---
+type: index
+title: Concept Index
+status: Generated
+updated: 2026-08-06
+---
+
+# Concept Index
+
+> [!warning] Generated file — do not edit by hand
+> Built by `.claude/scripts/build_index.py` from each page's own `In one line` block and frontmatter.
+> Edit the concept page; regenerate this.
+
+**Read this before creating any page.** Constitution Rule 2: if an idea below already covers what you're about to write, update that page instead.
+
+105 pages indexed across 03 Concepts, 04 Systems.
+
+---
+
+## Leads Engine
+
+- [[AI CRM Auditing]] — Connect Claude to Harvest CRM and ask it what's been missed — it catches the lead nobody followed up on.  (Developing)
+- [[Airbnb Clients]] — High pressure, thin margin, and one sick cleaner turns into a one-star review and a chargeback.
+- [[Call Breakdowns]] — Post the call you lost, not the one you won.  (Developing)
+- [[Channel Prioritization]] — Rank channels by profit, max one out, then move to the next — don't spread money across all of them.
+- [[Cleaning Is Holy Work]] — You are not selling cleaning. You are selling a home someone can walk into and breathe.  (Draft — Unverified)
+- [[Client Concentration]] — Fifty clients sounds safe until four of them are forty percent of the revenue.
+- [[Client Expectation Setting]] — A message sent 24–48 hours before the first clean, covering prep, scope, limitations, payment, and cancellation policy, prevents most complaints before they can happen.
+- [[Client Lifetime Value]] — The right question isn't what you made on the first clean — it's what the client is worth over a year.
+- [[Close Rate By Channel]] — A lead is not a lead — where it came from predicts whether it closes.  (Developing)
+- [[Commercial Cleaning Via Personal Network]] — Commercial accounts came from someone inside the industry socializing the pitch, not from SEO.  (Developing)
+- [[Conversion Tracking]] — If you can't attribute a lead to its source, none of your other numbers are real.  (Developing)
+- [[Diagnose Don't Take Orders]] — "What type of clean are you looking for?" is a menu. A doctor doesn't hand you a menu.
+- [[Differentiation And Trust Building]] — "We do great work, we're reliable, we're affordable" is what every competitor says too — a real differentiator is simple, stated immediately, and followed up with proof, not a menu of services.
+- [[Drop Scope Not Price]] — Meet their budget by cleaning less, never by charging less per hour.  (**contested**)
+- [[Form Field Optimization]] — Every extra form field loses submissions — qualify on the phone, not the form.  (Developing)
+- [[GBP Posting Cadence]] — Three real-job photos a week, Monday/Wednesday/Friday, 80% updates and 20% offers — consistency is the ranking signal, not any single post.
+- [[GBP Verification]] — If Google denies a pre-recorded verification video, request a live video call — it works.
+- [[Google Business Profile Naming]] — The two moves that matter most: a physical address (the pin) and the service + city in the name — signage has to match exactly.
+- [[Handling I'm Shopping Around]] — Affirm the shopper instead of fighting them — then take the spot off the table.
+- [[Handling Let Me Talk To My Spouse]] — The spouse is rarely the real objection — validate, then ask what their spouse's concern would be, and you'll usually hear the prospect's own concern instead.
+- [[Handling Let Me Think About It]] — Don't accept the delay — find out what they're actually thinking about.
+- [[Harvest CRM]] — The CRM (lead follow-up, hiring pipeline, workflow automation) — not [[BookingKoala]], which is the booking calendar.  (Developing)
+- [[KPI Tracking Sheet]] — The spreadsheet that makes every other number in the Leads Engine possible.
+- [[Labor Before Leads]] — When both are broken, fix the slower one first — and hiring is always the slower one.
+- [[Leads Don't Disappear]] — Nobody who called about a cleaning stopped wanting one. They booked someone else.  (Developing)
+- [[Leads Engine]] — <!-- ALEX: what this engine does, in your words -->  (Developing)
+- [[Leads Problem Or Sales Problem]] — Almost every owner stuck under $20K/month is stuck on one of two things — and they're not equally hard to fix.
+- [[Marketing Budget]] — About 10% of revenue — but only after you can convert the leads and keep the clients.
+- [[Marketing Math]] — Four numbers turn marketing spend from a gamble into an equation.
+- [[Marketing Seasonality]] — January, February and March are worse — that's the calendar, not your funnel breaking.
+- [[Micro-Commitments]] — Get ten small yeses before the big one, so the price is a confirmation instead of the start of a negotiation.
+- [[Mirroring]] — Read who you're talking to in the first thirty seconds, then match their tone, pace, and professionalism — same words, different delivery.
+- [[Month One Loses Money]] — Acquiring a client costs more than the first clean pays — that's the normal pattern, not a broken funnel.  (superseded 2026-08-05)
+- [[Monthly Revenue Tracking]] — Screenshot recurring revenue at the start and end of every month — that's the whole growth benchmark.  (Developing)
+- [[Not Every Client Is Your Client]] — Twenty clients at full price beats fifty at a discount — and the discounted fifty will cost you more than money.
+- [[One-Time To Recurring]] — The percentage of one-time cleans that become recurring clients — where the profit actually lives.  (Stub)
+- [[PPC Landing Page Strategy]] — Send paid traffic to your real website, not a squeeze page — the SEO benefit compounds.  (Developing)
+- [[PPC Search Not Display]] — Google's setup wizard will put you on the display network, and it costs 4–6x per lead.
+- [[Post-Clean Review Script]] — Send the review link while they're still on the phone, and confirm they got it — never "I'll send it after we hang up."
+- [[Price Delivery]] — The price is a statement, not a question. Say it with a period at the end.
+- [[Price Objection]] — Don't get on your heels — push back and find out what their cheap cleaner did to them.  (**contested**)
+- [[Pricing Methodology]] — Reverse-engineer a flat rate from a target hourly rate and a measured time-per-job — consistency, not perfection, is the goal.
+- [[Raising Prices On Existing Clients]] — Know your number, name it plainly, and be willing to lose the client who won't pay it.
+- [[Reactivating Past Clients]] — Twenty messages to old clients produced two bookings and two inquiries, from one button — and recurring clients need their own version.  (Developing)
+- [[Reciprocity]] — If you're going to reduce the price anyway, make it a favour with your name on it — never a silent adjustment.  (**contested**)
+- [[Referral Program]] — Before you can pay for leads, call the clients you already have and ask directly — it's free and it leverages trust you've already earned.
+- [[Reschedule Not Cancel]] — Before you accept a cancellation, ask whether moving the date would help instead — most "cancellations" are a timing problem, not a service problem.
+- [[SMS Opt-In Consent]] — The lead form is where you earn the right to text — build it wrong and the carrier denies you months later, after the leads are already in.
+- [[Sales Happen On The Phone]] — The call is a conversation where booking is the obvious next step — not a script you perform.
+- [[Sales Pipeline Stages]] — No lead gets lost: a visual answer to "where is this lead right now, and what happens next," with automation doing the remembering.
+- [[Social Media Strategy]] — Social media won't bring you a lead — it makes the leads you already have trust you more.  (Developing)
+- [[Speed To Lead]] — Twenty seconds from form submission to ringing phone. Everything downstream is easier when you're first.  (Developing)
+- [[Subcontracting Add-On Services]] — When a client wants something you don't offer, subcontract it and stay the point of contact — or buy the equipment once demand is proven.  (Developing)
+- [[The Soft Close]] — Put them on the schedule without charging them — the commitment happens in their head before it happens on their card.
+- [[Thumbtack]] — Profitable if you filter hard and call fast — expensive if you let it send you anything.
+- [[Website Technical SEO Basics]] — One H1 per page, local business schema everywhere, GBP embedded on service pages — most paid SEO companies still skip these.  (Developing)
+- [[Weekend Operations]] — Weekend staff aren't just answering phones — they're a sales team, a support team, and an ops team running in parallel, or Monday starts as chaos.
+- [[Word Tracks]] — Knowing your exact line frees you to actually listen, instead of scrambling for what to say next.
+
+## Labor Engine
+
+- [[Automated Hiring Pipeline]] — Every stage of hiring except the interview itself can fire on its own — move a card, the right email goes out. Now templatized into every member's Harvest CRM.
+- [[Backup Cleaner]] — Even with no growth plans, one cleaner leaving should not be able to take you down.  (Stub)
+- [[Cleaner Availability System]] — Ask every cleaner for next week's availability every Friday — don't discover the gap on Tuesday for Thursday.
+- [[Cleaner Handbook]] — A written onboarding packet that sets standards from day one — client-experience protocol, photo standards, and the supply list, given to every cleaner before their first job.
+- [[Cleaner Pay Structure]] — Pay per job, not per hour — a percentage of that job's revenue, with tips passed straight through and no guaranteed minimum.
+- [[Handling Upset Clients]] — Get on the same side of the table by default — and if that's not enough, get more upset than they are, on purpose.
+- [[Harvest CRM]] — The CRM (lead follow-up, hiring pipeline, workflow automation) — not [[BookingKoala]], which is the booking calendar.  (Developing)
+- [[Hiring Channels]] — Boosted Indeed post, Google Maps cold calls, and a local Facebook group post — then interview in bulk.
+- [[Hiring SOP]] — Qualify, interview on a rubric, paper the hire before assigning work, then pair the first job with an experienced cleaner and evaluate before going solo.
+- [[Internal Communication Via Discord]] — One ops room for cleaner communication, reporting, and escalation — not texts, calls, and random DMs.
+- [[Labor Before Leads]] — When both are broken, fix the slower one first — and hiring is always the slower one.
+- [[Labor Engine]] — <!-- ALEX: what this engine does, in your words -->  (Developing)
+- [[Scheduling Cleans]] — Two cleans per cleaner per day, with arrival windows — not four.  (Developing)
+- [[Spanish-Speaking Labor]] — Spanish-speaking cleaners can cut labor from ~50% of revenue to 30–35% — but the language gap needs a real bridge, not luck.  (Developing)
+- [[Subcontracting Add-On Services]] — When a client wants something you don't offer, subcontract it and stay the point of contact — or buy the equipment once demand is proven.  (Developing)
+- [[Subcontractor Vs W-2]] — Subcontract until you've got money saved — W-2 is a real cost jump, not a formality swap.  (Developing)
+- [[Testing A New Cleaner]] — Partner them with your best cleaner for two or three cleans, then ask your best cleaner.  (Stub)
+- [[Transitioning Clients To New Cleaners]] — Move willing clients to your new cleaners first, keep the resistant ones yourself, and only later tell the holdouts you can't do their home anymore.
+
+## Logistics Engine
+
+- [[A2P Verification]] — The compliance step that lets the business text clients from the CRM instead of your personal phone.
+- [[AI CRM Auditing]] — Connect Claude to Harvest CRM and ask it what's been missed — it catches the lead nobody followed up on.  (Developing)
+- [[Airbnb Clients]] — High pressure, thin margin, and one sick cleaner turns into a one-star review and a chargeback.
+- [[Automated Hiring Pipeline]] — Every stage of hiring except the interview itself can fire on its own — move a card, the right email goes out. Now templatized into every member's Harvest CRM.
+- [[BookingKoala]] — The booking calendar and provider-management software — pair individual providers, don't use teams.  (Developing)
+- [[Cleaner Availability System]] — Ask every cleaner for next week's availability every Friday — don't discover the gap on Tuesday for Thursday.
+- [[Client Expectation Setting]] — A message sent 24–48 hours before the first clean, covering prep, scope, limitations, payment, and cancellation policy, prevents most complaints before they can happen.
+- [[Client Lifetime Value]] — The right question isn't what you made on the first clean — it's what the client is worth over a year.
+- [[Handling A Lockout]] — Confirm it's real, notify the team immediately, call the client within minutes — speed is what saves the job, not sympathy.
+- [[IVR Setup]] — A one-key phone menu eliminates robocalls, because robots cannot press one.  (Stub)
+- [[Internal Communication Via Discord]] — One ops room for cleaner communication, reporting, and escalation — not texts, calls, and random DMs.
+- [[Logistics Engine]] — <!-- ALEX: what this engine does, in your words -->  (Developing)
+- [[One-Time To Recurring]] — The percentage of one-time cleans that become recurring clients — where the profit actually lives.  (Stub)
+- [[Payment Verification & Collection]] — Verify the card 48 hours before the job, confirm payment before you close the ticket — "we'll figure it out later" is how cleaners show up to jobs that don't pay.
+- [[Pricing Methodology]] — Reverse-engineer a flat rate from a target hourly rate and a measured time-per-job — consistency, not perfection, is the goal.
+- [[Quality Complaints]] — First decide whose fault it is — that single question determines who pays.
+- [[Reschedule Not Cancel]] — Before you accept a cancellation, ask whether moving the date would help instead — most "cancellations" are a timing problem, not a service problem.
+- [[SMS Opt-In Consent]] — The lead form is where you earn the right to text — build it wrong and the carrier denies you months later, after the leads are already in.
+- [[SOPs]] — When this happens, we do this — written down after you've done it three times, not before.
+- [[Scheduling Cleans]] — Two cleans per cleaner per day, with arrival windows — not four.  (Developing)
+- [[Smart Lists]] — A saved filter that keeps refilling itself as contacts start matching it.  (Stub)
+- [[The Walkthrough]] — A missed room almost always means nobody walked the house before leaving.
+- [[Uncontracted Recurring Revenue]] — Recurring isn't the same as committed. Revenue held together by a relationship leaves with the person who holds it.
+- [[Weekend Operations]] — Weekend staff aren't just answering phones — they're a sales team, a support team, and an ops team running in parallel, or Monday starts as chaos.
+- [[When To Hire A VA]] — Hire when you're losing money by not having one — which is earlier than it feels.
+- [[Zapier]] — Not a system — the glue between systems. Automate the handoffs that keep breaking, and nothing else.  (Developing)
+
+## Leadership Engine
+
+- [[Add-Backs And SDE]] — SDE is the seller's argument, not a fact. Read the add-backs and decide how much of it you believe.
+- [[Business Valuation]] — Annual profit times two to two-point-two — which is why you don't sell in the season before Harvest.
+- [[Buying A Cleaning Business]] — Find out how much of the business is the owner, and how much would still be there without him.  (Developing)
+- [[Call Breakdowns]] — Post the call you lost, not the one you won.  (Developing)
+- [[Cleaning Is Holy Work]] — You are not selling cleaning. You are selling a home someone can walk into and breathe.  (Draft — Unverified)
+- [[Client Concentration]] — Fifty clients sounds safe until four of them are forty percent of the revenue.
+- [[Deal Structure]] — The price is one number and the deal is many. How you pay is as negotiable as what you pay.  (Developing)
+- [[Due Diligence]] — The window after the LOI where you can still walk. Use all of it, and go stand on the job site.
+- [[Handling Upset Clients]] — Get on the same side of the table by default — and if that's not enough, get more upset than they are, on purpose.
+- [[Leadership Engine]] — <!-- ALEX: what this engine does, in your words -->  (Developing)
+- [[Managing A VA]] — Measure availability, not activity — and never invent busy work to fill their hours.
+- [[Monthly Revenue Tracking]] — Screenshot recurring revenue at the start and end of every month — that's the whole growth benchmark.  (Developing)
+- [[Non-Compete]] — Without one, the seller can take the clients and the employees and rebuild the thing you just paid for.
+- [[Owner Isolation And Community]] — Nobody in your personal life understands what a $29K month means — that gap is real, and finding one person who gets it is worth actively seeking out.  (Developing)
+- [[Owner-Dependent Revenue]] — Revenue that only exists because the owner is working for free. It looks like profit and it isn't.
+- [[Quality Complaints]] — First decide whose fault it is — that single question determines who pays.
+- [[Review Response Scripts]] — Reply to every review within 12 hours — the reply is public, and it's read by the next hundred people who haven't booked yet, not just the reviewer.
+- [[Reviews As Asset Not Identity]] — The business is an asset that supports your life, not a reflection of your worth — and reviews will destroy you if you confuse the two.
+- [[There Is No Behind]] — Comparing your timeline to someone with a different life is unfair to yourself, and feeling behind makes you act behind.
+- [[Uncontracted Recurring Revenue]] — Recurring isn't the same as committed. Revenue held together by a relationship leaves with the person who holds it.
+- [[What The Money Makes Possible]] — A revenue target that hasn't been converted into what it buys stops motivating anyone, including the Owner who set it.  (Draft — Unverified)
+- [[When To Hire A VA]] — Hire when you're losing money by not having one — which is earlier than it feels.
+
+## Unassigned
+
+- [[Augusta Rule]] — Rent your own home to your own business for up to 14 days a year, at fair market rate, and that expense is deductible to the business without being taxable income to you.  (Developing)
+- [[Business Finances]] — Money is the scoreboard for the whole system — track it simply, pay yourself first, and pay cleaners fast.
+- [[Business GPS]] — The diagnostic that tells an owner where they are and what their one step is.
+- [[Five Business Pillars]] — Acquire, Convert, Fulfill, Finances, Operate — the beginner's map, used before a founder is ready for the Four Engines diagnostic.
+- [[Sales Tax Compliance]] — Check your state/province's sales tax rules now — forgiveness programs exist, but only if you go find them.  (Developing)

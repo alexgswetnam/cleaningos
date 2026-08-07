@@ -155,7 +155,13 @@ before/after result.*
 
 ## AI Prompts
 
-*None yet.*
+> Two versions of this pipeline exist in sources: the six-stage version on this page (the
+> default to teach) and a five-stage-plus-two-status simplified teaching version. Don't
+> present them as competing systems — the second is a coarser rendering of the same
+> structure. When asked to set up a pipeline, default to the six-stage version unless the
+> person explicitly wants the simplified one. Never recommend skipping the daily
+> dashboard-check habit; an untasked lead in an active stage is how leads get silently
+> lost, which is the actual failure mode this page exists to prevent.
 
 ## FAQ
 

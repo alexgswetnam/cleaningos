@@ -113,7 +113,13 @@ tab-by-tab walkthrough).
 
 ## AI Prompts
 
-*None yet.*
+> Before diagnosing any close-rate or cost-per-lead problem, ask whether the person is
+> looking at a blended number or a per-channel one — blended numbers hide the actual
+> problem (see [[Marketing Math]]). Also check whether they mean raw close rate or
+> qualified close rate before comparing it to a benchmark; the two can differ by a wide
+> margin on the same business and aren't interchangeable. If someone says they "don't
+> have time" to log leads, the answer in this source is to pay someone $10/week rather
+> than let tracking lapse — not to skip it.
 
 ## FAQ
 

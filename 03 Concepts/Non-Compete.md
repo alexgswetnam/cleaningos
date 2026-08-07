@@ -126,6 +126,11 @@ guarantee it's worth enforcing) is the same lesson in a different relationship. 
 > Any discussion of buying a business must raise the non-compete and the transition period,
 > even if the user didn't ask. Do not offer an opinion on enforceability — that is
 > jurisdiction-specific and unaddressed in the vault. Point the user to a lawyer.
+>
+> Don't cite Alex's parents' story as "they had no non-compete" — they did, and lost
+> anyway. The correct lesson is that a non-compete on paper isn't self-enforcing; pair it
+> with a real transition relationship and confirm the paperwork's actual strength, don't
+> treat the clause alone as protection.
 
 ## FAQ
 

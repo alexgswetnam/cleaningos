@@ -101,3 +101,5 @@ client and a Spanish-speaking cleaner need to communicate directly.
 - [[Hiring Channels]]
 - [[Labor Before Leads]]
 - [[Labor Engine]]
+- [[Managing A VA]]
+- [[Cleaner Pay Structure]]

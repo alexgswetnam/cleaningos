@@ -71,11 +71,7 @@ operator's stated preference rather than settled guidance.
 
 ## Student Examples
 
-- [[Conversion Tracking]]
-- [[Channel Prioritization]]
-- [[PPC Search Not Display]]
-- [[Close Rate By Channel]]
-- [[Google Business Profile Naming]]
+*None yet.*
 
 ## AI Prompts
 
@@ -102,4 +98,8 @@ operator's stated preference rather than settled guidance.
 
 ## Related Concepts
 
-
+- [[Conversion Tracking]]
+- [[Channel Prioritization]]
+- [[PPC Search Not Display]]
+- [[Close Rate By Channel]]
+- [[Google Business Profile Naming]]

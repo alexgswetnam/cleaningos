@@ -62,11 +62,7 @@ On Meta: *"You get a bunch of leads, they're five to $15 cost per lead, but then
 
 ## Student Examples
 
-- [[Marketing Math]]
-- [[Channel Prioritization]]
-- [[Thumbtack]]
-- [[Leads Problem Or Sales Problem]]
-- [[Conversion Tracking]]
+*None yet.*
 
 ## AI Prompts
 
@@ -86,4 +82,8 @@ On Meta: *"You get a bunch of leads, they're five to $15 cost per lead, but then
 
 ## Related Concepts
 
-
+- [[Marketing Math]]
+- [[Channel Prioritization]]
+- [[Thumbtack]]
+- [[Leads Problem Or Sales Problem]]
+- [[Conversion Tracking]]
