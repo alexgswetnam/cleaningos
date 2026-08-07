@@ -44,8 +44,12 @@ yet.**
 >
 > [[1-1 Coaching]] already has all seven in a signed agreement. **That's the template.**
 
-**Two remedies named, neither chosen.** 1:1 help, or a large refund. A guarantee has to say
-which, in what order, and who decides. Both remain on the table until Alex picks.
+**Remedy decided, Alex 2026-08-07:** pause billing (stop charging the member) and give them
+biweekly 1:1 help, continuing until they reach $25k/month. Not a straight refund and not a
+straight 1:1-help-only offer — a hybrid of both, paced biweekly rather than open-ended.
+
+**Still open:** does this also refund months already paid, or only pause charges going
+forward? That determines refund quantum (checklist term 5, `07 Company/Claim Register.md`).
 
 **Exposure worth checking first.** $297/month × 12 = **$3,564** per member. One proposed
 remedy is 1:1 help, which sells for **$6,000**. Model it at realistic group size and claim

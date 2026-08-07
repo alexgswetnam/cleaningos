@@ -38,11 +38,11 @@ permission.
 | "Access to almost all core material" | [[CleaningOS Membership]] | Alex direct 2026-08-07 | NEEDS VERIFICATION | n/a | **No** | Unsellable until the exclusions are named |
 | $297/month | [[Group Coaching]] | Alex direct 2026-08-07 | NEEDS VERIFICATION | n/a | Not yet | Same |
 | $6,000 program price | [[1-1 Coaching]] | 1:1 Coaching Agreement | **VERIFIED** | n/a | Yes | Contract text. Klarna over 12 months is the payment mechanism, not a different price |
-| $147/month student rate | [[Harvest CRM Offer]] | 1:1 Coaching Agreement | **VERIFIED** as contract text | n/a | **No** | Verified as *written*, not as *current*. Conflicts with $197 |
-| $197/month standalone | [[Harvest CRM Offer]] | `Logistics Fundamental Course → What is a CRM` | NEEDS VERIFICATION | n/a | **No** | No source reconciles it with $147 |
+| $147/month, 1:1 coaching students only, active engagement only | [[Harvest CRM Offer]] | 1:1 Coaching Agreement | **VERIFIED** as contract text | n/a | **No** | Reconciled with $197, Alex 2026-08-07 — not a conflict, two eligibility states. Not yet cleared for public copy |
+| $197/month standalone — also applies to CleaningOS Membership and Group Coaching members | [[Harvest CRM Offer]] | `Logistics Fundamental Course → What is a CRM`; bundling ruling Alex direct 2026-08-07 | NEEDS VERIFICATION | n/a | **No** | Lesson-sourced price still not corroborated by a current sales page; the "no bundling discount" ruling is direct from Alex |
 | Competitor CRMs at $1,000–$2,000 setup + $200–$400/mo | [[Harvest CRM Offer]] | `Logistics Fundamental Course → What is a CRM` | NEEDS VERIFICATION | n/a | **No** | Naming competitors publicly is Alex's call |
 | Bare GoHighLevel at ~$97/mo | [[Harvest CRM Offer]] | `Logistics Fundamental Course → What is a CRM` | NEEDS VERIFICATION | n/a | **No** | Third-party pricing, quoted from a lesson of unknown date. Verify current before using in a comparison |
-| 7-day free trial | Unknown tier | Historical, no source in vault | NEEDS VERIFICATION | n/a | **No** | Existed at some point. **Which tiers it applies to now is unknown.** Do not write it |
+| 7-day free trial | Free diagnostic (permanent) + $47 curriculum + [[Group Coaching]] ($297), per Alex direct 2026-08-07 | Alex direct 2026-08-07 | NEEDS VERIFICATION | n/a | **No** | Tier scope now has a working direction (not Canon) — trial reaches all the way to $297. Terms (what happens at day 8, does it default to $47 or require a choice) still undefined. Do not write it in copy until confirmed |
 
 ## Outcome and guarantee claims
 
@@ -67,7 +67,7 @@ already has all seven — it is the working precedent, not a hypothetical.
 | 1 | **Exact wording of the promise** | Draft: "$25k/month within 12 months" |
 | 2 | **When the clock starts** — enrollment, first call, or first paid month | **Missing** |
 | 3 | **Requirements to Claim** — what "uses the group coaching" verifiably means: attendance, implementation, ad spend, data access, tracking | **Missing.** This is the phrase that has been doing legal work all along |
-| 4 | **The remedy** — 1:1 help, refund, or both. If both: which first, and who chooses | **Two named, neither chosen** |
+| 4 | **The remedy** — 1:1 help, refund, or both. If both: which first, and who chooses | **Decided, Alex 2026-08-07:** pause billing (stop charging) + biweekly 1:1 help, continuing until the member hits $25k/month. Open sub-question: does this also refund months already paid, or only pause future charges? |
 | 5 | **Refund quantum** — "a huge amount" is not a term. A number or a formula | **Missing** |
 | 6 | **What voids it** — pausing, ghosting, not spending, not tracking | **Missing** |
 | 7 | **Governing law and dispute process** | 1:1 uses Texas + binding arbitration |
@@ -86,27 +86,36 @@ should be read by someone qualified before it is published.
 
 ## Student results and names
 
-**Every name below is `UNCONFIRMED` for permission.** Constitution §IX bars inventing a
-student result; it does not automatically grant the right to publish a real one. `VERIFY.md`
-has flagged this since 2026-08-05 and it is still open.
+**Cleared by Alex direct, 2026-08-07: Rick, Courtney, Jack, Melissa, Rashaun, Nicole,
+Keeley.** Heidi remains `UNCONFIRMED` — she was not included when the rest were cleared, and
+that has not been asked as a yes/no on its own yet. Constitution §IX bars inventing a
+student result; permission is a separate gate from verification, and both are now satisfied
+for the seven cleared names.
+
+> [!warning] One outstanding mechanical fix before publishing Rashaun's results
+> All 7 pages referencing him currently spell the name **"Rashawn."** Alex corrected the
+> spelling to **"Rashaun"** on 2026-08-07. The pages have not been renamed yet — treat the
+> name as `Rashaun` going forward and flag the correction next time those pages are touched,
+> rather than publishing the misspelling.
 
 | Person | Appears on | Result claimed | Verification | Permission | Public? |
 |---|---|---|---|---|---|
-| Rick | 32 pages | GBP revenue figures, VIP win-back workflow, close-rate numbers | Traced to coaching calls | **UNCONFIRMED** | **No** |
-| Courtney | 31 pages | Four static years, then record months; worked GPS evaluation | Traced to coaching calls | **UNCONFIRMED** | **No** |
-| Jack | 29 pages | Various | Traced to coaching calls | **UNCONFIRMED** | **No** |
-| Melissa | 9 pages | Took over sales calls, improving per call | Traced to coaching calls | **UNCONFIRMED** | **No** |
-| Rashawn | 7 pages | Built the hiring pipeline now templatized for everyone | Traced to coaching calls | **UNCONFIRMED** | **No** |
-| Nicole | 4 pages | Pre-CRM stage example | Traced to coaching calls | **UNCONFIRMED** | **No** |
-| Heidi | 2 pages | Sales call example | Traced to coaching calls | **UNCONFIRMED** | **No** |
-| Keeley | 1 page | Brand-new owner, onboarding example | Traced to a coaching call | **UNCONFIRMED** | **No** |
+| Rick | 32 pages | GBP revenue figures, VIP win-back workflow, close-rate numbers | Traced to coaching calls | **CLEARED** — Alex direct 2026-08-07 | **Yes** |
+| Courtney | 31 pages | Four static years, then record months; worked GPS evaluation | Traced to coaching calls | **CLEARED** — Alex direct 2026-08-07 | **Yes** |
+| Jack | 29 pages | Various | Traced to coaching calls | **CLEARED** — Alex direct 2026-08-07 | **Yes** |
+| Melissa | 9 pages | Took over sales calls, improving per call | Traced to coaching calls | **CLEARED** — Alex direct 2026-08-07 | **Yes** |
+| Rashaun *(spelling corrected from "Rashawn" — Alex, 2026-08-07)* | 7 pages | Built the hiring pipeline now templatized for everyone | Traced to coaching calls | **CLEARED** — Alex direct 2026-08-07 | **Yes** — pending spelling fix across the 7 pages that currently spell it "Rashawn" |
+| Nicole | 4 pages | Pre-CRM stage example | Traced to coaching calls | **CLEARED** — Alex direct 2026-08-07 | **Yes** |
+| Heidi | 2 pages | Sales call example | Traced to coaching calls | **UNCONFIRMED** — not included when the rest were cleared, 2026-08-07 | **No** |
+| Keeley | 1 page | Brand-new owner, onboarding example | Traced to a coaching call | **CLEARED** — Alex direct 2026-08-07 | **Yes** |
 
-**Until permission is cleared, these are usable internally and anonymisable externally**
-— *"one member went from…"* — provided the number itself is traced to a raw source, not to
-an AI summary. See `09 Derived/README.md`.
+**Heidi's result stays anonymisable-only until permission is cleared** — *"one member went
+from…"* — provided the number itself is traced to a raw source, not to an AI summary. See
+`09 Derived/README.md`.
 
-Elijah appears on 21 pages and is a team member, not a student. Whether his name belongs in
-customer-facing copy is open in `VERIFY.md`.
+Elijah appears on 21 pages and is a team member, not a student. **Resolved, Alex direct
+2026-08-07: internal only, not customer-facing.** His name stays out of Group Coaching,
+Skool, and marketing copy.
 
 ## Claims with no proof at all
 

@@ -26,15 +26,20 @@ Alex's partner. Co-signs the [[1-1 Coaching]] agreement as a Provider — *"toge
 ## Unknown
 
 - His role and what he owns day to day
-- Whether he appears in Group Coaching, Skool, or marketing
 - Whether he's a co-founder, partner, or contractor
-- Whether his name should appear in customer-facing copy
+
+## Resolved
+
+**Internal only, not customer-facing.** Alex direct, 2026-08-07: Elijah's name stays out of
+Group Coaching, Skool, and marketing copy. This settles decision #9 in
+`00 Inbox/open-decisions.md` — role and ownership stake are still undefined, but public
+visibility no longer is.
 
 ## For Agents
 
-**Do not write about Elijah beyond what's confirmed above.** The default assumption in
-customer-facing copy should be Alex as the voice, unless you're describing the 1:1
-program — where the guarantee is made by both.
+**Do not write about Elijah in customer-facing material.** The default voice in
+customer-facing copy is Alex, including for the 1:1 program where the guarantee is legally
+joint — the joint-signer fact is a contract detail, not a cue to name him publicly.
 
 ## Related Concepts
 

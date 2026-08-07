@@ -75,18 +75,20 @@ Flow: **Diagnose → Challenge → Prioritize → Personalize → Prepare for co
 > AI phrases the point-into-the-Vault moment is still open — see decision **#34** in
 > `00 Inbox/open-decisions.md`.
 
-## Trial note — working direction, not decided
+## Trial — scope decided, terms not yet
 
-May keep the existing 7-day trial. If so, likely shape:
+Alex, 2026-08-07: the 7-day trial reaches further than first drafted.
 
 - **Permanent free**: Diagnostic, Business GPS / Survival AI, free Survival-level help.
-- **7-day trial**: temporary access to the $47 curriculum and Implementation AI.
-- **After trial**: $47/month to retain full core CleaningOS access.
+- **7-day trial**: temporary access to the $47 curriculum + Implementation AI **and**
+  [[Group Coaching]] ($297) — Strategist AI included.
+- **After trial**: unresolved. The original working direction assumed a drop to $47/month.
+  Whether that still holds once the trial includes $297-level access, or whether the member
+  has to actively choose a tier at day 8, is **not decided** — see decision #3 in
+  `00 Inbox/open-decisions.md`.
 
-Not a final funnel decision. The trial's existence and terms are separately tracked as
-`NEEDS VERIFICATION` in `07 Company/Claim Register.md` and as decision **#3** in
-`00 Inbox/open-decisions.md` — this section does not resolve that, it just states the
-likely shape *if* a trial is kept.
+Not Canon. Tracked as `NEEDS VERIFICATION` in `07 Company/Claim Register.md` — do not write
+trial terms into customer-facing copy until the day-8 behavior is confirmed.
 
 ## What this page does not do
 

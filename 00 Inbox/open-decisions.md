@@ -20,17 +20,17 @@ Sources: `VERIFY.md` · `07 Company/Claim Register.md` · `00 Inbox/review-queue
 | # | Decision | Blocks |
 |---|---|---|
 | ~~1~~ | ~~**Classify the $25k claim**~~ | ⚠️ **Answered twice.** Target → then **contractual guarantee**, same day. Terms don't exist, so it stays DO NOT USE. **7-term drafting checklist** in the Claim Register |
-| **1b** | **Write the guarantee terms** — clock start · Requirements to Claim · which remedy · refund quantum · what voids it · governing law | Group Coaching. Model the exposure first: $297×12 = $3,564/member, and one proposed remedy sells for $6,000 |
+| **1b** | **Write the guarantee terms** — clock start · Requirements to Claim · ~~which remedy~~ · refund quantum · what voids it · governing law. **Remedy decided 2026-08-07:** pause billing + biweekly 1:1 help until $25k/mo hit | Group Coaching. Still missing 5 of 7 terms — see the checklist in `07 Company/Claim Register.md` |
 | ~~2~~ | ~~**What does Membership exclude?**~~ | ✅ **The Vault** — older archives, 100+ hrs — sits at $297. $47 gets all core material + AI |
 | ~~2b~~ | ~~**AI access by tier**~~ | ✅ Not limited-vs-full — each tier does a different **job**. `05 Products/CleaningOS AI.md` |
 | ~~2c~~ | ~~**A CleaningOS AI is a product component and has no page anywhere**~~ | ✅ **`05 Products/CleaningOS AI.md`** created |
-| 3 | **7-day free trial — which tiers, what terms?** | Any copy mentioning a trial |
-| 4 | **Student permissions** — Rick, Courtney, Jack, Melissa, Rashawn, Nicole, Heidi, Keeley | Every proof section. 8 people, all `UNCONFIRMED` |
+| **3** | ~~7-day free trial — which tiers~~, **what terms?** Scope decided 2026-08-07: free diag (permanent) + $47 curriculum + Group Coaching, all in the trial. **Still open:** what happens at day 8 — default to $47, or member chooses? | Any copy mentioning a trial |
+| **4** | ~~Student permissions~~ — **7 of 8 cleared** 2026-08-07: Rick, Courtney, Jack, Melissa, Rashaun *(spelling corrected from "Rashawn")*, Nicole, Keeley. **Heidi still `UNCONFIRMED`** — not asked directly yet | Every proof section. `07 Company/Claim Register.md` updated |
 | ~~5~~ | ~~**Does CleaningOS Free exist?**~~ | ✅ **"How to get to Survival."** Scope recorded. Still open: which Engines, where it lives, AI access |
-| 6 | **Harvest CRM: $147 or $197?** Is $147 tied to active coaching? What happens when coaching ends | Harvest CRM pricing in any copy |
-| 7 | **Is Harvest CRM included/discounted/full price for Membership and Group members?** | Bundling and margin |
-| 8 | **May we name the two competitor CRMs publicly?** | The comparison table |
-| 9 | **Elijah** — role, whether he appears in Group Coaching / Skool / marketing | His name on 21 pages |
+| ~~6~~ | ~~**Harvest CRM: $147 or $197?**~~ | ✅ Both, reconciled — $147 while an active 1:1 coaching student, $197 standalone for everyone else |
+| ~~7~~ | ~~**Is Harvest CRM included/discounted/full price for Membership and Group members?**~~ | ✅ **Full price ($197)** at both tiers, no bundling discount |
+| ~~8~~ | ~~**May we name the two competitor CRMs publicly?**~~ | ✅ **No.** Keep the comparison generic |
+| ~~9~~ | ~~**Elijah** — whether he appears in Group Coaching / Skool / marketing~~ | ✅ **Internal only, not customer-facing.** Role/ownership stake still undefined |
 
 ## Tier 2 — blocks the graduation matrix reaching Canon
 
@@ -107,3 +107,30 @@ does; all three are meant to be genuinely useful. Recorded in `05 Products/Clean
 none final), and the 7-day trial noted as a working direction, not decided. Decision **#34**
 (how the AI points into the $297 Vault without feeling like a paywall) is still open —
 that page states the mechanic, not the wording.
+
+**#1b (partial) — guarantee remedy decided.** Alex, 2026-08-07.
+
+Pause billing (stop charging) + biweekly 1:1 help, continuing until the member hits
+$25k/month. Refund scope clarified: **pauses future charges only, does not refund months
+already paid.** Recorded in `05 Products/Group Coaching.md` and the drafting checklist in
+`07 Company/Claim Register.md`. **Still missing:** clock start, Requirements to Claim, what
+voids it, governing law. Still `DO NOT USE` in customer-facing copy until those exist.
+
+**#3 (partial) — trial scope decided, terms not.** Alex, 2026-08-07.
+
+The 7-day trial covers free diagnostic access (permanent) plus the $47 curriculum plus
+Group Coaching ($297) — broader than the original working draft. What happens at day 8 is
+undecided. Recorded in `05 Products/CleaningOS AI.md` and `07 Company/Claim Register.md`.
+
+**#6 — Harvest CRM pricing reconciled.** Alex, 2026-08-07.
+
+$147 and $197 were never in conflict — they're two eligibility states. $147/month applies
+only while actively a 1:1 coaching student (contract text, literal: ends when coaching
+ends). $197/month is the standalone rate for everyone else. Recorded in
+`05 Products/Harvest CRM Offer.md`.
+
+**#7 — Harvest CRM bundling decided.** Alex, 2026-08-07.
+
+CleaningOS Membership ($47) and Group Coaching ($297) members pay full price — $197/month,
+no bundling discount. Only 1:1 coaching carries the $147 rate. Recorded in
+`05 Products/Harvest CRM Offer.md`.
