@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Leads]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
 sources: [Every SOP We Use, 2026-04-01 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, Google Biz Profile Setup and Growth, Weekly Sales Training Call — April 6]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # GBP Posting Cadence

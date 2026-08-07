@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Leads, Logistics]
 season: [Survival, Stability]
 laws: [Build In Order]
 status: Canonical
 sources: [Get Phone Number + A2P Approval]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # SMS Opt-In Consent

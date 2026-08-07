@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Logistics]
 season: [Stability, Scale]
 laws: [Stop Guessing, Clarity Creates Momentum]
 status: Canonical
 sources: [Every SOP We Use, Leads 101 Part 2]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Payment Verification & Collection

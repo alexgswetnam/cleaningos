@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Labor, Logistics]
 season: [Stability, Scale]
 laws: [One Step Wins, Build In Order]
 status: Canonical
 sources: [2026-02-20 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Weekly Sales Training Call — April 6]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Automated Hiring Pipeline

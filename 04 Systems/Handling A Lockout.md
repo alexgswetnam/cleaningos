@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Logistics]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
 sources: [Every SOP We Use]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Handling A Lockout

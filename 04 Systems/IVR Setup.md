@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Logistics]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Stub
 sources: [2025-03-25 Weekly Coaching Call]
-updated: 2026-08-05
+updated: 2026-08-07
 ---
 
 # IVR Setup

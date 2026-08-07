@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Leads]
 season: [Stability, Scale]
 laws: []
 status: Canonical
 sources: [Free Thumbtack Leads + GBP Optimization, Every SOP We Use]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Post-Clean Review Script

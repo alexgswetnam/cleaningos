@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Labor]
 season: [Survival, Stability]
 laws: [Build In Order]
 status: Canonical
 sources: [2025-03-25 Weekly Coaching Call, Labor 101]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Testing A New Cleaner

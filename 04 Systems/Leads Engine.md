@@ -51,7 +51,6 @@ is an index, not a second definition.
 - [[Not Every Client Is Your Client]]
 - [[Drop Scope Not Price]]
 - [[Price Objection]]
-- [[SMS Opt-In Consent]]
 - [[Mirroring]]
 - [[Diagnose Don't Take Orders]]
 - [[Micro-Commitments]]
@@ -63,19 +62,13 @@ is an index, not a second definition.
 - [[Raising Prices On Existing Clients]]
 - [[Commercial Cleaning Via Personal Network]]
 - [[Referral Program]]
-- [[GBP Verification]]
 - [[Harvest CRM]]
 - [[Sales Pipeline Stages]]
-- [[GBP Posting Cadence]]
-- [[Weekend Operations]]
-- [[Client Expectation Setting]]
 - [[Monthly Revenue Tracking]]
-- [[Website Technical SEO Basics]]
 - [[Subcontracting Add-On Services]]
 - [[Social Media Strategy]]
 - [[AI CRM Auditing]]
 - [[Form Field Optimization]]
-- [[Post-Clean Review Script]]
 - [[Sales Pipeline Stages]]
 - [[Differentiation And Trust Building]]
 - [[Building Connection]]
@@ -85,14 +78,20 @@ is an index, not a second definition.
 - [[Ideal Customer Profile]]
 - [[Sell The Result Not The Service]]
 - [[Owner Learns Marketing First]]
-- [[Importing Contacts Into Harvest CRM]]
 - [[When To Fire A Client]]
 
 ## Workflows & SOPs
 
 Sequences of concepts. These live here, not in Concepts.
 
-*None yet.*
+- [[SMS Opt-In Consent]]
+- [[GBP Verification]]
+- [[GBP Posting Cadence]]
+- [[Weekend Operations]]
+- [[Client Expectation Setting]]
+- [[Website Technical SEO Basics]]
+- [[Post-Clean Review Script]]
+- [[Importing Contacts Into Harvest CRM]]
 
 ## By Season
 

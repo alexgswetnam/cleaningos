@@ -20,27 +20,18 @@ Hub page. What this engine is → [[Four Engines]]. What lives here is how it **
 Every concept tagged `engine: [Logistics]`. Each is defined once in `03 Concepts/` — this
 is an index, not a second definition.
 
-- [[IVR Setup]]
 - [[Smart Lists]]
 - [[Airbnb Clients]]
 - [[One-Time To Recurring]]
 - [[Quality Complaints]]
 - [[The Walkthrough]]
-- [[A2P Verification]]
-- [[SMS Opt-In Consent]]
 - [[Scheduling Cleans]]
 - [[SOPs]]
 - [[Zapier]]
 - [[BookingKoala]]
 - [[Pricing Methodology]]
 - [[Internal Communication Via Discord]]
-- [[Handling A Lockout]]
-- [[Payment Verification & Collection]]
 - [[Payment Processor Selection]]
-- [[Client Expectation Setting]]
-- [[Weekend Operations]]
-- [[Cleaner Availability System]]
-- [[Importing Contacts Into Harvest CRM]]
 - [[Systems Cost-Benefit Analysis]]
 - [[Picking The Right VA]]
 - [[When To Fire A VA]]
@@ -50,7 +41,15 @@ is an index, not a second definition.
 
 Sequences of concepts. These live here, not in Concepts.
 
-*None yet.*
+- [[IVR Setup]]
+- [[A2P Verification]]
+- [[SMS Opt-In Consent]]
+- [[Handling A Lockout]]
+- [[Payment Verification & Collection]]
+- [[Client Expectation Setting]]
+- [[Weekend Operations]]
+- [[Cleaner Availability System]]
+- [[Importing Contacts Into Harvest CRM]]
 
 ## By Season
 

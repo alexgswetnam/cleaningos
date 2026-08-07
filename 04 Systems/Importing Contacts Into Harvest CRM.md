@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Leads, Logistics]
 season: [Stability, Scale]
 laws: [Build In Order]
 status: Developing
 sources: [Upload Leads & Contacts to Harvest CRM]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Importing Contacts Into Harvest CRM

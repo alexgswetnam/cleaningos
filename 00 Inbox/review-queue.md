@@ -19,6 +19,29 @@ Delete an entry once it's resolved. Note the resolution in that session's log.
 
 ---
 
+## Concept vs System — flagged, not moved (2026-08-07)
+
+From the v2 refactor, Commit 4. Eighteen pages moved to `04 Systems/`. These four sat close
+enough to the line that moving them silently would have been a guess. **They stayed in
+`03 Concepts/`.** Each needs one decision from Alex: is the page's main value understanding
+a principle, or following steps?
+
+| Page | The case for moving | The case for keeping | Claude's lean |
+|---|---|---|---|
+| [[Cleaner Job Notes]] | It's a documentation standard — three fixed headers, applied to every client | The value is knowing *that* notes need structure, not the typing | Keep |
+| [[Transitioning Clients To New Cleaners]] | It is a sequence: willing clients first, resistant ones later, holdouts last | The sequence encodes a judgment about client psychology, not a procedure | Keep, but it's the closest call of the four |
+| [[Reactivating Past Clients]] | A campaign you run — segment, message, measure | Its core claim is *leads don't disappear*, which is a belief | Split later: the belief stays, the campaign becomes a System |
+| [[Sales Pipeline Stages]] | Setting up pipeline stages is a build task | The page explains what the stages *mean* and why no lead gets lost | Keep |
+
+Also noted, not acted on: `04 Systems/Cleaner Handbook.md` shares a basename with
+`01 Sources/Course Videos/Labor 101/Cleaner Handbook.txt`. Constitution §VI bars a page in
+`03–07` from sharing a filename with anything in `01 Sources/`. The rule's *purpose* —
+ambiguous wikilinks — isn't violated, because Obsidian resolves `[[Cleaner Handbook]]` to
+the `.md` and ignores the `.txt`. Pre-existing, not introduced by the move. Either narrow
+§VI to `.md` collisions or rename the page.
+
+---
+
 ## Merge proposals
 
 Two pages that may be one concept. The agent split them per Constitution §III — "when

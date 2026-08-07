@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Logistics]
 season: [Survival, Stability]
 laws: [Build In Order]
 status: Canonical
 sources: [2025-03-11 Weekly Coaching Call, Get Phone Number + A2P Approval]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # A2P Verification

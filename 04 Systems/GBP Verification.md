@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Leads]
 season: [Survival, Stability]
 laws: []
 status: Canonical
 sources: [Google Biz Profile Setup and Growth → DO NOT use video verification, 2026-03-04 Weekly Coaching Call, Free Thumbtack Leads + GBP Optimization, Leads 101 part 1, Alex direct 2026-08-06]
-updated: 2026-08-06
+updated: 2026-08-07
 superseded: 2026-08-06
 ---
 

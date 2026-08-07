@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Labor, Logistics]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing]
 status: Canonical
 sources: [2026-02-24 Weekly Coaching Call, Every SOP We Use]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Cleaner Availability System

@@ -23,12 +23,8 @@ Every concept tagged `engine: [Labor]`. Each is defined once in `03 Concepts/` â
 is an index, not a second definition.
 
 - [[Labor Before Leads]]
-- [[Testing A New Cleaner]]
 - [[Backup Cleaner]]
 - [[Hiring Channels]]
-- [[Automated Hiring Pipeline]]
-- [[Cleaner Handbook]]
-- [[Cleaner Availability System]]
 - [[Transitioning Clients To New Cleaners]]
 - [[Scheduling Cleans]]
 - [[Harvest CRM]]
@@ -36,7 +32,6 @@ is an index, not a second definition.
 - [[Spanish-Speaking Labor]]
 - [[Subcontractor Vs W-2]]
 - [[Internal Communication Via Discord]]
-- [[Hiring a Cleaner SOP]]
 - [[Cleaner Pay Structure]]
 - [[Hire Slow Fire Fast]]
 - [[Three-Strike System]]
@@ -48,7 +43,11 @@ is an index, not a second definition.
 
 Sequences of concepts. These live here, not in Concepts.
 
-*None yet.*
+- [[Testing A New Cleaner]]
+- [[Automated Hiring Pipeline]]
+- [[Cleaner Handbook]]
+- [[Cleaner Availability System]]
+- [[Hiring a Cleaner SOP]]
 
 ## By Season
 

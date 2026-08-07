@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Leads, Logistics]
 season: [Scale]
 laws: [One Step Wins]
 status: Canonical
 sources: [Every SOP We Use]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Weekend Operations

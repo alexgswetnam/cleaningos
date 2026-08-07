@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Leads, Logistics]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
 sources: [Every SOP We Use, Free Resources and Mini Courses, Labor 101]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Client Expectation Setting

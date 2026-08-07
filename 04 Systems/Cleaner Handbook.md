@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Labor]
 season: [Survival, Stability]
 laws: []
 status: Canonical
 sources: [2026-02-20 Weekly Coaching Call, Every SOP We Use, Free Resources and Mini Courses, Labor 101]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Cleaner Handbook

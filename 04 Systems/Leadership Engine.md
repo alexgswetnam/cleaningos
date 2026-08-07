@@ -38,7 +38,6 @@ is an index, not a second definition.
 - [[There Is No Behind]]
 - [[Handling Upset Clients]]
 - [[Owner Isolation And Community]]
-- [[Review Response Scripts]]
 - [[Picking The Right VA]]
 - [[When To Fire A VA]]
 
@@ -46,6 +45,7 @@ is an index, not a second definition.
 
 Sequences of concepts. These live here, not in Concepts.
 
+- [[Review Response Scripts]]
 - [[Buying A Cleaning Business]] — NDA → evaluation → LOI → due diligence → close or walk
 
 ## By Season

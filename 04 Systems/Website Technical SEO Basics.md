@@ -1,11 +1,11 @@
 ---
-type: concept
+type: system
 engine: [Leads]
 season: [Stability, Scale]
 laws: [Stop Guessing]
 status: Developing
 sources: [2026-03-18 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call, Free Resources and Mini Courses]
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Website Technical SEO Basics
