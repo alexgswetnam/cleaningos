@@ -71,6 +71,25 @@ time.
 **Ask for the current year.** Two years of financials is what gets offered. The buyers wanted
 2025 as well — the year in progress, which is the one nobody has had time to arrange.
 
+**Plan the post-close systems while you're still in diligence, not after.** A likely
+companion session to the broker call (same target: a personal "mountain house" add-back,
+add-backs roughly doubling in a year) has the buyers pressure-testing owner hours (CIM
+said 25–40/week; the owner told them ~20 on the call — a real gap worth resolving before
+close, not glossing over) and pre-planning what they'd implement on day one: a booking
+system for every W2 employee (BookingKoala, or Jobber if the seller needs
+quarterly/biannual frequency billing BookingKoala doesn't natively handle), and an
+on-call backup system for coverage rather than personally cleaning. **A gap in the
+seller's systems is diligence information, not just an opportunity** — a missing booking
+system or manual invoicing tells you the current owner's actual day-to-day load, which
+should inform the owner-hours question above.
+
+**Don't disqualify a service line just because you personally can't do it.** One buyer
+was uncomfortable with a service line (construction cleanup) he wasn't personally trained
+in — worth roughly 25% of the target's revenue. The resolution: it's within the
+employees' skill set, not necessarily the buyer's, so the plan was to keep the line and
+grow the recurring side around it rather than cut ~a quarter of revenue over a personal
+skill gap.
+
 ## Checklist
 
 - [ ] Sign the NDA, request the CIM
@@ -84,6 +103,11 @@ time.
 - [ ] Client list with revenue per client and contract status
 - [ ] Agree the [[Non-Compete]] and transition period
 - [ ] Only then, structure the deal — see [[Deal Structure]]
+- [ ] Cross-check the owner's stated hours against what the CIM claims — resolve the gap,
+      don't average it
+- [ ] Plan which operational systems you'd implement day one; a gap in seller systems is
+      itself diligence signal
+- [ ] Don't cut a service line you personally can't perform if employees already can
 
 ## Templates
 
@@ -97,12 +121,18 @@ time.
 ## Videos
 
 - [[Another convo w the broker]]
+- [[Evaluating the Specifics of the Biz]]
 
 ## Student Examples
 
 **Alex and [[Elijah]]** — the whole source is them doing this. The debrief conclusion is the
 model outcome: *"on the surface it's a fair deal"* and *"the books aren't a clean source of
 truth,"* held simultaneously, with a specific list of what would resolve it.
+
+**Two buyers, likely the same deal** — `Evaluating the Specifics of the Biz` isn't
+explicitly identified as Alex and Elijah, but reviews what appears to be the same target
+business independently, working the CIM/PowerPoint together via screenshots rather than
+on a call with the broker.
 
 ## AI Prompts
 

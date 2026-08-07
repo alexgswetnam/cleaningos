@@ -33,7 +33,15 @@ SBA loan. Includes a detailed cautionary story about a non-compete failing in ar
 
 ## Concepts Updated — not duplicated
 
-*Filled in after ingestion — see report.*
+| Concept | What changed |
+|---|---|
+| [[Add-Backs And SDE]] | Cross-referenced this source; added corroborating detail (add-backs roughly doubling year over year, personal "mountain house" add-back). |
+| [[Due Diligence]] | Added: cross-check owner-stated hours against CIM claims rather than averaging the gap; plan post-close operational systems (booking system, on-call backup) during diligence, not after; don't disqualify a service line you personally can't perform if employees already can. |
+| [[Deal Structure]] | Added a second buyer pair's hard preference for seller financing over an SBA loan, as a concrete instance of the page's existing "prefer a structure you can walk away from" principle. |
+| [[Non-Compete]] | Major reframe via `[!warning]` block — a fuller telling shows Alex's parents *did* have a non-compete on paper; it was violated and they still lost in arbitration. Expanded the jiu-jitsu gym story with financial detail ($300K, wages garnished, nine years, ~$20K net). |
+| [[Client Concentration]] | Added a concrete threshold — "two clients at 50% of revenue" named directly as a big deal — filling a gap the page's own FAQ had flagged as missing. |
+| [[Reschedule Not Cancel]] | Confirmed the 25%/72-hour reschedule fee policy as a real figure, not an illustrative placeholder. |
+| [[Buying A Cleaning Business]] *(system)* | Added this source as a likely-same-target second review; folded in the owner-hours gap and day-one-systems-planning points. |
 
 ## Related Concepts
 

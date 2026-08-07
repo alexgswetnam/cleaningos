@@ -68,11 +68,28 @@ filenames as exported.
 
 ## Concepts Created
 
-*Filled in after ingestion — see report.*
+| Concept | Lesson | Why new |
+|---|---|---|
+| [[Augusta Rule]] | Augusta Rule | Tax strategy not covered anywhere else in the vault. |
+| [[Differentiation And Trust Building]] | Why would someone choose us | "Why us" as a distinct sales lever — no existing page owned this. |
 
 ## Concepts Updated — not duplicated
 
-*Filled in after ingestion — see report.*
+| Concept | Lesson(s) | What changed |
+|---|---|---|
+| [[Speed To Lead]] | Are my sales suffering because I don't have a VA; If this is true, you're leaking money... | Added the 5-minute/21×/78% stats block and VA script templates. |
+| [[Word Tracks]] | How do I get better at handling objections | Added the Acknowledge → Clarify → Solve framework and margin-safe concession scripts. |
+| [[SOPs]] | What is an SOP How do I use them | Added the 5-step SOP-build process. |
+| [[Business GPS]] | Why Your Cleaning Business Is Stuck | Added the full 4×4 Engine × Season bottleneck table. Uses the retired "Sustain/Sell" name in source; translated to Harvest per Canon. |
+| [[Marketing Math]] | Marketing Philosophy | Added December numbers with an explanatory (non-Contested) note. |
+| [[Month One Loses Money]] | Marketing Philosophy | Added a 4th, differently-shaped recollection of the origin-story numbers as a documented-not-adopted data point, per the page's existing "Alex direct outranks transcript recall" rule. |
+| [[Thumbtack]] | $100 Bonus - How to Get FREE Leads from Thumbtack | Added a corroborating paragraph. |
+| [[Website Technical SEO Basics]] | How to Get FREE Leads from Google! | Added WhiteSpark, Keyword Planner, and ranking-visualization content plus a Double Eagle student example. |
+| [[Google Business Profile Naming]] | How to Get FREE Leads from Google! | Added a cross-industry address-vs-reviews example. |
+| [[KPI Tracking Sheet]] | Sales & Marketing KPI Tracking Sheet | Added a full spreadsheet-mechanics Models section; fixed a pre-existing structural bug (empty Related Concepts, misplaced links); promoted Developing → Canonical. |
+| [[Call Breakdowns]] | Sales Call Breakdown Why They Didn't Book | Added the MAFHAF acronym and the Eddie/Werner worked example. |
+| [[Client Expectation Setting]] | Client Expectation Email; Use this for FEWER Unsatisfied Clients | Added the verbatim "Faithful Cleaners" email template and the before/during/after expectation-setting framework. |
+| [[Cleaner Handbook]] | Cleaner Picture Guidelines; Take before and after pics! | Added before/after and pre-existing-damage photo documentation guidance. |
 
 ## Related Concepts
 

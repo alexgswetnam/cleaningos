@@ -135,3 +135,4 @@ limits; uses Wave for categorized bookkeeping; recommends the Profit First book 
 - [[Client Lifetime Value]]
 - [[Cleaner Pay Structure]]
 - [[Cleaner Availability System]]
+- [[Augusta Rule]]

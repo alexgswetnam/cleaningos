@@ -4,7 +4,7 @@ engine: [Leads]
 season: []
 laws: []
 status: Developing
-sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call, leads 101 — Marketing Basics series, Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1, Objection Handling Course, 2026-02-20 Weekly Coaching Call, 2026-02-24 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call, Free Thumbtack Leads + GBP Optimization, Cleaning Biz 101 — Acquire, Cleaning Biz 101 — Convert]
+sources: [2025-03-25 Weekly Coaching Call, 2025-02-03 Weekly Coaching Call, leads 101 — Marketing Basics series, Premium Workshop — 4 Seasons, 4 Bottlenecks, Weekly Sales Training Call — March 26 P1, Objection Handling Course, 2026-02-20 Weekly Coaching Call, 2026-02-24 Weekly Coaching Call, 2026-03-04 Weekly Coaching Call, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call, Free Thumbtack Leads + GBP Optimization, Cleaning Biz 101 — Acquire, Cleaning Biz 101 — Convert, Free Resources and Mini Courses]
 updated: 2026-08-06
 ---
 
@@ -74,6 +74,7 @@ is an index, not a second definition.
 - [[Form Field Optimization]]
 - [[Post-Clean Review Script]]
 - [[Sales Pipeline Stages]]
+- [[Differentiation And Trust Building]]
 
 ## Workflows & SOPs
 

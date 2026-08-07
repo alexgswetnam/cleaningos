@@ -4,7 +4,7 @@ engine: [Leadership]
 season: [Harvest]
 laws: [Clarity Creates Momentum]
 status: Developing
-sources: [Another convo w the broker]
+sources: [Another convo w the broker, Evaluating the Specifics of the Biz]
 updated: 2026-08-06
 ---
 
@@ -82,6 +82,15 @@ clients he introduced you to.
 > and then pay the remaining balance off at the end. A delayed-start payment is a different
 > thing entirely.
 
+**A second buyer pair's stated preference: seller financing over SBA, as a hard
+condition.** A likely companion session states the preference plainly rather than
+weighing trade-offs: prefer seller financing to an SBA loan, specifically because the
+buyer isn't dependent on the acquisition's income (his own existing business already
+covers his living, so this purchase would be "extra") — and he wouldn't do the deal at
+all if seller financing weren't available. This is a concrete instance of the general
+principle already on this page: prefer a structure you can walk away from, and know your
+own cash position before proposing anything.
+
 ## Checklist
 
 - [ ] Establish the seller's actual timeline and motivation before proposing anything
@@ -99,10 +108,11 @@ clients he introduced you to.
 ## Videos
 
 - [[Another convo w the broker]]
+- [[Evaluating the Specifics of the Biz]]
 
 ## Student Examples
 
-*None yet — no deal in the source has closed.*
+*None yet — no deal in either source has closed.*
 
 ## AI Prompts
 

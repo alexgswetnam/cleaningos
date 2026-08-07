@@ -4,7 +4,7 @@ engine: [Leads, Leadership]
 season: [Scale, Harvest]
 laws: [Stop Guessing]
 status: Canonical
-sources: [Another convo w the broker]
+sources: [Another convo w the broker, Evaluating the Specifics of the Biz]
 updated: 2026-08-06
 ---
 
@@ -75,6 +75,11 @@ mind.
 - [ ] Ask what happens to the business if the largest leaves
 - [ ] If the seller can't produce this, note it as a finding rather than a delay
 
+**A concrete threshold, finally named** — the question this page's own FAQ had flagged
+as missing: *"if they just have like two accounts making up 50% of revenue, that's kind
+of a big deal."* Two clients at half the revenue is offered as the line where
+concentration becomes a serious problem worth walking over, not just noting.
+
 ## Templates
 
 > "How many clients are there, and do a few of them make up most of the revenue?"
@@ -86,6 +91,7 @@ mind.
 ## Videos
 
 - [[Another convo w the broker]]
+- [[Evaluating the Specifics of the Biz]]
 
 ## Student Examples
 
@@ -100,8 +106,9 @@ persuasive with one real chart in it.
 ## FAQ
 
 **Q:** What's a safe level of concentration?
-**A:** **Not established in any ingested source.** No threshold is given. Worth Alex naming
-one — students will ask.
+**A:** A first threshold now exists: two clients making up 50% of revenue is called out
+directly as "a big deal." No fuller scale (e.g. what's fine vs. borderline) has been
+given yet — worth Alex naming a complete threshold table.
 
 **Q:** Does this matter if I'm not selling?
 **A:** It's the difference between a slow month and an emergency. It matters more when you're

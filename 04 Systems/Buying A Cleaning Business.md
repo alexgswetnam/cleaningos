@@ -4,7 +4,7 @@ engine: [Leadership]
 season: [Harvest]
 laws: [Stop Guessing, Build In Order]
 status: Developing
-sources: [Another convo w the broker, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call]
+sources: [Another convo w the broker, 2026-04-20 Weekly Coaching Call, 2026-04-27 Weekly Coaching Call, Evaluating the Specifics of the Biz]
 updated: 2026-08-06
 ---
 
@@ -99,6 +99,22 @@ The buyers' conclusion held two things at once, which is the right outcome of a 
 
 > On the surface it's a fair deal, and now the price makes sense — but the books aren't a
 > clean source of truth. The owner is "missing some pretty big stuff."
+
+**A second pair of buyers, likely reviewing the same target.** `[[Evaluating the Specifics
+of the Biz]]` isn't explicitly tied to Alex and Elijah's call, but the overlap is close
+enough to be the same business evaluated independently: a personal "mountain house"
+add-back, add-backs roughly doubling year over year, and owner-performed construction
+cleanup at ~25% of revenue match the worked example above almost exactly. Two things this
+second pass adds to the sequence rather than repeats:
+
+- **A stated hours gap worth resolving, not averaging.** The CIM claimed 25–40 owner
+  hours/week; the owner himself said ~20 on the call. Question 5 in the rapid-fire set
+  above should flag a gap like this as a finding, not settle for a number in between.
+- **Plan day-one systems during diligence, not after close.** This pass had the buyers
+  pre-deciding what they'd implement immediately — a booking system for every W2 employee,
+  an on-call backup instead of the owner personally covering gaps — which turns a gap in
+  the seller's systems into diligence signal about the owner's current real workload. See
+  [[Due Diligence]] for the fuller writeup.
 
 ## Sourcing — an anecdote, not yet a method
 

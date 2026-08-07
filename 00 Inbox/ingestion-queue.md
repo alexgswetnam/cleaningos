@@ -74,6 +74,32 @@ Created/Updated tables for the full list. The two original zip files are still s
 `00 Inbox/` — file-delete permission wasn't granted this session, so they weren't
 removed; safe to delete manually, their content is fully archived in `01 Sources/`.
 
+## Ingested, 2026-08-06 (second pass) — Evaluating the Specifics of the Biz + Free Resources and Mini Courses
+
+Second same-day ingestion, run on a plain "ingest" directive checking the inbox again.
+Two new items had landed:
+
+- **Evaluating the Specifics of the Biz** — a Google Drive upload (RAW transcript +
+  AI summary), filed under `01 Sources/Student Calls/` since it's a peer working
+  session (two unnamed members walking a CIM), not an Alex-taught lesson. Almost
+  certainly the same acquisition target as `[[Another convo w the broker]]`, reviewed
+  independently — matching add-back and construction-cleanup figures are the tell. No
+  new concept pages; touched 7 existing pages, all acquisition-related. See its
+  Concepts Updated table.
+- **Free Resources and Mini Courses** — a two-zip-export upload (17 lead-magnet
+  lessons/resources, both `.txt` and `.md` for all of them), filed under `01 Sources/
+  Course Videos/`. One lesson ("Why Your Cleaning Business Is Stuck") uses the retired
+  "Sustain/Sell" Season name; translated to Harvest per `02 Canon/Four Seasons.md`'s
+  standing note, not treated as a Canon conflict. Produced 2 new concept pages
+  ([[Augusta Rule]], [[Differentiation And Trust Building]]) and touched 13 existing
+  ones. See its Concepts Created/Updated tables.
+
+The raw inbox originals are still sitting in `00 Inbox/` — both "Free Resources and Mini
+Courses" zips, plus the loose `Evaluating the specifics of the biz.txt` /
+`Evaluating_the_specifics_of_the_biz.md` pair. File-delete permission wasn't requested
+this session; all four are safe to delete manually, their content is fully archived in
+`01 Sources/`.
+
 ## Related Concepts
 
 - [[CONSTITUTION]]
@@ -84,3 +110,5 @@ removed; safe to delete manually, their content is fully archived in `01 Sources
 - [[SOPs]]
 - [[Objection Handling Course]]
 - [[Every SOP We Use]]
+- [[Evaluating the Specifics of the Biz]]
+- [[Free Resources and Mini Courses]]
