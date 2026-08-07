@@ -39,21 +39,28 @@ function of aggression and stage, not a fixed ratio," or (c) nothing — and the
 
 **Already actioned:** removed as a graduation criterion for Leads Scale.
 
-### Business GPS — how did Faithful Cleaners actually reach Harvest?
+### ✅ Resolved same day — the leadership layer is the VA
 
-[[Business GPS]] records Faithful Cleaners at Logistics and Leadership **Harvest**, owners
-working ~1 hr/week. The Business GPS grid's Leadership Harvest action is *"install leaders
-(ops, training, sales/admin)."*
+Raised and closed 2026-08-07. Recorded because the reasoning matters.
 
-**But Alex confirmed 2026-08-07 that he does not run team leads** — only pairing an
-experienced cleaner with a new one for feedback, at higher pay.
+**Raised:** [[Business GPS]] records Faithful Cleaners at Leadership **Harvest**, owners at
+~1 hr/week, while the grid's Harvest action reads *"install leaders (ops, training,
+sales/admin)"* — and Alex runs no team leads.
 
-So either the grid's "install leaders" is borrowed framing rather than a description of what
-happened, or the leadership layer is something else — VAs, systems, or both.
+**Resolved by Alex:** *"the team lead for cleaning isn't a thing. if you are saying team lead
+in ops training sales admin etc, that is my VA."*
 
-**What would settle it:** Alex names what actually carries the business at 1 hr/week. It
-rewrites Leadership Scale and Leadership Harvest, which are currently 14 and 10 pages of
-mostly exit material.
+Two things were hiding under one phrase. A management layer over **cleaners** does not exist
+here. A leadership layer over **ops, training, sales and admin** does — it's the VA, and the
+vault already documents it across 5 concepts and 8 lessons.
+
+**Open follow-up:** [[Picking The Right VA]], [[When To Hire A VA]] and [[When To Fire A VA]]
+are tagged both Logistics and Leadership. If the VA is the leadership layer, VA hiring may be
+a Leadership decision that happens to serve Logistics. Affects which cell teaches it.
+
+**Open follow-up:** no page states that the VA *is* the leadership layer. The VA pages cover
+hiring, picking, managing and firing one; none says what role it plays in the model. Possibly
+the one genuinely missing concept in Leadership. **Not built — flagged.**
 
 ---
 

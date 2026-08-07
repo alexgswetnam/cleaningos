@@ -48,12 +48,66 @@ line of a grid.
 Grounded in what Alex actually does. Still a real Scale marker: it takes the owner out of the
 quality-judgment loop. **No new concept required.**
 
-**Open contradiction this exposes.** [[Business GPS]] records Faithful Cleaners as Logistics
-and Leadership in **Harvest**, owners working ~1 hr/week. If Alex runs no team leads, that
-Harvest was **not** reached by installing a management layer. The Business GPS grid's
-Leadership Harvest action — *"install leaders (ops, training, sales/admin)"* — may not
-describe how it actually happened. **NEEDS ALEX:** what carries Faithful Cleaners at 1 hr/week
-— VAs, systems, or something else? The answer rewrites Leadership Scale and Harvest.
+### Resolved — the leadership layer is the VA
+
+Alex, 2026-08-07: *"the team lead for cleaning isn't a thing. if you are saying team lead in
+ops training sales admin etc, that is my VA."*
+
+**This closes the contradiction and withdraws my "one concept unblocks three cells" claim.**
+Nothing needs building. I was searching for a role that doesn't exist in this business, in a
+vault that already documents the one that does.
+
+**Two different things were hiding under one phrase:**
+
+| | What it is | Exists? |
+|---|---|---|
+| "Team lead" over **cleaners** | A management layer above cleaning staff | **No. Not a thing here** |
+| "Leader" in **ops / training / sales / admin** | **The VA** | **Yes — and well documented** |
+
+The Business GPS grid's *"install leaders (ops, training, sales/admin)"* isn't wrong. It's
+generic business language for what Alex does with a VA.
+
+**Existing coverage — the gap I claimed was not real:**
+
+Concepts: [[When To Hire A VA]] · [[Picking The Right VA]] · [[Managing A VA]] ·
+[[When To Fire A VA]] · [[Weekend Operations]]
+Sources: **7 lessons** in `Logistics Fundamental Course` — What is a VA · When is the right
+time · How to pick the right VA · How much should I pay a VA · How are VAs so cheap · Hire a
+VA for weekends/after-hours · When should I fire a VA — plus *Are my sales suffering because
+I don't have a VA* in `Free Resources`.
+
+### Consequences for three cells
+
+**Labor Scale — criterion stands.** *Someone other than the owner judged whether a new
+cleaner was good enough.* That's the experienced cleaner giving feedback at higher pay —
+confirmed real, already in [[Testing A New Cleaner]]. Not a team lead, and it doesn't need
+to be.
+
+**Leadership Scale — reframed.** Not "appoint team leads." Proposed:
+> **The VA owned a category of decision, made one without you, and you agreed with it.**
+
+**Leadership Harvest — reframed.** Not "install a management layer." Proposed:
+> **Ops, training and sales/admin are each owned by someone who isn't you, and you audit
+> rather than operate.** For this business that means one or more VAs.
+
+### The positioning insight
+
+**CleaningOS's leadership layer is a VA, not a manager.** Most business advice at this stage
+says hire managers. Alex's actual answer is cheaper, faster, and reachable for a small
+cleaning business.
+
+It also explains why Leadership Survival is only 3 pages: **the Leadership Engine here
+doesn't start with people management.** It starts with standards, and then goes to a VA.
+
+**Possible missing concept — flagged, not built:** no page states that the VA *is* the
+leadership layer. The VA pages teach hiring, picking, managing and firing one; none says what
+role the VA plays in the model. That may be the one genuinely missing idea, and it would sit
+in Leadership.
+
+**Tagging question — NEEDS ALEX:** [[Picking The Right VA]], [[When To Hire A VA]] and
+[[When To Fire A VA]] are tagged Logistics **and** Leadership. If the VA is the leadership
+layer, is VA hiring a Leadership decision that happens to serve Logistics? Affects which cell
+teaches it.
 
 ### Note on #8 — the sequencing is safe
 
