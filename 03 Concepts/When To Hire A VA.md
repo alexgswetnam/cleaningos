@@ -90,7 +90,8 @@ letting it not happen at all.
 know yet.** Don't delegate a task before you've learned it yourself — you can't evaluate
 whether it's being done right, and a VA can (knowingly or not) tell you it's fine when it
 isn't. Learn it first, then hand it off. This is also why a small-hours VA is premature
-for a genuinely brand-new owner still learning the business itself — see [[Five Business Pillars]] — though they can still use one for narrow, well-understood tasks like GBP
+for a genuinely brand-new owner still learning the business itself — though they can still
+use one for narrow, well-understood tasks like GBP
 posting once they know what "done well" looks like.
 
 ## Economics
