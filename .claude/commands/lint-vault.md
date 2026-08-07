@@ -38,20 +38,23 @@ the script. It was the cause of 41 of 49 broken links the first time anyone chec
   `Voice/Alex Voice.md` declares `aliases: [Voice]`, so `[[Voice]]` is valid. A checker
   that missed this reported two false positives twice and generated a bogus Canon
   proposal on 2026-08-06.
-- Pages with fewer than five outbound links, per the linking rule
 - **Orphans — check `03 Concepts/` and `04 Systems/` ONLY.** Do not report orphans in
   `01 Sources/`. Roughly 170 files there are individual course lessons living inside a
   course folder, and concepts cite the *course record*, not each lesson. They are archive
   by design and will never have inbound links. Reporting them buries the handful of real
   orphans under ~170 false positives and teaches the reader to skip this section.
 
-## 4. Template compliance
+## 4. Frontmatter and classification
 
-- Missing sections (they should be present-and-empty, not deleted)
-- Sections empty across many pages — this is a **content gap report**, the most useful
-  output here. If 30 concepts have empty `Student Examples`, that's not a formatting
-  problem, it's a business problem.
+**Do not report missing optional sections.** They are optional, and the old rule that
+they be present-and-empty is retired — see Constitution Rule 2.
+
 - Missing or malformed frontmatter
+- **Invalid `engine:` values** — anything not Leads, Labor, Logistics, Leadership
+- **Invalid `season:` values** — anything not Survival, Stability, Scale, Harvest
+- **`type:` contradicting the folder** — `type: concept` in `04 Systems/`, and the reverse
+- **Pages in `03 Concepts/` whose main value is a procedure**, and Systems pages that
+  define an idea instead of linking to one
 - `status: Canonical` with an empty `sources:` — a page asserting things nothing backs
 
 ## 5. Canon drift

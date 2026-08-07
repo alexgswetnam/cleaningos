@@ -59,8 +59,11 @@ Search first. Use searchVault with "repo:OWNER/REPO", and browse
 03 Concepts/ with readPath. Check for near-synonyms, not just exact titles.
 If a page for the idea exists under any name, UPDATE it.
 
-If you are unsure whether two ideas are the same concept, they are two.
-Split, and flag it for /lint-vault to review.
+DEFAULT TO UPDATE. Create a new concept only when all four are true: it is
+meaningfully distinct, independently reusable, substantial enough to be useful
+now, and likely to be referenced by curriculum, coaching, systems, or marketing.
+If you are unsure, do NOT create pages — add the candidate to
+00 Inbox/knowledge-gaps.md, naming the existing pages it might belong to.
 
 ### Writing to GitHub — exact protocol
 

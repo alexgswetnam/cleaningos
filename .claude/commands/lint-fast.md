@@ -25,14 +25,16 @@ All in **one message**. Each gets exactly one dimension:
 > name survives.
 
 **Auditor 2 — Graph integrity**
-> Every `[[Target]]` resolving to nothing. Orphan pages with zero inbound links. Pages
-> with fewer than five outbound links. For each orphan, propose where it should be
-> linked from.
+> Every `[[Target]]` resolving to nothing. Orphan pages with zero inbound links —
+> including orphaned Systems, which are worse than orphaned Concepts because nobody
+> can find the procedure. For each orphan, propose where it should be linked from.
+> **Do not report link counts.** There is no minimum.
 
 **Auditor 3 — Template & frontmatter**
 > Missing or malformed frontmatter. `status: Canonical` with empty `sources:`.
-> Presentation pages missing `renders:`. Deleted template sections (they should be
-> present-and-empty). Count which sections are empty *across* pages — that aggregate is
+> Presentation pages missing `renders:`. Invalid Engine or Season values. A `type:`
+> that contradicts the page's folder. **Do not report missing optional sections** —
+> they are optional. Report only genuinely required frontmatter. Historically this was
 > a content-gap report, not a formatting one.
 
 **Auditor 4 — Canon drift**

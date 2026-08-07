@@ -13,7 +13,9 @@ The governing document of CleaningOS. Every agent — Claude, ChatGPT, or anythi
 
 > [!info] Amended 2026-08-06 by Alex, executed by Claude on instruction Rewritten after the first large unattended ingest (8 courses, 135 lessons) exposed gaps. Changes: §II corrected and given the governing/descriptive test · §V gained rows for `08 Logs/` and the unnumbered files · §VI gained the filename-collision rule · §VII gained citation granularity · §VIII now routes through `03 Concepts/INDEX.md` · §IX gained the unsourced-claim rule. Nothing in §I, §III, §IV, §X or §XI changed in substance.
 
-> [!info] Amended 2026-08-07 by Alex, executed by Claude on instruction — CleaningOS v2 refactor §II: the Canon drops from six documents to five. **Four Roles removed** and demoted to [[Owner Role Evolution]] in `03 Concepts/` — it assigned one Role per Season, which implies one Season per business and contradicts [[Four Seasons]]. First removal on grounds of correctness rather than filing. §II also now states the model in one line and requires Alex's approval before any second customer-facing business map exists. [[Four Seasons]] rewritten to describe **per-Engine maturity**; universal revenue, headcount and recurring-client bands removed as a category error. [[Business GPS]] corrected separately — the constraint is selected by the owner's goal, not by the lowest-Season Engine. Proposal and reasoning recorded in `00 Inbox/canon-proposals.md`. Further amendments land as the refactor proceeds.
+> [!info] Amended 2026-08-07 by Alex, executed by Claude on instruction — CleaningOS v2 refactor §II: the Canon drops from six documents to five. **Four Roles removed** and demoted to [[Owner Role Evolution]] in `03 Concepts/` — it assigned one Role per Season, which implies one Season per business and contradicts [[Four Seasons]]. First removal on grounds of correctness rather than filing. §II also now states the model in one line and requires Alex's approval before any second customer-facing business map exists. [[Four Seasons]] rewritten to describe **per-Engine maturity**; universal revenue, headcount and recurring-client bands removed as a category error. [[Business GPS]] corrected separately — the constraint is selected by the owner's goal, not by the lowest-Season Engine. Proposal and reasoning recorded in `00 Inbox/canon-proposals.md`.
+>
+> **Rule 2 rewritten to DEFAULT TO UPDATE**, with four criteria a new concept must meet and a new queue, `00 Inbox/knowledge-gaps.md`, for candidates that don't clearly meet them. Retired: *"when unsure, they are two"* · *"create stubs eagerly"* (§VII) · *"a single ingestion should touch 5–15 pages"* (§VIII.5) · *"minimum five links"* (§VIII.6). The concept template lost ten mandatory empty headings and a separate System template now exists. Further amendments land as the refactor proceeds.
 
 ---
 
@@ -81,7 +83,21 @@ There is exactly **one** page per concept. It is canonical. Everything else link
 
 Before creating any page, **read `03 Concepts/INDEX.md`** — every concept in one line each. That file exists so this rule can be obeyed cheaply; see §VIII. Creating a near-duplicate is the single most destructive thing an agent can do here, because it splits the graph invisibly and the damage compounds silently.
 
-When genuinely unsure whether two ideas are one concept or two: **they are two.** Split now, merge later — `/lint-vault` surfaces merge candidates. An unnecessary split is visible and cheap to fix. A wrong merge destroys distinctions you can't recover.
+### DEFAULT TO UPDATE
+
+The bias runs toward the existing page. **Create a new concept only when all four are true:**
+
+1. It is meaningfully distinct from existing knowledge.
+2. It is independently reusable.
+3. It contains enough substance to be useful now.
+4. It is likely to be referenced by curriculum, coaching, systems, or marketing.
+
+**If you're uncertain whether a new page deserves to exist, do not resolve it by creating pages.** Add the candidate to `00 Inbox/knowledge-gaps.md`, naming the existing pages it might belong to instead. One entry in a queue is recoverable. Two half-pages splitting one idea are not.
+
+> [!failure]- Superseded — 2026-08-07
+> Previously: *"When genuinely unsure whether two ideas are one concept or two: **they are two.** Split now, merge later — `/lint-vault` surfaces merge candidates. An unnecessary split is visible and cheap to fix. A wrong merge destroys distinctions you can't recover."*
+> Replaced by: DEFAULT TO UPDATE, above. Alex direct, 2026-08-07.
+> Reason: the old rule was written to protect against wrong merges, and it did — by producing proliferation instead. "Split when unsure" plus "create stubs eagerly" plus "touch 5–15 pages per ingestion" compounded into a vault that grew faster than it got clearer. The merge risk is real but rare; the proliferation cost was constant.
 
 ### Rule 3 — Sources are immutable
 
@@ -193,7 +209,7 @@ contested: true           # omit unless an unresolved dispute lives on this page
 ---
 ```
 
-- `status: Stub` means the page exists to be linked to but isn't written yet. Stubs are how the vault tells you what to build next — create them eagerly.
+- `status: Stub` means the page exists to be linked to but isn't written yet. **Do not create stubs automatically.** A stub is a promise the vault hasn't kept; an unwritten idea belongs in `00 Inbox/knowledge-gaps.md` until someone has something to say about it.
 - `updated:` gets bumped on every touch.
 - `superseded:` and `contested:` make conflict state queryable across the whole vault. Before writing any customer-facing copy, an agent checks `contested:` on every concept it draws from — see §X.
 - `laws: []` is a valid state. Not every concept sits under a Law.
@@ -259,10 +275,10 @@ Before calling two things the same concept: **would this page's `In one line` an
 
 - Same decision → same concept. Update.
 - Different decisions → two concepts. Create.
-- Can't tell → **create separately and flag a merge proposal** in `00 Inbox/review-queue.md`. Per Rule 2, an unnecessary split is cheap; a wrong merge destroys a distinction you can't recover.
+- Can't tell → **update the closest existing page and log the doubt** in `00 Inbox/knowledge-gaps.md`, naming the pages it might belong to. Per Rule 2, do not resolve uncertainty by creating pages.
 
-5. **Propagate.** A single ingestion should touch 5–15 pages: the concept pages it updates, the stubs it spawns, the engine hub in `04 Systems/`, the [[Glossary]].
-6. **Link.** Every page ends with Related Concepts. Minimum five links. A page with fewer hasn't been thought about hard enough.
+5. **Propagate to what the source actually improved.** Update the concept and system pages the material materially changes, the engine hub if the change belongs there, and the [[Glossary]] if a term is new. **There is no page quota.** A forty-minute source may legitimately update one page. It may legitimately update twenty. Touching pages to hit a number is how a vault fills with edits nobody asked for.
+6. **Link where the relationship is real.** Related Concepts records meaningful relationships. **There is no minimum link count.** Five weak links are worse than two strong ones — they make the graph look connected while telling the next reader nothing.
 7. **Regenerate the index.** `python3 .claude/scripts/build_index.py .` after any change to `03 Concepts/` or `04 Systems/`. A stale index means the next agent enforces Rule 2 against an out-of-date map.
 
 > [!warning] When agents run in parallel Isolated agents cannot see each other's work. `INDEX.md` is the only memory they share, so ingestion is **serialized** — one source at a time, index regenerated between each. Two agents running concurrently will both read the same index, both find no page for an idea, and both create one. That is Rule 2's unrecoverable error, produced at machine speed.

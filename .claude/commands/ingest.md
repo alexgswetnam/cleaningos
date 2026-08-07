@@ -49,7 +49,7 @@ Then classify each idea:
 | Page exists | **UPDATE it.** Add evidence, nuance, or a contradiction. Never create a sibling. |
 | No page, genuinely new idea | **CREATE** in `03 Concepts/` from `_TEMPLATE.md` |
 | No page, but it's a *presentation* of an existing idea | Record in `05`/`06` and **link** to the concept |
-| Unsure whether it's one idea or two | **Two.** Split now. Report it so `/lint-vault` can propose a merge later. |
+| Unsure whether it's one idea or two | **Neither.** Update the closest existing page and log the candidate in `00 Inbox/knowledge-gaps.md` with the pages it might belong to. Do not create pages to resolve doubt. |
 
 Report your classification of every idea and wait for my confirmation if any call is
 close. Duplicates are the one error this system cannot absorb.
@@ -76,11 +76,16 @@ The test: **if Alex challenged this line, could you find the evidence in under a
 If not, you cited too coarsely. The pay-floor dispute currently traces to three course
 names and roughly 150 files; that is the failure this rule exists to prevent.
 
-For new pages: use the full template. Keep every heading — write `*None yet.*` under
-empty ones rather than deleting them.
+For new pages: use `03 Concepts/_TEMPLATE.md` for ideas, `04 Systems/_TEMPLATE.md` for
+procedures. Required sections only. **Optional sections are added when you have
+something to put in them, never empty.**
 
-Create **stubs** eagerly for ideas mentioned but not developed. Stubs are the content
-roadmap.
+**Do not create stubs automatically.** An idea mentioned but not developed goes in
+`00 Inbox/knowledge-gaps.md`, not into an empty page. A stub is a promise the vault
+hasn't kept.
+
+**Delete empty filler sections when you touch a page.** A heading with `*None yet.*`
+under it is furniture, not information.
 
 ## Step 5 — Conflict check
 
@@ -110,7 +115,8 @@ supersede — it defaults to Contested.
   2026-08-06, so agents may append directly. One rule: a Glossary row is a *pointer* to a
   concept page, never the only place a term is defined. If a term needs defining and has
   no page, create the page first. See the write policy at the top of `Glossary.md`.
-- Ensure every touched page still has five or more Related Concepts
+- Add Related Concepts links **only where the relationship is real.** There is no
+  minimum count.
 
 ## Step 7 — Report
 

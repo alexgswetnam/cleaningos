@@ -44,8 +44,14 @@ the `.md` and ignores the `.txt`. Pre-existing, not introduced by the move. Eith
 
 ## Merge proposals
 
-Two pages that may be one concept. The agent split them per Constitution §III — "when
-genuinely unsure, they are two" — and flagged it rather than guessing.
+Two pages that may be one concept.
+
+> [!info] The rule that filled this section is retired — 2026-08-07
+> These entries were created under the old Rule 2: *"when genuinely unsure, they are
+> two"* — split first, merge later. That rule is gone. Agents now **default to update**,
+> and log doubt in `00 Inbox/knowledge-gaps.md` instead of creating a second page.
+>
+> Existing entries here still need working. New ones should be rare.
 
 *None yet.*
 
