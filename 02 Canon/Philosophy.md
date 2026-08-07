@@ -49,7 +49,7 @@ another job. They know they need a system. They don't know what to fix first.
 
 | Product | Promise |
 |---|---|
-| [[Group Coaching]] | **$25k/month in under 12 months.** Reasonable even starting broke or in debt — if you're willing to make it work and actually use the group coaching. |
+| [[Group Coaching]] | **$25k/month in under 12 months.** Reasonable even starting broke or in debt — if you're willing to make it work and actually use the group coaching. ⚠️ **Blocked for public use** — see `07 Company/Claim Register.md`. |
 | [[1-1 Coaching]] | **+$10k/month within 3 months**, with a system to hold it while working under 10 hrs/week. If it doesn't happen, we keep working for free until it does. |
 
 What that looks like in practice: the ordinary week is no longer held together inside the
