@@ -2,7 +2,7 @@
 type: canon
 title: Constitution
 status: Canonical
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # CONSTITUTION
@@ -63,7 +63,7 @@ Two files have left Canon on this test:
 |[[Glossary]]|vault root|An _index_. Every real definition lives on a concept page; a row is a pointer to one. Also had to move at the speed of ingestion, which the lock made impossible.|
 |[[Owner Role Evolution]] — was *Four Roles*|`03 Concepts/`|**Removed for being wrong, not for being descriptive** — the first on those grounds. It assigned one Role per Season, which implies one Season per business, which contradicts [[Four Seasons]]. The progression survives as a Leadership concept about the _owner's_ job. Alex, 2026-08-07.|
 
-Both were considered for a carve-out — keeping them in Canon with write access — and both times that was rejected: **an exception inside the lock teaches every future agent that the lock is negotiable**, which is the exact silent erosion this section exists to prevent. Moving the file out is honest; a hole in the rule is not.
+[[Alex Voice]] and [[Glossary]] were each considered for a carve-out — keeping them in Canon with write access — and both times that was rejected: **an exception inside the lock teaches every future agent that the lock is negotiable**, which is the exact silent erosion this section exists to prevent. Moving the file out is honest; a hole in the rule is not.
 
 A new candidate is decided by the same test, by Alex, and recorded in the table above.
 
@@ -261,23 +261,7 @@ Before writing anything, in this order:
 3. **Then search full text**, but only for ideas the index didn't settle.
 4. **Decide: update or create.**
 
-```
-New content arrives
-        │
-        ├── Does a page for this idea already exist?
-        │       │
-        │      YES ──→ UPDATE it. Add the new evidence, new nuance,
-        │               or flag the contradiction. Bump `updated:`.
-        │               Add to `sources:`.
-        │
-        └──    NO  ──→ New idea, or a different presentation of one
-                        that already exists?
-                        │
-                        ├── New idea ──→ CREATE in 03 Concepts/ from the template
-                        │
-                        └── New presentation ──→ Record in 05/06 and LINK
-                                                  to the existing concept
-```
+The full decision procedure lives in the **`ingest` skill** (`.claude/skills/ingest/SKILL.md`). This section states the rule; the skill states the steps.
 
 ### The confidence test
 
@@ -363,21 +347,11 @@ Rules for the block:
 
 ### The blast-radius audit — required on every Type 1
 
-A superseded claim is usually already published. When you demote a claim, you must report what's now teaching the old version. Trace forward from the concept page:
+A superseded claim is usually already published. When you demote a claim, you must report what is now teaching the old version — every page in `05`/`06` whose `renders:` includes the concept, every SOP in `04 Systems/` referencing the old rule, and the concept's own Presented In list.
 
-1. Every page in `05 Products/` and `06 Marketing/` that links to this concept
-2. Every entry in the concept's own "where this has been presented" list
-3. Every SOP in `04 Systems/` referencing the old number or rule
+**Rank by whether someone is acting on the wrong information right now**, not by how visible the asset feels. A live email sequence outranks an old video nobody watches.
 
-Output a table ranked by whether someone is _currently acting on the wrong information_. A live email sequence outranks an old video nobody watches.
-
-|Asset|Where|Says|Severity|
-|---|---|---|---|
-|Course Lesson 17|`05 Products/`|old threshold|**High — students act on it**|
-|Welcome email 3|`06 Marketing/`|old threshold|**High — still sending**|
-|YouTube "First Hire"|`06 Marketing/`|old threshold|Medium — public, hard to edit|
-
-Do not fix these automatically. Report, and offer `/draft` to regenerate each.
+Do not fix these automatically. Report, and offer to regenerate each. The audit procedure and its output table live in the **`reconcile` skill**.
 
 ### Type 3 — Contested, in detail
 
