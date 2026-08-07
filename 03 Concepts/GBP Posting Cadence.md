@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Every SOP We Use]
+sources: [Every SOP We Use, 2026-04-01 Weekly Coaching Call, 2026-04-20 Weekly Coaching Call]
 updated: 2026-08-06
 ---
 

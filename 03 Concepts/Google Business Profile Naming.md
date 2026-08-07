@@ -38,8 +38,6 @@ it.
 
 - Editing the name during video verification. You cannot change it before the check — only after. On a live call the reviewer can edit it with you in real time.
 - Signage that does not match the profile name
-- Posting to GBP infrequently — every other day at minimum, daily is better
-- Putting a phone number in the text of a GBP post — Google flags it; use the built-in "Call Now" button instead
 - Running service-area-only with no physical address — invisible on the map regardless of naming
 - Using a P.O. box as the address — Google will suspend the profile
 - Casting too wide a service radius instead of pinning to where ideal clients actually are
@@ -51,9 +49,8 @@ name to the `Business Name | House Cleaning Service [City]` format and Google di
 the change; an uptick in activity appeared roughly five to six days later. Not instant,
 but fast enough that it's worth doing early rather than treating it as a someday task.
 
-**Posting cadence and content.** At minimum, two posts per week; daily is better. Harvest
-CRM's AI can schedule and generate GBP posts. Never include a phone number in the post
-text — Google flags it — direct people to the profile's "Call Now" button instead.
+**Posting keeps a ranked profile active — see [[GBP Posting Cadence]] for the full
+routine.** Harvest CRM's AI can schedule and generate GBP posts.
 
 **The address is arguably the higher-leverage move of the two, and it's not optional.**
 A service-area-only profile with no physical address has no pin on Google Maps — and
@@ -92,10 +89,11 @@ ranking) this example illustrates.
 
 **A verified, 4x'd profile still needs upkeep beyond the initial rename.** On a live
 walkthrough of one profile (2026-04-20), the remaining to-do list was small but real:
-post consistently — every other day at minimum, not once a month — upload the business
-logo if it's missing, and get the business email properly set up in [[Harvest CRM]] (DNS
-records) so notifications and outreach don't get flagged as spam. None of these are hard
-fixes; they were just unfinished.
+post consistently (see [[GBP Posting Cadence]] — this source's own stated floor was
+looser than that page's Mon/Wed/Fri routine, noted there rather than here), upload the
+business logo if it's missing, and get the business email properly set up in [[Harvest
+CRM]] (DNS records) so notifications and outreach don't get flagged as spam. None of
+these are hard fixes; they were just unfinished.
 
 ## Checklist
 
