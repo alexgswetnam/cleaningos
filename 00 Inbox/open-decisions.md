@@ -19,11 +19,14 @@ Sources: `VERIFY.md` · `07 Company/Claim Register.md` · `00 Inbox/review-queue
 
 | # | Decision | Blocks |
 |---|---|---|
-| ~~1~~ | ~~**Classify the $25k claim**~~ | ✅ **A target, not a promise.** Applied to Philosophy (Canon), the Claim Register and the Group Coaching page 2026-08-07 |
-| 2 | **What does CleaningOS Membership exclude?** "Almost all core material" can't be sold | Membership sales page, and the free/paid column in all 16 curriculum cells |
+| ~~1~~ | ~~**Classify the $25k claim**~~ | ⚠️ **Answered twice.** Target → then **contractual guarantee**, same day. Terms don't exist, so it stays DO NOT USE. **7-term drafting checklist** in the Claim Register |
+| **1b** | **Write the guarantee terms** — clock start · Requirements to Claim · which remedy · refund quantum · what voids it · governing law | Group Coaching. Model the exposure first: $297×12 = $3,564/member, and one proposed remedy sells for $6,000 |
+| ~~2~~ | ~~**What does Membership exclude?**~~ | ✅ **The Vault** — older archives, 100+ hrs — sits at $297. $47 gets all core material + AI |
+| **2b** | **AI access by tier** — your reply said $47 is *limited* AI in one sentence and *full* AI in the next | Membership and Free scope. Not guessed |
+| **2c** | **A CleaningOS AI is a product component and has no page anywhere** | The whole tier ladder now hangs off it |
 | 3 | **7-day free trial — which tiers, what terms?** | Any copy mentioning a trial |
 | 4 | **Student permissions** — Rick, Courtney, Jack, Melissa, Rashawn, Nicole, Heidi, Keeley | Every proof section. 8 people, all `UNCONFIRMED` |
-| 5 | **Does CleaningOS Free exist?** What's in it, where does it live, what's it for | The whole free tier — page is a stub with empty `sources:` |
+| ~~5~~ | ~~**Does CleaningOS Free exist?**~~ | ✅ **"How to get to Survival."** Scope recorded. Still open: which Engines, where it lives, AI access |
 | 6 | **Harvest CRM: $147 or $197?** Is $147 tied to active coaching? What happens when coaching ends | Harvest CRM pricing in any copy |
 | 7 | **Is Harvest CRM included/discounted/full price for Membership and Group members?** | Bundling and margin |
 | 8 | **May we name the two competitor CRMs publicly?** | The comparison table |
@@ -50,6 +53,13 @@ Sources: `VERIFY.md` · `07 Company/Claim Register.md` · `00 Inbox/review-queue
 | 19 | [[Subcontractor Vs W-2]] — same | Labor Stability teaching |
 | 20 | [[Close Rate By Channel]] — contested | Leads Stability metric |
 | 21 | **"95% of owners stuck under $20K are stuck on leads or sales"** — soften it or find the basis | Taught as fact on 2 pages, no dataset |
+
+## Tier 1b — new, from 2026-08-07
+
+| # | Decision | Blocks |
+|---|---|---|
+| 33 | **Brand name** — "House Cleaning Academy" for the Skool group and overall brand. **Not applied.** The 1:1 contract says "House Cleaning Skool," and the Glossary carries it | Renaming has contract implications. Nothing changed until you confirm |
+| 34 | **How does the AI point into the $297 Vault** without feeling like a paywall? | The upgrade mechanic from $47 to $297 is the AI itself |
 
 ## Tier 4 — vault, product and research
 

@@ -22,36 +22,36 @@ Source: Alex direct, 2026-08-07. Not yet corroborated by a contract or sales pag
 
 ## The $25k Claim — DO NOT USE
 
-## The $25k Figure — a target, not a promise
+## The $25k Guarantee — decided, not yet written
 
-**Classified by Alex, 2026-08-07.**
+**Alex ruled 2026-08-07: this is a contractual guarantee.**
 
-> **The target is $25,000/month within 12 months.**
+> *"i am absolutely positive that if someone uses the group coaching, they will be there in
+> less than 12 months. I would be willing to give them 1 on 1 help to get there if they
+> weren't or refund a huge amount over that year."*
 
-That is what we aim at together. **It is not a promise of results**, not a guarantee, and
-not a claim about what students typically achieve.
+The conviction is the strongest possible argument for a guarantee. **The terms don't exist
+yet.**
 
-> [!danger] Permitted and prohibited phrasing
-> ✅ *"The target is $25k/month within 12 months."*
-> ✅ *"That's what we're aiming at together."*
-> ✅ *"It's a target, not a promise."*
+> [!danger] Still DO NOT USE — and this state is riskier than before
+> A guarantee with no written terms is worse than the target framing it replaced. A target
+> that's vague is a marketing weakness. **A guarantee that's vague is an obligation nobody
+> has defined**, interpreted by whoever is unhappy.
 >
-> ❌ *"You'll hit $25k/month."*
-> ❌ *"Reachable even if you're broke."*
-> ❌ *"Our students get to $25k."*
-> ❌ Anything a reader hears as **you will make this money.**
+> Seven terms are needed before publication — clock start, Requirements to Claim, which
+> remedy, refund quantum, what voids it, governing law. The drafting checklist is in
+> `07 Company/Claim Register.md`.
 >
-> The classification is what makes the target version usable. Drop the framing and the claim
-> reverts to `DO NOT USE`. See `07 Company/Claim Register.md`.
+> [[1-1 Coaching]] already has all seven in a signed agreement. **That's the template.**
 
-**No guarantee attached.** [[1-1 Coaching]] has a written guarantee with a remedy. This does
-not. Do not let the target function as an implied one — which is what happens when a number
-appears without its framing.
+**Two remedies named, neither chosen.** 1:1 help, or a large refund. A guarantee has to say
+which, in what order, and who decides. Both remain on the table until Alex picks.
 
-> [!info] Resolved — [[Philosophy]] and this page now agree
-> Both were briefly in stated conflict: Philosophy listed $25k as a promise while the register
-> blocked it. Alex's ruling settled it and Philosophy's Promise table was amended the same day
-> to separate **target** from **contractual guarantee**.
+**Exposure worth checking first.** $297/month × 12 = **$3,564** per member. One proposed
+remedy is 1:1 help, which sells for **$6,000**. Model it at realistic group size and claim
+rate before writing terms.
+
+*Not legal advice. Have a lawyer read it before it ships.*
 
 ## What's Included
 

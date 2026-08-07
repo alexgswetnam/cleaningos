@@ -48,12 +48,41 @@ permission.
 
 | Claim | Product | Source | Verification | Permission | Public? | Notes |
 |---|---|---|---|---|---|---|
-| **"The target is $25k/month within 12 months"** — *as a target only* | [[Group Coaching]] | Alex direct 2026-08-05, classified 2026-08-07 | **VERIFIED** as a target | n/a | **Yes — target phrasing only** | Alex classified it 2026-08-07: **a target, not a promise.** State it as what we aim at together. Always pair with "not a promise of results" |
-| ~~"$25k/month in under 12 months"~~ **as a promise, outcome or expectation** | [[Group Coaching]] | — | **DO NOT USE** | n/a | **NO** | Any phrasing a reader hears as *"you will make $25k"* is prohibited. Includes "reachable," "you'll hit," "our students do." The classification is what makes the target version safe; drop it and the claim reverts |
+| **"$25k/month within 12 months"** | [[Group Coaching]] | Alex direct 2026-08-05, reclassified 2026-08-07 | **DO NOT USE — guarantee in drafting** | n/a | **NO** | Alex ruled 2026-08-07 that this is a **contractual guarantee**, superseding a target classification made earlier the same day. **A guarantee with no written terms is the most dangerous state this claim has been in** — it creates an obligation nobody has defined. Unusable until the seven terms below exist. See the drafting checklist |
 | "+$10,000/month within 3 months, or we work free" | [[1-1 Coaching]] | 1:1 Coaching Agreement §6 | **VERIFIED** | n/a | Yes, with its conditions | Contractual. **Never quote it without the Requirements to Claim** — ad spend, attendance, implementation, data access |
 | "Revenue and systems guarantee, not net profit / personal income / valuation" | [[1-1 Coaching]] | 1:1 Coaching Agreement §6 | **VERIFIED** | n/a | Yes | The qualifier is part of the claim. Dropping it changes what's promised |
 | "Working under 10 hours per week" | [[1-1 Coaching]] | 1:1 Coaching Agreement §6 | **VERIFIED** | n/a | Yes, with the guarantee | Part of the guarantee clause, not a standalone claim |
 | VA sourcing + 8-week bootcamp included | [[1-1 Coaching]] | 1:1 Coaching Agreement | **VERIFIED** | n/a | Yes | "At no extra cost beyond paying the VA" is part of it |
+
+## The Group Coaching guarantee — drafting checklist
+
+Alex, 2026-08-07: *"make it a guarantee… I would be willing to give them 1 on 1 help to get
+there if they weren't or refund a huge amount over that year."*
+
+**Seven things a guarantee needs before it can be published.** The [[1-1 Coaching]] agreement
+already has all seven — it is the working precedent, not a hypothetical.
+
+| # | Term | Status |
+|---|---|---|
+| 1 | **Exact wording of the promise** | Draft: "$25k/month within 12 months" |
+| 2 | **When the clock starts** — enrollment, first call, or first paid month | **Missing** |
+| 3 | **Requirements to Claim** — what "uses the group coaching" verifiably means: attendance, implementation, ad spend, data access, tracking | **Missing.** This is the phrase that has been doing legal work all along |
+| 4 | **The remedy** — 1:1 help, refund, or both. If both: which first, and who chooses | **Two named, neither chosen** |
+| 5 | **Refund quantum** — "a huge amount" is not a term. A number or a formula | **Missing** |
+| 6 | **What voids it** — pausing, ghosting, not spending, not tracking | **Missing** |
+| 7 | **Governing law and dispute process** | 1:1 uses Texas + binding arbitration |
+
+> [!danger] Exposure worth modelling before signing up to this
+> Group Coaching is **$297/month**. Twelve months is **$3,564** per member.
+>
+> One remedy on the table is **1:1 help**, which sells for **$6,000** — more than the member
+> paid. The other is a refund of most of what they paid.
+>
+> Run the number at your realistic group size and claim rate before the terms are written.
+> A guarantee that is cheap at ten members can be ruinous at two hundred.
+
+**Not legal advice — I'm not a lawyer.** A guarantee is an enforceable commitment and this one
+should be read by someone qualified before it is published.
 
 ## Student results and names
 

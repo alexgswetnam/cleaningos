@@ -21,23 +21,32 @@ updated: 2026-08-07
 Source: Alex direct, 2026-08-07. Not yet corroborated by a contract, sales page, or
 recording — see `07 Company/Claim Register.md`.
 
-## What's Included
+## What's Included — the line is now drawn
 
-**Access to almost all core material.**
+Alex, 2026-08-07: *"$47/mo is all core material except the vault which is older archives and
+100+ hours of material… $47 gives them full ai access, pointing to things in the $297 vault."*
 
-That is the whole of what's confirmed. The word doing the work is *almost*.
+| | $47 Membership |
+|---|---|
+| **All core material** | ✅ Included |
+| **The Vault** — older archives, 100+ hours | ❌ Held back. Sits at [[Group Coaching]], $297 |
+| **AI access** | ✅ — see the open question below |
 
-> [!question] NEEDS ALEX — this is the gap that blocks a sales page
-> **What is excluded?** A membership described as "almost everything" cannot be sold
-> without naming the part that isn't included, because the exclusion is what the next tier
-> sells. Specifically:
+**The AI points into the Vault.** A $47 member asks the AI something, and the AI can tell them
+the answer exists in material they don't have. That is either an excellent upgrade mechanic or
+an infuriating paywall, depending entirely on how it's worded. **Worth designing on purpose.**
+
+> [!warning] One sentence in Alex's answer contradicts another
+> *"the $47 tier gives them a limited ai"* … and then … *"$47 gives them full ai access."*
 >
-> - Which courses, SOPs, templates and resources are in
-> - Which are held back for [[Group Coaching]] or [[1-1 Coaching]]
-> - Whether the Premium Resources and Every SOP We Use libraries are included
-> - Whether [[Harvest CRM Offer]] is included, discounted, or full price
-> - Community access — Skool tier, Discord, neither, both
-> - Whether anything live is included, or it's library-only
+> Both appear in the same reply. **Not resolved by guessing.** The likely reading is that
+> *limited* belongs to the free tier and $47 is full access — but likely is not the same as
+> stated. Open as decision #2b.
+
+> [!question] Still open for this tier
+> - Community access — Skool tier, Discord, neither, both?
+> - Is [[Harvest CRM Offer]] included, discounted, or full price? *(decision #7)*
+> - Does anything live come with $47, or is it library plus AI?
 
 ## Free Trial
 
@@ -60,8 +69,17 @@ inventing one would be the most expensive fabrication in this vault.
 
 ## Where It Sits
 
-Between [[CleaningOS Free]] and [[Group Coaching]]. The ladder is not yet documented —
-what moves someone from free to $47, or from $47 to $297, isn't written down anywhere.
+The ladder, as far as it's now defined:
+
+| Tier | Gets | Upgrade trigger |
+|---|---|---|
+| **Free** | How to get to Survival | You reach Survival and want what's next |
+| **$47 Membership** | All core material + AI | The AI points at Vault material you don't have |
+| **$297 Group Coaching** | The Vault — older archives, 100+ hrs — plus coaching | *(scope beyond the Vault not yet documented)* |
+| **$6,000 1:1** | Everything, plus weekly 1:1 and a written guarantee | — |
+
+**The upgrade mechanic from $47 to $297 is the AI itself.** That's a real product design and
+it's now on record.
 
 ## Related
 

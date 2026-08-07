@@ -3,8 +3,8 @@ type: product
 engine: []
 season: []
 laws: []
-status: Stub
-sources: []
+status: Draft — Unverified
+sources: [Alex direct 2026-08-07]
 updated: 2026-08-07
 ---
 
@@ -13,38 +13,33 @@ updated: 2026-08-07
 > [!abstract] In one line
 > The free tier. **Nothing about it is documented.**
 
-## Status
+## What It Is
 
-**This page exists because the product layer needs a row for it, not because anything is
-known.** No ingested source describes a free tier — not the 1:1 agreement, not any coaching
-call, not any course lesson.
+Alex, 2026-08-07: **"free gives them how to get to survival."**
 
-`sources:` is deliberately empty. Per Constitution §VII an empty `sources:` on a page making
-claims is a defect; this page makes no claims, which is the honest state.
+That's the scope, and it's a good one — it's a complete outcome rather than a sample. Someone
+finishes the free tier with their Engines able to produce at all.
 
-## NEEDS ALEX — all of it
+**Why that's the right free tier:** it maps onto the first column of the Engine × Season
+grid, so the free product *is* the first row of the curriculum rather than a teaser cut from
+it. Survival is also where the customer research puts most respondents on Leads.
 
-- **Does it exist right now**, and under what name?
-- What's in it — which lessons, resources, or tools
-- Where it lives — Skool free tier, a lead magnet, a YouTube funnel, something else
-- What it's for — is it a lead magnet, a trial, or a genuine product?
-- The conversion path into [[CleaningOS Membership]] — what someone hits that makes them
-  upgrade
-- Whether the **7-day free trial** relates to this tier or is a separate thing entirely
-  (see `07 Company/Claim Register.md`)
+## Still Needed
 
-## Candidate Material Already In The Vault
+- **Which Engines?** "How to get to Survival" across all four, or Leads Survival only?
+- Where it lives — Skool free tier, a lead magnet, a YouTube funnel
+- Whether AI access is included at all, and if so how limited *(decision #2b)*
+- Whether the **7-day free trial** relates to this tier or to $47 *(decision #3)*
+- The conversion trigger into [[CleaningOS Membership]]
 
-Not confirmed as free — listed only because if a free tier exists, this is the most likely
-material in it:
+## Candidate Material
 
-- `01 Sources/Course Videos/Free Resources and Mini Courses` — 17 lessons, and the folder
-  name says "Free"
-- The Cleaning Biz 101 pillar lessons, which are beginner-facing
-- The "Why Your Cleaning Business Is Stuck" lesson, already used as a diagnostic teaser
+Now that the scope is "how to get to Survival," the four Survival cells in
+[[CleaningOS Curriculum Map]] define the content: **Leads Survival (36 pages) · Labor Survival
+(9) · Logistics Survival (7) · Leadership Survival (3).**
 
-**Do not treat that list as a product definition.** It's a guess about folder names, and it
-is recorded here so the guess is visible rather than buried in someone's head.
+That is the correct source, not a folder-name guess. Note the shape — Leads Survival is four
+times the size of the other three combined-ish, and Leadership Survival is nearly empty.
 
 ## Related
 

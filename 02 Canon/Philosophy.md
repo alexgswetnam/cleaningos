@@ -49,17 +49,30 @@ another job. They know they need a system. They don't know what to fix first.
 
 | Product | What we state | Type |
 |---|---|---|
-| [[Group Coaching]] | **The target is $25k/month within 12 months.** What we aim at together — not a promise of results. | **Target** |
+| [[Group Coaching]] | **$25k/month within 12 months.** ⚠️ **Terms not yet written — not publishable.** | **Contractual guarantee — in drafting** |
 | [[1-1 Coaching]] | **+$10k/month within 3 months**, with a system to hold it while working under 10 hrs/week. If it doesn't happen, we keep working for free until it does. | **Contractual guarantee** |
 
 > [!important] A target and a guarantee are not the same sentence
-> Alex classified the $25k figure as a **target** on 2026-08-07. It may be stated publicly
-> **only as a target** — what we aim at with you. Phrasing it as an outcome, a promise, or
-> anything a reader would hear as "you will make $25k" is prohibited. The 1:1 figure is the
-> opposite: a written guarantee, and it may never be quoted without its Requirements to
-> Claim.
+> The 1:1 figure is a **written guarantee** and may never be quoted without its Requirements
+> to Claim. The Group Coaching figure is **becoming one** — see below.
 >
 > Statuses and exact permitted wording: `07 Company/Claim Register.md`.
+
+> [!failure]- Superseded — 2026-08-07, same day
+> **Previously (earlier that day):** the $25k figure was classified as a **target, not a
+> promise**, and the target phrasing was cleared for public use.
+> **Source:** Alex direct, 2026-08-07.
+> **Replaced by:** Alex direct, 2026-08-07, later the same day — *"make it a guarantee. i am
+> absolutely positive that if someone uses the group coaching, they will be there in less than
+> 12 months. I would be willing to give them 1 on 1 help to get there if they weren't or refund
+> a huge amount over that year."*
+> **Reason:** Alex is prepared to stand behind it with a remedy, which is what separates a
+> guarantee from a target.
+>
+> **The claim is not publishable in either form right now.** A guarantee without written terms
+> is more dangerous than the target framing it replaced — it creates an obligation nobody has
+> defined. It returns to `DO NOT USE` until the seven terms in
+> `07 Company/Claim Register.md` exist.
 
 What that looks like in practice: the ordinary week is no longer held together inside the
 owner's head. Leads get generated and followed up. Jobs get scheduled and completed
