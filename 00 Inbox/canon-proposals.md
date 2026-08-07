@@ -21,6 +21,97 @@ Format:
 
 ---
 
+## ⏳ AWAITING ALEX 2026-08-07 — [[Four Seasons]] and [[Four Roles]] — CleaningOS v2 refactor
+
+> [!important] This is the Canon edit for Commit 2 on `refactor/cleaningos-v2`
+> Alex directed these changes in writing and authorised execution under §XII, with the
+> tool-layer lock in `.claude/settings.json` left in place. This entry is the amendment
+> record. **Nothing has been applied yet** — approve and it goes in.
+
+### 2a — [[Four Seasons]]: remove global Season revenue bands
+
+**Current:** Survival opens *"Usually **$0–5,000/month**, though revenue alone doesn't
+define the Season."* The "Still Needed" list asks for *"Revenue bands for Stability,
+Scale, and Harvest"* and *"Headcount and recurring-client ranges per Season."* The four
+Season definitions are written as descriptions of a whole business.
+
+**Proposed:** Four Seasons describes the maturity of **each Engine independently**. There
+is no universal business-level Season. The four definitions become questions you ask of
+one Engine:
+
+> **SURVIVAL** — Can this Engine reliably produce its required result at all?
+>
+> **STABILITY** — Can this Engine produce the result consistently and predictably?
+>
+> **SCALE** — Can this Engine increase output without proportional increases in
+> complexity, errors, cost, or owner involvement?
+>
+> **HARVEST** — Can this Engine continue producing, monitoring, and improving its result
+> without depending on the owner as its primary fuel?
+
+Deletions:
+
+- `$0–5,000/month` from Survival
+- "Revenue bands for Stability, Scale, and Harvest" from Still Needed
+- "Headcount and recurring-client ranges per Season" from Still Needed
+- any phrasing implying the whole company sits in one Season
+
+The existing descriptive prose for each Season is **kept**, re-scoped from "the business"
+to "this Engine." The two superseded blocks (Sustain and Sell → Harvest) are untouched.
+
+Specific thresholds move to the Engine × Season implementation map
+([[CleaningOS Curriculum Map]], Commit 11), not the universal definition.
+
+**No numerical graduation criteria will be invented.** Every cell is marked
+`NEEDS ALEX` until Alex or a source supplies one.
+
+**Why:** the bands are a category error, not a gap. If Leads can be in Scale while Labor
+is in Survival — which [[Four Seasons]] already states under "The Structural Idea" — then
+a single revenue figure cannot indicate a Season, because the four Engines producing that
+revenue are in four different ones. The Still Needed list was asking for numbers that
+cannot exist. Removing the request is the fix; answering it would have hard-coded the
+error.
+
+**Blast radius:** `VERIFY.md` §3 (the open ask), [[Business GPS]] (already corrected in
+Commit 1), [[Philosophy]] line 168.
+
+### 2b — [[Four Roles]] leaves Canon
+
+**Current:** `02 Canon/Four Roles.md`, listed in `CONSTITUTION.md` §II as one of six
+Canon documents. It maps one Role to each Season — Survival→Self-Employed,
+Stability→Supervisor, Scale→General Manager, Harvest→Owner.
+
+**Proposed:** move to `03 Concepts/Owner Role Evolution.md`, tagged
+`engine: [Leadership]`. The progression stays: **Self-Employed → Supervisor → General
+Manager → Owner.** The mechanism stays — you pull the business to the next stage by
+acting like the next role up. The `$30K/month owner still acting self-employed` failure
+mode stays; it is the best thing on the page.
+
+**What is removed:** the one-Role-per-Season table, and every sentence stating that a
+Role *defines* a Season.
+
+**What is added:** an explicit note that this describes how the **owner's leadership role**
+evolves, and that a Survival-stage Engine does **not** mean the owner personally cleans
+houses. An owner with Leads in Harvest and Labor in Survival is not a self-employed
+cleaner; they have a hiring problem.
+
+**Why:** applied as universal Canon, Four Roles reintroduces exactly what 2a removes. One
+Role per Season implies one Season per business — an owner cannot simultaneously be a
+Self-Employed cleaner and a General Manager, so the model silently forces the four Engines
+back into a single reading. Useful as a Leadership concept, contradictory as Canon.
+
+**Consequences:** `CONSTITUTION.md` §II goes from six Canon documents to five, and the
+"files that have left Canon on this test" table gains a third row. Governing-vs-descriptive
+still applies — Four Roles is governing in form but wrong in substance, so this is the
+first removal on grounds of *correctness* rather than *type*. Worth Alex noticing.
+
+**Links repointed** (8 files): [[Business GPS]] · [[Owner-Dependent Revenue]] · [[SOPs]] ·
+[[Sales Happen On The Phone]] · [[What The Money Makes Possible]] · [[When To Hire A VA]] ·
+[[Philosophy]] · `CONSTITUTION.md`. No `aliases: [Four Roles]` will be added — the old name
+should stop circulating. Say if you'd rather keep the alias.
+
+---
+
 ## ✅ RULED 2026-08-06 — [[Four Engines]] — proposed by Claude
 
 > [!success] Alex ruled, 2026-08-06
