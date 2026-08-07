@@ -1,5 +1,6 @@
 ---
-paths: "03 Concepts/**"
+paths:
+  - "03 Concepts/**"
 ---
 
 # Rules for `03 Concepts/`

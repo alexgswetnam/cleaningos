@@ -1,5 +1,6 @@
 ---
-paths: "01 Sources/**"
+paths:
+  - "01 Sources/**"
 ---
 
 # Rules for `01 Sources/`

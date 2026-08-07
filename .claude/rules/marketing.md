@@ -1,5 +1,6 @@
 ---
-paths: "06 Marketing/**"
+paths:
+  - "06 Marketing/**"
 ---
 
 # Rules for `06 Marketing/`
@@ -35,10 +36,9 @@ the work.
 
 ## Voice
 
-`Voice/Alex Voice.md` — the anchors are real Alex sentences. **Imitate those, not a
-description of them.** Check the Voice Log for rules from past corrections.
-
-Every "Harvest" that means the product is written "Harvest CRM."
+Governed by `.claude/rules/voice.md`, which loads alongside this rule for these paths.
+`Voice/Brand Voice.md` for personality and persuasion; `Voice/Alex Voice.md` for the
+sound. Not repeated here — one home per rule.
 
 ## Frontmatter
 

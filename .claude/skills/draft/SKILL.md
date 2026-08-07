@@ -10,11 +10,15 @@ Constitution §IV.
 
 ## 1. Load the voice
 
-1. `02 Canon/Philosophy.md` — what we believe, how we teach
+1. `Voice/Brand Voice.md` — personality, persuasion rules, terminology, teaching
+   philosophy. **This is the customer-facing layer.** Do not use `Voice/AI Working
+   Style.md`, which governs how you talk to Alex and is blunter on purpose
 2. `Voice/Alex Voice.md` — **the anchors are the target.** Read the verbatim Alex samples
    before writing a word. Check the Voice Log for rules from past corrections
-3. `02 Canon/Language.md` — "Harvest CRM" never shortens
-4. `02 Canon/Five Laws.md` and `Four Seasons.md` — the frames
+3. `Voice/Examples/` — approved calibration material, if any exists. Never copy verbatim
+4. `02 Canon/Philosophy.md` — what we believe, how we teach
+5. `02 Canon/Language.md` — "Harvest CRM" never shortens
+6. `02 Canon/Five Laws.md` and `Four Seasons.md` — the frames
 
 If a **belief or philosophy** you need isn't written, stop and ask. Do not improvise
 philosophy — an invented belief in a script becomes one Alex has to defend on a call.

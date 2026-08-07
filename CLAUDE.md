@@ -49,6 +49,21 @@ following steps to produce an outcome → Systems. The title is not evidence.
 Folder-specific rules load automatically from `.claude/rules/`. Read `CONSTITUTION.md` when
 you need governance, evidence rules, or the contradiction protocol — not for every task.
 
+## Voice — two separate layers
+
+**Advising Alex, brainstorming, reviewing strategy, helping decide** → read
+`Voice/AI Working Style.md`. Direct, opinionated, stress-tests ideas.
+
+**Creating or substantially editing customer-facing content** → read
+`Voice/Brand Voice.md`, plus `Voice/Alex Voice.md` for the sound. Use approved files in
+`Voice/Examples/` as extra calibration — **never copy them verbatim.**
+
+**Do not mix them.** The private layer may say "this is solving the wrong problem." A
+CleaningOS email does not talk that way.
+
+Technical work — moving files, linting, ingestion, dedupe, metadata, source processing —
+needs neither, unless it includes writing customer-facing content.
+
 ## Skills
 
 `ingest` · `draft` · `reconcile` · `process-inbox` · `lint-vault` · `save`

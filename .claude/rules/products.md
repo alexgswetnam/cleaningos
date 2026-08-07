@@ -1,5 +1,6 @@
 ---
-paths: "05 Products/**"
+paths:
+  - "05 Products/**"
 ---
 
 # Rules for `05 Products/`

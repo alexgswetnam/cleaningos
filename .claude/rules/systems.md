@@ -1,5 +1,6 @@
 ---
-paths: "04 Systems/**"
+paths:
+  - "04 Systems/**"
 ---
 
 # Rules for `04 Systems/`

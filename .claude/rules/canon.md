@@ -1,5 +1,6 @@
 ---
-paths: "02 Canon/**"
+paths:
+  - "02 Canon/**"
 ---
 
 # Rules for `02 Canon/`
