@@ -56,19 +56,16 @@ that's the trigger to adopt it.
 platform — powerful but blank, "like being handed car parts and told to build whatever
 kind of car you want." Harvest CRM is described as the cleaning-specific version of that
 same platform, pre-built for residential cleaning workflows rather than assembled from
-scratch. The comparison given for cost: a bare GoHighLevel account runs about $97/month
-with no guidance on what to build; two named competing cleaning-specific CRMs run
-$1,000–$2,000 setup plus $200–$400/month; Harvest CRM is $197/month with no setup fee and
-the same capability set. Apply [[Systems Cost-Benefit Analysis]] to this comparison rather
-than judging the $197 figure alone — the source's own framing is "even one or two extra
-cleanings a month" clears the cost.
+scratch. That's the whole difference: not more capability, less assembly.
 
-> [!info] A second, lower price also appears in the vault
-> `Glossary.md` records Harvest CRM at **$147/mo discounted for students**, sourced from
-> the 1:1 Coaching Agreement. This lesson names **$197/mo** as the standalone rate. These
-> read as two different things — a discounted rate for 1:1 students vs. the regular
-> rate — not a contradiction, but neither source states that explicitly. Flagged rather
-> than resolved; see the parked note in `00 Inbox/review-queue.md`.
+**Pricing, competitor comparison and setup paths live on [[Harvest CRM Offer]]** — they're
+commercial terms, and they change independently of how the tool works. Judge the cost with
+[[Systems Cost-Benefit Analysis]], not against a sticker price.
+
+> [!info] Two prices exist and no source reconciles them
+> $147/mo (1:1 Coaching Agreement) and $197/mo (this lesson). Recorded and flagged on
+> [[Harvest CRM Offer]]. **Neither figure goes in customer-facing copy until Alex
+> confirms which is current.**
 
 **When to get a CRM.** Not at the very beginning. The trigger is lead volume outpacing
 manual tracking: *"Once you turn on marketing and you're losing money by not properly
@@ -173,3 +170,4 @@ is a downstream step of the Harvest CRM hiring pipeline, not a substitute for it
 - [[Importing Contacts Into Harvest CRM]]
 - [[A2P Verification]]
 - [[Systems Cost-Benefit Analysis]]
+- [[Harvest CRM Offer]]

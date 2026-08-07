@@ -71,7 +71,7 @@ index, not a second home for definitions.
 | Term | Definition | Source |
 |---|---|---|
 | **Harvest** *(bare)* | The fourth Season. | Alex |
-| **[[Harvest CRM]]** | The software. **Always both words.** $147/mo discounted for students. | Alex + Contract |
+| **[[Harvest CRM]]** | The software — what it is and when to adopt it. **Always both words.** Commercial terms and pricing live on [[Harvest CRM Offer]]. | Alex + Contract |
 | **House Cleaning Skool** | The community platform. 1:1 students get lifetime access to the highest tier. | Contract |
 | **Discord** | Where 1:1 students message Alex directly. 24 business hours, Mon–Fri. | Contract |
 | **VA Bootcamp** | 8-week training program for a student's VA. Included in 1:1 at no extra cost. | Contract |
@@ -100,7 +100,7 @@ Added 2026-08-06, the first entries written under the new write policy. These sa
 | **A2P** | Application-to-Person messaging. The carrier registration that lets a business send SMS through a platform. [[A2P Verification]] | Lesson |
 | **Low Volume Mixed** | The A2P campaign type to select for a cleaning business — covers confirmations, reminders, and occasional promotions at small volume. [[A2P Verification]] | Lesson |
 | **Naked URL** | A link written out as visible text (`https://site.com/terms`) rather than anchor text. Required in opt-in copy because the evidence is a screenshot. [[SMS Opt-In Consent]] | Lesson |
-| **DIY / DFY** | Do-it-yourself vs. done-for-you setup of [[Harvest CRM]]. DFY is handled on the first onboarding call. | Lesson |
+| **DIY / DFY** | Do-it-yourself vs. done-for-you setup — see [[Harvest CRM Offer]]. DFY is handled on the first onboarding call. | Lesson |
 | **Zap** | One automation rule: when this happens in tool A, do that in tool B. [[Zapier]] | Lesson |
 | **[[BookingKoala]]** | Booking and scheduling software used alongside [[Harvest CRM]]. Cleaners get a provider account in it at onboarding. Distinct from the CRM — this is the calendar. | Lesson |
 

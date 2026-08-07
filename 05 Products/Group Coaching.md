@@ -45,6 +45,6 @@ outcome. **This distinction matters legally and agents must not guess it.**
 ## Related Concepts
 
 - [[1-1 Coaching]]
-- [[Harvest CRM]]
+- [[Harvest CRM Offer]]
 - [[Four Seasons]]
 - [[Philosophy]]
