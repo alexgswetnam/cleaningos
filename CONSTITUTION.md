@@ -15,6 +15,8 @@ The governing document of CleaningOS. Every agent — Claude, ChatGPT, or anythi
 
 > [!info] Amended 2026-08-07 by Alex, executed by Claude on instruction — CleaningOS v2 refactor §II: the Canon drops from six documents to five. **Four Roles removed** and demoted to [[Owner Role Evolution]] in `03 Concepts/` — it assigned one Role per Season, which implies one Season per business and contradicts [[Four Seasons]]. First removal on grounds of correctness rather than filing. §II also now states the model in one line and requires Alex's approval before any second customer-facing business map exists. [[Four Seasons]] rewritten to describe **per-Engine maturity**; universal revenue, headcount and recurring-client bands removed as a category error. [[Business GPS]] corrected separately — the constraint is selected by the owner's goal, not by the lowest-Season Engine. Proposal and reasoning recorded in `00 Inbox/canon-proposals.md`.
 >
+> **[[Philosophy]] — the $25k figure reclassified.** Alex ruled on 2026-08-07 that "$25k/month in under 12 months" is a **target, not a promise**. The Promise table now separates target from contractual guarantee, and the $25k row may be stated publicly only as a target. Recorded in `07 Company/Claim Register.md`.
+>
 > **Rule 2 rewritten to DEFAULT TO UPDATE**, with four criteria a new concept must meet and a new queue, `00 Inbox/knowledge-gaps.md`, for candidates that don't clearly meet them. Retired: *"when unsure, they are two"* · *"create stubs eagerly"* (§VII) · *"a single ingestion should touch 5–15 pages"* (§VIII.5) · *"minimum five links"* (§VIII.6). The concept template lost ten mandatory empty headings and a separate System template now exists. Further amendments land as the refactor proceeds.
 
 ---

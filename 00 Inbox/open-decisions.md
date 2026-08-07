@@ -19,7 +19,7 @@ Sources: `VERIFY.md` · `07 Company/Claim Register.md` · `00 Inbox/review-queue
 
 | # | Decision | Blocks |
 |---|---|---|
-| 1 | **Classify the $25k claim** — guarantee / target / aspiration / representative outcome, plus qualifying conditions | Group Coaching entirely. Only `DO NOT USE` in the register. Also puts [[Philosophy]] in stated conflict |
+| ~~1~~ | ~~**Classify the $25k claim**~~ | ✅ **A target, not a promise.** Applied to Philosophy (Canon), the Claim Register and the Group Coaching page 2026-08-07 |
 | 2 | **What does CleaningOS Membership exclude?** "Almost all core material" can't be sold | Membership sales page, and the free/paid column in all 16 curriculum cells |
 | 3 | **7-day free trial — which tiers, what terms?** | Any copy mentioning a trial |
 | 4 | **Student permissions** — Rick, Courtney, Jack, Melissa, Rashawn, Nicole, Heidi, Keeley | Every proof section. 8 people, all `UNCONFIRMED` |
@@ -71,5 +71,14 @@ Sources: `VERIFY.md` · `07 Company/Claim Register.md` · `00 Inbox/review-queue
 
 ## Answered
 
-*Nothing yet — the 2026-08-07 graduation rulings are recorded in
-`00 Inbox/graduation-criteria-proposal.md`.*
+**#1 — the $25k claim → a target, not a promise.** Alex, 2026-08-07.
+
+Applied in three places: `02 Canon/Philosophy.md` (Promise table now separates target from
+contractual guarantee, logged as a §XII amendment) · `07 Company/Claim Register.md` (target
+phrasing VERIFIED and usable; promise phrasing kept as an explicit DO NOT USE row) ·
+`05 Products/Group Coaching.md` (permitted and prohibited phrasing spelled out).
+
+The Philosophy-vs-register contradiction is closed.
+
+The 2026-08-07 graduation rulings are recorded in
+`00 Inbox/graduation-criteria-proposal.md`.

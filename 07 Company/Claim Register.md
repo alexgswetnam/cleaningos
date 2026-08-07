@@ -48,7 +48,8 @@ permission.
 
 | Claim | Product | Source | Verification | Permission | Public? | Notes |
 |---|---|---|---|---|---|---|
-| **"$25,000/month in less than 12 months"** | [[Group Coaching]] | Alex direct 2026-08-05 | **DO NOT USE** | n/a | **NO** | Legal status unresolved: guarantee, target, aspiration, or representative outcome? Qualifying conditions behind "willing to make it work" undefined. Also appears in `02 Canon/Philosophy.md`, which is now in stated conflict with this row |
+| **"The target is $25k/month within 12 months"** — *as a target only* | [[Group Coaching]] | Alex direct 2026-08-05, classified 2026-08-07 | **VERIFIED** as a target | n/a | **Yes — target phrasing only** | Alex classified it 2026-08-07: **a target, not a promise.** State it as what we aim at together. Always pair with "not a promise of results" |
+| ~~"$25k/month in under 12 months"~~ **as a promise, outcome or expectation** | [[Group Coaching]] | — | **DO NOT USE** | n/a | **NO** | Any phrasing a reader hears as *"you will make $25k"* is prohibited. Includes "reachable," "you'll hit," "our students do." The classification is what makes the target version safe; drop it and the claim reverts |
 | "+$10,000/month within 3 months, or we work free" | [[1-1 Coaching]] | 1:1 Coaching Agreement §6 | **VERIFIED** | n/a | Yes, with its conditions | Contractual. **Never quote it without the Requirements to Claim** — ad spend, attendance, implementation, data access |
 | "Revenue and systems guarantee, not net profit / personal income / valuation" | [[1-1 Coaching]] | 1:1 Coaching Agreement §6 | **VERIFIED** | n/a | Yes | The qualifier is part of the claim. Dropping it changes what's promised |
 | "Working under 10 hours per week" | [[1-1 Coaching]] | 1:1 Coaching Agreement §6 | **VERIFIED** | n/a | Yes, with the guarantee | Part of the guarantee clause, not a standalone claim |

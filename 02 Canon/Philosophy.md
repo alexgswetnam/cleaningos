@@ -47,10 +47,19 @@ another job. They know they need a system. They don't know what to fix first.
 > [!danger] There is no single promise. Never state one without naming the product.
 > Two products, two guarantees. Mixing them is a legal problem, not a style problem.
 
-| Product | Promise |
-|---|---|
-| [[Group Coaching]] | **$25k/month in under 12 months.** Reasonable even starting broke or in debt — if you're willing to make it work and actually use the group coaching. ⚠️ **Blocked for public use** — see `07 Company/Claim Register.md`. |
-| [[1-1 Coaching]] | **+$10k/month within 3 months**, with a system to hold it while working under 10 hrs/week. If it doesn't happen, we keep working for free until it does. |
+| Product | What we state | Type |
+|---|---|---|
+| [[Group Coaching]] | **The target is $25k/month within 12 months.** What we aim at together — not a promise of results. | **Target** |
+| [[1-1 Coaching]] | **+$10k/month within 3 months**, with a system to hold it while working under 10 hrs/week. If it doesn't happen, we keep working for free until it does. | **Contractual guarantee** |
+
+> [!important] A target and a guarantee are not the same sentence
+> Alex classified the $25k figure as a **target** on 2026-08-07. It may be stated publicly
+> **only as a target** — what we aim at with you. Phrasing it as an outcome, a promise, or
+> anything a reader would hear as "you will make $25k" is prohibited. The 1:1 figure is the
+> opposite: a written guarantee, and it may never be quoted without its Requirements to
+> Claim.
+>
+> Statuses and exact permitted wording: `07 Company/Claim Register.md`.
 
 What that looks like in practice: the ordinary week is no longer held together inside the
 owner's head. Leads get generated and followed up. Jobs get scheduled and completed

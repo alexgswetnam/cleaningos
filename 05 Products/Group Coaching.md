@@ -7,7 +7,6 @@ status: Draft — Unverified
 sources: [Alex direct 2026-08-05, Alex direct 2026-08-07]
 renders: []
 updated: 2026-08-07
-contested: true
 ---
 
 # Group Coaching
@@ -23,38 +22,36 @@ Source: Alex direct, 2026-08-07. Not yet corroborated by a contract or sales pag
 
 ## The $25k Claim — DO NOT USE
 
-> [!danger] Blocked for public marketing until Alex classifies it
-> **"$25,000/month in less than 12 months."**
->
-> Alex's framing, 2026-08-05: reasonable even starting broke or in debt, provided the owner
-> is willing to make it work and actually uses the group coaching.
->
-> **This claim may not appear in any customer-facing material** — no sales page, email,
-> VSL, YouTube script, social post, or call script — until Alex states which of these it is:
->
-> | If it's a… | Then it needs |
-> |---|---|
-> | **Contractual guarantee** | Written terms, a remedy when it isn't met, and qualifying conditions — the way [[1-1 Coaching]] has them |
-> | **Target** | To be phrased as a target, not a promise |
-> | **Aspirational claim** | Clear framing as what's possible, not what's typical |
-> | **Representative outcome** | Named students, real numbers, permission, and a typicality disclosure |
->
-> **And in every case: the qualifying conditions behind "willing to make it work."** That
-> phrase is doing legal work right now and nobody has defined it.
->
-> Recorded as `DO NOT USE` in `07 Company/Claim Register.md`.
+## The $25k Figure — a target, not a promise
 
-> [!warning] Contested — this page and [[Philosophy]] disagree
-> **Claim A:** the $25k figure is the public headline claim for this product — `Philosophy.md`
-> states it as one of the two product promises.
-> **Claim B:** the claim is unusable until classified — this page, per Alex's instruction,
-> 2026-08-07.
-> **Unresolved since:** 2026-08-07
-> **What would settle it:** Alex picks a row from the table above and states the qualifying
-> conditions. Then Philosophy and this page can say the same thing.
+**Classified by Alex, 2026-08-07.**
+
+> **The target is $25,000/month within 12 months.**
+
+That is what we aim at together. **It is not a promise of results**, not a guarantee, and
+not a claim about what students typically achieve.
+
+> [!danger] Permitted and prohibited phrasing
+> ✅ *"The target is $25k/month within 12 months."*
+> ✅ *"That's what we're aiming at together."*
+> ✅ *"It's a target, not a promise."*
 >
-> Flagged rather than fixed. Silently editing a Canon page to match a product page would be
-> exactly backwards.
+> ❌ *"You'll hit $25k/month."*
+> ❌ *"Reachable even if you're broke."*
+> ❌ *"Our students get to $25k."*
+> ❌ Anything a reader hears as **you will make this money.**
+>
+> The classification is what makes the target version usable. Drop the framing and the claim
+> reverts to `DO NOT USE`. See `07 Company/Claim Register.md`.
+
+**No guarantee attached.** [[1-1 Coaching]] has a written guarantee with a remedy. This does
+not. Do not let the target function as an implied one — which is what happens when a number
+appears without its framing.
+
+> [!info] Resolved — [[Philosophy]] and this page now agree
+> Both were briefly in stated conflict: Philosophy listed $25k as a promise while the register
+> blocked it. Alex's ruling settled it and Philosophy's Promise table was amended the same day
+> to separate **target** from **contractual guarantee**.
 
 ## What's Included
 
@@ -70,8 +67,7 @@ what materials come with it.
 
 ## Guarantee
 
-**Nothing states there is one.** Do not imply one, and do not let the $25k figure function
-as an implied guarantee — which is exactly what it does when printed without qualification.
+**There is none.** Do not imply one. The $25k target is not a guarantee — see above.
 
 ## Related
 
