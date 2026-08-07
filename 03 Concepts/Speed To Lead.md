@@ -119,5 +119,6 @@ seconds (Jack's callback) is still the only real example of hitting the aggressi
 - [[Zapier]]
 - [[Close Rate By Channel]]
 - [[Conversion Tracking]]
+- [[Weekend Operations]]
 - [[Harvest CRM]]
 - [[Sales Pipeline Stages]]

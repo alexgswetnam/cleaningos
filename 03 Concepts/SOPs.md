@@ -4,7 +4,7 @@ engine: [Logistics]
 season: [Scale, Harvest]
 laws: [Build In Order, One Step Wins]
 status: Canonical
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Cleaning Biz 101 — Operate]
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, 2026-03-18 Weekly Coaching Call, 2026-04-01 Weekly Coaching Call, 2026-04-08 Weekly Coaching Call, Cleaning Biz 101 — Operate, Every SOP We Use]
 updated: 2026-08-06
 ---
 
@@ -72,7 +72,18 @@ mistake — see [[Business GPS]].
 
 **Take a version, don't write from scratch.** Alex's own end-of-day checklist (~10 items,
 in the Logistics course in Skool) is meant to be copied and customized — keep what fits,
-throw away what doesn't, rather than building a checklist from a blank page.
+throw away what doesn't, rather than building a checklist from a blank page. `Every SOP
+We Use` supplies that actual checklist — the full version, organized under four
+pillars: tomorrow's jobs are already assigned, money is accounted for, leads are fully
+worked, and everything is logged and communicated. Categories: operations (this/next
+week assigned, cleaner notes reviewed), payments (cards/cash/check collected and
+logged), leads and follow-ups (every new lead called and texted 2x, no lead without a
+next action), customer experience (first-time customers called/texted post-clean,
+reviews checked and answered, GBP post live — see [[GBP Posting Cadence]] and
+[[Review Response Scripts]]), tracking (leads and completed jobs logged in the system),
+and team communication (daily lead and clean summaries sent, mistakes logged with the
+fix). The rule underneath all six: *"if it's not assigned, tracked, or followed up — it
+doesn't exist."*
 
 **Then build from what you encounter.**
 
@@ -107,14 +118,22 @@ included in a standard vs. deep clean became a saved template in [[Harvest CRM]]
 of being retyped every time — a small fix that compounds once a business is handling ten
 bookings in a day.
 
-**The hiring SOP** — the worked example, kept in Notion:
+**The hiring SOP** — originally kept in Notion, now in the vault at [[Hiring SOP]]:
 
 Indeed post → screen applicants (video of what to look for, plus accept/message/reject
 criteria) → schedule interview (three time slots, 24–72 hours out) → interview guide
 (warmth, communication, professionalism, reliability, residential know-how, red flags) →
 **same-day onboarding**: subcontractor agreement, BookingKoala provider account, cleaner
 handbook covering client experience, photo guide, scheduling, supplies list, home
-condition guide.
+condition guide. The handbook itself is now in the vault too — see [[Cleaner Handbook]].
+
+**The other essential SOPs named above also now have vault pages**, filling in what was
+previously just a named gap: new client intake and expectations →
+[[Client Expectation Setting]]; complaint/redo/refund process → [[Quality Complaints]];
+payment failure process → [[Payment Verification & Collection]]; reschedule/cancellation
+policy → [[Reschedule Not Cancel]]; access issues → [[Handling A Lockout]] covers one
+specific case (a locked-out cleaner), though not the full range (pets, alarms) the
+original list named.
 
 **The master operations manual sits above the individual SOPs.** It's the top-level
 document describing how the whole business runs, referencing each SOP rather than
@@ -140,13 +159,26 @@ months in Skool).
 
 ## Templates
 
-*Hiring SOP lives in Notion — not yet in the vault.*
+The full text of every template below lives on its own concept page, per this vault's
+one-page-per-idea rule — this page indexes them rather than duplicating them:
+
+- [[Hiring SOP]] — interview rubric, decision, paperwork, onboarding
+- [[Client Expectation Setting]] — pre-appointment expectation email
+- [[Cleaner Handbook]] — on-site client experience, photos, supplies
+- [[Reschedule Not Cancel]] — cancellation-save call, fee policy, logging
+- [[Quality Complaints]] — re-clean/refund process
+- [[Payment Verification & Collection]] — pre-job hold, post-job collection
+- [[Handling A Lockout]]
+- [[Review Response Scripts]]
+- [[GBP Posting Cadence]]
 
 ## Videos
 
 [[Premium Workshop — 4 Seasons, 4 Bottlenecks]]
 [[2026-03-18 Weekly Coaching Call]] — master operations manual, daily checklist reference.
 [[2026-04-08 Weekly Coaching Call]] — daily checklist detail, "customize don't rebuild."
+[[Every SOP We Use]] — "Hiring SOP," "Daily Checklist," and "Client Expectation Email"
+lessons directly; the wider course supplied nearly every template linked above.
 
 ## Student Examples
 
@@ -183,3 +215,7 @@ a VA. Logistics was her secondary constraint.
 - [[Zapier]]
 - [[BookingKoala]]
 - [[Owner-Dependent Revenue]]
+- [[Hiring SOP]]
+- [[Cleaner Handbook]]
+- [[Client Expectation Setting]]
+- [[Handling A Lockout]]

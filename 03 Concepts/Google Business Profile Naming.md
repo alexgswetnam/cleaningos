@@ -153,3 +153,4 @@ website.
 - [[The Faithful Cleaners]]
 - [[Five Laws|Stop Guessing]]
 - [[Reactivating Past Clients]]
+- [[GBP Posting Cadence]]

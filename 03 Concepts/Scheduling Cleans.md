@@ -63,9 +63,31 @@ takes, which is what stops one overrun cascading through the day.
   System]] for the automation that *is* worth building — a weekly availability check —
   which solves a different problem (liquidity, not reliability).
 
+## The Weekly Schedule Audit
+
+A recurring Friday routine (paired with [[Cleaner Availability System]]'s Friday
+availability check, run the same day) that catches next week's scheduling problems while
+there's still time to fix them — roughly 10 minutes that prevents most mid-week
+surprises:
+
+1. **Audit next week's bookings** for conflicts, incorrect dates (especially recurring
+   clients), special instructions, and clients who shouldn't be on the schedule.
+2. **Review booking notes per job** — confirm frequency (weekly/biweekly/monthly),
+   special requests, and access instructions.
+3. **Adjust time estimates for recurring clients** using actual past job duration data,
+   rather than leaving the original estimate in place indefinitely — this is what keeps
+   arrival windows realistic as a relationship matures. See [[Pricing Methodology]] for
+   how time-per-job feeds pricing in the first place.
+
+The stated failure mode without this: guessed schedules that never get corrected, versus
+refined ones that improve week over week.
+
 ## Checklist
 
-*None yet.*
+- [ ] Every Friday: audit next week's full schedule for conflicts and wrong dates
+- [ ] Review each job's notes for frequency, special requests, and access instructions
+- [ ] Update time estimates for recurring clients from actual past durations
+- [ ] Don't assume recurring bookings are still correct — verify
 
 ## Templates
 
@@ -74,6 +96,7 @@ takes, which is what stops one overrun cascading through the day.
 ## Videos
 
 [[Premium Workshop — 4 Seasons, 4 Bottlenecks]]
+[[Every SOP We Use]] — "EOW/Friday SOP" lesson.
 
 ## Student Examples
 
@@ -102,3 +125,5 @@ takes, which is what stops one overrun cascading through the day.
 - [[Testing A New Cleaner]]
 - [[Backup Cleaner]]
 - [[Hiring Channels]]
+- [[Cleaner Availability System]]
+- [[Pricing Methodology]]

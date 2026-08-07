@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [Weekly Sales Training Call — March 26 P1]
+sources: [Weekly Sales Training Call — March 26 P1, Every SOP We Use]
 updated: 2026-08-06
 ---
 
@@ -78,6 +78,13 @@ belief that your price is a good deal produces the right voice without any techn
 Note the direction of causation — the confidence isn't self-talk, it's evidence. That's
 [[Five Laws|Stop Guessing]] applied to your own pricing.
 
+**A three-beat structure that supports the tonality.** A second source frames the same
+moment mechanically rather than vocally: recap the job details first, give the price,
+then stop talking — the pause itself is part of the delivery, not dead air to fill.
+It also reorders one thing worth adopting: confirm *when* the prospect wants the job
+done before naming the number, so the price lands as the final step in booking rather
+than an opening bid to negotiate against.
+
 ## Checklist
 
 - [ ] Say the price out loud, recorded, ten times
@@ -105,6 +112,7 @@ Note the direction of causation — the confidence isn't self-talk, it's evidenc
 ## Videos
 
 - [[Weekly Sales Training Call — March 26 P1]]
+- [[Every SOP We Use]] — "Sales Call Outline" and "Pricing Guide" lessons.
 
 ## Student Examples
 

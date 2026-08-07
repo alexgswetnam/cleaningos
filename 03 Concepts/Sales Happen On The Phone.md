@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Clarity Creates Momentum]
 status: Canonical
-sources: [2025-03-11 Weekly Coaching Call, Weekly Sales Training Call — March 26 P1, Cleaning Biz 101 — Convert]
+sources: [2025-03-11 Weekly Coaching Call, Weekly Sales Training Call — March 26 P1, Cleaning Biz 101 — Convert, Every SOP We Use]
 updated: 2026-08-06
 ---
 
@@ -83,6 +83,21 @@ Same number, same call, and now it's a favour rather than a revised quote. See
 conversation.** What happens after they hang up is covered by [[Leads Don't Disappear]], and
 it is not good.
 
+## A Topic Order, Not A Script
+
+A separate, more mechanical source lays out a call in a fixed order of topics — lead the
+call rather than answer questions, build light rapport, gather sizing/condition/history
+information, recommend a service instead of asking which one they want (see
+[[Diagnose Don't Take Orders]]), confirm availability *before* naming a price, deliver
+the price and stop talking (see [[Price Delivery]]), handle objections by asking what the
+real concern is, close, and set expectations before hanging up (see
+[[Client Expectation Setting]]). This isn't a contradiction of "no rigid script" — an
+order of topics to cover is different from a script to recite. What to say at each point
+still comes from [[Word Tracks]], not from memorizing this outline word for word. One
+addition worth keeping: confirming *when* they want the job done before naming a price,
+rather than after — it's a small [[Micro-Commitments|micro-commitment]] that makes the
+number land as the last step of booking rather than the opening bid of a negotiation.
+
 ## Symptoms
 
 - Quoting by text or form instead of getting them on the phone
@@ -118,6 +133,7 @@ it is not good.
 ## Videos
 
 [[2025-03-11 Weekly Coaching Call]]. Submit a call for breakdown — see [[Call Breakdowns]].
+[[Every SOP We Use]] — "Sales Call Outline" and "Pricing Guide" lessons.
 
 ## Student Examples
 
@@ -156,3 +172,5 @@ owner-independence milestone: see [[Four Roles]].
 - [[Mirroring]]
 - [[Leads Don't Disappear]]
 - [[Diagnose Don't Take Orders]]
+- [[Client Expectation Setting]]
+- [[Not Every Client Is Your Client]]

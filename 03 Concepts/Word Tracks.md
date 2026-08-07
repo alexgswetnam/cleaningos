@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing, Clarity Creates Momentum]
 status: Canonical
-sources: [2025-03-25 Weekly Coaching Call, Objection Handling Course]
+sources: [2025-03-25 Weekly Coaching Call, Objection Handling Course, Every SOP We Use]
 updated: 2026-08-06
 ---
 
@@ -55,6 +55,12 @@ Same words, adjusted delivery, per personality — the delivery half is [[Mirror
 | Type A, wants the point | Direct, quick. *"Absolutely. What's the main concern you need to think about?"* |
 | Chatty, warm | Softer. *"Absolutely, no worries. Of course you want to think about it. I don't want you to feel any pressure at all. I'm just curious — what's the main concern you need to think about?"* |
 
+**A generic three-touch follow-up track**, for a quoted lead who's gone quiet — distinct
+from the objection-specific tracks above, and complementary to [[Sales Pipeline
+Stages]]'s Quoted-stage cadence (follow up every 1–2 days): a light check-in at 24
+hours, a scarcity-framed nudge at 48 hours, and a door-left-open final message rather
+than one more push.
+
 ## Checklist
 
 - [ ] Write the exact sentence for each objection you lose to
@@ -66,6 +72,13 @@ Same words, adjusted delivery, per personality — the delivery half is [[Mirror
 See [[Handling Let Me Think About It]], [[Handling I'm Shopping Around]], [[The Soft Close]],
 [[Handling Let Me Talk To My Spouse]], [[Price Objection]].
 
+**Three-touch follow-up (quoted, gone quiet):**
+> "Just checking if you still need help with your cleaning 😊" (24 hrs)
+>
+> "We have limited availability — let me know if you'd like to secure a spot." (48 hrs)
+>
+> "No worries if now isn't the right time — feel free to reach out anytime!" (final)
+
 ## Videos
 
 [[Objection Handling Course]] — six lessons, one word track each: *I'm getting quotes from
@@ -74,6 +87,7 @@ about it*, *my old cleaner charged less*, *securing recurring cleanings*. Ingest
 2026-08-06 — this closes the gap this page had been citing since 2025-03-25. Every lesson
 opens the same way this page teaches: validate first, then a single fixed question, never
 an improvised one. See each linked concept for the specific line.
+[[Every SOP We Use]] — "Sales Call Outline" and "Pricing Guide" lessons.
 
 ## Student Examples
 
@@ -112,3 +126,4 @@ listening. The line is what buys you the attention to be present.
 - [[Five Laws]]
 - [[Mirroring]]
 - [[Price Delivery]]
+- [[Sales Pipeline Stages]]

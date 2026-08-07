@@ -4,8 +4,8 @@ engine: [Leads]
 season: [Survival, Stability]
 laws: [Stop Guessing, Clarity Creates Momentum]
 status: Canonical
-sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks]
-updated: 2026-08-05
+sources: [Premium Workshop — 4 Seasons, 4 Bottlenecks, Every SOP We Use]
+updated: 2026-08-06
 ---
 
 # Not Every Client Is Your Client
@@ -59,6 +59,12 @@ cleaners to manage, more headaches, less profit.
 
 **If budget is real**, don't cut the rate — cut the scope. See [[Drop Scope Not Price]].
 
+**Faster signals to sort by, before the price conversation even gets that far.** A second
+source frames the same judgment as ongoing qualification rather than a single price-gap
+moment: proceed with a lead who communicates clearly, is respectful, and is flexible on
+scheduling/scope; be cautious with one who's fixated only on price or carrying unrealistic
+expectations. The goal isn't closing every lead — it's closing the right ones.
+
 ## Checklist
 
 - [ ] Ask what they were paying before
@@ -76,6 +82,7 @@ cleaners to manage, more headaches, less profit.
 ## Videos
 
 [[Premium Workshop — 4 Seasons, 4 Bottlenecks]]
+[[Every SOP We Use]] — "Pricing Guide" lesson.
 
 ## Student Examples
 

@@ -34,6 +34,8 @@ is an index, not a second definition.
 - [[Spanish-Speaking Labor]]
 - [[Subcontractor Vs W-2]]
 - [[Internal Communication Via Discord]]
+- [[Hiring SOP]]
+- [[Cleaner Pay Structure]]
 
 ## Workflows & SOPs
 

@@ -56,10 +56,23 @@ the same 2026-08-06 session:
 - The upload folder is now empty.
 
 **Still genuinely unconfirmed** (not re-checked this pass — re-verify by browsing Drive
-directly, not by trusting a folder search): Logistics Fundamental Course, Every SOP We
-Use, leads 101 part 2, labor 101, and whatever remains of cleaning biz 101. Given the
-Objection Handling Course false-negative, treat any future "folder is empty" result from
-the search tool as unverified until confirmed by direct browsing.
+directly, not by trusting a folder search): Logistics Fundamental Course, leads 101 part
+2, labor 101, and whatever remains of cleaning biz 101. Given the Objection Handling
+Course false-negative, treat any future "folder is empty" result from the search tool as
+unverified until confirmed by direct browsing.
+
+---
+
+## Ingested, 2026-08-06 — Every SOP We Use
+
+Alex uploaded two zip exports directly to `00 Inbox/` (32 lesson files each, two
+formats — see `01 Sources/Course Videos/Every SOP We Use.md` for why both were kept).
+This closes the "Every SOP We Use" line from the list above. 31 real lessons (one .txt
+file was a mislabeled duplicate of another lesson, not a genuine 32nd topic) produced 8
+new concept pages and touched 20 existing ones — see the source file's Concepts
+Created/Updated tables for the full list. The two original zip files are still sitting in
+`00 Inbox/` — file-delete permission wasn't granted this session, so they weren't
+removed; safe to delete manually, their content is fully archived in `01 Sources/`.
 
 ## Related Concepts
 
@@ -70,3 +83,4 @@ the search tool as unverified until confirmed by direct browsing.
 - [[Word Tracks]]
 - [[SOPs]]
 - [[Objection Handling Course]]
+- [[Every SOP We Use]]

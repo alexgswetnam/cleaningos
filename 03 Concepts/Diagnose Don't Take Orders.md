@@ -4,7 +4,7 @@ engine: [Leads]
 season: [Survival, Stability, Scale]
 laws: [Stop Guessing]
 status: Canonical
-sources: [Weekly Sales Training Call — March 26 P1]
+sources: [Weekly Sales Training Call — March 26 P1, Every SOP We Use]
 updated: 2026-08-06
 ---
 
@@ -71,6 +71,13 @@ authority; "which one do you want?" is a position of service.
 A quick summary is enough to diagnose from — you don't need ten minutes. Don't keep digging
 for depth the person has already told you they won't provide. See [[Mirroring]].
 
+**A concrete trigger rule for the prescription itself.** A second source gives a specific
+decision rule for the most common prescription — first-visit deep clean vs. standard:
+recommend a deep clean when the home hasn't had a professional clean in 6+ months, or the
+prospect describes the condition as 5+ out of 10, then standard going forward. Having a
+stated rule, rather than a gut call each time, is what makes "I'd recommend X" sound
+confident instead of improvised.
+
 ## Checklist
 
 - [ ] First question is open-ended
@@ -79,6 +86,8 @@ for depth the person has already told you they won't provide. See [[Mirroring]].
 - [ ] Gather the specs (beds, baths, sqft, condition) after, not before
 - [ ] Name the service yourself
 - [ ] Check: could you now say something specific if they push back on price?
+- [ ] Apply the deep-clean trigger rule: 6+ months since last clean or condition 5+/10 →
+      recommend deep clean first, standard after
 
 ## Templates
 
@@ -92,9 +101,15 @@ for depth the person has already told you they won't provide. See [[Mirroring]].
 
 > "Are you looking for a deep clean or a standard clean or a move-in?"
 
+**The prescription itself, once diagnosed:**
+
+> "Based on what you told me, I'd recommend a deep clean for the first visit, then
+> standard going forward."
+
 ## Videos
 
 - [[Weekly Sales Training Call — March 26 P1]]
+- [[Every SOP We Use]] — "Sales Call Outline" lesson.
 
 ## Student Examples
 

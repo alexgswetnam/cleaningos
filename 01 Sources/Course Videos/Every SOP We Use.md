@@ -35,6 +35,15 @@ note: |
   (.md) / "...Smart List SOP" (.txt), and "Google Business Profile - Posting 3x Week
   SOP" (.md) / "...3xWeek SOP" (.txt). Filenames kept exactly as exported per source
   naming convention.
+
+  CORRECTION, discovered during ingestion: "Seasona or Slow WeekUnbooked Time
+  Management SOP.txt" is mislabeled — its actual content (opening line: "Skool Lesson:
+  In-Depth Breakdown of GHL Stages/Responsibilities") is a second export of the same
+  lesson as "In-Depth Breakdown of GHL StagesResponsibilities.md", not a genuine 32nd
+  "seasonal/slow week" topic. There is no seasonal-slow-week lesson in this course. The
+  file is kept archived under its exported filename per Rule 3 (sources are immutable,
+  including their errors), but treated as a second format of the GHL Stages lesson for
+  ingestion purposes — both feed [[Sales Pipeline Stages]].
 ---
 
 # Every SOP We Use
@@ -88,11 +97,40 @@ exported.
 
 ## Concepts Created
 
-*Filled in after ingestion — see report.*
+**Full pages:** [[Review Response Scripts]] · [[Handling A Lockout]] ·
+[[Payment Verification & Collection]] · [[Cleaner Pay Structure]] ·
+[[GBP Posting Cadence]] · [[Weekend Operations]] · [[Client Expectation Setting]] ·
+[[Hiring SOP]]
 
 ## Concepts Updated — not duplicated
 
-*Filled in after ingestion — see report.*
+| Page | What this course added |
+|---|---|
+| [[Post-Clean Review Script]] | Recurring-confirmation and payment steps folded into the same check-in call |
+| [[Reactivating Past Clients]] | Three-segment SMS reactivation system (last-minute/warm/full) with templates |
+| [[Smart Lists]] | A second worked example of a live-filter segment |
+| [[Cleaner Handbook]] | Filled the stub — full on-site client-experience, photo, and supply-kit content |
+| [[Cleaner Availability System]] | Exact BookingKoala availability steps, 72-hour lock-in rule |
+| [[Internal Communication Via Discord]] | Independent corroboration + concrete channel structure |
+| [[Reschedule Not Cancel]] | Formal fee-tier policy, retention-call SOP, cancellation logging requirement |
+| [[Quality Complaints]] | Full re-clean operational process: eligibility window, triage, exceptions |
+| [[Sales Pipeline Stages]] | Cancelled/Declined and Do Not Contact as explicit statuses, daily task-management habit |
+| [[Business Finances]] | Full weekly cleaner-pay SOP |
+| [[BookingKoala]] | System-outage manual backup procedure |
+| [[Scheduling Cleans]] | Weekly schedule-audit routine (promoted from Stub) |
+| [[SOPs]] | Filled the flagged "Hiring SOP lives in Notion" gap; full daily-checklist detail; Templates section now indexes real vault pages |
+| [[Sales Happen On The Phone]] | Topic-order overlay, distinct from the no-script philosophy |
+| [[Diagnose Don't Take Orders]] | Concrete deep-clean trigger rule |
+| [[Price Delivery]] | Recap→price→pause structure |
+| [[Word Tracks]] | Generic three-touch follow-up track |
+| [[Not Every Client Is Your Client]] | Faster qualification signals |
+| [[Reviews As Asset Not Identity]] | Cross-link only |
+| [[Google Business Profile Naming]] | Cross-link only |
+
+**Related-concepts touch-ups (Rule 2 hygiene, found while cross-linking):** added
+[[Sales Pipeline Stages]] and [[Cleaner Availability System]] to the [[Leads Engine]] /
+[[Logistics Engine]] hub indexes — both existed as Canonical pages but were missing from
+their engine hub's index before this session.
 
 ## Related Concepts
 

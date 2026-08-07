@@ -34,6 +34,11 @@ is an index, not a second definition.
 - [[BookingKoala]]
 - [[Pricing Methodology]]
 - [[Internal Communication Via Discord]]
+- [[Handling A Lockout]]
+- [[Payment Verification & Collection]]
+- [[Client Expectation Setting]]
+- [[Weekend Operations]]
+- [[Cleaner Availability System]]
 
 ## Workflows & SOPs
 
